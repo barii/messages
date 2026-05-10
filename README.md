@@ -15,8 +15,8 @@ gcloud storage cp -m  --recursive ./message_presets gs://emojiwho-prod.appspot.c
 
 ## Sync upload
 ```bash
-gcloud storage rsync -m -r ./static_data gs://emojiwho-prod.appspot.com/static_data
-gcloud storage rsync -m -r ./message_presets gs://emojiwho-prod.appspot.com/message_presets
+gcloud storage rsync --recursive ./static_data gs://emojiwho-prod.appspot.com/static_data
+gcloud storage rsync --recursive ./message_presets gs://emojiwho-prod.appspot.com/message_presets
 ```
 
 # Staging
@@ -37,8 +37,8 @@ gcloud storage cp -m --recursive ./message_presets gs://emj-staging.appspot.com/
 
 ## Sync upload
 ```bash
-gcloud storage rsync -m -r ./static_data gs://emj-staging.appspot.com/static_data
-gcloud storage rsync -m -r ./message_presets gs://emj-staging.appspot.com/message_presets
+gcloud storage rsync --recursive ./static_data gs://emj-staging.appspot.com/static_data
+gcloud storage rsync --recursive ./message_presets gs://emj-staging.appspot.com/message_presets
 ```
 
 # Dev
@@ -59,6 +59,7 @@ gcloud storage cp -m --recursive ./message_presets gs://emojiwho-dev-784d0.appsp
 
 ## Sync upload
 ```bash
-gcloud storage rsync -m -r ./static_data gs://emojiwho-dev-784d0.appspot.com/static_data
-gcloud storage rsync -m -r ./message_presets gs://emojiwho-dev-784d0.appspot.com/message_presets
+gcloud storage rsync --recursive ./static_data gs://emojiwho-dev-784d0.appspot.com/static_data
+gcloud storage rsync --recursive ./message_presets gs://emojiwho-dev-784d0.appspot.com/message_presets
+
 ```
