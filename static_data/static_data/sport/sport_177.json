@@ -1,1 +1,86 @@
-[{"id":1239,"preset_id":177,"cat_emoji":"🇳🇱","lang":"EN","category":"Dutch Football Teams","text":"FC Twente","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"},{"id":1240,"preset_id":177,"cat_emoji":"🇳🇱","lang":"ES","category":"Equipos de Fútbol Holandeses","text":"FC Twente","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"},{"id":1241,"preset_id":177,"cat_emoji":"🇳🇱","lang":"DE","category":"Niederländische Fußballmannschaften","text":"FC Twente","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"},{"id":1242,"preset_id":177,"cat_emoji":"🇳🇱","lang":"PL","category":"Holenderskie drużyny piłkarskie","text":"FC Twente","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"},{"id":1243,"preset_id":177,"cat_emoji":"🇳🇱","lang":"RU","category":"Голландские футбольные команды","text":"FC Twente","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"},{"id":1244,"preset_id":177,"cat_emoji":"🇳🇱","lang":"PT","category":"Times de futebol holandeses","text":"FC Twente","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"},{"id":1245,"preset_id":177,"cat_emoji":"🇳🇱","lang":"CN","category":"荷兰足球队","text":"FC Twente","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"}]
+[
+  {
+    "id": 1239,
+    "preset_id": 177,
+    "cat_emoji": "🇳🇱",
+    "lang": "EN",
+    "category": "Dutch Football Teams",
+    "text": "RKC Waalwijk",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1240,
+    "preset_id": 177,
+    "cat_emoji": "🇳🇱",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Holandeses",
+    "text": "RKC Waalwijk",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1241,
+    "preset_id": 177,
+    "cat_emoji": "🇳🇱",
+    "lang": "DE",
+    "category": "Niederländische Fußballmannschaften",
+    "text": "RKC Waalwijk",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1242,
+    "preset_id": 177,
+    "cat_emoji": "🇳🇱",
+    "lang": "PL",
+    "category": "Holenderskie drużyny piłkarskie",
+    "text": "RKC Waalwijk",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1243,
+    "preset_id": 177,
+    "cat_emoji": "🇳🇱",
+    "lang": "RU",
+    "category": "Голландские футбольные команды",
+    "text": "RKC Waalwijk",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1244,
+    "preset_id": 177,
+    "cat_emoji": "🇳🇱",
+    "lang": "PT",
+    "category": "Times de futebol holandeses",
+    "text": "RKC Waalwijk",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1245,
+    "preset_id": 177,
+    "cat_emoji": "🇳🇱",
+    "lang": "CN",
+    "category": "荷兰足球队",
+    "text": "RKC Waalwijk",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  }
+]

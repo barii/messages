@@ -1,1 +1,72 @@
-[{"id":19090,"text":"Always","category":"Reply: Neutral","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":683},{"id":19091,"text":"Immer","category":"Antwort: Neutral","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":683},{"id":19092,"text":"Sempre","category":"Resposta: neutra","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":683},{"id":19093,"text":"Zawsze","category":"Odpowied\u017a: neutralny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":683},{"id":19094,"text":"\u0412\u0441\u0435\u0433\u0434\u0430","category":"\u041e\u0442\u0432\u0435\u0442: \u041d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":683},{"id":19095,"text":"Con gusto","category":"Respuesta: neutral","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":683},{"id":19096,"text":"\u603b\u662f\u5982\u6b64","category":"\u56de\u590d\uff1a\u4e2d\u6027\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":683}]
+[
+  {
+    "preset_id": 683,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Always",
+    "premium": false,
+    "positive": true,
+    "id": 19090
+  },
+  {
+    "id": 19091,
+    "text": "Immer",
+    "category": "Antwort: Neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 683
+  },
+  {
+    "id": 19092,
+    "text": "Sempre",
+    "category": "Resposta: neutra",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 683
+  },
+  {
+    "id": 19093,
+    "text": "Zawsze",
+    "category": "Odpowiedź: neutralny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 683
+  },
+  {
+    "id": 19094,
+    "text": "Всегда",
+    "category": "Ответ: Нейтральный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 683
+  },
+  {
+    "id": 19095,
+    "text": "Con gusto",
+    "category": "Respuesta: neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 683
+  },
+  {
+    "id": 19096,
+    "text": "总是如此",
+    "category": "回复：中性用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 683
+  }
+]

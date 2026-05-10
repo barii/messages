@@ -1,1 +1,86 @@
-[{"id":2702,"preset_id":386,"cat_emoji":"🇺🇦","lang":"EN","category":"Ukrainian Football Teams","text":"FC Kryvbas Kryvyi Rih","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"},{"id":2703,"preset_id":386,"cat_emoji":"🇺🇦","lang":"ES","category":"Equipos de Fútbol Ucranianos","text":"FC Kryvbas Kryvyi Rih","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"},{"id":2704,"preset_id":386,"cat_emoji":"🇺🇦","lang":"DE","category":"Ukrainische Fußballmannschaften","text":"FC Kryvbas Kryvyi Rih","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"},{"id":2705,"preset_id":386,"cat_emoji":"🇺🇦","lang":"PL","category":"Ukraińskie drużyny piłkarskie","text":"FC Kryvbas Kryvyi Rih","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"},{"id":2706,"preset_id":386,"cat_emoji":"🇺🇦","lang":"RU","category":"Украинские футбольные команды","text":"FC Kryvbas Kryvyi Rih","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"},{"id":2707,"preset_id":386,"cat_emoji":"🇺🇦","lang":"PT","category":"Times de futebol ucranianos","text":"FC Kryvbas Kryvyi Rih","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"},{"id":2708,"preset_id":386,"cat_emoji":"🇺🇦","lang":"CN","category":"乌克兰足球队","text":"FC Kryvbas Kryvyi Rih","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"}]
+[
+  {
+    "id": 2702,
+    "preset_id": 386,
+    "cat_emoji": "🇺🇦",
+    "lang": "EN",
+    "category": "Ukrainian Football Teams",
+    "text": "Dnipro-1",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2703,
+    "preset_id": 386,
+    "cat_emoji": "🇺🇦",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Ucranianos",
+    "text": "Dnipro-2",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2704,
+    "preset_id": 386,
+    "cat_emoji": "🇺🇦",
+    "lang": "DE",
+    "category": "Ukrainische Fußballmannschaften",
+    "text": "Dnipro-3",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2705,
+    "preset_id": 386,
+    "cat_emoji": "🇺🇦",
+    "lang": "PL",
+    "category": "Ukraińskie drużyny piłkarskie",
+    "text": "Dnipro-4",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2706,
+    "preset_id": 386,
+    "cat_emoji": "🇺🇦",
+    "lang": "RU",
+    "category": "Украинские футбольные команды",
+    "text": "Dnipro-5",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2707,
+    "preset_id": 386,
+    "cat_emoji": "🇺🇦",
+    "lang": "PT",
+    "category": "Times de futebol ucranianos",
+    "text": "Dnipro-6",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2708,
+    "preset_id": 386,
+    "cat_emoji": "🇺🇦",
+    "lang": "CN",
+    "category": "乌克兰足球队",
+    "text": "Dnipro-7",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  }
+]

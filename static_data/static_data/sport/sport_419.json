@@ -1,1 +1,86 @@
-[{"id":2933,"preset_id":419,"cat_emoji":"🇷🇺","lang":"EN","category":"Russian Football Teams","text":"Krylia Sovetov","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2934,"preset_id":419,"cat_emoji":"🇷🇺","lang":"ES","category":"Equipos de Fútbol Rusos","text":"Krylia Sovetov","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2935,"preset_id":419,"cat_emoji":"🇷🇺","lang":"DE","category":"Russische Fußballmannschaften","text":"Krylia Sovetov","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2936,"preset_id":419,"cat_emoji":"🇷🇺","lang":"PL","category":"Rosyjskie drużyny piłkarskie","text":"Krylia Sovetov","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2937,"preset_id":419,"cat_emoji":"🇷🇺","lang":"RU","category":"Российские футбольные команды","text":"Krylia Sovetov","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2938,"preset_id":419,"cat_emoji":"🇷🇺","lang":"PT","category":"Times de futebol russos","text":"Krylia Sovetov","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2939,"preset_id":419,"cat_emoji":"🇷🇺","lang":"CN","category":"俄罗斯足球队","text":"Krylia Sovetov","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"}]
+[
+  {
+    "id": 2933,
+    "preset_id": 419,
+    "cat_emoji": "🇷🇺",
+    "lang": "EN",
+    "category": "Russian Football Teams",
+    "text": "FC Orenburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2934,
+    "preset_id": 419,
+    "cat_emoji": "🇷🇺",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Rusos",
+    "text": "FC Orenburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2935,
+    "preset_id": 419,
+    "cat_emoji": "🇷🇺",
+    "lang": "DE",
+    "category": "Russische Fußballmannschaften",
+    "text": "FC Orenburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2936,
+    "preset_id": 419,
+    "cat_emoji": "🇷🇺",
+    "lang": "PL",
+    "category": "Rosyjskie drużyny piłkarskie",
+    "text": "FC Orenburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2937,
+    "preset_id": 419,
+    "cat_emoji": "🇷🇺",
+    "lang": "RU",
+    "category": "Российские футбольные команды",
+    "text": "FC Orenburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2938,
+    "preset_id": 419,
+    "cat_emoji": "🇷🇺",
+    "lang": "PT",
+    "category": "Times de futebol russos",
+    "text": "FC Orenburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2939,
+    "preset_id": 419,
+    "cat_emoji": "🇷🇺",
+    "lang": "CN",
+    "category": "俄罗斯足球队",
+    "text": "FC Orenburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  }
+]

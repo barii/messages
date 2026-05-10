@@ -1,1 +1,86 @@
-[{"id":2527,"preset_id":361,"cat_emoji":"🇩🇪","lang":"EN","category":"German Football Teams","text":"TSG Hoffenheim","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2528,"preset_id":361,"cat_emoji":"🇩🇪","lang":"ES","category":"Equipos de Fútbol Alemanes","text":"TSG Hoffenheim","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2529,"preset_id":361,"cat_emoji":"🇩🇪","lang":"DE","category":"Deutsche Fußballmannschaften","text":"TSG Hoffenheim","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2530,"preset_id":361,"cat_emoji":"🇩🇪","lang":"PL","category":"Niemieckie drużyny piłkarskie","text":"TSG Hoffenheim","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2531,"preset_id":361,"cat_emoji":"🇩🇪","lang":"RU","category":"Немецкие футбольные команды","text":"TSG Hoffenheim","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2532,"preset_id":361,"cat_emoji":"🇩🇪","lang":"PT","category":"Times de futebol alemães","text":"TSG Hoffenheim","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2533,"preset_id":361,"cat_emoji":"🇩🇪","lang":"CN","category":"德国足球队","text":"TSG Hoffenheim","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"}]
+[
+  {
+    "id": 2527,
+    "preset_id": 361,
+    "cat_emoji": "🇩🇪",
+    "lang": "EN",
+    "category": "German Football Teams",
+    "text": "RB Leipzig",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2528,
+    "preset_id": 361,
+    "cat_emoji": "🇩🇪",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Alemanes",
+    "text": "RB Leipzig",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2529,
+    "preset_id": 361,
+    "cat_emoji": "🇩🇪",
+    "lang": "DE",
+    "category": "Deutsche Fußballmannschaften",
+    "text": "RB Leipzig",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2530,
+    "preset_id": 361,
+    "cat_emoji": "🇩🇪",
+    "lang": "PL",
+    "category": "Niemieckie drużyny piłkarskie",
+    "text": "RB Leipzig",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2531,
+    "preset_id": 361,
+    "cat_emoji": "🇩🇪",
+    "lang": "RU",
+    "category": "Немецкие футбольные команды",
+    "text": "RB Leipzig",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2532,
+    "preset_id": 361,
+    "cat_emoji": "🇩🇪",
+    "lang": "PT",
+    "category": "Times de futebol alemães",
+    "text": "RB Leipzig",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2533,
+    "preset_id": 361,
+    "cat_emoji": "🇩🇪",
+    "lang": "CN",
+    "category": "德国足球队",
+    "text": "RB Leipzig",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  }
+]

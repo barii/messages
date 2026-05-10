@@ -1,1 +1,79 @@
-[{"id":21697,"preset_id":1069,"cat_emoji":"0001F3C9","lang":"EN","category":"American sports","text":"Go! Fight! Win!","premium":"false","positive":"true"},{"id":21698,"preset_id":1069,"cat_emoji":"0001F3C9","lang":"ES","category":"Deportes americanos","text":"Go! Fight! Win!","premium":"false","positive":"true"},{"id":21699,"preset_id":1069,"cat_emoji":"0001F3C9","lang":"DE","category":"Amerikanische Sportarten","text":"Go! Fight! Win!","premium":"false","positive":"true"},{"id":21700,"preset_id":1069,"cat_emoji":"0001F3C9","lang":"PL","category":"Amerykańskie sporty","text":"Go! Fight! Win!","premium":"false","positive":"true"},{"id":21701,"preset_id":1069,"cat_emoji":"0001F3C9","lang":"RU","category":"Американские виды спорта","text":"Go! Fight! Win!","premium":"false","positive":"true"},{"id":21702,"preset_id":1069,"cat_emoji":"0001F3C9","lang":"PT","category":"Esportes americanos","text":"Go! Fight! Win!","premium":"false","positive":"true"},{"id":21703,"preset_id":1069,"cat_emoji":"0001F3C9","lang":"CN","category":"美国体育","text":"Go! Fight! Win!","premium":"false","positive":"true"}]
+[
+  {
+    "id": 21697,
+    "preset_id": 1069,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "text": "Go! Fight! Win!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21698,
+    "preset_id": 1069,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "text": "Go! Fight! Win!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21699,
+    "preset_id": 1069,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "text": "Go! Fight! Win!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21700,
+    "preset_id": 1069,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "text": "Go! Fight! Win!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21701,
+    "preset_id": 1069,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "text": "Go! Fight! Win!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21702,
+    "preset_id": 1069,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "text": "Go! Fight! Win!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21703,
+    "preset_id": 1069,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "text": "Go! Fight! Win!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  }
+]

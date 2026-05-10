@@ -1,1 +1,86 @@
-[{"id":2947,"preset_id":421,"cat_emoji":"🇷🇺","lang":"EN","category":"Russian Football Teams","text":"Pari NN (Nizhny Novgorod)","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2948,"preset_id":421,"cat_emoji":"🇷🇺","lang":"ES","category":"Equipos de Fútbol Rusos","text":"Pari NN (Nizhny Novgorod)","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2949,"preset_id":421,"cat_emoji":"🇷🇺","lang":"DE","category":"Russische Fußballmannschaften","text":"Pari NN (Nizhny Novgorod)","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2950,"preset_id":421,"cat_emoji":"🇷🇺","lang":"PL","category":"Rosyjskie drużyny piłkarskie","text":"Pari NN (Nizhny Novgorod)","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2951,"preset_id":421,"cat_emoji":"🇷🇺","lang":"RU","category":"Российские футбольные команды","text":"Pari NN (Nizhny Novgorod)","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2952,"preset_id":421,"cat_emoji":"🇷🇺","lang":"PT","category":"Times de futebol russos","text":"Pari NN (Nizhny Novgorod)","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2953,"preset_id":421,"cat_emoji":"🇷🇺","lang":"CN","category":"俄罗斯足球队","text":"Pari NN (Nizhny Novgorod)","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"}]
+[
+  {
+    "id": 2947,
+    "preset_id": 421,
+    "cat_emoji": "🇷🇺",
+    "lang": "EN",
+    "category": "Russian Football Teams",
+    "text": "Krylia Sovetov",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2948,
+    "preset_id": 421,
+    "cat_emoji": "🇷🇺",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Rusos",
+    "text": "Krylia Sovetov",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2949,
+    "preset_id": 421,
+    "cat_emoji": "🇷🇺",
+    "lang": "DE",
+    "category": "Russische Fußballmannschaften",
+    "text": "Krylia Sovetov",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2950,
+    "preset_id": 421,
+    "cat_emoji": "🇷🇺",
+    "lang": "PL",
+    "category": "Rosyjskie drużyny piłkarskie",
+    "text": "Krylia Sovetov",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2951,
+    "preset_id": 421,
+    "cat_emoji": "🇷🇺",
+    "lang": "RU",
+    "category": "Российские футбольные команды",
+    "text": "Krylia Sovetov",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2952,
+    "preset_id": 421,
+    "cat_emoji": "🇷🇺",
+    "lang": "PT",
+    "category": "Times de futebol russos",
+    "text": "Krylia Sovetov",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2953,
+    "preset_id": 421,
+    "cat_emoji": "🇷🇺",
+    "lang": "CN",
+    "category": "俄罗斯足球队",
+    "text": "Krylia Sovetov",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  }
+]

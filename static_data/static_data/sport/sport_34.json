@@ -1,1 +1,86 @@
-[{"id":238,"preset_id":34,"cat_emoji":"⚽","lang":"EN","category":"National football teams","text":"Spanish football team","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"},{"id":239,"preset_id":34,"cat_emoji":"⚽","lang":"ES","category":"Selección nacional de fútbol","text":"Selección Española de fútbol","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"},{"id":240,"preset_id":34,"cat_emoji":"⚽","lang":"DE","category":"Nationale Fußballmannschaft","text":"Spanische Fußballmannschaft","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"},{"id":241,"preset_id":34,"cat_emoji":"⚽","lang":"PL","category":"Narodowa drużyna piłkarska","text":"Hiszpańska drużyna piłkarska","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"},{"id":242,"preset_id":34,"cat_emoji":"⚽","lang":"RU","category":"национальная сборная по футболу","text":"Испанская футбольная команда","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"},{"id":243,"preset_id":34,"cat_emoji":"⚽","lang":"PT","category":"Seleção nacional de futebol","text":"Seleção Espanhola de futebol","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"},{"id":244,"preset_id":34,"cat_emoji":"⚽","lang":"CN","category":"国家足球队","text":"西班牙足球队","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"}]
+[
+  {
+    "id": 238,
+    "preset_id": 34,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "National football teams",
+    "text": "Italian football team",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 239,
+    "preset_id": 34,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Selección nacional de fútbol",
+    "text": "Equipo de fútbol Italiano",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 240,
+    "preset_id": 34,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Nationale Fußballmannschaft",
+    "text": "Italienische Fußballmannschaft",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 241,
+    "preset_id": 34,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Narodowa drużyna piłkarska",
+    "text": "Włoska drużyna piłkarska",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 242,
+    "preset_id": 34,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "национальная сборная по футболу",
+    "text": "Итальянская футбольная команда",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 243,
+    "preset_id": 34,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Seleção nacional de futebol",
+    "text": "Seleção Italiana de futebol",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 244,
+    "preset_id": 34,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "国家足球队",
+    "text": "意大利足球队",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  }
+]

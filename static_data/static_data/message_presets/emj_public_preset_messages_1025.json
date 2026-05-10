@@ -1,1 +1,79 @@
-[{"id":21389,"preset_id":1025,"cat_emoji":"0001F3C9","lang":"EN","category":"American sports","text":"No wonder you're batting ninth!","premium":"false","positive":"true"},{"id":21390,"preset_id":1025,"cat_emoji":"0001F3C9","lang":"ES","category":"Deportes americanos","text":"No wonder you're batting ninth!","premium":"false","positive":"true"},{"id":21391,"preset_id":1025,"cat_emoji":"0001F3C9","lang":"DE","category":"Amerikanische Sportarten","text":"No wonder you're batting ninth!","premium":"false","positive":"true"},{"id":21392,"preset_id":1025,"cat_emoji":"0001F3C9","lang":"PL","category":"Amerykańskie sporty","text":"No wonder you're batting ninth!","premium":"false","positive":"true"},{"id":21393,"preset_id":1025,"cat_emoji":"0001F3C9","lang":"RU","category":"Американские виды спорта","text":"No wonder you're batting ninth!","premium":"false","positive":"true"},{"id":21394,"preset_id":1025,"cat_emoji":"0001F3C9","lang":"PT","category":"Esportes americanos","text":"No wonder you're batting ninth!","premium":"false","positive":"true"},{"id":21395,"preset_id":1025,"cat_emoji":"0001F3C9","lang":"CN","category":"美国体育","text":"No wonder you're batting ninth!","premium":"false","positive":"true"}]
+[
+  {
+    "id": 21389,
+    "preset_id": 1025,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "text": "No wonder you're batting ninth!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21390,
+    "preset_id": 1025,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "text": "No wonder you're batting ninth!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21391,
+    "preset_id": 1025,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "text": "No wonder you're batting ninth!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21392,
+    "preset_id": 1025,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "text": "No wonder you're batting ninth!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21393,
+    "preset_id": 1025,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "text": "No wonder you're batting ninth!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21394,
+    "preset_id": 1025,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "text": "No wonder you're batting ninth!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21395,
+    "preset_id": 1025,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "text": "No wonder you're batting ninth!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  }
+]

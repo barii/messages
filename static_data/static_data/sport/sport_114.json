@@ -1,1 +1,86 @@
-[{"id":798,"preset_id":114,"cat_emoji":"🇧🇷","lang":"EN","category":"Brazilian Football Teams","text":"Flamengo","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":799,"preset_id":114,"cat_emoji":"🇧🇷","lang":"ES","category":"Equipos de Fútbol Brasileños","text":"Flamengo","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":800,"preset_id":114,"cat_emoji":"🇧🇷","lang":"DE","category":"Brasilianische Fußballmannschaften","text":"Flamengo","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":801,"preset_id":114,"cat_emoji":"🇧🇷","lang":"PL","category":"Brazylijskie drużyny piłkarskie","text":"Flamengo","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":802,"preset_id":114,"cat_emoji":"🇧🇷","lang":"RU","category":"Бразильские футбольные команды","text":"Flamengo","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":803,"preset_id":114,"cat_emoji":"🇧🇷","lang":"PT","category":"Times de futebol brasileiros","text":"Flamengo","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":804,"preset_id":114,"cat_emoji":"🇧🇷","lang":"CN","category":"巴西足球队","text":"Flamengo","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"}]
+[
+  {
+    "id": 798,
+    "preset_id": 114,
+    "cat_emoji": "🇧🇷",
+    "lang": "EN",
+    "category": "Brazilian Football Teams",
+    "text": "Cruzeiro",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 799,
+    "preset_id": 114,
+    "cat_emoji": "🇧🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Brasileños",
+    "text": "Cruzeiro",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 800,
+    "preset_id": 114,
+    "cat_emoji": "🇧🇷",
+    "lang": "DE",
+    "category": "Brasilianische Fußballmannschaften",
+    "text": "Cruzeiro",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 801,
+    "preset_id": 114,
+    "cat_emoji": "🇧🇷",
+    "lang": "PL",
+    "category": "Brazylijskie drużyny piłkarskie",
+    "text": "Cruzeiro",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 802,
+    "preset_id": 114,
+    "cat_emoji": "🇧🇷",
+    "lang": "RU",
+    "category": "Бразильские футбольные команды",
+    "text": "Cruzeiro",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 803,
+    "preset_id": 114,
+    "cat_emoji": "🇧🇷",
+    "lang": "PT",
+    "category": "Times de futebol brasileiros",
+    "text": "Cruzeiro",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 804,
+    "preset_id": 114,
+    "cat_emoji": "🇧🇷",
+    "lang": "CN",
+    "category": "巴西足球队",
+    "text": "Cruzeiro",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  }
+]

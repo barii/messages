@@ -1,1 +1,72 @@
-[{"id":7594,"text":"Up yours","category":"Insult","positive":false,"premium":true,"lang":"EN","cat_emoji":"1F44E","preset_id":56},{"id":8028,"text":"Leck mich am Arsch","category":"Beleidigung","positive":false,"premium":true,"lang":"DE","cat_emoji":"1F44E","preset_id":56},{"id":8462,"text":"\u0414\u0430 \u043f\u043e\u0448\u0435\u043b (\u043f\u043e\u0448\u043b\u0430) \u0442\u044b!","category":"\u041e\u0441\u043a\u043e\u0440\u0431\u043b\u0435\u043d\u0438\u0435","positive":false,"premium":true,"lang":"RU","cat_emoji":"1F44E","preset_id":56},{"id":8896,"text":"Vai passear","category":"Insulto","positive":false,"premium":true,"lang":"PT","cat_emoji":"1F44E","preset_id":56},{"id":9330,"text":"\u53bb\u4f60\u7684","category":"\u4fae\u8fb1","positive":false,"premium":true,"lang":"CN","cat_emoji":"1F44E","preset_id":56},{"id":10198,"text":"Wypchaj si\u0119","category":"Obraza","positive":false,"premium":true,"lang":"PL","cat_emoji":"1F44E","preset_id":56},{"id":9764,"text":"Que te den","category":"Insulto","positive":false,"premium":true,"lang":"ES","cat_emoji":"1F44E","preset_id":56}]
+[
+  {
+    "preset_id": 56,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "Up yours",
+    "premium": true,
+    "positive": false,
+    "id": 7594
+  },
+  {
+    "id": 8028,
+    "text": "Leck mich am Arsch",
+    "category": "Beleidigung",
+    "positive": false,
+    "premium": true,
+    "lang": "DE",
+    "cat_emoji": "1F44E",
+    "preset_id": 56
+  },
+  {
+    "id": 8462,
+    "text": "Да пошел (пошла) ты!",
+    "category": "Оскорбление",
+    "positive": false,
+    "premium": true,
+    "lang": "RU",
+    "cat_emoji": "1F44E",
+    "preset_id": 56
+  },
+  {
+    "id": 8896,
+    "text": "Vai passear",
+    "category": "Insulto",
+    "positive": false,
+    "premium": true,
+    "lang": "PT",
+    "cat_emoji": "1F44E",
+    "preset_id": 56
+  },
+  {
+    "id": 9330,
+    "text": "去你的",
+    "category": "侮辱",
+    "positive": false,
+    "premium": true,
+    "lang": "CN",
+    "cat_emoji": "1F44E",
+    "preset_id": 56
+  },
+  {
+    "id": 10198,
+    "text": "Wypchaj się",
+    "category": "Obraza",
+    "positive": false,
+    "premium": true,
+    "lang": "PL",
+    "cat_emoji": "1F44E",
+    "preset_id": 56
+  },
+  {
+    "id": 9764,
+    "text": "Que te den",
+    "category": "Insulto",
+    "positive": false,
+    "premium": true,
+    "lang": "ES",
+    "cat_emoji": "1F44E",
+    "preset_id": 56
+  }
+]

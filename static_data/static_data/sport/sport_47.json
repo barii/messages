@@ -1,1 +1,86 @@
-[{"id":329,"preset_id":47,"cat_emoji":"⚽","lang":"EN","category":"National football teams","text":"Serbian football team","premium":"false","positive":"true","msg_emoji":"🇷🇸","continent":"European"},{"id":330,"preset_id":47,"cat_emoji":"⚽","lang":"ES","category":"Selección nacional de fútbol","text":"Equipo de fútbol Serbio","premium":"false","positive":"true","msg_emoji":"🇷🇸","continent":"European"},{"id":331,"preset_id":47,"cat_emoji":"⚽","lang":"DE","category":"Nationale Fußballmannschaft","text":"Serbische Fußballmannschaft","premium":"false","positive":"true","msg_emoji":"🇷🇸","continent":"European"},{"id":332,"preset_id":47,"cat_emoji":"⚽","lang":"PL","category":"Narodowa drużyna piłkarska","text":"Serbska drużyna piłkarska","premium":"false","positive":"true","msg_emoji":"🇷🇸","continent":"European"},{"id":333,"preset_id":47,"cat_emoji":"⚽","lang":"RU","category":"национальная сборная по футболу","text":"Сербская футбольная команда","premium":"false","positive":"true","msg_emoji":"🇷🇸","continent":"European"},{"id":334,"preset_id":47,"cat_emoji":"⚽","lang":"PT","category":"Seleção nacional de futebol","text":"Seleção Sérvia de Futebol","premium":"false","positive":"true","msg_emoji":"🇷🇸","continent":"European"},{"id":335,"preset_id":47,"cat_emoji":"⚽","lang":"CN","category":"国家足球队","text":"塞尔维亚足球队","premium":"false","positive":"true","msg_emoji":"🇷🇸","continent":"European"}]
+[
+  {
+    "id": 329,
+    "preset_id": 47,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "National football teams",
+    "text": "Danish football team",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇰",
+    "continent": "European"
+  },
+  {
+    "id": 330,
+    "preset_id": 47,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Selección nacional de fútbol",
+    "text": "Equipo de fútbol Danés",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇰",
+    "continent": "European"
+  },
+  {
+    "id": 331,
+    "preset_id": 47,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Nationale Fußballmannschaft",
+    "text": "Dänische Fußballmannschaft",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇰",
+    "continent": "European"
+  },
+  {
+    "id": 332,
+    "preset_id": 47,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Narodowa drużyna piłkarska",
+    "text": "Duńska drużyna piłkarska",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇰",
+    "continent": "European"
+  },
+  {
+    "id": 333,
+    "preset_id": 47,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "национальная сборная по футболу",
+    "text": "Датская футбольная команда",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇰",
+    "continent": "European"
+  },
+  {
+    "id": 334,
+    "preset_id": 47,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Seleção nacional de futebol",
+    "text": "Seleção Dinamarquesa de Futebol",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇰",
+    "continent": "European"
+  },
+  {
+    "id": 335,
+    "preset_id": 47,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "国家足球队",
+    "text": "丹麦足球队",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇰",
+    "continent": "European"
+  }
+]

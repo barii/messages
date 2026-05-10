@@ -1,1 +1,72 @@
-[{"id":7755,"text":"You have the most amazing smile","category":"Love\/Flirt","positive":true,"premium":false,"lang":"EN","cat_emoji":"2764","preset_id":217},{"id":8189,"text":"Du hast das sch\u00f6nste L\u00e4cheln der Welt","category":"Liebe\/Flirten","positive":true,"premium":false,"lang":"DE","cat_emoji":"2764","preset_id":217},{"id":8623,"text":"\u0423 \u0442\u0435\u0431\u044f \u043f\u043e\u0440\u0430\u0437\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0443\u043b\u044b\u0431\u043a\u0430","category":"\u041b\u044e\u0431\u043e\u0432\u044c\/\u0424\u043b\u0438\u0440\u0442","positive":true,"premium":false,"lang":"RU","cat_emoji":"2764","preset_id":217},{"id":9057,"text":"Tens um sorriso maravilhoso","category":"Amor\/Namoriscar","positive":true,"premium":false,"lang":"PT","cat_emoji":"2764","preset_id":217},{"id":9491,"text":"\u4f60\u62e5\u6709\u6700\u8ff7\u4eba\u7684\u7b11\u5bb9","category":"\u7231\/\u6311\u9017","positive":true,"premium":false,"lang":"CN","cat_emoji":"2764","preset_id":217},{"id":9925,"text":"Tienes una sonrisa incre\u00edble","category":"Amor\/Ligue","positive":true,"premium":false,"lang":"ES","cat_emoji":"2764","preset_id":217},{"id":10359,"text":"Masz niesamowity u\u015bmiech","category":"Mi\u0142o\u015b\u0107\/Flirt","positive":true,"premium":false,"lang":"PL","cat_emoji":"2764","preset_id":217}]
+[
+  {
+    "preset_id": 217,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You have the most amazing smile",
+    "premium": false,
+    "positive": true,
+    "id": 7755
+  },
+  {
+    "id": 8189,
+    "text": "Du hast das schönste Lächeln der Welt",
+    "category": "Liebe/Flirten",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "2764",
+    "preset_id": 217
+  },
+  {
+    "id": 8623,
+    "text": "У тебя поразительная улыбка",
+    "category": "Любовь/Флирт",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "2764",
+    "preset_id": 217
+  },
+  {
+    "id": 9057,
+    "text": "Tens um sorriso maravilhoso",
+    "category": "Amor/Namoriscar",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "2764",
+    "preset_id": 217
+  },
+  {
+    "id": 9491,
+    "text": "你拥有最迷人的笑容",
+    "category": "爱/挑逗",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "2764",
+    "preset_id": 217
+  },
+  {
+    "id": 9925,
+    "text": "Tienes una sonrisa increíble",
+    "category": "Amor/Ligue",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "2764",
+    "preset_id": 217
+  },
+  {
+    "id": 10359,
+    "text": "Masz niesamowity uśmiech",
+    "category": "Miłość/Flirt",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "2764",
+    "preset_id": 217
+  }
+]

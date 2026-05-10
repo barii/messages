@@ -1,1 +1,86 @@
-[{"id":20724,"preset_id":930,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"You dream of someday being like us.","premium":"false","positive":"true","header":"insult"},{"id":20725,"preset_id":930,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"Sueñas con ser algún día como nosotros","premium":"false","positive":"true","header":"insultante"},{"id":20726,"preset_id":930,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"Ihr träumt davon, eines Tages so zu sein wie wir.","premium":"false","positive":"true","header":"Beleidigend"},{"id":20727,"preset_id":930,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"Marzysz o tym, by pewnego dnia być jak my.","premium":"false","positive":"true","header":"Obraźliwy"},{"id":20728,"preset_id":930,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"Вы мечтаете когда-нибудь стать такими же, как мы.","premium":"false","positive":"true","header":"Оскорбительный"},{"id":20729,"preset_id":930,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"Sonhas em um dia ser como nós.","premium":"false","positive":"true","header":"Insultuoso"},{"id":20730,"preset_id":930,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"你梦想有一天能像我们一样。","premium":"false","positive":"true","header":"侮辱"}]
+[
+  {
+    "id": 20724,
+    "preset_id": 930,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "You dream of someday being like us.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insult"
+  },
+  {
+    "id": 20725,
+    "preset_id": 930,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "Sueñas con ser algún día como nosotros",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultante"
+  },
+  {
+    "id": 20726,
+    "preset_id": 930,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Ihr träumt davon, eines Tages so zu sein wie wir.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Beleidigend"
+  },
+  {
+    "id": 20727,
+    "preset_id": 930,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Marzysz o tym, by pewnego dnia być jak my.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Obraźliwy"
+  },
+  {
+    "id": 20728,
+    "preset_id": 930,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Вы мечтаете когда-нибудь стать такими же, как мы.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Оскорбительный"
+  },
+  {
+    "id": 20729,
+    "preset_id": 930,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Sonhas em um dia ser como nós.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultuoso"
+  },
+  {
+    "id": 20730,
+    "preset_id": 930,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "你梦想有一天能像我们一样。",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "侮辱"
+  }
+]

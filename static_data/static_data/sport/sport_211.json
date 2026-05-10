@@ -1,1 +1,86 @@
-[{"id":1477,"preset_id":211,"cat_emoji":"🇵🇹","lang":"EN","category":"Portuguese Football Teams","text":"Benfica","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1478,"preset_id":211,"cat_emoji":"🇵🇹","lang":"ES","category":"Equipos de Fútbol Portugueses","text":"Benfica","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1479,"preset_id":211,"cat_emoji":"🇵🇹","lang":"DE","category":"Portugiesische Fußballmannschaften","text":"Benfica","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1480,"preset_id":211,"cat_emoji":"🇵🇹","lang":"PL","category":"Portugalskie drużyny piłkarskie","text":"Benfica","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1481,"preset_id":211,"cat_emoji":"🇵🇹","lang":"RU","category":"Португальские футбольные команды","text":"Benfica","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1482,"preset_id":211,"cat_emoji":"🇵🇹","lang":"PT","category":"Times de futebol portugueses","text":"Benfica","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1483,"preset_id":211,"cat_emoji":"🇵🇹","lang":"CN","category":"葡萄牙足球队","text":"Benfica","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"}]
+[
+  {
+    "id": 1477,
+    "preset_id": 211,
+    "cat_emoji": "🇵🇹",
+    "lang": "EN",
+    "category": "Portuguese Football Teams",
+    "text": "Arouca",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1478,
+    "preset_id": 211,
+    "cat_emoji": "🇵🇹",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Portugueses",
+    "text": "Arouca",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1479,
+    "preset_id": 211,
+    "cat_emoji": "🇵🇹",
+    "lang": "DE",
+    "category": "Portugiesische Fußballmannschaften",
+    "text": "Arouca",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1480,
+    "preset_id": 211,
+    "cat_emoji": "🇵🇹",
+    "lang": "PL",
+    "category": "Portugalskie drużyny piłkarskie",
+    "text": "Arouca",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1481,
+    "preset_id": 211,
+    "cat_emoji": "🇵🇹",
+    "lang": "RU",
+    "category": "Португальские футбольные команды",
+    "text": "Arouca",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1482,
+    "preset_id": 211,
+    "cat_emoji": "🇵🇹",
+    "lang": "PT",
+    "category": "Times de futebol portugueses",
+    "text": "Arouca",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1483,
+    "preset_id": 211,
+    "cat_emoji": "🇵🇹",
+    "lang": "CN",
+    "category": "葡萄牙足球队",
+    "text": "Arouca",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  }
+]

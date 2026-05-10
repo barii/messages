@@ -1,1 +1,62 @@
-[{"id":9962,"text":"Puedo ver a trav\u00e9s de tu amigo","category":"Consejos\/sugerencia","positive":false,"premium":false,"lang":"ES","cat_emoji":"1F914","preset_id":254},{"id":8660,"text":"\u042f \u0432\u0438\u0436\u0443 \u0442\u0432\u043e\u0435\u0433\u043e \u0434\u0440\u0443\u0433\u0430 (\u043f\u043e\u0434\u0440\u0443\u0433\u0443) \u043d\u0430\u0441\u043a\u0432\u043e\u0437\u044c","category":"\u0421\u043e\u0432\u0435\u0442\u044b\/\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438","positive":false,"premium":false,"lang":"RU","cat_emoji":"1F914","preset_id":254},{"id":9094,"text":"Conhe\u00e7o bem o\/a teu\/tua amigo\/a","category":"Conselho\/Sugest\u00e3o","positive":false,"premium":false,"lang":"PT","cat_emoji":"1F914","preset_id":254},{"id":10396,"text":"Przejrza\u0142em\/Przejrza\u0142am Twojego koleg\u0119\/Twoj\u0105 kole\u017cank\u0119 na wylot","category":"Porada\/sugestia","positive":false,"premium":false,"lang":"PL","cat_emoji":"1F914","preset_id":254},{"id":8226,"text":"Ich durchschaue deinen Freund\/deine Freundin","category":"Empfehlung\/Vorschlag","positive":false,"premium":false,"lang":"DE","cat_emoji":"1F914","preset_id":254},{"id":7792,"text":"I can see right through your friend","category":"Advice\/Suggestion","positive":false,"premium":false,"lang":"EN","cat_emoji":"1F914","preset_id":254}]
+[
+  {
+    "preset_id": 254,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "I can see right through your friend",
+    "premium": false,
+    "positive": false,
+    "id": 7792
+  },
+  {
+    "id": 9962,
+    "text": "Puedo ver a través de tu amigo",
+    "category": "Consejos/sugerencia",
+    "positive": false,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F914",
+    "preset_id": 254
+  },
+  {
+    "id": 8660,
+    "text": "Я вижу твоего друга (подругу) насквозь",
+    "category": "Советы/рекомендации",
+    "positive": false,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F914",
+    "preset_id": 254
+  },
+  {
+    "id": 9094,
+    "text": "Conheço bem o/a teu/tua amigo/a",
+    "category": "Conselho/Sugestão",
+    "positive": false,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F914",
+    "preset_id": 254
+  },
+  {
+    "id": 10396,
+    "text": "Przejrzałem/Przejrzałam Twojego kolegę/Twoją koleżankę na wylot",
+    "category": "Porada/sugestia",
+    "positive": false,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F914",
+    "preset_id": 254
+  },
+  {
+    "id": 8226,
+    "text": "Ich durchschaue deinen Freund/deine Freundin",
+    "category": "Empfehlung/Vorschlag",
+    "positive": false,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F914",
+    "preset_id": 254
+  }
+]

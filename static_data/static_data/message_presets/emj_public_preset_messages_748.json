@@ -1,1 +1,72 @@
-[{"id":19545,"text":"Me too","category":"Reply: Neutral","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":748},{"id":19546,"text":"Ich auch","category":"Antwort: Neutral","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":748},{"id":19547,"text":"Eu tamb\u00e9m","category":"Resposta: neutra","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":748},{"id":19548,"text":"Ja te\u017c","category":"Odpowied\u017a: neutralny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":748},{"id":19549,"text":"\u042f \u0442\u043e\u0436\u0435","category":"\u041e\u0442\u0432\u0435\u0442: \u041d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":748},{"id":19550,"text":"Yo tambi\u00e9n","category":"Respuesta: neutral","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":748},{"id":19551,"text":"\u6211\u4e5f\u662f","category":"\u56de\u590d\uff1a\u4e2d\u6027\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":748}]
+[
+  {
+    "preset_id": 748,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Me too",
+    "premium": false,
+    "positive": true,
+    "id": 19545
+  },
+  {
+    "id": 19546,
+    "text": "Ich auch",
+    "category": "Antwort: Neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 748
+  },
+  {
+    "id": 19547,
+    "text": "Eu também",
+    "category": "Resposta: neutra",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 748
+  },
+  {
+    "id": 19548,
+    "text": "Ja też",
+    "category": "Odpowiedź: neutralny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 748
+  },
+  {
+    "id": 19549,
+    "text": "Я тоже",
+    "category": "Ответ: Нейтральный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 748
+  },
+  {
+    "id": 19550,
+    "text": "Yo también",
+    "category": "Respuesta: neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 748
+  },
+  {
+    "id": 19551,
+    "text": "我也是",
+    "category": "回复：中性用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 748
+  }
+]

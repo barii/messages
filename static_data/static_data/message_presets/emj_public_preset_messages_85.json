@@ -1,1 +1,72 @@
-[{"id":8057,"text":"Es tut mir leid","category":"Antwort: Freundlich","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":85},{"id":8491,"text":"\u041c\u043d\u0435 \u0436\u0430\u043b\u044c","category":"\u041e\u0442\u0432\u0435\u0442: \u0414\u0440\u0443\u0436\u0435\u043b\u044e\u0431\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":85},{"id":8925,"text":"Desculpa","category":"Resposta: amig\u00e1vel","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":85},{"id":9359,"text":"\u62b1\u6b49","category":"\u56de\u590d\uff1a\u53cb\u5584\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":85},{"id":9793,"text":"Lo siento","category":"Respuesta: amistoso","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":85},{"id":10227,"text":"Przepraszam","category":"Powt\u00f3rka: przyjazny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":85},{"id":7623,"text":"I'm sorry","category":"Reply: Friendly","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":85}]
+[
+  {
+    "preset_id": 85,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I'm sorry",
+    "premium": false,
+    "positive": true,
+    "id": 7623
+  },
+  {
+    "id": 8057,
+    "text": "Es tut mir leid",
+    "category": "Antwort: Freundlich",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 85
+  },
+  {
+    "id": 8491,
+    "text": "Мне жаль",
+    "category": "Ответ: Дружелюбный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 85
+  },
+  {
+    "id": 8925,
+    "text": "Desculpa",
+    "category": "Resposta: amigável",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 85
+  },
+  {
+    "id": 9359,
+    "text": "抱歉",
+    "category": "回复：友善用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 85
+  },
+  {
+    "id": 9793,
+    "text": "Lo siento",
+    "category": "Respuesta: amistoso",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 85
+  },
+  {
+    "id": 10227,
+    "text": "Przepraszam",
+    "category": "Powtórka: przyjazny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 85
+  }
+]

@@ -1,1 +1,79 @@
-[{"id":21375,"preset_id":1023,"cat_emoji":"0001F3C9","lang":"EN","category":"American sports","text":"Stee-rike three, you're out!","premium":"false","positive":"true"},{"id":21376,"preset_id":1023,"cat_emoji":"0001F3C9","lang":"ES","category":"Deportes americanos","text":"Stee-rike three, you're out!","premium":"false","positive":"true"},{"id":21377,"preset_id":1023,"cat_emoji":"0001F3C9","lang":"DE","category":"Amerikanische Sportarten","text":"Stee-rike three, you're out!","premium":"false","positive":"true"},{"id":21378,"preset_id":1023,"cat_emoji":"0001F3C9","lang":"PL","category":"Amerykańskie sporty","text":"Stee-rike three, you're out!","premium":"false","positive":"true"},{"id":21379,"preset_id":1023,"cat_emoji":"0001F3C9","lang":"RU","category":"Американские виды спорта","text":"Stee-rike three, you're out!","premium":"false","positive":"true"},{"id":21380,"preset_id":1023,"cat_emoji":"0001F3C9","lang":"PT","category":"Esportes americanos","text":"Stee-rike three, you're out!","premium":"false","positive":"true"},{"id":21381,"preset_id":1023,"cat_emoji":"0001F3C9","lang":"CN","category":"美国体育","text":"Stee-rike three, you're out!","premium":"false","positive":"true"}]
+[
+  {
+    "id": 21375,
+    "preset_id": 1023,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "text": "Stee-rike three, you're out!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21376,
+    "preset_id": 1023,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "text": "Stee-rike three, you're out!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21377,
+    "preset_id": 1023,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "text": "Stee-rike three, you're out!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21378,
+    "preset_id": 1023,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "text": "Stee-rike three, you're out!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21379,
+    "preset_id": 1023,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "text": "Stee-rike three, you're out!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21380,
+    "preset_id": 1023,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "text": "Stee-rike three, you're out!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21381,
+    "preset_id": 1023,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "text": "Stee-rike three, you're out!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  }
+]

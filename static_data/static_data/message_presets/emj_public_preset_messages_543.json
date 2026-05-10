@@ -1,1 +1,72 @@
-[{"id":18110,"text":"You\u2019re a great dancer","category":"Compliment","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F44D","preset_id":543},{"id":18111,"text":"Dein Tanzstil ist wirklich toll","category":"Kompliment","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F44D","preset_id":543},{"id":18112,"text":"\u00c9s um \u00f3timo dan\u00e7arino","category":"Elogio","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F44D","preset_id":543},{"id":18114,"text":"\u0422\u044b \u043e\u0442\u043b\u0438\u0447\u043d\u043e \u0442\u0430\u043d\u0446\u0443\u0435\u0448\u044c","category":"\u041a\u043e\u043c\u043f\u043b\u0438\u043c\u0435\u043d\u0442","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F44D","preset_id":543},{"id":18115,"text":"Bailas muy bien","category":"Cumplido","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F44D","preset_id":543},{"id":18113,"text":"Jeste\u015b \u015bwietnym tancerzem\/\u015bwietn\u0105 tancerk\u0105","category":"Komplement","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F44D","preset_id":543},{"id":18116,"text":"\u4f60\u7684\u821e\u8df3\u5f97\u771f\u597d","category":"\u79f0\u8d5e","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F44D","preset_id":543}]
+[
+  {
+    "preset_id": 543,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You’re a great dancer",
+    "premium": false,
+    "positive": true,
+    "id": 18110
+  },
+  {
+    "id": 18111,
+    "text": "Dein Tanzstil ist wirklich toll",
+    "category": "Kompliment",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F44D",
+    "preset_id": 543
+  },
+  {
+    "id": 18112,
+    "text": "És um ótimo dançarino",
+    "category": "Elogio",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F44D",
+    "preset_id": 543
+  },
+  {
+    "id": 18114,
+    "text": "Ты отлично танцуешь",
+    "category": "Комплимент",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F44D",
+    "preset_id": 543
+  },
+  {
+    "id": 18115,
+    "text": "Bailas muy bien",
+    "category": "Cumplido",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F44D",
+    "preset_id": 543
+  },
+  {
+    "id": 18113,
+    "text": "Jesteś świetnym tancerzem/świetną tancerką",
+    "category": "Komplement",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F44D",
+    "preset_id": 543
+  },
+  {
+    "id": 18116,
+    "text": "你的舞跳得真好",
+    "category": "称赞",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F44D",
+    "preset_id": 543
+  }
+]

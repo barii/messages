@@ -1,1 +1,86 @@
-[{"id":812,"preset_id":116,"cat_emoji":"🇧🇷","lang":"EN","category":"Brazilian Football Teams","text":"Fortaleza","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":813,"preset_id":116,"cat_emoji":"🇧🇷","lang":"ES","category":"Equipos de Fútbol Brasileños","text":"Fortaleza","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":814,"preset_id":116,"cat_emoji":"🇧🇷","lang":"DE","category":"Brasilianische Fußballmannschaften","text":"Fortaleza","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":815,"preset_id":116,"cat_emoji":"🇧🇷","lang":"PL","category":"Brazylijskie drużyny piłkarskie","text":"Fortaleza","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":816,"preset_id":116,"cat_emoji":"🇧🇷","lang":"RU","category":"Бразильские футбольные команды","text":"Fortaleza","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":817,"preset_id":116,"cat_emoji":"🇧🇷","lang":"PT","category":"Times de futebol brasileiros","text":"Fortaleza","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":818,"preset_id":116,"cat_emoji":"🇧🇷","lang":"CN","category":"巴西足球队","text":"Fortaleza","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"}]
+[
+  {
+    "id": 812,
+    "preset_id": 116,
+    "cat_emoji": "🇧🇷",
+    "lang": "EN",
+    "category": "Brazilian Football Teams",
+    "text": "Flamengo",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 813,
+    "preset_id": 116,
+    "cat_emoji": "🇧🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Brasileños",
+    "text": "Flamengo",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 814,
+    "preset_id": 116,
+    "cat_emoji": "🇧🇷",
+    "lang": "DE",
+    "category": "Brasilianische Fußballmannschaften",
+    "text": "Flamengo",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 815,
+    "preset_id": 116,
+    "cat_emoji": "🇧🇷",
+    "lang": "PL",
+    "category": "Brazylijskie drużyny piłkarskie",
+    "text": "Flamengo",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 816,
+    "preset_id": 116,
+    "cat_emoji": "🇧🇷",
+    "lang": "RU",
+    "category": "Бразильские футбольные команды",
+    "text": "Flamengo",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 817,
+    "preset_id": 116,
+    "cat_emoji": "🇧🇷",
+    "lang": "PT",
+    "category": "Times de futebol brasileiros",
+    "text": "Flamengo",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 818,
+    "preset_id": 116,
+    "cat_emoji": "🇧🇷",
+    "lang": "CN",
+    "category": "巴西足球队",
+    "text": "Flamengo",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  }
+]

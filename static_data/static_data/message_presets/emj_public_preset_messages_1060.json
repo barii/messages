@@ -1,1 +1,79 @@
-[{"id":21634,"preset_id":1060,"cat_emoji":"0001F3C9","lang":"EN","category":"American sports","text":"Your team needs you... on the bench!","premium":"false","positive":"true"},{"id":21635,"preset_id":1060,"cat_emoji":"0001F3C9","lang":"ES","category":"Deportes americanos","text":"Your team needs you... on the bench!","premium":"false","positive":"true"},{"id":21636,"preset_id":1060,"cat_emoji":"0001F3C9","lang":"DE","category":"Amerikanische Sportarten","text":"Your team needs you... on the bench!","premium":"false","positive":"true"},{"id":21637,"preset_id":1060,"cat_emoji":"0001F3C9","lang":"PL","category":"Amerykańskie sporty","text":"Your team needs you... on the bench!","premium":"false","positive":"true"},{"id":21638,"preset_id":1060,"cat_emoji":"0001F3C9","lang":"RU","category":"Американские виды спорта","text":"Your team needs you... on the bench!","premium":"false","positive":"true"},{"id":21639,"preset_id":1060,"cat_emoji":"0001F3C9","lang":"PT","category":"Esportes americanos","text":"Your team needs you... on the bench!","premium":"false","positive":"true"},{"id":21640,"preset_id":1060,"cat_emoji":"0001F3C9","lang":"CN","category":"美国体育","text":"Your team needs you... on the bench!","premium":"false","positive":"true"}]
+[
+  {
+    "id": 21634,
+    "preset_id": 1060,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "text": "Your team needs you... on the bench!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21635,
+    "preset_id": 1060,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "text": "Your team needs you... on the bench!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21636,
+    "preset_id": 1060,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "text": "Your team needs you... on the bench!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21637,
+    "preset_id": 1060,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "text": "Your team needs you... on the bench!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21638,
+    "preset_id": 1060,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "text": "Your team needs you... on the bench!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21639,
+    "preset_id": 1060,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "text": "Your team needs you... on the bench!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21640,
+    "preset_id": 1060,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "text": "Your team needs you... on the bench!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":2884,"preset_id":412,"cat_emoji":"🇷🇺","lang":"EN","category":"Russian Football Teams","text":"Akron","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2885,"preset_id":412,"cat_emoji":"🇷🇺","lang":"ES","category":"Equipos de Fútbol Rusos","text":"Akron","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2886,"preset_id":412,"cat_emoji":"🇷🇺","lang":"DE","category":"Russische Fußballmannschaften","text":"Akron","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2887,"preset_id":412,"cat_emoji":"🇷🇺","lang":"PL","category":"Rosyjskie drużyny piłkarskie","text":"Akron","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2888,"preset_id":412,"cat_emoji":"🇷🇺","lang":"RU","category":"Российские футбольные команды","text":"Akron","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2889,"preset_id":412,"cat_emoji":"🇷🇺","lang":"PT","category":"Times de futebol russos","text":"Akron","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2890,"preset_id":412,"cat_emoji":"🇷🇺","lang":"CN","category":"俄罗斯足球队","text":"Akron","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"}]
+[
+  {
+    "id": 2884,
+    "preset_id": 412,
+    "cat_emoji": "🇭🇺",
+    "lang": "EN",
+    "category": "Hungarian Football Teams",
+    "text": "Zalaegerszeg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2885,
+    "preset_id": 412,
+    "cat_emoji": "🇭🇺",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Húngaros",
+    "text": "Zalaegerszeg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2886,
+    "preset_id": 412,
+    "cat_emoji": "🇭🇺",
+    "lang": "DE",
+    "category": "Ungarische Fußballmannschaften",
+    "text": "Zalaegerszeg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2887,
+    "preset_id": 412,
+    "cat_emoji": "🇭🇺",
+    "lang": "PL",
+    "category": "Węgierskie drużyny piłkarskie",
+    "text": "Zalaegerszeg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2888,
+    "preset_id": 412,
+    "cat_emoji": "🇭🇺",
+    "lang": "RU",
+    "category": "Венгерские футбольные команды",
+    "text": "Zalaegerszeg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2889,
+    "preset_id": 412,
+    "cat_emoji": "🇭🇺",
+    "lang": "PT",
+    "category": "Times de futebol húngaros",
+    "text": "Zalaegerszeg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2890,
+    "preset_id": 412,
+    "cat_emoji": "🇭🇺",
+    "lang": "CN",
+    "category": "匈牙利足球队",
+    "text": "Zalaegerszeg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  }
+]

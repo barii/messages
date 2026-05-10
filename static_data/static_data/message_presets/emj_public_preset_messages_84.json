@@ -1,1 +1,72 @@
-[{"id":8056,"text":"Vielen Dank","category":"Antwort: Freundlich","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":84},{"id":8490,"text":"\u0421\u043f\u0430\u0441\u0438\u0431\u043e","category":"\u041e\u0442\u0432\u0435\u0442: \u0414\u0440\u0443\u0436\u0435\u043b\u044e\u0431\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":84},{"id":8924,"text":"Obrigado\/a","category":"Resposta: amig\u00e1vel","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":84},{"id":9358,"text":"\u8c22\u8c22","category":"\u56de\u590d\uff1a\u53cb\u5584\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":84},{"id":9792,"text":"Gracias","category":"Respuesta: amistoso","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":84},{"id":10226,"text":"Dzi\u0119kuj\u0119","category":"Powt\u00f3rka: przyjazny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":84},{"id":7622,"text":"Thank You","category":"Reply: Friendly","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":84}]
+[
+  {
+    "preset_id": 84,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Thank You",
+    "premium": false,
+    "positive": true,
+    "id": 7622
+  },
+  {
+    "id": 8056,
+    "text": "Vielen Dank",
+    "category": "Antwort: Freundlich",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 84
+  },
+  {
+    "id": 8490,
+    "text": "Спасибо",
+    "category": "Ответ: Дружелюбный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 84
+  },
+  {
+    "id": 8924,
+    "text": "Obrigado/a",
+    "category": "Resposta: amigável",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 84
+  },
+  {
+    "id": 9358,
+    "text": "谢谢",
+    "category": "回复：友善用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 84
+  },
+  {
+    "id": 9792,
+    "text": "Gracias",
+    "category": "Respuesta: amistoso",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 84
+  },
+  {
+    "id": 10226,
+    "text": "Dziękuję",
+    "category": "Powtórka: przyjazny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 84
+  }
+]

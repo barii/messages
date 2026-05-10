@@ -1,1 +1,86 @@
-[{"id":3367,"preset_id":481,"cat_emoji":"🏀","lang":"EN","category":"NBA Basketball Teams","text":"Golden State Warriors","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"},{"id":3368,"preset_id":481,"cat_emoji":"🏀","lang":"ES","category":"Equipos de Baloncesto de la NBA","text":"Golden State Warriors","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"},{"id":3369,"preset_id":481,"cat_emoji":"🏀","lang":"DE","category":"NBA Basketball Teams","text":"Golden State Warriors","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"},{"id":3370,"preset_id":481,"cat_emoji":"🏀","lang":"PL","category":"Drużyny koszykarskie NBA","text":"Golden State Warriors","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"},{"id":3371,"preset_id":481,"cat_emoji":"🏀","lang":"RU","category":"Команды Национальной баскетбольной ассоциации NBA","text":"Golden State Warriors","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"},{"id":3372,"preset_id":481,"cat_emoji":"🏀","lang":"PT","category":"Times de Basquete da NBA","text":"Golden State Warriors","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"},{"id":3373,"preset_id":481,"cat_emoji":"🏀","lang":"CN","category":"NBA篮球队","text":"Golden State Warriors","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"}]
+[
+  {
+    "id": 3367,
+    "preset_id": 481,
+    "cat_emoji": "🏀",
+    "lang": "EN",
+    "category": "NBA Basketball Teams",
+    "text": "Philadelphia 76ers",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3368,
+    "preset_id": 481,
+    "cat_emoji": "🏀",
+    "lang": "ES",
+    "category": "Equipos de Baloncesto de la NBA",
+    "text": "Philadelphia 76ers",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3369,
+    "preset_id": 481,
+    "cat_emoji": "🏀",
+    "lang": "DE",
+    "category": "NBA Basketball Teams",
+    "text": "Philadelphia 76ers",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3370,
+    "preset_id": 481,
+    "cat_emoji": "🏀",
+    "lang": "PL",
+    "category": "Drużyny koszykarskie NBA",
+    "text": "Philadelphia 76ers",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3371,
+    "preset_id": 481,
+    "cat_emoji": "🏀",
+    "lang": "RU",
+    "category": "Команды Национальной баскетбольной ассоциации NBA",
+    "text": "Philadelphia 76ers",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3372,
+    "preset_id": 481,
+    "cat_emoji": "🏀",
+    "lang": "PT",
+    "category": "Times de Basquete da NBA",
+    "text": "Philadelphia 76ers",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3373,
+    "preset_id": 481,
+    "cat_emoji": "🏀",
+    "lang": "CN",
+    "category": "NBA篮球队",
+    "text": "Philadelphia 76ers",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  }
+]

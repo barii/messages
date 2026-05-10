@@ -1,1 +1,72 @@
-[{"id":18187,"text":"Bragging is boring","category":"Criticism","positive":true,"premium":true,"lang":"EN","cat_emoji":"1F611","preset_id":554},{"id":18188,"text":"Angeber sind langweilig","category":"Kritik","positive":true,"premium":true,"lang":"DE","cat_emoji":"1F611","preset_id":554},{"id":18189,"text":"Gabar-se \u00e9 chato","category":"Cr\u00edticas","positive":true,"premium":true,"lang":"PT","cat_emoji":"1F611","preset_id":554},{"id":18192,"text":"No est\u00e1 bien alardear","category":"Cr\u00edticas","positive":true,"premium":true,"lang":"ES","cat_emoji":"1F611","preset_id":554},{"id":18193,"text":"\u5439\u725b\u771f\u65e0\u804a","category":"\u6279\u8bc4","positive":true,"premium":true,"lang":"CN","cat_emoji":"1F611","preset_id":554},{"id":18191,"text":"\u0425\u0432\u0430\u0441\u0442\u043e\u0432\u0441\u0442\u0432\u043e \u2014 \u044d\u0442\u043e \u0441\u043a\u0443\u0447\u043d\u043e","category":"\u041a\u0440\u0438\u0442\u0438\u043a\u0430","positive":true,"premium":true,"lang":"RU","cat_emoji":"1F611","preset_id":554},{"id":18190,"text":"To wszystko jest gr\u0105","category":"Krytycyzm","positive":true,"premium":true,"lang":"PL","cat_emoji":"1F611","preset_id":554}]
+[
+  {
+    "preset_id": 554,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "Bragging is boring",
+    "premium": true,
+    "positive": true,
+    "id": 18187
+  },
+  {
+    "id": 18188,
+    "text": "Angeber sind langweilig",
+    "category": "Kritik",
+    "positive": true,
+    "premium": true,
+    "lang": "DE",
+    "cat_emoji": "1F611",
+    "preset_id": 554
+  },
+  {
+    "id": 18189,
+    "text": "Gabar-se é chato",
+    "category": "Críticas",
+    "positive": true,
+    "premium": true,
+    "lang": "PT",
+    "cat_emoji": "1F611",
+    "preset_id": 554
+  },
+  {
+    "id": 18192,
+    "text": "No está bien alardear",
+    "category": "Críticas",
+    "positive": true,
+    "premium": true,
+    "lang": "ES",
+    "cat_emoji": "1F611",
+    "preset_id": 554
+  },
+  {
+    "id": 18193,
+    "text": "吹牛真无聊",
+    "category": "批评",
+    "positive": true,
+    "premium": true,
+    "lang": "CN",
+    "cat_emoji": "1F611",
+    "preset_id": 554
+  },
+  {
+    "id": 18191,
+    "text": "Хвастовство — это скучно",
+    "category": "Критика",
+    "positive": true,
+    "premium": true,
+    "lang": "RU",
+    "cat_emoji": "1F611",
+    "preset_id": 554
+  },
+  {
+    "id": 18190,
+    "text": "To wszystko jest grą",
+    "category": "Krytycyzm",
+    "positive": true,
+    "premium": true,
+    "lang": "PL",
+    "cat_emoji": "1F611",
+    "preset_id": 554
+  }
+]

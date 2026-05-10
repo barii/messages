@@ -1,1 +1,86 @@
-[{"id":3045,"preset_id":435,"cat_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","lang":"EN","category":"Scottish Football Teams","text":"Rangers","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","continent":"European"},{"id":3046,"preset_id":435,"cat_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","lang":"ES","category":"Equipos de Fútbol Escoceses","text":"Rangers","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","continent":"European"},{"id":3047,"preset_id":435,"cat_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","lang":"DE","category":"Schottische Fußballmannschaften","text":"Rangers","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","continent":"European"},{"id":3048,"preset_id":435,"cat_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","lang":"PL","category":"Szkockie drużyny piłkarskie","text":"Rangers","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","continent":"European"},{"id":3049,"preset_id":435,"cat_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","lang":"RU","category":"Шотландские футбольные команды","text":"Rangers","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","continent":"European"},{"id":3050,"preset_id":435,"cat_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","lang":"PT","category":"Times de futebol escoceses","text":"Rangers","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","continent":"European"},{"id":3051,"preset_id":435,"cat_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","lang":"CN","category":"苏格兰足球队","text":"Rangers","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","continent":"European"}]
+[
+  {
+    "id": 3045,
+    "preset_id": 435,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "EN",
+    "category": "Scottish Football Teams",
+    "text": "Kilmarnock",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3046,
+    "preset_id": 435,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Escoceses",
+    "text": "Kilmarnock",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3047,
+    "preset_id": 435,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "DE",
+    "category": "Schottische Fußballmannschaften",
+    "text": "Kilmarnock",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3048,
+    "preset_id": 435,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "PL",
+    "category": "Szkockie drużyny piłkarskie",
+    "text": "Kilmarnock",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3049,
+    "preset_id": 435,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "RU",
+    "category": "Шотландские футбольные команды",
+    "text": "Kilmarnock",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3050,
+    "preset_id": 435,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "PT",
+    "category": "Times de futebol escoceses",
+    "text": "Kilmarnock",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3051,
+    "preset_id": 435,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "CN",
+    "category": "苏格兰足球队",
+    "text": "Kilmarnock",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  }
+]

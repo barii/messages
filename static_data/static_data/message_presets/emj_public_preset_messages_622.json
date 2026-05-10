@@ -1,1 +1,72 @@
-[{"id":18663,"text":"I am Australasian","category":"Personal","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F464","preset_id":622},{"id":18664,"text":"Ich bin aus Australasien","category":"Pers\u00f6nliches","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F464","preset_id":622},{"id":18665,"text":"Sou australasiano","category":"Pessoal","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F464","preset_id":622},{"id":18667,"text":"\u042f \u0430\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0435\u0446\/\u0430\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u043a\u0430","category":"\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F464","preset_id":622},{"id":18669,"text":"\u6211\u662f\u5927\u6d0b\u6d32\u4eba","category":"\u4e2a\u4eba\u8bdd\u9898","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F464","preset_id":622},{"id":18666,"text":"Jestem Australijczykiem\/Australijk\u0105","category":"P\u0142aszczyzna osobista","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F464","preset_id":622},{"id":18668,"text":"Soy austral-asi\u00e1tico","category":"Personal","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F464","preset_id":622}]
+[
+  {
+    "preset_id": 622,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I am Australasian",
+    "premium": false,
+    "positive": true,
+    "id": 18663
+  },
+  {
+    "id": 18664,
+    "text": "Ich bin aus Australasien",
+    "category": "Persönliches",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F464",
+    "preset_id": 622
+  },
+  {
+    "id": 18665,
+    "text": "Sou australasiano",
+    "category": "Pessoal",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F464",
+    "preset_id": 622
+  },
+  {
+    "id": 18667,
+    "text": "Я австралиец/австралийка",
+    "category": "Персональные",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F464",
+    "preset_id": 622
+  },
+  {
+    "id": 18669,
+    "text": "我是大洋洲人",
+    "category": "个人话题",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F464",
+    "preset_id": 622
+  },
+  {
+    "id": 18666,
+    "text": "Jestem Australijczykiem/Australijką",
+    "category": "Płaszczyzna osobista",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F464",
+    "preset_id": 622
+  },
+  {
+    "id": 18668,
+    "text": "Soy austral-asiático",
+    "category": "Personal",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F464",
+    "preset_id": 622
+  }
+]

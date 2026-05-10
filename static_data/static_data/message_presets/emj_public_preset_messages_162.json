@@ -1,1 +1,72 @@
-[{"id":7700,"text":"Whatever, you don't know who I am","category":"Reply: Unfriendly","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":162},{"id":8134,"text":"Egal, du wei\u00dft nicht, wer ich bin","category":"Antwort: Unfreundlich","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":162},{"id":9002,"text":"Quero l\u00e1 saber, n\u00e3o sabes quem sou","category":"Resposta: hostil","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":162},{"id":8568,"text":"\u0412 \u043b\u044e\u0431\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u0442\u044b \u043d\u0435 \u0437\u043d\u0430\u0435\u0448\u044c, \u043a\u0442\u043e \u044f","category":"\u041e\u0442\u0432\u0435\u0442: \u041d\u0435\u0434\u0440\u0443\u0436\u0435\u043b\u044e\u0431\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":162},{"id":9870,"text":"Me da igual, no sabes qui\u00e9n soy","category":"Respuesta: antip\u00e1tico","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":162},{"id":10304,"text":"Niewa\u017cne, nie wiesz, kim jestem","category":"Powt\u00f3rka: nieprzyjazny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":162},{"id":9436,"text":"\u4e0d\u7ba1\u600e\u6837\uff0c\u4f60\u4e0d\u77e5\u9053\u6211\u662f\u8c01","category":"\u56de\u590d\uff1a\u4e0d\u53cb\u5584\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":162}]
+[
+  {
+    "preset_id": 162,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Whatever, you don't know who I am",
+    "premium": false,
+    "positive": true,
+    "id": 7700
+  },
+  {
+    "id": 8134,
+    "text": "Egal, du weißt nicht, wer ich bin",
+    "category": "Antwort: Unfreundlich",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 162
+  },
+  {
+    "id": 9002,
+    "text": "Quero lá saber, não sabes quem sou",
+    "category": "Resposta: hostil",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 162
+  },
+  {
+    "id": 8568,
+    "text": "В любом случае ты не знаешь, кто я",
+    "category": "Ответ: Недружелюбный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 162
+  },
+  {
+    "id": 9870,
+    "text": "Me da igual, no sabes quién soy",
+    "category": "Respuesta: antipático",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 162
+  },
+  {
+    "id": 10304,
+    "text": "Nieważne, nie wiesz, kim jestem",
+    "category": "Powtórka: nieprzyjazny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 162
+  },
+  {
+    "id": 9436,
+    "text": "不管怎样，你不知道我是谁",
+    "category": "回复：不友善用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 162
+  }
+]

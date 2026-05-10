@@ -1,1 +1,86 @@
-[{"id":2436,"preset_id":348,"cat_emoji":"🇩🇪","lang":"EN","category":"German Football Teams","text":"FSV Mainz 05","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2437,"preset_id":348,"cat_emoji":"🇩🇪","lang":"ES","category":"Equipos de Fútbol Alemanes","text":"FSV Mainz 06","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2438,"preset_id":348,"cat_emoji":"🇩🇪","lang":"DE","category":"Deutsche Fußballmannschaften","text":"FSV Mainz 07","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2439,"preset_id":348,"cat_emoji":"🇩🇪","lang":"PL","category":"Niemieckie drużyny piłkarskie","text":"FSV Mainz 08","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2440,"preset_id":348,"cat_emoji":"🇩🇪","lang":"RU","category":"Немецкие футбольные команды","text":"FSV Mainz 09","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2441,"preset_id":348,"cat_emoji":"🇩🇪","lang":"PT","category":"Times de futebol alemães","text":"FSV Mainz 10","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2442,"preset_id":348,"cat_emoji":"🇩🇪","lang":"CN","category":"德国足球队","text":"FSV Mainz 11","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"}]
+[
+  {
+    "id": 2436,
+    "preset_id": 348,
+    "cat_emoji": "🇺🇾",
+    "lang": "EN",
+    "category": "Uruguayan Football Teams",
+    "text": "Wanderers",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2437,
+    "preset_id": 348,
+    "cat_emoji": "🇺🇾",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Uruguayos",
+    "text": "Wanderers",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2438,
+    "preset_id": 348,
+    "cat_emoji": "🇺🇾",
+    "lang": "DE",
+    "category": "Uruguayanische Fußballmannschaften",
+    "text": "Wanderers",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2439,
+    "preset_id": 348,
+    "cat_emoji": "🇺🇾",
+    "lang": "PL",
+    "category": "Urugwajskie drużyny piłkarskie",
+    "text": "Wanderers",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2440,
+    "preset_id": 348,
+    "cat_emoji": "🇺🇾",
+    "lang": "RU",
+    "category": "Уругвайские футбольные команды",
+    "text": "Wanderers",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2441,
+    "preset_id": 348,
+    "cat_emoji": "🇺🇾",
+    "lang": "PT",
+    "category": "Times de futebol uruguaios",
+    "text": "Wanderers",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2442,
+    "preset_id": 348,
+    "cat_emoji": "🇺🇾",
+    "lang": "CN",
+    "category": "乌拉圭足球队",
+    "text": "Wanderers",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":2548,"preset_id":364,"cat_emoji":"🇩🇪","lang":"EN","category":"German Football Teams","text":"VfL Wolfsburg","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2549,"preset_id":364,"cat_emoji":"🇩🇪","lang":"ES","category":"Equipos de Fútbol Alemanes","text":"VfL Wolfsburg","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2550,"preset_id":364,"cat_emoji":"🇩🇪","lang":"DE","category":"Deutsche Fußballmannschaften","text":"VfL Wolfsburg","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2551,"preset_id":364,"cat_emoji":"🇩🇪","lang":"PL","category":"Niemieckie drużyny piłkarskie","text":"VfL Wolfsburg","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2552,"preset_id":364,"cat_emoji":"🇩🇪","lang":"RU","category":"Немецкие футбольные команды","text":"VfL Wolfsburg","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2553,"preset_id":364,"cat_emoji":"🇩🇪","lang":"PT","category":"Times de futebol alemães","text":"VfL Wolfsburg","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2554,"preset_id":364,"cat_emoji":"🇩🇪","lang":"CN","category":"德国足球队","text":"VfL Wolfsburg","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"}]
+[
+  {
+    "id": 2548,
+    "preset_id": 364,
+    "cat_emoji": "🇩🇪",
+    "lang": "EN",
+    "category": "German Football Teams",
+    "text": "VfB Stuttgart",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2549,
+    "preset_id": 364,
+    "cat_emoji": "🇩🇪",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Alemanes",
+    "text": "VfB Stuttgart",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2550,
+    "preset_id": 364,
+    "cat_emoji": "🇩🇪",
+    "lang": "DE",
+    "category": "Deutsche Fußballmannschaften",
+    "text": "VfB Stuttgart",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2551,
+    "preset_id": 364,
+    "cat_emoji": "🇩🇪",
+    "lang": "PL",
+    "category": "Niemieckie drużyny piłkarskie",
+    "text": "VfB Stuttgart",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2552,
+    "preset_id": 364,
+    "cat_emoji": "🇩🇪",
+    "lang": "RU",
+    "category": "Немецкие футбольные команды",
+    "text": "VfB Stuttgart",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2553,
+    "preset_id": 364,
+    "cat_emoji": "🇩🇪",
+    "lang": "PT",
+    "category": "Times de futebol alemães",
+    "text": "VfB Stuttgart",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2554,
+    "preset_id": 364,
+    "cat_emoji": "🇩🇪",
+    "lang": "CN",
+    "category": "德国足球队",
+    "text": "VfB Stuttgart",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  }
+]

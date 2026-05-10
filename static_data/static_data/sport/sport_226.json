@@ -1,1 +1,86 @@
-[{"id":1582,"preset_id":226,"cat_emoji":"🇵🇹","lang":"EN","category":"Portuguese Football Teams","text":"Vitória de Guimarães","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1583,"preset_id":226,"cat_emoji":"🇵🇹","lang":"ES","category":"Equipos de Fútbol Portugueses","text":"Vitória de Guimarães","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1584,"preset_id":226,"cat_emoji":"🇵🇹","lang":"DE","category":"Portugiesische Fußballmannschaften","text":"Vitória de Guimarães","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1585,"preset_id":226,"cat_emoji":"🇵🇹","lang":"PL","category":"Portugalskie drużyny piłkarskie","text":"Vitória de Guimarães","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1586,"preset_id":226,"cat_emoji":"🇵🇹","lang":"RU","category":"Португальские футбольные команды","text":"Vitória de Guimarães","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1587,"preset_id":226,"cat_emoji":"🇵🇹","lang":"PT","category":"Times de futebol portugueses","text":"Vitória de Guimarães","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1588,"preset_id":226,"cat_emoji":"🇵🇹","lang":"CN","category":"葡萄牙足球队","text":"Vitória de Guimarães","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"}]
+[
+  {
+    "id": 1582,
+    "preset_id": 226,
+    "cat_emoji": "🇵🇹",
+    "lang": "EN",
+    "category": "Portuguese Football Teams",
+    "text": "Santa Clara",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1583,
+    "preset_id": 226,
+    "cat_emoji": "🇵🇹",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Portugueses",
+    "text": "Santa Clara",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1584,
+    "preset_id": 226,
+    "cat_emoji": "🇵🇹",
+    "lang": "DE",
+    "category": "Portugiesische Fußballmannschaften",
+    "text": "Santa Clara",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1585,
+    "preset_id": 226,
+    "cat_emoji": "🇵🇹",
+    "lang": "PL",
+    "category": "Portugalskie drużyny piłkarskie",
+    "text": "Santa Clara",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1586,
+    "preset_id": 226,
+    "cat_emoji": "🇵🇹",
+    "lang": "RU",
+    "category": "Португальские футбольные команды",
+    "text": "Santa Clara",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1587,
+    "preset_id": 226,
+    "cat_emoji": "🇵🇹",
+    "lang": "PT",
+    "category": "Times de futebol portugueses",
+    "text": "Santa Clara",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1588,
+    "preset_id": 226,
+    "cat_emoji": "🇵🇹",
+    "lang": "CN",
+    "category": "葡萄牙足球队",
+    "text": "Santa Clara",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  }
+]

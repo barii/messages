@@ -1,1 +1,72 @@
-[{"id":19839,"text":"Be like that then","category":"Reply: Unfriendly","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":790},{"id":19840,"text":"Ja bitte, dann sei halt so","category":"Antwort: Unfreundlich","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":790},{"id":19841,"text":"Ent\u00e3o s\u00ea assim","category":"Resposta: hostil","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":790},{"id":19843,"text":"\u0422\u043e\u0433\u0434\u0430 \u0431\u0443\u0434\u044c \u0442\u0430\u043a\u0438\u043c (-\u043e\u0439)","category":"\u041e\u0442\u0432\u0435\u0442: \u041d\u0435\u0434\u0440\u0443\u0436\u0435\u043b\u044e\u0431\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":790},{"id":19844,"text":"S\u00e9 as\u00ed entonces","category":"Respuesta: antip\u00e1tico","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":790},{"id":19845,"text":"\u90a3\u5c31\u8fd9\u6837\u5427","category":"\u56de\u590d\uff1a\u4e0d\u53cb\u5584\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":790},{"id":19842,"text":"B\u0105d\u017a wi\u0119c taki\/taka","category":"Powt\u00f3rka: nieprzyjazny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":790}]
+[
+  {
+    "preset_id": 790,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Be like that then",
+    "premium": false,
+    "positive": true,
+    "id": 19839
+  },
+  {
+    "id": 19840,
+    "text": "Ja bitte, dann sei halt so",
+    "category": "Antwort: Unfreundlich",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 790
+  },
+  {
+    "id": 19841,
+    "text": "Então sê assim",
+    "category": "Resposta: hostil",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 790
+  },
+  {
+    "id": 19843,
+    "text": "Тогда будь таким (-ой)",
+    "category": "Ответ: Недружелюбный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 790
+  },
+  {
+    "id": 19844,
+    "text": "Sé así entonces",
+    "category": "Respuesta: antipático",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 790
+  },
+  {
+    "id": 19845,
+    "text": "那就这样吧",
+    "category": "回复：不友善用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 790
+  },
+  {
+    "id": 19842,
+    "text": "Bądź więc taki/taka",
+    "category": "Powtórka: nieprzyjazny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 790
+  }
+]

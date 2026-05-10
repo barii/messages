@@ -1,1 +1,86 @@
-[{"id":20997,"preset_id":969,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"keep dreaming","premium":"false","positive":"true","header":"Replies"},{"id":20998,"preset_id":969,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"sigue soñando","premium":"false","positive":"true","header":"Respuestas"},{"id":20999,"preset_id":969,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"weiter träumen","premium":"false","positive":"true","header":"Antworten"},{"id":21000,"preset_id":969,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"nie przestawaj marzyć","premium":"false","positive":"true","header":"Odpowiedzi"},{"id":21001,"preset_id":969,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"продолжайте мечтать","premium":"false","positive":"true","header":"Ответы"},{"id":21002,"preset_id":969,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"continuar a sonhar","premium":"false","positive":"true","header":"Respostas"},{"id":21003,"preset_id":969,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"继续做梦","premium":"false","positive":"true","header":"答复"}]
+[
+  {
+    "id": 20997,
+    "preset_id": 969,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "keep dreaming",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Replies"
+  },
+  {
+    "id": 20998,
+    "preset_id": 969,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "sigue soñando",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Respuestas"
+  },
+  {
+    "id": 20999,
+    "preset_id": 969,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "weiter träumen",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Antworten"
+  },
+  {
+    "id": 21000,
+    "preset_id": 969,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "nie przestawaj marzyć",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Odpowiedzi"
+  },
+  {
+    "id": 21001,
+    "preset_id": 969,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "продолжайте мечтать",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Ответы"
+  },
+  {
+    "id": 21002,
+    "preset_id": 969,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "continuar a sonhar",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Respostas"
+  },
+  {
+    "id": 21003,
+    "preset_id": 969,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "继续做梦",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "答复"
+  }
+]

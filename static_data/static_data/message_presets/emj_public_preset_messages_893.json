@@ -1,1 +1,86 @@
-[{"id":20465,"preset_id":893,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"such a shit display.","premium":"false","positive":"true","header":"insult"},{"id":20466,"preset_id":893,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"una exhibición de mierda.","premium":"false","positive":"true","header":"insultante"},{"id":20467,"preset_id":893,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"so eine beschissene Vorstellung.","premium":"false","positive":"true","header":"Beleidigend"},{"id":20468,"preset_id":893,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"taki gówniany występ.","premium":"false","positive":"true","header":"Obraźliwy"},{"id":20469,"preset_id":893,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"такое дерьмовое выступление.","premium":"false","positive":"true","header":"Оскорбительный"},{"id":20470,"preset_id":893,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"uma exibição de merda.","premium":"false","positive":"true","header":"Insultuoso"},{"id":20471,"preset_id":893,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"如此糟糕的表现","premium":"false","positive":"true","header":"侮辱"}]
+[
+  {
+    "id": 20465,
+    "preset_id": 893,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "such a shit display.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insult"
+  },
+  {
+    "id": 20466,
+    "preset_id": 893,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "una exhibición de mierda.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultante"
+  },
+  {
+    "id": 20467,
+    "preset_id": 893,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "so eine beschissene Vorstellung.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Beleidigend"
+  },
+  {
+    "id": 20468,
+    "preset_id": 893,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "taki gówniany występ.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Obraźliwy"
+  },
+  {
+    "id": 20469,
+    "preset_id": 893,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "такое дерьмовое выступление.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Оскорбительный"
+  },
+  {
+    "id": 20470,
+    "preset_id": 893,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "uma exibição de merda.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultuoso"
+  },
+  {
+    "id": 20471,
+    "preset_id": 893,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "如此糟糕的表现",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "侮辱"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id":19846,"text":"Chill out","category":"Reply: Unfriendly","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":791},{"id":19847,"text":"Immer mit der Ruhe","category":"Antwort: Unfreundlich","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":791},{"id":19848,"text":"Calma","category":"Resposta: hostil","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":791},{"id":19850,"text":"\u041e\u0441\u0442\u044b\u043d\u044c","category":"\u041e\u0442\u0432\u0435\u0442: \u041d\u0435\u0434\u0440\u0443\u0436\u0435\u043b\u044e\u0431\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":791},{"id":19851,"text":"C\u00e1lmate","category":"Respuesta: antip\u00e1tico","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":791},{"id":19852,"text":"\u51b7\u9759\u4e00\u4e0b","category":"\u56de\u590d\uff1a\u4e0d\u53cb\u5584\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":791},{"id":19849,"text":"Wyluzuj","category":"Powt\u00f3rka: nieprzyjazny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":791}]
+[
+  {
+    "preset_id": 791,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Chill out",
+    "premium": false,
+    "positive": true,
+    "id": 19846
+  },
+  {
+    "id": 19847,
+    "text": "Immer mit der Ruhe",
+    "category": "Antwort: Unfreundlich",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 791
+  },
+  {
+    "id": 19848,
+    "text": "Calma",
+    "category": "Resposta: hostil",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 791
+  },
+  {
+    "id": 19850,
+    "text": "Остынь",
+    "category": "Ответ: Недружелюбный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 791
+  },
+  {
+    "id": 19851,
+    "text": "Cálmate",
+    "category": "Respuesta: antipático",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 791
+  },
+  {
+    "id": 19852,
+    "text": "冷静一下",
+    "category": "回复：不友善用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 791
+  },
+  {
+    "id": 19849,
+    "text": "Wyluzuj",
+    "category": "Powtórka: nieprzyjazny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 791
+  }
+]

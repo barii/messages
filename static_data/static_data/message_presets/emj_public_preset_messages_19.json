@@ -1,1 +1,72 @@
-[{"id":7557,"text":"I admire your perseverance","category":"Compliment","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F44D","preset_id":19},{"id":8425,"text":"\u042f \u0432\u043e\u0441\u0445\u0438\u0449\u0430\u044e\u0441\u044c \u0442\u0432\u043e\u0438\u043c \u0443\u043f\u043e\u0440\u0441\u0442\u0432\u043e\u043c","category":"\u041a\u043e\u043c\u043f\u043b\u0438\u043c\u0435\u043d\u0442","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F44D","preset_id":19},{"id":8859,"text":"Admiro a tua perseveran\u00e7a","category":"Elogio","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F44D","preset_id":19},{"id":7991,"text":"Ich bewundere deine Beharrlichkeit","category":"Kompliment","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F44D","preset_id":19},{"id":9293,"text":"\u6211\u656c\u4f69\u4f60\u7684\u6bc5\u529b","category":"\u79f0\u8d5e","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F44D","preset_id":19},{"id":9727,"text":"Admiro tu perseverancia","category":"Cumplido","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F44D","preset_id":19},{"id":10161,"text":"Podziwiam Twoj\u0105 wytrwa\u0142o\u015b\u0107","category":"Komplement","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F44D","preset_id":19}]
+[
+  {
+    "preset_id": 19,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "I admire your perseverance",
+    "premium": false,
+    "positive": true,
+    "id": 7557
+  },
+  {
+    "id": 8425,
+    "text": "Я восхищаюсь твоим упорством",
+    "category": "Комплимент",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F44D",
+    "preset_id": 19
+  },
+  {
+    "id": 8859,
+    "text": "Admiro a tua perseverança",
+    "category": "Elogio",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F44D",
+    "preset_id": 19
+  },
+  {
+    "id": 7991,
+    "text": "Ich bewundere deine Beharrlichkeit",
+    "category": "Kompliment",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F44D",
+    "preset_id": 19
+  },
+  {
+    "id": 9293,
+    "text": "我敬佩你的毅力",
+    "category": "称赞",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F44D",
+    "preset_id": 19
+  },
+  {
+    "id": 9727,
+    "text": "Admiro tu perseverancia",
+    "category": "Cumplido",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F44D",
+    "preset_id": 19
+  },
+  {
+    "id": 10161,
+    "text": "Podziwiam Twoją wytrwałość",
+    "category": "Komplement",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F44D",
+    "preset_id": 19
+  }
+]

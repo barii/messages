@@ -1,1 +1,72 @@
-[{"id":18957,"text":"Aw that\u2019s cute","category":"Reply: Friendly","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":664},{"id":18958,"text":"Oh, das ist s\u00fc\u00df","category":"Antwort: Freundlich","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":664},{"id":18959,"text":"Ah, que fofinho","category":"Resposta: amig\u00e1vel","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":664},{"id":18960,"text":"Och, to s\u0142odkie","category":"Powt\u00f3rka: przyjazny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":664},{"id":18961,"text":"\u041e, \u044d\u0442\u043e \u0442\u0430\u043a \u043c\u0438\u043b\u043e","category":"\u041e\u0442\u0432\u0435\u0442: \u0414\u0440\u0443\u0436\u0435\u043b\u044e\u0431\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":664},{"id":18962,"text":"Oh, qu\u00e9 bonito","category":"Respuesta: amistoso","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":664},{"id":18963,"text":"\u54c7\uff0c\u597d\u53ef\u7231","category":"\u56de\u590d\uff1a\u53cb\u5584\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":664}]
+[
+  {
+    "preset_id": 664,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Aw that’s cute",
+    "premium": false,
+    "positive": true,
+    "id": 18957
+  },
+  {
+    "id": 18958,
+    "text": "Oh, das ist süß",
+    "category": "Antwort: Freundlich",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 664
+  },
+  {
+    "id": 18959,
+    "text": "Ah, que fofinho",
+    "category": "Resposta: amigável",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 664
+  },
+  {
+    "id": 18960,
+    "text": "Och, to słodkie",
+    "category": "Powtórka: przyjazny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 664
+  },
+  {
+    "id": 18961,
+    "text": "О, это так мило",
+    "category": "Ответ: Дружелюбный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 664
+  },
+  {
+    "id": 18962,
+    "text": "Oh, qué bonito",
+    "category": "Respuesta: amistoso",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 664
+  },
+  {
+    "id": 18963,
+    "text": "哇，好可爱",
+    "category": "回复：友善用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 664
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":658,"preset_id":94,"cat_emoji":"🇫🇷","lang":"EN","category":"French Football Teams","text":"OGC Nice","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"},{"id":659,"preset_id":94,"cat_emoji":"🇫🇷","lang":"ES","category":"Equipos de Fútbol Franceses","text":"OGC Nice","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"},{"id":660,"preset_id":94,"cat_emoji":"🇫🇷","lang":"DE","category":"Französische Fußballmannschaften","text":"OGC Nice","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"},{"id":661,"preset_id":94,"cat_emoji":"🇫🇷","lang":"PL","category":"Francuskie drużyny piłkarskie","text":"OGC Nice","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"},{"id":662,"preset_id":94,"cat_emoji":"🇫🇷","lang":"RU","category":"Французские футбольные команды","text":"OGC Nice","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"},{"id":663,"preset_id":94,"cat_emoji":"🇫🇷","lang":"PT","category":"Times de futebol franceses","text":"OGC Nice","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"},{"id":664,"preset_id":94,"cat_emoji":"🇫🇷","lang":"CN","category":"法国足球队","text":"OGC Nice","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"}]
+[
+  {
+    "id": 658,
+    "preset_id": 94,
+    "cat_emoji": "🇫🇷",
+    "lang": "EN",
+    "category": "French Football Teams",
+    "text": "Montpellier HSC",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 659,
+    "preset_id": 94,
+    "cat_emoji": "🇫🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Franceses",
+    "text": "Montpellier HSC",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 660,
+    "preset_id": 94,
+    "cat_emoji": "🇫🇷",
+    "lang": "DE",
+    "category": "Französische Fußballmannschaften",
+    "text": "Montpellier HSC",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 661,
+    "preset_id": 94,
+    "cat_emoji": "🇫🇷",
+    "lang": "PL",
+    "category": "Francuskie drużyny piłkarskie",
+    "text": "Montpellier HSC",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 662,
+    "preset_id": 94,
+    "cat_emoji": "🇫🇷",
+    "lang": "RU",
+    "category": "Французские футбольные команды",
+    "text": "Montpellier HSC",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 663,
+    "preset_id": 94,
+    "cat_emoji": "🇫🇷",
+    "lang": "PT",
+    "category": "Times de futebol franceses",
+    "text": "Montpellier HSC",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 664,
+    "preset_id": 94,
+    "cat_emoji": "🇫🇷",
+    "lang": "CN",
+    "category": "法国足球队",
+    "text": "Montpellier HSC",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  }
+]

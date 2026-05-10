@@ -1,1 +1,86 @@
-[{"id":1008,"preset_id":144,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"EN","category":"English Football Teams","text":"Brentford","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1009,"preset_id":144,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"ES","category":"Equipos de Fútbol Ingleses","text":"Brentford","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1010,"preset_id":144,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"DE","category":"Englische Fußballmannschaften","text":"Brentford","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1011,"preset_id":144,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"PL","category":"Angielskie drużyny piłkarskie","text":"Brentford","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1012,"preset_id":144,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"RU","category":"Английские футбольные команды","text":"Brentford","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1013,"preset_id":144,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"PT","category":"Times de futebol ingleses","text":"Brentford","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1014,"preset_id":144,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"CN","category":"英格兰足球队","text":"Brentford","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"}]
+[
+  {
+    "id": 1008,
+    "preset_id": 144,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "EN",
+    "category": "English Football Teams",
+    "text": "Aston Villa",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1009,
+    "preset_id": 144,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Ingleses",
+    "text": "Aston Villa",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1010,
+    "preset_id": 144,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "DE",
+    "category": "Englische Fußballmannschaften",
+    "text": "Aston Villa",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1011,
+    "preset_id": 144,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "PL",
+    "category": "Angielskie drużyny piłkarskie",
+    "text": "Aston Villa",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1012,
+    "preset_id": 144,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "RU",
+    "category": "Английские футбольные команды",
+    "text": "Aston Villa",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1013,
+    "preset_id": 144,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "PT",
+    "category": "Times de futebol ingleses",
+    "text": "Aston Villa",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1014,
+    "preset_id": 144,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "CN",
+    "category": "英格兰足球队",
+    "text": "Aston Villa",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  }
+]

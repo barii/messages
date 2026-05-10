@@ -1,1 +1,86 @@
-[{"id":553,"preset_id":79,"cat_emoji":"🇦🇷","lang":"EN","category":"Argentine Football Teams","text":"Rosario Central","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":554,"preset_id":79,"cat_emoji":"🇦🇷","lang":"ES","category":"Equipos de Fútbol Argentinos","text":"Rosario Central","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":555,"preset_id":79,"cat_emoji":"🇦🇷","lang":"DE","category":"Argentinische Fußballmannschaften","text":"Rosario Central","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":556,"preset_id":79,"cat_emoji":"🇦🇷","lang":"PL","category":"Argentyńskie drużyny piłkarskie","text":"Rosario Central","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":557,"preset_id":79,"cat_emoji":"🇦🇷","lang":"RU","category":"Аргентинские футбольные команды","text":"Rosario Central","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":558,"preset_id":79,"cat_emoji":"🇦🇷","lang":"PT","category":"Times de futebol argentinos","text":"Rosario Central","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":559,"preset_id":79,"cat_emoji":"🇦🇷","lang":"CN","category":"阿根廷足球队","text":"Rosario Central","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"}]
+[
+  {
+    "id": 553,
+    "preset_id": 79,
+    "cat_emoji": "🇦🇷",
+    "lang": "EN",
+    "category": "Argentine Football Teams",
+    "text": "Racing Club",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 554,
+    "preset_id": 79,
+    "cat_emoji": "🇦🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Argentinos",
+    "text": "Racing Club",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 555,
+    "preset_id": 79,
+    "cat_emoji": "🇦🇷",
+    "lang": "DE",
+    "category": "Argentinische Fußballmannschaften",
+    "text": "Racing Club",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 556,
+    "preset_id": 79,
+    "cat_emoji": "🇦🇷",
+    "lang": "PL",
+    "category": "Argentyńskie drużyny piłkarskie",
+    "text": "Racing Club",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 557,
+    "preset_id": 79,
+    "cat_emoji": "🇦🇷",
+    "lang": "RU",
+    "category": "Аргентинские футбольные команды",
+    "text": "Racing Club",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 558,
+    "preset_id": 79,
+    "cat_emoji": "🇦🇷",
+    "lang": "PT",
+    "category": "Times de futebol argentinos",
+    "text": "Racing Club",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 559,
+    "preset_id": 79,
+    "cat_emoji": "🇦🇷",
+    "lang": "CN",
+    "category": "阿根廷足球队",
+    "text": "Racing Club",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  }
+]

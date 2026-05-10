@@ -1,1 +1,72 @@
-[{"id":19195,"text":"I am","category":"Reply: Neutral","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":698},{"id":19196,"text":"Das bin ich","category":"Antwort: Neutral","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":698},{"id":19197,"text":"Estou","category":"Resposta: neutra","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":698},{"id":19198,"text":"Jestem","category":"Odpowied\u017a: neutralny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":698},{"id":19199,"text":"\u0414\u0430","category":"\u041e\u0442\u0432\u0435\u0442: \u041d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":698},{"id":19200,"text":"Yo soy","category":"Respuesta: neutral","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":698},{"id":19201,"text":"\u6211","category":"\u56de\u590d\uff1a\u4e2d\u6027\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":698}]
+[
+  {
+    "preset_id": 698,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I am",
+    "premium": false,
+    "positive": true,
+    "id": 19195
+  },
+  {
+    "id": 19196,
+    "text": "Das bin ich",
+    "category": "Antwort: Neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 698
+  },
+  {
+    "id": 19197,
+    "text": "Estou",
+    "category": "Resposta: neutra",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 698
+  },
+  {
+    "id": 19198,
+    "text": "Jestem",
+    "category": "Odpowiedź: neutralny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 698
+  },
+  {
+    "id": 19199,
+    "text": "Да",
+    "category": "Ответ: Нейтральный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 698
+  },
+  {
+    "id": 19200,
+    "text": "Yo soy",
+    "category": "Respuesta: neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 698
+  },
+  {
+    "id": 19201,
+    "text": "我",
+    "category": "回复：中性用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 698
+  }
+]

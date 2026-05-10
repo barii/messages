@@ -1,1 +1,72 @@
-[{"id":20056,"text":"You\u2019re a plastic supporter","category":"Opinion","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F5E3","preset_id":821},{"id":20057,"text":"Du bist ein Sch\u00f6nwetter-Fan","category":"Meinung","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F5E3","preset_id":821},{"id":20058,"text":"\u00c9s um vira-casacas","category":"Opini\u00e3o","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F5E3","preset_id":821},{"id":20059,"text":"Jeste\u015b zwolennikiem plastiku","category":"Opinia","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F5E3","preset_id":821},{"id":20061,"text":"Eres un veleta","category":"Opini\u00f3n","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F5E3","preset_id":821},{"id":20062,"text":"\u4f60\u652f\u6301\u4f7f\u7528\u5851\u6599\u5236\u54c1","category":"\u610f\u89c1","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F5E3","preset_id":821},{"id":20060,"text":"\u0422\u044b \u0434\u0438\u0432\u0430\u043d\u043d\u044b\u0439 \u0431\u043e\u043b\u0435\u043b\u044c\u0449\u0438\u043a","category":"\u041c\u043d\u0435\u043d\u0438\u0435","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F5E3","preset_id":821}]
+[
+  {
+    "preset_id": 821,
+    "cat_emoji": "1F5E3",
+    "lang": "EN",
+    "category": "Opinion",
+    "text": "You’re a plastic supporter",
+    "premium": false,
+    "positive": true,
+    "id": 20056
+  },
+  {
+    "id": 20057,
+    "text": "Du bist ein Schönwetter-Fan",
+    "category": "Meinung",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F5E3",
+    "preset_id": 821
+  },
+  {
+    "id": 20058,
+    "text": "És um vira-casacas",
+    "category": "Opinião",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F5E3",
+    "preset_id": 821
+  },
+  {
+    "id": 20059,
+    "text": "Jesteś zwolennikiem plastiku",
+    "category": "Opinia",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F5E3",
+    "preset_id": 821
+  },
+  {
+    "id": 20061,
+    "text": "Eres un veleta",
+    "category": "Opinión",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F5E3",
+    "preset_id": 821
+  },
+  {
+    "id": 20062,
+    "text": "你支持使用塑料制品",
+    "category": "意见",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F5E3",
+    "preset_id": 821
+  },
+  {
+    "id": 20060,
+    "text": "Ты диванный болельщик",
+    "category": "Мнение",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F5E3",
+    "preset_id": 821
+  }
+]

@@ -1,1 +1,79 @@
-[{"id":21487,"preset_id":1039,"cat_emoji":"0001F3C9","lang":"EN","category":"American sports","text":"Where's your defense?","premium":"false","positive":"true"},{"id":21488,"preset_id":1039,"cat_emoji":"0001F3C9","lang":"ES","category":"Deportes americanos","text":"Where's your defense?","premium":"false","positive":"true"},{"id":21489,"preset_id":1039,"cat_emoji":"0001F3C9","lang":"DE","category":"Amerikanische Sportarten","text":"Where's your defense?","premium":"false","positive":"true"},{"id":21490,"preset_id":1039,"cat_emoji":"0001F3C9","lang":"PL","category":"Amerykańskie sporty","text":"Where's your defense?","premium":"false","positive":"true"},{"id":21491,"preset_id":1039,"cat_emoji":"0001F3C9","lang":"RU","category":"Американские виды спорта","text":"Where's your defense?","premium":"false","positive":"true"},{"id":21492,"preset_id":1039,"cat_emoji":"0001F3C9","lang":"PT","category":"Esportes americanos","text":"Where's your defense?","premium":"false","positive":"true"},{"id":21493,"preset_id":1039,"cat_emoji":"0001F3C9","lang":"CN","category":"美国体育","text":"Where's your defense?","premium":"false","positive":"true"}]
+[
+  {
+    "id": 21487,
+    "preset_id": 1039,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "text": "Where's your defense?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21488,
+    "preset_id": 1039,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "text": "Where's your defense?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21489,
+    "preset_id": 1039,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "text": "Where's your defense?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21490,
+    "preset_id": 1039,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "text": "Where's your defense?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21491,
+    "preset_id": 1039,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "text": "Where's your defense?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21492,
+    "preset_id": 1039,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "text": "Where's your defense?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21493,
+    "preset_id": 1039,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "text": "Where's your defense?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  }
+]

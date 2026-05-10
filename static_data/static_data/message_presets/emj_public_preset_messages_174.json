@@ -1,1 +1,72 @@
-[{"id":10316,"text":"Tak si\u0119 ciesz\u0119, \u017ce odpowiedzia\u0142e\u015b\/odpowiedzia\u0142a\u015b","category":"Powt\u00f3rka: przyjazny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":174},{"id":8146,"text":"Ich freue mich so sehr, dass du geantwortet hast","category":"Antwort: Freundlich","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":174},{"id":9014,"text":"Estou muito feliz por teres respondido","category":"Resposta: amig\u00e1vel","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":174},{"id":8580,"text":"\u042f \u0442\u0430\u043a \u0440\u0430\u0434 (\u0440\u0430\u0434\u0430), \u0447\u0442\u043e \u0442\u044b \u043e\u0442\u0432\u0435\u0442\u0438\u043b (\u043e\u0442\u0432\u0435\u0442\u0438\u043b\u0430)","category":"\u041e\u0442\u0432\u0435\u0442: \u0414\u0440\u0443\u0436\u0435\u043b\u044e\u0431\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":174},{"id":9882,"text":"Me alegra que hayas respondido","category":"Respuesta: amistoso","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":174},{"id":9448,"text":"\u4f60\u80fd\u56de\u590d\u6211\u5f88\u5f00\u5fc3","category":"\u56de\u590d\uff1a\u53cb\u5584\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":174},{"id":7712,"text":"I'm so happy you replied","category":"Reply: Friendly","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":174}]
+[
+  {
+    "preset_id": 174,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I'm so happy you replied",
+    "premium": false,
+    "positive": true,
+    "id": 7712
+  },
+  {
+    "id": 10316,
+    "text": "Tak się cieszę, że odpowiedziałeś/odpowiedziałaś",
+    "category": "Powtórka: przyjazny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 174
+  },
+  {
+    "id": 8146,
+    "text": "Ich freue mich so sehr, dass du geantwortet hast",
+    "category": "Antwort: Freundlich",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 174
+  },
+  {
+    "id": 9014,
+    "text": "Estou muito feliz por teres respondido",
+    "category": "Resposta: amigável",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 174
+  },
+  {
+    "id": 8580,
+    "text": "Я так рад (рада), что ты ответил (ответила)",
+    "category": "Ответ: Дружелюбный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 174
+  },
+  {
+    "id": 9882,
+    "text": "Me alegra que hayas respondido",
+    "category": "Respuesta: amistoso",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 174
+  },
+  {
+    "id": 9448,
+    "text": "你能回复我很开心",
+    "category": "回复：友善用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 174
+  }
+]

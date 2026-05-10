@@ -1,1 +1,86 @@
-[{"id":567,"preset_id":81,"cat_emoji":"🇦🇷","lang":"EN","category":"Argentine Football Teams","text":"Sarmiento","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":568,"preset_id":81,"cat_emoji":"🇦🇷","lang":"ES","category":"Equipos de Fútbol Argentinos","text":"Sarmiento","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":569,"preset_id":81,"cat_emoji":"🇦🇷","lang":"DE","category":"Argentinische Fußballmannschaften","text":"Sarmiento","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":570,"preset_id":81,"cat_emoji":"🇦🇷","lang":"PL","category":"Argentyńskie drużyny piłkarskie","text":"Sarmiento","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":571,"preset_id":81,"cat_emoji":"🇦🇷","lang":"RU","category":"Аргентинские футбольные команды","text":"Sarmiento","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":572,"preset_id":81,"cat_emoji":"🇦🇷","lang":"PT","category":"Times de futebol argentinos","text":"Sarmiento","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":573,"preset_id":81,"cat_emoji":"🇦🇷","lang":"CN","category":"阿根廷足球队","text":"Sarmiento","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"}]
+[
+  {
+    "id": 567,
+    "preset_id": 81,
+    "cat_emoji": "🇦🇷",
+    "lang": "EN",
+    "category": "Argentine Football Teams",
+    "text": "Rosario Central",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 568,
+    "preset_id": 81,
+    "cat_emoji": "🇦🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Argentinos",
+    "text": "Rosario Central",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 569,
+    "preset_id": 81,
+    "cat_emoji": "🇦🇷",
+    "lang": "DE",
+    "category": "Argentinische Fußballmannschaften",
+    "text": "Rosario Central",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 570,
+    "preset_id": 81,
+    "cat_emoji": "🇦🇷",
+    "lang": "PL",
+    "category": "Argentyńskie drużyny piłkarskie",
+    "text": "Rosario Central",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 571,
+    "preset_id": 81,
+    "cat_emoji": "🇦🇷",
+    "lang": "RU",
+    "category": "Аргентинские футбольные команды",
+    "text": "Rosario Central",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 572,
+    "preset_id": 81,
+    "cat_emoji": "🇦🇷",
+    "lang": "PT",
+    "category": "Times de futebol argentinos",
+    "text": "Rosario Central",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 573,
+    "preset_id": 81,
+    "cat_emoji": "🇦🇷",
+    "lang": "CN",
+    "category": "阿根廷足球队",
+    "text": "Rosario Central",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  }
+]

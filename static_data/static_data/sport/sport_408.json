@@ -1,1 +1,86 @@
-[{"id":2856,"preset_id":408,"cat_emoji":"🇭🇺","lang":"EN","category":"Hungarian Football Teams","text":"Puskás Akadémia","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":2857,"preset_id":408,"cat_emoji":"🇭🇺","lang":"ES","category":"Equipos de Fútbol Húngaros","text":"Puskás Akadémia","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":2858,"preset_id":408,"cat_emoji":"🇭🇺","lang":"DE","category":"Ungarische Fußballmannschaften","text":"Puskás Akadémia","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":2859,"preset_id":408,"cat_emoji":"🇭🇺","lang":"PL","category":"Węgierskie drużyny piłkarskie","text":"Puskás Akadémia","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":2860,"preset_id":408,"cat_emoji":"🇭🇺","lang":"RU","category":"Венгерские футбольные команды","text":"Puskás Akadémia","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":2861,"preset_id":408,"cat_emoji":"🇭🇺","lang":"PT","category":"Times de futebol húngaros","text":"Puskás Akadémia","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":2862,"preset_id":408,"cat_emoji":"🇭🇺","lang":"CN","category":"匈牙利足球队","text":"Puskás Akadémia","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"}]
+[
+  {
+    "id": 2856,
+    "preset_id": 408,
+    "cat_emoji": "🇭🇺",
+    "lang": "EN",
+    "category": "Hungarian Football Teams",
+    "text": "MTK Budapest",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2857,
+    "preset_id": 408,
+    "cat_emoji": "🇭🇺",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Húngaros",
+    "text": "MTK Budapest",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2858,
+    "preset_id": 408,
+    "cat_emoji": "🇭🇺",
+    "lang": "DE",
+    "category": "Ungarische Fußballmannschaften",
+    "text": "MTK Budapest",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2859,
+    "preset_id": 408,
+    "cat_emoji": "🇭🇺",
+    "lang": "PL",
+    "category": "Węgierskie drużyny piłkarskie",
+    "text": "MTK Budapest",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2860,
+    "preset_id": 408,
+    "cat_emoji": "🇭🇺",
+    "lang": "RU",
+    "category": "Венгерские футбольные команды",
+    "text": "MTK Budapest",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2861,
+    "preset_id": 408,
+    "cat_emoji": "🇭🇺",
+    "lang": "PT",
+    "category": "Times de futebol húngaros",
+    "text": "MTK Budapest",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2862,
+    "preset_id": 408,
+    "cat_emoji": "🇭🇺",
+    "lang": "CN",
+    "category": "匈牙利足球队",
+    "text": "MTK Budapest",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  }
+]

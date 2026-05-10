@@ -1,1 +1,72 @@
-[{"id":7912,"text":"Your products are useless","category":"Work","positive":false,"premium":false,"lang":"EN","cat_emoji":"1F5C2","preset_id":374},{"id":8346,"text":"Deine Produkte sind unbrauchbar","category":"Arbeit","positive":false,"premium":false,"lang":"DE","cat_emoji":"1F5C2","preset_id":374},{"id":8780,"text":"\u0412\u0430\u0448\u0438 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u044b \u0431\u0435\u0441\u043f\u043e\u043b\u0435\u0437\u043d\u044b","category":"\u0420\u0430\u0431\u043e\u0442\u0430","positive":false,"premium":false,"lang":"RU","cat_emoji":"1F5C2","preset_id":374},{"id":9214,"text":"Os teus produtos s\u00e3o in\u00fateis","category":"Trabalho","positive":false,"premium":false,"lang":"PT","cat_emoji":"1F5C2","preset_id":374},{"id":9648,"text":"\u4f60\u7684\u4ea7\u54c1\u6beb\u65e0\u7528\u5904","category":"\u5de5\u4f5c","positive":false,"premium":false,"lang":"CN","cat_emoji":"1F5C2","preset_id":374},{"id":10082,"text":"Tus productos son in\u00fatiles","category":"Trabajo","positive":false,"premium":false,"lang":"ES","cat_emoji":"1F5C2","preset_id":374},{"id":10516,"text":"Twoje produkty s\u0105 bezu\u017cyteczne","category":"Praca","positive":false,"premium":false,"lang":"PL","cat_emoji":"1F5C2","preset_id":374}]
+[
+  {
+    "preset_id": 374,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Your products are useless",
+    "premium": false,
+    "positive": false,
+    "id": 7912
+  },
+  {
+    "id": 8346,
+    "text": "Deine Produkte sind unbrauchbar",
+    "category": "Arbeit",
+    "positive": false,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F5C2",
+    "preset_id": 374
+  },
+  {
+    "id": 8780,
+    "text": "Ваши продукты бесполезны",
+    "category": "Работа",
+    "positive": false,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F5C2",
+    "preset_id": 374
+  },
+  {
+    "id": 9214,
+    "text": "Os teus produtos são inúteis",
+    "category": "Trabalho",
+    "positive": false,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F5C2",
+    "preset_id": 374
+  },
+  {
+    "id": 9648,
+    "text": "你的产品毫无用处",
+    "category": "工作",
+    "positive": false,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F5C2",
+    "preset_id": 374
+  },
+  {
+    "id": 10082,
+    "text": "Tus productos son inútiles",
+    "category": "Trabajo",
+    "positive": false,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F5C2",
+    "preset_id": 374
+  },
+  {
+    "id": 10516,
+    "text": "Twoje produkty są bezużyteczne",
+    "category": "Praca",
+    "positive": false,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F5C2",
+    "preset_id": 374
+  }
+]

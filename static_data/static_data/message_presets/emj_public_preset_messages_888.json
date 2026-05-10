@@ -1,1 +1,86 @@
-[{"id":20430,"preset_id":888,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"I've seen better performances at a school play.","premium":"false","positive":"true","header":"insult"},{"id":20431,"preset_id":888,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"He visto mejores actuaciones en una obra escolar.","premium":"false","positive":"true","header":"insultante"},{"id":20432,"preset_id":888,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"Ich habe schon bessere Aufführungen bei einer Schulaufführung gesehen.","premium":"false","positive":"true","header":"Beleidigend"},{"id":20433,"preset_id":888,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"Widziałem lepsze występy w szkolnym przedstawieniu.","premium":"false","positive":"true","header":"Obraźliwy"},{"id":20434,"preset_id":888,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"Я видел лучшие постановки на школьных спектаклях.","premium":"false","positive":"true","header":"Оскорбительный"},{"id":20435,"preset_id":888,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"Já vi melhores actuações numa peça da escola.","premium":"false","positive":"true","header":"Insultuoso"},{"id":20436,"preset_id":888,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"我在学校演出中见过更好的表演。","premium":"false","positive":"true","header":"侮辱"}]
+[
+  {
+    "id": 20430,
+    "preset_id": 888,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "I've seen better performances at a school play.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insult"
+  },
+  {
+    "id": 20431,
+    "preset_id": 888,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "He visto mejores actuaciones en una obra escolar.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultante"
+  },
+  {
+    "id": 20432,
+    "preset_id": 888,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Ich habe schon bessere Aufführungen bei einer Schulaufführung gesehen.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Beleidigend"
+  },
+  {
+    "id": 20433,
+    "preset_id": 888,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Widziałem lepsze występy w szkolnym przedstawieniu.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Obraźliwy"
+  },
+  {
+    "id": 20434,
+    "preset_id": 888,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Я видел лучшие постановки на школьных спектаклях.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Оскорбительный"
+  },
+  {
+    "id": 20435,
+    "preset_id": 888,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Já vi melhores actuações numa peça da escola.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultuoso"
+  },
+  {
+    "id": 20436,
+    "preset_id": 888,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "我在学校演出中见过更好的表演。",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "侮辱"
+  }
+]

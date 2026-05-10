@@ -1,1 +1,86 @@
-[{"id":3206,"preset_id":458,"cat_emoji":"🏈","lang":"EN","category":"NFL American Football Teams","text":"New York Red Bulls","premium":"false","positive":"true","msg_emoji":"🏈","continent":"American"},{"id":3207,"preset_id":458,"cat_emoji":"🏈","lang":"ES","category":"Equipos de Fútbol Americano de la NFL","text":"New York Red Bulls","premium":"false","positive":"true","msg_emoji":"🏈","continent":"American"},{"id":3208,"preset_id":458,"cat_emoji":"🏈","lang":"DE","category":"NFL American Football Teams","text":"New York Red Bulls","premium":"false","positive":"true","msg_emoji":"🏈","continent":"American"},{"id":3209,"preset_id":458,"cat_emoji":"🏈","lang":"PL","category":"Drużyny futbolu amerykańskiego NFL","text":"New York Red Bulls","premium":"false","positive":"true","msg_emoji":"🏈","continent":"American"},{"id":3210,"preset_id":458,"cat_emoji":"🏈","lang":"RU","category":"Команды Национальной футбольной лиги NFL","text":"New York Red Bulls","premium":"false","positive":"true","msg_emoji":"🏈","continent":"American"},{"id":3211,"preset_id":458,"cat_emoji":"🏈","lang":"PT","category":"Times de Futebol Americano da NFL","text":"New York Red Bulls","premium":"false","positive":"true","msg_emoji":"🏈","continent":"American"},{"id":3212,"preset_id":458,"cat_emoji":"🏈","lang":"CN","category":"NFL美式橄榄球队","text":"New York Red Bulls","premium":"false","positive":"true","msg_emoji":"🏈","continent":"American"}]
+[
+  {
+    "id": 3206,
+    "preset_id": 458,
+    "cat_emoji": "🏈",
+    "lang": "EN",
+    "category": "NFL American Football Teams",
+    "text": "Real Salt Lake",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏈",
+    "continent": "American"
+  },
+  {
+    "id": 3207,
+    "preset_id": 458,
+    "cat_emoji": "🏈",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Americano de la NFL",
+    "text": "Real Salt Lake",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏈",
+    "continent": "American"
+  },
+  {
+    "id": 3208,
+    "preset_id": 458,
+    "cat_emoji": "🏈",
+    "lang": "DE",
+    "category": "NFL American Football Teams",
+    "text": "Real Salt Lake",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏈",
+    "continent": "American"
+  },
+  {
+    "id": 3209,
+    "preset_id": 458,
+    "cat_emoji": "🏈",
+    "lang": "PL",
+    "category": "Drużyny futbolu amerykańskiego NFL",
+    "text": "Real Salt Lake",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏈",
+    "continent": "American"
+  },
+  {
+    "id": 3210,
+    "preset_id": 458,
+    "cat_emoji": "🏈",
+    "lang": "RU",
+    "category": "Команды Национальной футбольной лиги NFL",
+    "text": "Real Salt Lake",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏈",
+    "continent": "American"
+  },
+  {
+    "id": 3211,
+    "preset_id": 458,
+    "cat_emoji": "🏈",
+    "lang": "PT",
+    "category": "Times de Futebol Americano da NFL",
+    "text": "Real Salt Lake",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏈",
+    "continent": "American"
+  },
+  {
+    "id": 3212,
+    "preset_id": 458,
+    "cat_emoji": "🏈",
+    "lang": "CN",
+    "category": "NFL美式橄榄球队",
+    "text": "Real Salt Lake",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏈",
+    "continent": "American"
+  }
+]

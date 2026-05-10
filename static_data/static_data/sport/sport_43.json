@@ -1,1 +1,86 @@
-[{"id":301,"preset_id":43,"cat_emoji":"⚽","lang":"EN","category":"National football teams","text":"Swiss football team","premium":"false","positive":"true","msg_emoji":"🇨🇭","continent":"European"},{"id":302,"preset_id":43,"cat_emoji":"⚽","lang":"ES","category":"Selección nacional de fútbol","text":"Equipo de fútbol Suizo","premium":"false","positive":"true","msg_emoji":"🇨🇭","continent":"European"},{"id":303,"preset_id":43,"cat_emoji":"⚽","lang":"DE","category":"Nationale Fußballmannschaft","text":"Schweizer Fußballmannschaft","premium":"false","positive":"true","msg_emoji":"🇨🇭","continent":"European"},{"id":304,"preset_id":43,"cat_emoji":"⚽","lang":"PL","category":"Narodowa drużyna piłkarska","text":"Szwajcarska drużyna piłkarska","premium":"false","positive":"true","msg_emoji":"🇨🇭","continent":"European"},{"id":305,"preset_id":43,"cat_emoji":"⚽","lang":"RU","category":"национальная сборная по футболу","text":"Швейцарская футбольная команда","premium":"false","positive":"true","msg_emoji":"🇨🇭","continent":"European"},{"id":306,"preset_id":43,"cat_emoji":"⚽","lang":"PT","category":"Seleção nacional de futebol","text":"Seleção Suíça de futebol","premium":"false","positive":"true","msg_emoji":"🇨🇭","continent":"European"},{"id":307,"preset_id":43,"cat_emoji":"⚽","lang":"CN","category":"国家足球队","text":"瑞士足球队","premium":"false","positive":"true","msg_emoji":"🇨🇭","continent":"European"}]
+[
+  {
+    "id": 301,
+    "preset_id": 43,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "National football teams",
+    "text": "Senegalese football team",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇸🇬",
+    "continent": "European"
+  },
+  {
+    "id": 302,
+    "preset_id": 43,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Selección nacional de fútbol",
+    "text": "Equipo de fútbol Senegalés",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇸🇬",
+    "continent": "European"
+  },
+  {
+    "id": 303,
+    "preset_id": 43,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Nationale Fußballmannschaft",
+    "text": "Senegalesische Fußballmannschaft",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇸🇬",
+    "continent": "European"
+  },
+  {
+    "id": 304,
+    "preset_id": 43,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Narodowa drużyna piłkarska",
+    "text": "Senegalska drużyna piłkarska",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇸🇬",
+    "continent": "European"
+  },
+  {
+    "id": 305,
+    "preset_id": 43,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "национальная сборная по футболу",
+    "text": "Сенегальская футбольная команда",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇸🇬",
+    "continent": "European"
+  },
+  {
+    "id": 306,
+    "preset_id": 43,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Seleção nacional de futebol",
+    "text": "Seleção Senegalesa de Futebol",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇸🇬",
+    "continent": "European"
+  },
+  {
+    "id": 307,
+    "preset_id": 43,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "国家足球队",
+    "text": "塞内加尔足球队",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇸🇬",
+    "continent": "European"
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":2534,"preset_id":362,"cat_emoji":"🇩🇪","lang":"EN","category":"German Football Teams","text":"VfB Stuttgart","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2535,"preset_id":362,"cat_emoji":"🇩🇪","lang":"ES","category":"Equipos de Fútbol Alemanes","text":"VfB Stuttgart","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2536,"preset_id":362,"cat_emoji":"🇩🇪","lang":"DE","category":"Deutsche Fußballmannschaften","text":"VfB Stuttgart","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2537,"preset_id":362,"cat_emoji":"🇩🇪","lang":"PL","category":"Niemieckie drużyny piłkarskie","text":"VfB Stuttgart","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2538,"preset_id":362,"cat_emoji":"🇩🇪","lang":"RU","category":"Немецкие футбольные команды","text":"VfB Stuttgart","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2539,"preset_id":362,"cat_emoji":"🇩🇪","lang":"PT","category":"Times de futebol alemães","text":"VfB Stuttgart","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2540,"preset_id":362,"cat_emoji":"🇩🇪","lang":"CN","category":"德国足球队","text":"VfB Stuttgart","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"}]
+[
+  {
+    "id": 2534,
+    "preset_id": 362,
+    "cat_emoji": "🇩🇪",
+    "lang": "EN",
+    "category": "German Football Teams",
+    "text": "SC Freiburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2535,
+    "preset_id": 362,
+    "cat_emoji": "🇩🇪",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Alemanes",
+    "text": "SC Freiburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2536,
+    "preset_id": 362,
+    "cat_emoji": "🇩🇪",
+    "lang": "DE",
+    "category": "Deutsche Fußballmannschaften",
+    "text": "SC Freiburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2537,
+    "preset_id": 362,
+    "cat_emoji": "🇩🇪",
+    "lang": "PL",
+    "category": "Niemieckie drużyny piłkarskie",
+    "text": "SC Freiburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2538,
+    "preset_id": 362,
+    "cat_emoji": "🇩🇪",
+    "lang": "RU",
+    "category": "Немецкие футбольные команды",
+    "text": "SC Freiburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2539,
+    "preset_id": 362,
+    "cat_emoji": "🇩🇪",
+    "lang": "PT",
+    "category": "Times de futebol alemães",
+    "text": "SC Freiburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2540,
+    "preset_id": 362,
+    "cat_emoji": "🇩🇪",
+    "lang": "CN",
+    "category": "德国足球队",
+    "text": "SC Freiburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  }
+]

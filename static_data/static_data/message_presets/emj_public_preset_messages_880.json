@@ -1,1 +1,86 @@
-[{"id":20374,"preset_id":880,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"are going to get relegated.","premium":"false","positive":"true","header":"insult"},{"id":20375,"preset_id":880,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"van a descender.","premium":"false","positive":"true","header":"insultante"},{"id":20376,"preset_id":880,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"werden absteigen.","premium":"false","positive":"true","header":"Beleidigend"},{"id":20377,"preset_id":880,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"spadną z ligi.","premium":"false","positive":"true","header":"Obraźliwy"},{"id":20378,"preset_id":880,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"вылетят из турнира.","premium":"false","positive":"true","header":"Оскорбительный"},{"id":20379,"preset_id":880,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"vão ser despromovidos.","premium":"false","positive":"true","header":"Insultuoso"},{"id":20380,"preset_id":880,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"将要降级。","premium":"false","positive":"true","header":"侮辱"}]
+[
+  {
+    "id": 20374,
+    "preset_id": 880,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "are going to get relegated.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insult"
+  },
+  {
+    "id": 20375,
+    "preset_id": 880,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "van a descender.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultante"
+  },
+  {
+    "id": 20376,
+    "preset_id": 880,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "werden absteigen.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Beleidigend"
+  },
+  {
+    "id": 20377,
+    "preset_id": 880,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "spadną z ligi.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Obraźliwy"
+  },
+  {
+    "id": 20378,
+    "preset_id": 880,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "вылетят из турнира.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Оскорбительный"
+  },
+  {
+    "id": 20379,
+    "preset_id": 880,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "vão ser despromovidos.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultuoso"
+  },
+  {
+    "id": 20380,
+    "preset_id": 880,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "将要降级。",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "侮辱"
+  }
+]

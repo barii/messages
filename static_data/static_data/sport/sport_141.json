@@ -1,1 +1,86 @@
-[{"id":987,"preset_id":141,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"EN","category":"English Football Teams","text":"Arsenal","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":988,"preset_id":141,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"ES","category":"Equipos de Fútbol Ingleses","text":"Arsenal","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":989,"preset_id":141,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"DE","category":"Englische Fußballmannschaften","text":"Arsenal","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":990,"preset_id":141,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"PL","category":"Angielskie drużyny piłkarskie","text":"Arsenal","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":991,"preset_id":141,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"RU","category":"Английские футбольные команды","text":"Arsenal","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":992,"preset_id":141,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"PT","category":"Times de futebol ingleses","text":"Arsenal","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":993,"preset_id":141,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"CN","category":"英格兰足球队","text":"Arsenal","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"}]
+[
+  {
+    "id": 987,
+    "preset_id": 141,
+    "cat_emoji": "🇧🇪",
+    "lang": "EN",
+    "category": "Belgian Football Teams",
+    "text": "Union Saint-Gilloise",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇪",
+    "continent": "European"
+  },
+  {
+    "id": 988,
+    "preset_id": 141,
+    "cat_emoji": "🇧🇪",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Belgas",
+    "text": "Union Saint-Gilloise",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇪",
+    "continent": "European"
+  },
+  {
+    "id": 989,
+    "preset_id": 141,
+    "cat_emoji": "🇧🇪",
+    "lang": "DE",
+    "category": "Belgische Fußballmannschaften",
+    "text": "Union Saint-Gilloise",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇪",
+    "continent": "European"
+  },
+  {
+    "id": 990,
+    "preset_id": 141,
+    "cat_emoji": "🇧🇪",
+    "lang": "PL",
+    "category": "Belgijskie drużyny piłkarskie",
+    "text": "Union Saint-Gilloise",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇪",
+    "continent": "European"
+  },
+  {
+    "id": 991,
+    "preset_id": 141,
+    "cat_emoji": "🇧🇪",
+    "lang": "RU",
+    "category": "Бельгийские футбольные команды",
+    "text": "Union Saint-Gilloise",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇪",
+    "continent": "European"
+  },
+  {
+    "id": 992,
+    "preset_id": 141,
+    "cat_emoji": "🇧🇪",
+    "lang": "PT",
+    "category": "Times de futebol belgas",
+    "text": "Union Saint-Gilloise",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇪",
+    "continent": "European"
+  },
+  {
+    "id": 993,
+    "preset_id": 141,
+    "cat_emoji": "🇧🇪",
+    "lang": "CN",
+    "category": "比利时足球队",
+    "text": "Union Saint-Gilloise",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇪",
+    "continent": "European"
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":770,"preset_id":110,"cat_emoji":"🇧🇷","lang":"EN","category":"Brazilian Football Teams","text":"Corinthians","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":771,"preset_id":110,"cat_emoji":"🇧🇷","lang":"ES","category":"Equipos de Fútbol Brasileños","text":"Corinthians","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":772,"preset_id":110,"cat_emoji":"🇧🇷","lang":"DE","category":"Brasilianische Fußballmannschaften","text":"Corinthians","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":773,"preset_id":110,"cat_emoji":"🇧🇷","lang":"PL","category":"Brazylijskie drużyny piłkarskie","text":"Corinthians","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":774,"preset_id":110,"cat_emoji":"🇧🇷","lang":"RU","category":"Бразильские футбольные команды","text":"Corinthians","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":775,"preset_id":110,"cat_emoji":"🇧🇷","lang":"PT","category":"Times de futebol brasileiros","text":"Corinthians","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":776,"preset_id":110,"cat_emoji":"🇧🇷","lang":"CN","category":"巴西足球队","text":"Corinthians","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"}]
+[
+  {
+    "id": 770,
+    "preset_id": 110,
+    "cat_emoji": "🇧🇷",
+    "lang": "EN",
+    "category": "Brazilian Football Teams",
+    "text": "Bahia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 771,
+    "preset_id": 110,
+    "cat_emoji": "🇧🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Brasileños",
+    "text": "Bahia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 772,
+    "preset_id": 110,
+    "cat_emoji": "🇧🇷",
+    "lang": "DE",
+    "category": "Brasilianische Fußballmannschaften",
+    "text": "Bahia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 773,
+    "preset_id": 110,
+    "cat_emoji": "🇧🇷",
+    "lang": "PL",
+    "category": "Brazylijskie drużyny piłkarskie",
+    "text": "Bahia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 774,
+    "preset_id": 110,
+    "cat_emoji": "🇧🇷",
+    "lang": "RU",
+    "category": "Бразильские футбольные команды",
+    "text": "Bahia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 775,
+    "preset_id": 110,
+    "cat_emoji": "🇧🇷",
+    "lang": "PT",
+    "category": "Times de futebol brasileiros",
+    "text": "Bahia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 776,
+    "preset_id": 110,
+    "cat_emoji": "🇧🇷",
+    "lang": "CN",
+    "category": "巴西足球队",
+    "text": "Bahia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":2359,"preset_id":337,"cat_emoji":"🇺🇾","lang":"EN","category":"Uruguayan Football Teams","text":"Fénix","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2360,"preset_id":337,"cat_emoji":"🇺🇾","lang":"ES","category":"Equipos de Fútbol Uruguayos","text":"Fénix","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2361,"preset_id":337,"cat_emoji":"🇺🇾","lang":"DE","category":"Uruguayanische Fußballmannschaften","text":"Fénix","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2362,"preset_id":337,"cat_emoji":"🇺🇾","lang":"PL","category":"Urugwajskie drużyny piłkarskie","text":"Fénix","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2363,"preset_id":337,"cat_emoji":"🇺🇾","lang":"RU","category":"Уругвайские футбольные команды","text":"Fénix","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2364,"preset_id":337,"cat_emoji":"🇺🇾","lang":"PT","category":"Times de futebol uruguaios","text":"Fénix","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2365,"preset_id":337,"cat_emoji":"🇺🇾","lang":"CN","category":"乌拉圭足球队","text":"Fénix","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"}]
+[
+  {
+    "id": 2359,
+    "preset_id": 337,
+    "cat_emoji": "🇺🇾",
+    "lang": "EN",
+    "category": "Uruguayan Football Teams",
+    "text": "Defensor Sporting",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2360,
+    "preset_id": 337,
+    "cat_emoji": "🇺🇾",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Uruguayos",
+    "text": "Defensor Sporting",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2361,
+    "preset_id": 337,
+    "cat_emoji": "🇺🇾",
+    "lang": "DE",
+    "category": "Uruguayanische Fußballmannschaften",
+    "text": "Defensor Sporting",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2362,
+    "preset_id": 337,
+    "cat_emoji": "🇺🇾",
+    "lang": "PL",
+    "category": "Urugwajskie drużyny piłkarskie",
+    "text": "Defensor Sporting",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2363,
+    "preset_id": 337,
+    "cat_emoji": "🇺🇾",
+    "lang": "RU",
+    "category": "Уругвайские футбольные команды",
+    "text": "Defensor Sporting",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2364,
+    "preset_id": 337,
+    "cat_emoji": "🇺🇾",
+    "lang": "PT",
+    "category": "Times de futebol uruguaios",
+    "text": "Defensor Sporting",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2365,
+    "preset_id": 337,
+    "cat_emoji": "🇺🇾",
+    "lang": "CN",
+    "category": "乌拉圭足球队",
+    "text": "Defensor Sporting",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  }
+]

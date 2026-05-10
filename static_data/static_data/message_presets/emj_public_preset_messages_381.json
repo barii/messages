@@ -1,1 +1,72 @@
-[{"id":7919,"text":"You're the cruellest boss ever","category":"Work","positive":false,"premium":false,"lang":"EN","cat_emoji":"1F5C2","preset_id":381},{"id":10089,"text":"No ha habido jefe m\u00e1s cruel que t\u00fa","category":"Trabajo","positive":false,"premium":false,"lang":"ES","cat_emoji":"1F5C2","preset_id":381},{"id":10523,"text":"Jeste\u015b najbardziej okrutnym szefem\/najbardziej okrutn\u0105 szefow\u0105 wszech czas\u00f3w","category":"Praca","positive":false,"premium":false,"lang":"PL","cat_emoji":"1F5C2","preset_id":381},{"id":8353,"text":"Du bist der gemeinste Chef\/die gemeinste Chefin der Welt","category":"Arbeit","positive":false,"premium":false,"lang":"DE","cat_emoji":"1F5C2","preset_id":381},{"id":8787,"text":"\u0412\u044b \u0441\u0430\u043c\u044b\u0439 \u0431\u0435\u0441\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u043d\u044b\u0439 \u0431\u043e\u0441\u0441","category":"\u0420\u0430\u0431\u043e\u0442\u0430","positive":false,"premium":false,"lang":"RU","cat_emoji":"1F5C2","preset_id":381},{"id":9221,"text":"\u00c9s o\/a chefe mais cruel de sempre","category":"Trabalho","positive":false,"premium":false,"lang":"PT","cat_emoji":"1F5C2","preset_id":381},{"id":9655,"text":"\u4f60\u662f\u6709\u53f2\u4ee5\u6765\u6700\u6b8b\u5fcd\u7684\u8001\u677f","category":"\u5de5\u4f5c","positive":false,"premium":false,"lang":"CN","cat_emoji":"1F5C2","preset_id":381}]
+[
+  {
+    "preset_id": 381,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "You're the cruellest boss ever",
+    "premium": false,
+    "positive": false,
+    "id": 7919
+  },
+  {
+    "id": 10089,
+    "text": "No ha habido jefe más cruel que tú",
+    "category": "Trabajo",
+    "positive": false,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F5C2",
+    "preset_id": 381
+  },
+  {
+    "id": 10523,
+    "text": "Jesteś najbardziej okrutnym szefem/najbardziej okrutną szefową wszech czasów",
+    "category": "Praca",
+    "positive": false,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F5C2",
+    "preset_id": 381
+  },
+  {
+    "id": 8353,
+    "text": "Du bist der gemeinste Chef/die gemeinste Chefin der Welt",
+    "category": "Arbeit",
+    "positive": false,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F5C2",
+    "preset_id": 381
+  },
+  {
+    "id": 8787,
+    "text": "Вы самый бесчеловечный босс",
+    "category": "Работа",
+    "positive": false,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F5C2",
+    "preset_id": 381
+  },
+  {
+    "id": 9221,
+    "text": "És o/a chefe mais cruel de sempre",
+    "category": "Trabalho",
+    "positive": false,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F5C2",
+    "preset_id": 381
+  },
+  {
+    "id": 9655,
+    "text": "你是有史以来最残忍的老板",
+    "category": "工作",
+    "positive": false,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F5C2",
+    "preset_id": 381
+  }
+]

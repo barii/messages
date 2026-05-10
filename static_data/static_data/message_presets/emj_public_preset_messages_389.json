@@ -1,1 +1,72 @@
-[{"id":10531,"text":"Jestem rozczarowany\/rozczarowana brakiem profesjonalizmu Twoich pracownik\u00f3w","category":"Praca","positive":false,"premium":false,"lang":"PL","cat_emoji":"1F5C2","preset_id":389},{"id":7927,"text":"I am disappointed with your staff's lack of professionalism","category":"Work","positive":false,"premium":false,"lang":"EN","cat_emoji":"1F5C2","preset_id":389},{"id":8795,"text":"\u042f \u0440\u0430\u0437\u043e\u0447\u0430\u0440\u043e\u0432\u0430\u043d (-\u0430) \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0435\u043c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u0438\u0437\u043c\u0430 \u0443 \u0432\u0430\u0448\u0435\u0433\u043e \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u0430","category":"\u0420\u0430\u0431\u043e\u0442\u0430","positive":false,"premium":false,"lang":"RU","cat_emoji":"1F5C2","preset_id":389},{"id":10097,"text":"Me ha decepcionado mucho la falta de profesionalidad de tu personal","category":"Trabajo","positive":false,"premium":false,"lang":"ES","cat_emoji":"1F5C2","preset_id":389},{"id":9229,"text":"Estou bastante desapontado\/a com a falta de profissionalismo da tua equipa","category":"Trabalho","positive":false,"premium":false,"lang":"PT","cat_emoji":"1F5C2","preset_id":389},{"id":9663,"text":"\u6211\u5bf9\u4f60\u7684\u5458\u5de5\u7f3a\u4e4f\u4e13\u4e1a\u7d20\u517b\u975e\u5e38\u5931\u671b","category":"\u5de5\u4f5c","positive":false,"premium":false,"lang":"CN","cat_emoji":"1F5C2","preset_id":389},{"id":8361,"text":"Ich bin entt\u00e4uscht vom unprofessionellen Verhalten deiner Mitarbeiter","category":"Arbeit","positive":false,"premium":false,"lang":"DE","cat_emoji":"1F5C2","preset_id":389}]
+[
+  {
+    "preset_id": 389,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "I am disappointed with your staff's lack of professionalism",
+    "premium": false,
+    "positive": false,
+    "id": 7927
+  },
+  {
+    "id": 10531,
+    "text": "Jestem rozczarowany/rozczarowana brakiem profesjonalizmu Twoich pracowników",
+    "category": "Praca",
+    "positive": false,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F5C2",
+    "preset_id": 389
+  },
+  {
+    "id": 8795,
+    "text": "Я разочарован (-а) отсутствием профессионализма у вашего персонала",
+    "category": "Работа",
+    "positive": false,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F5C2",
+    "preset_id": 389
+  },
+  {
+    "id": 10097,
+    "text": "Me ha decepcionado mucho la falta de profesionalidad de tu personal",
+    "category": "Trabajo",
+    "positive": false,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F5C2",
+    "preset_id": 389
+  },
+  {
+    "id": 9229,
+    "text": "Estou bastante desapontado/a com a falta de profissionalismo da tua equipa",
+    "category": "Trabalho",
+    "positive": false,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F5C2",
+    "preset_id": 389
+  },
+  {
+    "id": 9663,
+    "text": "我对你的员工缺乏专业素养非常失望",
+    "category": "工作",
+    "positive": false,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F5C2",
+    "preset_id": 389
+  },
+  {
+    "id": 8361,
+    "text": "Ich bin enttäuscht vom unprofessionellen Verhalten deiner Mitarbeiter",
+    "category": "Arbeit",
+    "positive": false,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F5C2",
+    "preset_id": 389
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":20598,"preset_id":912,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"your team is a mess.","premium":"false","positive":"true","header":"insult"},{"id":20599,"preset_id":912,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"tu equipo es un desastre.","premium":"false","positive":"true","header":"insultante"},{"id":20600,"preset_id":912,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"Eure Mannschaft ist eine Katastrophe.","premium":"false","positive":"true","header":"Beleidigend"},{"id":20601,"preset_id":912,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"twoja drużyna to bałagan.","premium":"false","positive":"true","header":"Obraźliwy"},{"id":20602,"preset_id":912,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"ваша команда - это бардак.","premium":"false","positive":"true","header":"Оскорбительный"},{"id":20603,"preset_id":912,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"a tua equipa é uma confusão.","premium":"false","positive":"true","header":"Insultuoso"},{"id":20604,"preset_id":912,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"你的团队一团糟。","premium":"false","positive":"true","header":"侮辱"}]
+[
+  {
+    "id": 20598,
+    "preset_id": 912,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "your team is a mess.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insult"
+  },
+  {
+    "id": 20599,
+    "preset_id": 912,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "tu equipo es un desastre.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultante"
+  },
+  {
+    "id": 20600,
+    "preset_id": 912,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Eure Mannschaft ist eine Katastrophe.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Beleidigend"
+  },
+  {
+    "id": 20601,
+    "preset_id": 912,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "twoja drużyna to bałagan.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Obraźliwy"
+  },
+  {
+    "id": 20602,
+    "preset_id": 912,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "ваша команда - это бардак.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Оскорбительный"
+  },
+  {
+    "id": 20603,
+    "preset_id": 912,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "a tua equipa é uma confusão.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultuoso"
+  },
+  {
+    "id": 20604,
+    "preset_id": 912,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "你的团队一团糟。",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "侮辱"
+  }
+]

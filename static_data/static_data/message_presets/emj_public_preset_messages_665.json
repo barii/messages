@@ -1,1 +1,72 @@
-[{"id":18964,"text":"Brilliant!","category":"Reply: Friendly","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":665},{"id":18965,"text":"Genial!","category":"Antwort: Freundlich","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":665},{"id":18966,"text":"Espetacular!","category":"Resposta: amig\u00e1vel","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":665},{"id":18967,"text":"Genialnie!","category":"Powt\u00f3rka: przyjazny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":665},{"id":18968,"text":"\u0413\u0435\u043d\u0438\u0430\u043b\u044c\u043d\u043e!","category":"\u041e\u0442\u0432\u0435\u0442: \u0414\u0440\u0443\u0436\u0435\u043b\u044e\u0431\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":665},{"id":18969,"text":"\u00a1Fant\u00e1stico!","category":"Respuesta: amistoso","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":665},{"id":18970,"text":"\u592a\u68d2\u4e86\uff01","category":"\u56de\u590d\uff1a\u53cb\u5584\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":665}]
+[
+  {
+    "preset_id": 665,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Brilliant!",
+    "premium": false,
+    "positive": true,
+    "id": 18964
+  },
+  {
+    "id": 18965,
+    "text": "Genial!",
+    "category": "Antwort: Freundlich",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 665
+  },
+  {
+    "id": 18966,
+    "text": "Espetacular!",
+    "category": "Resposta: amigável",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 665
+  },
+  {
+    "id": 18967,
+    "text": "Genialnie!",
+    "category": "Powtórka: przyjazny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 665
+  },
+  {
+    "id": 18968,
+    "text": "Гениально!",
+    "category": "Ответ: Дружелюбный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 665
+  },
+  {
+    "id": 18969,
+    "text": "¡Fantástico!",
+    "category": "Respuesta: amistoso",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 665
+  },
+  {
+    "id": 18970,
+    "text": "太棒了！",
+    "category": "回复：友善用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 665
+  }
+]

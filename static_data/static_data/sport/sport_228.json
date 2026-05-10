@@ -1,1 +1,86 @@
-[{"id":1596,"preset_id":228,"cat_emoji":"🇪🇸","lang":"EN","category":"Spanish Football Teams","text":"Almería","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"},{"id":1597,"preset_id":228,"cat_emoji":"🇪🇸","lang":"ES","category":"Equipos de Fútbol Españoles","text":"Almería","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"},{"id":1598,"preset_id":228,"cat_emoji":"🇪🇸","lang":"DE","category":"Spanische Fußballmannschaften","text":"Almería","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"},{"id":1599,"preset_id":228,"cat_emoji":"🇪🇸","lang":"PL","category":"Hiszpańskie drużyny piłkarskie","text":"Almería","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"},{"id":1600,"preset_id":228,"cat_emoji":"🇪🇸","lang":"RU","category":"Испанские футбольные команды","text":"Almería","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"},{"id":1601,"preset_id":228,"cat_emoji":"🇪🇸","lang":"PT","category":"Times de futebol espanhóis","text":"Almería","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"},{"id":1602,"preset_id":228,"cat_emoji":"🇪🇸","lang":"CN","category":"西班牙足球队","text":"Almería","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"}]
+[
+  {
+    "id": 1596,
+    "preset_id": 228,
+    "cat_emoji": "🇵🇹",
+    "lang": "EN",
+    "category": "Portuguese Football Teams",
+    "text": "Vitória de Guimarães",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1597,
+    "preset_id": 228,
+    "cat_emoji": "🇵🇹",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Portugueses",
+    "text": "Vitória de Guimarães",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1598,
+    "preset_id": 228,
+    "cat_emoji": "🇵🇹",
+    "lang": "DE",
+    "category": "Portugiesische Fußballmannschaften",
+    "text": "Vitória de Guimarães",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1599,
+    "preset_id": 228,
+    "cat_emoji": "🇵🇹",
+    "lang": "PL",
+    "category": "Portugalskie drużyny piłkarskie",
+    "text": "Vitória de Guimarães",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1600,
+    "preset_id": 228,
+    "cat_emoji": "🇵🇹",
+    "lang": "RU",
+    "category": "Португальские футбольные команды",
+    "text": "Vitória de Guimarães",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1601,
+    "preset_id": 228,
+    "cat_emoji": "🇵🇹",
+    "lang": "PT",
+    "category": "Times de futebol portugueses",
+    "text": "Vitória de Guimarães",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1602,
+    "preset_id": 228,
+    "cat_emoji": "🇵🇹",
+    "lang": "CN",
+    "category": "葡萄牙足球队",
+    "text": "Vitória de Guimarães",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  }
+]

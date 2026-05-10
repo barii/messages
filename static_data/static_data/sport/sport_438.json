@@ -1,1 +1,86 @@
-[{"id":3066,"preset_id":438,"cat_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","lang":"EN","category":"Scottish Football Teams","text":"St Mirren","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","continent":"European"},{"id":3067,"preset_id":438,"cat_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","lang":"ES","category":"Equipos de Fútbol Escoceses","text":"St Mirren","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","continent":"European"},{"id":3068,"preset_id":438,"cat_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","lang":"DE","category":"Schottische Fußballmannschaften","text":"St Mirren","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","continent":"European"},{"id":3069,"preset_id":438,"cat_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","lang":"PL","category":"Szkockie drużyny piłkarskie","text":"St Mirren","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","continent":"European"},{"id":3070,"preset_id":438,"cat_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","lang":"RU","category":"Шотландские футбольные команды","text":"St Mirren","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","continent":"European"},{"id":3071,"preset_id":438,"cat_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","lang":"PT","category":"Times de futebol escoceses","text":"St Mirren","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","continent":"European"},{"id":3072,"preset_id":438,"cat_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","lang":"CN","category":"苏格兰足球队","text":"St Mirren","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","continent":"European"}]
+[
+  {
+    "id": 3066,
+    "preset_id": 438,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "EN",
+    "category": "Scottish Football Teams",
+    "text": "Ross County",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3067,
+    "preset_id": 438,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Escoceses",
+    "text": "Ross County",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3068,
+    "preset_id": 438,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "DE",
+    "category": "Schottische Fußballmannschaften",
+    "text": "Ross County",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3069,
+    "preset_id": 438,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "PL",
+    "category": "Szkockie drużyny piłkarskie",
+    "text": "Ross County",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3070,
+    "preset_id": 438,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "RU",
+    "category": "Шотландские футбольные команды",
+    "text": "Ross County",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3071,
+    "preset_id": 438,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "PT",
+    "category": "Times de futebol escoceses",
+    "text": "Ross County",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3072,
+    "preset_id": 438,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "CN",
+    "category": "苏格兰足球队",
+    "text": "Ross County",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":1358,"preset_id":194,"cat_emoji":"🇮🇹","lang":"EN","category":"Italian Football Teams","text":"Empoli","premium":"false","positive":"true","msg_emoji":"🇮🇹","continent":"European"},{"id":1359,"preset_id":194,"cat_emoji":"🇮🇹","lang":"ES","category":"Equipos de Fútbol Italianos","text":"Empoli","premium":"false","positive":"true","msg_emoji":"🇮🇹","continent":"European"},{"id":1360,"preset_id":194,"cat_emoji":"🇮🇹","lang":"DE","category":"Italienische Fußballmannschaften","text":"Empoli","premium":"false","positive":"true","msg_emoji":"🇮🇹","continent":"European"},{"id":1361,"preset_id":194,"cat_emoji":"🇮🇹","lang":"PL","category":"Włoskie drużyny piłkarskie","text":"Empoli","premium":"false","positive":"true","msg_emoji":"🇮🇹","continent":"European"},{"id":1362,"preset_id":194,"cat_emoji":"🇮🇹","lang":"RU","category":"Итальянские футбольные команды","text":"Empoli","premium":"false","positive":"true","msg_emoji":"🇮🇹","continent":"European"},{"id":1363,"preset_id":194,"cat_emoji":"🇮🇹","lang":"PT","category":"Times de futebol italianos","text":"Empoli","premium":"false","positive":"true","msg_emoji":"🇮🇹","continent":"European"},{"id":1364,"preset_id":194,"cat_emoji":"🇮🇹","lang":"CN","category":"意大利足球队","text":"Empoli","premium":"false","positive":"true","msg_emoji":"🇮🇹","continent":"European"}]
+[
+  {
+    "id": 1358,
+    "preset_id": 194,
+    "cat_emoji": "🇮🇹",
+    "lang": "EN",
+    "category": "Italian Football Teams",
+    "text": "Cagliari",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1359,
+    "preset_id": 194,
+    "cat_emoji": "🇮🇹",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Italianos",
+    "text": "Cagliari",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1360,
+    "preset_id": 194,
+    "cat_emoji": "🇮🇹",
+    "lang": "DE",
+    "category": "Italienische Fußballmannschaften",
+    "text": "Cagliari",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1361,
+    "preset_id": 194,
+    "cat_emoji": "🇮🇹",
+    "lang": "PL",
+    "category": "Włoskie drużyny piłkarskie",
+    "text": "Cagliari",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1362,
+    "preset_id": 194,
+    "cat_emoji": "🇮🇹",
+    "lang": "RU",
+    "category": "Итальянские футбольные команды",
+    "text": "Cagliari",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1363,
+    "preset_id": 194,
+    "cat_emoji": "🇮🇹",
+    "lang": "PT",
+    "category": "Times de futebol italianos",
+    "text": "Cagliari",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1364,
+    "preset_id": 194,
+    "cat_emoji": "🇮🇹",
+    "lang": "CN",
+    "category": "意大利足球队",
+    "text": "Cagliari",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  }
+]

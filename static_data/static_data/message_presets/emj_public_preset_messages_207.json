@@ -1,1 +1,72 @@
-[{"id":7745,"text":"I have a partner","category":"Love\/Flirt","positive":true,"premium":false,"lang":"EN","cat_emoji":"2764","preset_id":207},{"id":8179,"text":"Ich habe einen Partner\/eine Partnerin","category":"Liebe\/Flirten","positive":true,"premium":false,"lang":"DE","cat_emoji":"2764","preset_id":207},{"id":8613,"text":"\u042f \u0441\u043e\u0441\u0442\u043e\u044e \u0432 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f\u0445","category":"\u041b\u044e\u0431\u043e\u0432\u044c\/\u0424\u043b\u0438\u0440\u0442","positive":true,"premium":false,"lang":"RU","cat_emoji":"2764","preset_id":207},{"id":9047,"text":"Tenho um\/a companheiro\/a","category":"Amor\/Namoriscar","positive":true,"premium":false,"lang":"PT","cat_emoji":"2764","preset_id":207},{"id":9481,"text":"\u6211\u6709\u4f34\u4fa3","category":"\u7231\/\u6311\u9017","positive":true,"premium":false,"lang":"CN","cat_emoji":"2764","preset_id":207},{"id":9915,"text":"Tengo pareja","category":"Amor\/Ligue","positive":true,"premium":false,"lang":"ES","cat_emoji":"2764","preset_id":207},{"id":10349,"text":"Mam partnera\/partnerk\u0119","category":"Mi\u0142o\u015b\u0107\/Flirt","positive":true,"premium":false,"lang":"PL","cat_emoji":"2764","preset_id":207}]
+[
+  {
+    "preset_id": 207,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I have a partner",
+    "premium": false,
+    "positive": true,
+    "id": 7745
+  },
+  {
+    "id": 8179,
+    "text": "Ich habe einen Partner/eine Partnerin",
+    "category": "Liebe/Flirten",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "2764",
+    "preset_id": 207
+  },
+  {
+    "id": 8613,
+    "text": "Я состою в отношениях",
+    "category": "Любовь/Флирт",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "2764",
+    "preset_id": 207
+  },
+  {
+    "id": 9047,
+    "text": "Tenho um/a companheiro/a",
+    "category": "Amor/Namoriscar",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "2764",
+    "preset_id": 207
+  },
+  {
+    "id": 9481,
+    "text": "我有伴侣",
+    "category": "爱/挑逗",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "2764",
+    "preset_id": 207
+  },
+  {
+    "id": 9915,
+    "text": "Tengo pareja",
+    "category": "Amor/Ligue",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "2764",
+    "preset_id": 207
+  },
+  {
+    "id": 10349,
+    "text": "Mam partnera/partnerkę",
+    "category": "Miłość/Flirt",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "2764",
+    "preset_id": 207
+  }
+]

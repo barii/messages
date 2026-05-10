@@ -1,1 +1,72 @@
-[{"id":19566,"text":"No one has said that to me before","category":"Reply: Neutral","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":751},{"id":19567,"text":"Das hat noch niemand zu mir gesagt","category":"Antwort: Neutral","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":751},{"id":19568,"text":"Nunca ningu\u00e9m me tinha dito isso antes","category":"Resposta: neutra","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":751},{"id":19569,"text":"Nikt mi wcze\u015bniej tego nie powiedzia\u0142","category":"Odpowied\u017a: neutralny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":751},{"id":19570,"text":"\u041d\u0438\u043a\u0442\u043e \u043d\u0435 \u0433\u043e\u0432\u043e\u0440\u0438\u043b \u043c\u043d\u0435 \u044d\u0442\u043e\u0433\u043e \u0440\u0430\u043d\u044c\u0448\u0435","category":"\u041e\u0442\u0432\u0435\u0442: \u041d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":751},{"id":19571,"text":"Nadie me ha dicho eso antes","category":"Respuesta: neutral","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":751},{"id":19572,"text":"\u4ece\u6765\u90fd\u6ca1\u4eba\u8fd9\u6837\u5bf9\u6211\u8bf4\u8fc7","category":"\u56de\u590d\uff1a\u4e2d\u6027\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":751}]
+[
+  {
+    "preset_id": 751,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "No one has said that to me before",
+    "premium": false,
+    "positive": true,
+    "id": 19566
+  },
+  {
+    "id": 19567,
+    "text": "Das hat noch niemand zu mir gesagt",
+    "category": "Antwort: Neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 751
+  },
+  {
+    "id": 19568,
+    "text": "Nunca ninguém me tinha dito isso antes",
+    "category": "Resposta: neutra",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 751
+  },
+  {
+    "id": 19569,
+    "text": "Nikt mi wcześniej tego nie powiedział",
+    "category": "Odpowiedź: neutralny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 751
+  },
+  {
+    "id": 19570,
+    "text": "Никто не говорил мне этого раньше",
+    "category": "Ответ: Нейтральный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 751
+  },
+  {
+    "id": 19571,
+    "text": "Nadie me ha dicho eso antes",
+    "category": "Respuesta: neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 751
+  },
+  {
+    "id": 19572,
+    "text": "从来都没人这样对我说过",
+    "category": "回复：中性用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 751
+  }
+]

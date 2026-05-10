@@ -1,1 +1,62 @@
-[{"id":9103,"text":"A inveja n\u00e3o leva a lado nenhum","category":"Conselho\/Sugest\u00e3o","positive":false,"premium":false,"lang":"PT","cat_emoji":"1F914","preset_id":263},{"id":8235,"text":"Neid f\u00fchrt zu nichts","category":"Empfehlung\/Vorschlag","positive":false,"premium":false,"lang":"DE","cat_emoji":"1F914","preset_id":263},{"id":8669,"text":"\u0417\u0430\u0432\u0438\u0441\u0442\u044c \u043d\u0438 \u043a \u0447\u0435\u043c\u0443 \u0442\u0435\u0431\u044f \u043d\u0435 \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u0442","category":"\u0421\u043e\u0432\u0435\u0442\u044b\/\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438","positive":false,"premium":false,"lang":"RU","cat_emoji":"1F914","preset_id":263},{"id":9971,"text":"Los celos no te llevan a nada","category":"Consejos\/sugerencia","positive":false,"premium":false,"lang":"ES","cat_emoji":"1F914","preset_id":263},{"id":10405,"text":"Zazdro\u015b\u0107 nic nie da","category":"Porada\/sugestia","positive":false,"premium":false,"lang":"PL","cat_emoji":"1F914","preset_id":263},{"id":7801,"text":"Jealousy gets you nowhere","category":"Advice\/Suggestion","positive":false,"premium":false,"lang":"EN","cat_emoji":"1F914","preset_id":263}]
+[
+  {
+    "preset_id": 263,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Jealousy gets you nowhere",
+    "premium": false,
+    "positive": false,
+    "id": 7801
+  },
+  {
+    "id": 9103,
+    "text": "A inveja não leva a lado nenhum",
+    "category": "Conselho/Sugestão",
+    "positive": false,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F914",
+    "preset_id": 263
+  },
+  {
+    "id": 8235,
+    "text": "Neid führt zu nichts",
+    "category": "Empfehlung/Vorschlag",
+    "positive": false,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F914",
+    "preset_id": 263
+  },
+  {
+    "id": 8669,
+    "text": "Зависть ни к чему тебя не приведет",
+    "category": "Советы/рекомендации",
+    "positive": false,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F914",
+    "preset_id": 263
+  },
+  {
+    "id": 9971,
+    "text": "Los celos no te llevan a nada",
+    "category": "Consejos/sugerencia",
+    "positive": false,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F914",
+    "preset_id": 263
+  },
+  {
+    "id": 10405,
+    "text": "Zazdrość nic nie da",
+    "category": "Porada/sugestia",
+    "positive": false,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F914",
+    "preset_id": 263
+  }
+]

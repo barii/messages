@@ -1,1 +1,86 @@
-[{"id":2002,"preset_id":286,"cat_emoji":"🇨🇴","lang":"EN","category":"Columbian Football Teams","text":"Deportivo Pasto","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"},{"id":2003,"preset_id":286,"cat_emoji":"🇨🇴","lang":"ES","category":"Equipos de Fútbol Colombianos","text":"Deportivo Pasto","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"},{"id":2004,"preset_id":286,"cat_emoji":"🇨🇴","lang":"DE","category":"Kolumbianische Fußballmannschaften","text":"Deportivo Pasto","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"},{"id":2005,"preset_id":286,"cat_emoji":"🇨🇴","lang":"PL","category":"Kolumbijskie drużyny piłkarskie","text":"Deportivo Pasto","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"},{"id":2006,"preset_id":286,"cat_emoji":"🇨🇴","lang":"RU","category":"Колумбийские футбольные команды","text":"Deportivo Pasto","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"},{"id":2007,"preset_id":286,"cat_emoji":"🇨🇴","lang":"PT","category":"Times de futebol colombianos","text":"Deportivo Pasto","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"},{"id":2008,"preset_id":286,"cat_emoji":"🇨🇴","lang":"CN","category":"哥伦比亚足球队","text":"Deportivo Pasto","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"}]
+[
+  {
+    "id": 2002,
+    "preset_id": 286,
+    "cat_emoji": "🇨🇴",
+    "lang": "EN",
+    "category": "Columbian Football Teams",
+    "text": "Cortuluá",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2003,
+    "preset_id": 286,
+    "cat_emoji": "🇨🇴",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Colombianos",
+    "text": "Cortuluá",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2004,
+    "preset_id": 286,
+    "cat_emoji": "🇨🇴",
+    "lang": "DE",
+    "category": "Kolumbianische Fußballmannschaften",
+    "text": "Cortuluá",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2005,
+    "preset_id": 286,
+    "cat_emoji": "🇨🇴",
+    "lang": "PL",
+    "category": "Kolumbijskie drużyny piłkarskie",
+    "text": "Cortuluá",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2006,
+    "preset_id": 286,
+    "cat_emoji": "🇨🇴",
+    "lang": "RU",
+    "category": "Колумбийские футбольные команды",
+    "text": "Cortuluá",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2007,
+    "preset_id": 286,
+    "cat_emoji": "🇨🇴",
+    "lang": "PT",
+    "category": "Times de futebol colombianos",
+    "text": "Cortuluá",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2008,
+    "preset_id": 286,
+    "cat_emoji": "🇨🇴",
+    "lang": "CN",
+    "category": "哥伦比亚足球队",
+    "text": "Cortuluá",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  }
+]

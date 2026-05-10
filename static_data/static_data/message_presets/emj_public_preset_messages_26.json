@@ -1,1 +1,72 @@
-[{"id":8866,"text":"Acho que \u00e9s fixe","category":"Elogio","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F44D","preset_id":26},{"id":7998,"text":"Ich finde dich cool","category":"Kompliment","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F44D","preset_id":26},{"id":8432,"text":"\u0422\u044b \u043a\u043b\u0430\u0441\u0441\u043d\u044b\u0439 (\u043a\u043b\u0430\u0441\u0441\u043d\u0430\u044f)","category":"\u041a\u043e\u043c\u043f\u043b\u0438\u043c\u0435\u043d\u0442","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F44D","preset_id":26},{"id":9300,"text":"\u6211\u89c9\u5f97\u4f60\u5f88\u9177","category":"\u79f0\u8d5e","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F44D","preset_id":26},{"id":10168,"text":"Uwa\u017cam, \u017ce jeste\u015b odjazdowy\/odjazdowa","category":"Komplement","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F44D","preset_id":26},{"id":7564,"text":"I think you're cool","category":"Compliment","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F44D","preset_id":26},{"id":9734,"text":"Creo que molas","category":"Cumplido","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F44D","preset_id":26}]
+[
+  {
+    "preset_id": 26,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "I think you're cool",
+    "premium": false,
+    "positive": true,
+    "id": 7564
+  },
+  {
+    "id": 8866,
+    "text": "Acho que és fixe",
+    "category": "Elogio",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F44D",
+    "preset_id": 26
+  },
+  {
+    "id": 7998,
+    "text": "Ich finde dich cool",
+    "category": "Kompliment",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F44D",
+    "preset_id": 26
+  },
+  {
+    "id": 8432,
+    "text": "Ты классный (классная)",
+    "category": "Комплимент",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F44D",
+    "preset_id": 26
+  },
+  {
+    "id": 9300,
+    "text": "我觉得你很酷",
+    "category": "称赞",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F44D",
+    "preset_id": 26
+  },
+  {
+    "id": 10168,
+    "text": "Uważam, że jesteś odjazdowy/odjazdowa",
+    "category": "Komplement",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F44D",
+    "preset_id": 26
+  },
+  {
+    "id": 9734,
+    "text": "Creo que molas",
+    "category": "Cumplido",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F44D",
+    "preset_id": 26
+  }
+]

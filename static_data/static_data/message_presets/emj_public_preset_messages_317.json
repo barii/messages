@@ -1,1 +1,72 @@
-[{"id":10459,"text":"Uprzejmo\u015b\u0107 nic nie kosztuje","category":"Krytycyzm","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F611","preset_id":317},{"id":8723,"text":"\u041d\u0438\u0447\u0442\u043e \u043d\u0435 \u043e\u0431\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043d\u0430\u043c \u0442\u0430\u043a \u0434\u0435\u0448\u0435\u0432\u043e, \u043a\u0430\u043a \u0432\u0435\u0436\u043b\u0438\u0432\u043e\u0441\u0442\u044c","category":"\u041a\u0440\u0438\u0442\u0438\u043a\u0430","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F611","preset_id":317},{"id":8289,"text":"Nett sein kostet nichts","category":"Kritik","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F611","preset_id":317},{"id":9157,"text":"N\u00e3o custa nada ser am\u00e1vel","category":"Cr\u00edticas","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F611","preset_id":317},{"id":9591,"text":"\u505a\u4e2a\u53cb\u5584\u7684\u4eba\u6ca1\u6709\u4efb\u4f55\u4ee3\u4ef7","category":"\u6279\u8bc4","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F611","preset_id":317},{"id":7855,"text":"Being nice costs nothing","category":"Criticism","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F611","preset_id":317},{"id":10025,"text":"Ser amable no cuesta nada","category":"Cr\u00edticas","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F611","preset_id":317}]
+[
+  {
+    "preset_id": 317,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "Being nice costs nothing",
+    "premium": false,
+    "positive": true,
+    "id": 7855
+  },
+  {
+    "id": 10459,
+    "text": "Uprzejmość nic nie kosztuje",
+    "category": "Krytycyzm",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F611",
+    "preset_id": 317
+  },
+  {
+    "id": 8723,
+    "text": "Ничто не обходится нам так дешево, как вежливость",
+    "category": "Критика",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F611",
+    "preset_id": 317
+  },
+  {
+    "id": 8289,
+    "text": "Nett sein kostet nichts",
+    "category": "Kritik",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F611",
+    "preset_id": 317
+  },
+  {
+    "id": 9157,
+    "text": "Não custa nada ser amável",
+    "category": "Críticas",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F611",
+    "preset_id": 317
+  },
+  {
+    "id": 9591,
+    "text": "做个友善的人没有任何代价",
+    "category": "批评",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F611",
+    "preset_id": 317
+  },
+  {
+    "id": 10025,
+    "text": "Ser amable no cuesta nada",
+    "category": "Críticas",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F611",
+    "preset_id": 317
+  }
+]

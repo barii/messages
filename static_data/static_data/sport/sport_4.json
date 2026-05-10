@@ -1,1 +1,86 @@
-[{"id":28,"preset_id":4,"cat_emoji":"⚽","lang":"EN","category":"Football","text":"Belgian Football Teams","premium":"false","positive":"true","msg_emoji":"🇧🇪","continent":"European"},{"id":29,"preset_id":4,"cat_emoji":"⚽","lang":"ES","category":"Fútbol","text":"Equipos de Fútbol Belgas","premium":"false","positive":"true","msg_emoji":"🇧🇪","continent":"European"},{"id":30,"preset_id":4,"cat_emoji":"⚽","lang":"DE","category":"Fußball","text":"Belgische Fußballmannschaften","premium":"false","positive":"true","msg_emoji":"🇧🇪","continent":"European"},{"id":31,"preset_id":4,"cat_emoji":"⚽","lang":"PL","category":"Piłka nożna","text":"Belgijskie drużyny piłkarskie","premium":"false","positive":"true","msg_emoji":"🇧🇪","continent":"European"},{"id":32,"preset_id":4,"cat_emoji":"⚽","lang":"RU","category":"Футбол","text":"Бельгийские футбольные команды","premium":"false","positive":"true","msg_emoji":"🇧🇪","continent":"European"},{"id":33,"preset_id":4,"cat_emoji":"⚽","lang":"PT","category":"Futebol","text":"Times de futebol belgas","premium":"false","positive":"true","msg_emoji":"🇧🇪","continent":"European"},{"id":34,"preset_id":4,"cat_emoji":"⚽","lang":"CN","category":"足球","text":"比利时足球队","premium":"false","positive":"true","msg_emoji":"🇧🇪","continent":"European"}]
+[
+  {
+    "id": 28,
+    "preset_id": 4,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "Football",
+    "text": "French Football Teams",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 29,
+    "preset_id": 4,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "Equipos de Fútbol Franceses",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 30,
+    "preset_id": 4,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Französische Fußballmannschaften",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 31,
+    "preset_id": 4,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Francuskie drużyny piłkarskie",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 32,
+    "preset_id": 4,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Французские футбольные команды",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 33,
+    "preset_id": 4,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Times de futebol franceses",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 34,
+    "preset_id": 4,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "足球",
+    "text": "法国足球队",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  }
+]

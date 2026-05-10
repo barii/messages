@@ -1,1 +1,86 @@
-[{"id":350,"preset_id":50,"cat_emoji":"⚽","lang":"EN","category":"National football teams","text":"Polish football team","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":351,"preset_id":50,"cat_emoji":"⚽","lang":"ES","category":"Selección nacional de fútbol","text":"Equipo de fútbol Polaco","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":352,"preset_id":50,"cat_emoji":"⚽","lang":"DE","category":"Nationale Fußballmannschaft","text":"Polnische Fußballmannschaft","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":353,"preset_id":50,"cat_emoji":"⚽","lang":"PL","category":"Narodowa drużyna piłkarska","text":"polska drużyna piłkarska","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":354,"preset_id":50,"cat_emoji":"⚽","lang":"RU","category":"национальная сборная по футболу","text":"Польская футбольная команда","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":355,"preset_id":50,"cat_emoji":"⚽","lang":"PT","category":"Seleção nacional de futebol","text":"Seleção Polonesa de futebol","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":356,"preset_id":50,"cat_emoji":"⚽","lang":"CN","category":"国家足球队","text":"波兰足球队","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"}]
+[
+  {
+    "id": 350,
+    "preset_id": 50,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "National football teams",
+    "text": "Welsh football team",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 351,
+    "preset_id": 50,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Selección nacional de fútbol",
+    "text": "Equipo de fútbol de Galesa",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 352,
+    "preset_id": 50,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Nationale Fußballmannschaft",
+    "text": "Walisische Fußballmannschaft",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 353,
+    "preset_id": 50,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Narodowa drużyna piłkarska",
+    "text": "Walijska drużyna piłkarska",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 354,
+    "preset_id": 50,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "национальная сборная по футболу",
+    "text": "Валлийская футбольная команда",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 355,
+    "preset_id": 50,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Seleção nacional de futebol",
+    "text": "Seleção Galesa de futebol",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 356,
+    "preset_id": 50,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "国家足球队",
+    "text": "威尔士足球队",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "continent": "European"
+  }
+]

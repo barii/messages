@@ -1,1 +1,72 @@
-[{"id":7621,"text":"I'm sad","category":"Personal","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F464","preset_id":83},{"id":8489,"text":"\u041c\u043d\u0435 \u0433\u0440\u0443\u0441\u0442\u043d\u043e","category":"\u0412\u043e\u043f\u0440\u043e\u0441","positive":true,"premium":false,"lang":"RU","cat_emoji":"2753","preset_id":83},{"id":8923,"text":"Estou triste","category":"Pessoal","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F464","preset_id":83},{"id":9357,"text":"\u6211\u5f88\u4f24\u5fc3","category":"\u4e2a\u4eba\u8bdd\u9898","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F464","preset_id":83},{"id":9791,"text":"Estoy triste","category":"Personal","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F464","preset_id":83},{"id":8055,"text":"Ich bin traurig","category":"Pers\u00f6nliches","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F464","preset_id":83},{"id":10225,"text":"Jestem smutny\/smutna","category":"P\u0142aszczyzna osobista","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F464","preset_id":83}]
+[
+  {
+    "preset_id": 83,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm sad",
+    "premium": false,
+    "positive": true,
+    "id": 7621
+  },
+  {
+    "id": 8489,
+    "text": "Мне грустно",
+    "category": "Вопрос",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "2753",
+    "preset_id": 83
+  },
+  {
+    "id": 8923,
+    "text": "Estou triste",
+    "category": "Pessoal",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F464",
+    "preset_id": 83
+  },
+  {
+    "id": 9357,
+    "text": "我很伤心",
+    "category": "个人话题",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F464",
+    "preset_id": 83
+  },
+  {
+    "id": 9791,
+    "text": "Estoy triste",
+    "category": "Personal",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F464",
+    "preset_id": 83
+  },
+  {
+    "id": 8055,
+    "text": "Ich bin traurig",
+    "category": "Persönliches",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F464",
+    "preset_id": 83
+  },
+  {
+    "id": 10225,
+    "text": "Jestem smutny/smutna",
+    "category": "Płaszczyzna osobista",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F464",
+    "preset_id": 83
+  }
+]

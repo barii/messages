@@ -1,1 +1,86 @@
-[{"id":20682,"preset_id":924,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"Your manager looks defeated","premium":"false","positive":"true","header":"insult"},{"id":20683,"preset_id":924,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"Su gerente parece derrotado","premium":"false","positive":"true","header":"insultante"},{"id":20684,"preset_id":924,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"Ihr Manager sieht besiegt aus","premium":"false","positive":"true","header":"Beleidigend"},{"id":20685,"preset_id":924,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"Twój menedżer wygląda na pokonanego","premium":"false","positive":"true","header":"Obraźliwy"},{"id":20686,"preset_id":924,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"Ваш менеджер выглядит побежденным.","premium":"false","positive":"true","header":"Оскорбительный"},{"id":20687,"preset_id":924,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"O teu chefe parece derrotado","premium":"false","positive":"true","header":"Insultuoso"},{"id":20688,"preset_id":924,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"你的经理看起来很失败","premium":"false","positive":"true","header":"侮辱"}]
+[
+  {
+    "id": 20682,
+    "preset_id": 924,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "Your manager looks defeated",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insult"
+  },
+  {
+    "id": 20683,
+    "preset_id": 924,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "Su gerente parece derrotado",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultante"
+  },
+  {
+    "id": 20684,
+    "preset_id": 924,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Ihr Manager sieht besiegt aus",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Beleidigend"
+  },
+  {
+    "id": 20685,
+    "preset_id": 924,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Twój menedżer wygląda na pokonanego",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Obraźliwy"
+  },
+  {
+    "id": 20686,
+    "preset_id": 924,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Ваш менеджер выглядит побежденным.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Оскорбительный"
+  },
+  {
+    "id": 20687,
+    "preset_id": 924,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "O teu chefe parece derrotado",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultuoso"
+  },
+  {
+    "id": 20688,
+    "preset_id": 924,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "你的经理看起来很失败",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "侮辱"
+  }
+]

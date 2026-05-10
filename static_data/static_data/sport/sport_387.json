@@ -1,1 +1,86 @@
-[{"id":2709,"preset_id":387,"cat_emoji":"🇺🇦","lang":"EN","category":"Ukrainian Football Teams","text":"FC Lviv","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"},{"id":2710,"preset_id":387,"cat_emoji":"🇺🇦","lang":"ES","category":"Equipos de Fútbol Ucranianos","text":"FC Lviv","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"},{"id":2711,"preset_id":387,"cat_emoji":"🇺🇦","lang":"DE","category":"Ukrainische Fußballmannschaften","text":"FC Lviv","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"},{"id":2712,"preset_id":387,"cat_emoji":"🇺🇦","lang":"PL","category":"Ukraińskie drużyny piłkarskie","text":"FC Lviv","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"},{"id":2713,"preset_id":387,"cat_emoji":"🇺🇦","lang":"RU","category":"Украинские футбольные команды","text":"FC Lviv","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"},{"id":2714,"preset_id":387,"cat_emoji":"🇺🇦","lang":"PT","category":"Times de futebol ucranianos","text":"FC Lviv","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"},{"id":2715,"preset_id":387,"cat_emoji":"🇺🇦","lang":"CN","category":"乌克兰足球队","text":"FC Lviv","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"}]
+[
+  {
+    "id": 2709,
+    "preset_id": 387,
+    "cat_emoji": "🇺🇦",
+    "lang": "EN",
+    "category": "Ukrainian Football Teams",
+    "text": "Dynamo Kyiv",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2710,
+    "preset_id": 387,
+    "cat_emoji": "🇺🇦",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Ucranianos",
+    "text": "Dynamo Kyiv",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2711,
+    "preset_id": 387,
+    "cat_emoji": "🇺🇦",
+    "lang": "DE",
+    "category": "Ukrainische Fußballmannschaften",
+    "text": "Dynamo Kyiv",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2712,
+    "preset_id": 387,
+    "cat_emoji": "🇺🇦",
+    "lang": "PL",
+    "category": "Ukraińskie drużyny piłkarskie",
+    "text": "Dynamo Kyiv",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2713,
+    "preset_id": 387,
+    "cat_emoji": "🇺🇦",
+    "lang": "RU",
+    "category": "Украинские футбольные команды",
+    "text": "Dynamo Kyiv",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2714,
+    "preset_id": 387,
+    "cat_emoji": "🇺🇦",
+    "lang": "PT",
+    "category": "Times de futebol ucranianos",
+    "text": "Dynamo Kyiv",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2715,
+    "preset_id": 387,
+    "cat_emoji": "🇺🇦",
+    "lang": "CN",
+    "category": "乌克兰足球队",
+    "text": "Dynamo Kyiv",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  }
+]

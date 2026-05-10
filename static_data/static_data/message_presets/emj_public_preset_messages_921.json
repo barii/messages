@@ -1,1 +1,86 @@
-[{"id":20661,"preset_id":921,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"Pure shit!","premium":"false","positive":"true","header":"insult"},{"id":20662,"preset_id":921,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"¡Pura mierda!","premium":"false","positive":"true","header":"insultante"},{"id":20663,"preset_id":921,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"Reine Scheiße!","premium":"false","positive":"true","header":"Beleidigend"},{"id":20664,"preset_id":921,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"Czyste gówno!","premium":"false","positive":"true","header":"Obraźliwy"},{"id":20665,"preset_id":921,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"Чистое дерьмо!","premium":"false","positive":"true","header":"Оскорбительный"},{"id":20666,"preset_id":921,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"Pura merda!","premium":"false","positive":"true","header":"Insultuoso"},{"id":20667,"preset_id":921,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"纯粹是狗屎","premium":"false","positive":"true","header":"侮辱"}]
+[
+  {
+    "id": 20661,
+    "preset_id": 921,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "Pure shit!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insult"
+  },
+  {
+    "id": 20662,
+    "preset_id": 921,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "¡Pura mierda!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultante"
+  },
+  {
+    "id": 20663,
+    "preset_id": 921,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Reine Scheiße!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Beleidigend"
+  },
+  {
+    "id": 20664,
+    "preset_id": 921,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Czyste gówno!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Obraźliwy"
+  },
+  {
+    "id": 20665,
+    "preset_id": 921,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Чистое дерьмо!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Оскорбительный"
+  },
+  {
+    "id": 20666,
+    "preset_id": 921,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Pura merda!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultuoso"
+  },
+  {
+    "id": 20667,
+    "preset_id": 921,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "纯粹是狗屎",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "侮辱"
+  }
+]

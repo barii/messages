@@ -1,1 +1,86 @@
-[{"id":1043,"preset_id":149,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"EN","category":"English Football Teams","text":"Fulham","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1044,"preset_id":149,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"ES","category":"Equipos de Fútbol Ingleses","text":"Fulham","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1045,"preset_id":149,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"DE","category":"Englische Fußballmannschaften","text":"Fulham","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1046,"preset_id":149,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"PL","category":"Angielskie drużyny piłkarskie","text":"Fulham","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1047,"preset_id":149,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"RU","category":"Английские футбольные команды","text":"Fulham","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1048,"preset_id":149,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"PT","category":"Times de futebol ingleses","text":"Fulham","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1049,"preset_id":149,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"CN","category":"英格兰足球队","text":"Fulham","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"}]
+[
+  {
+    "id": 1043,
+    "preset_id": 149,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "EN",
+    "category": "English Football Teams",
+    "text": "Crystal Palace",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1044,
+    "preset_id": 149,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Ingleses",
+    "text": "Crystal Palace",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1045,
+    "preset_id": 149,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "DE",
+    "category": "Englische Fußballmannschaften",
+    "text": "Crystal Palace",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1046,
+    "preset_id": 149,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "PL",
+    "category": "Angielskie drużyny piłkarskie",
+    "text": "Crystal Palace",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1047,
+    "preset_id": 149,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "RU",
+    "category": "Английские футбольные команды",
+    "text": "Crystal Palace",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1048,
+    "preset_id": 149,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "PT",
+    "category": "Times de futebol ingleses",
+    "text": "Crystal Palace",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1049,
+    "preset_id": 149,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "CN",
+    "category": "英格兰足球队",
+    "text": "Crystal Palace",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":63,"preset_id":9,"cat_emoji":"⚽","lang":"EN","category":"Football","text":"Portuguese Football Teams","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":64,"preset_id":9,"cat_emoji":"⚽","lang":"ES","category":"Fútbol","text":"Equipos de Fútbol Portugueses","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":65,"preset_id":9,"cat_emoji":"⚽","lang":"DE","category":"Fußball","text":"Portugiesische Fußballmannschaften","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":66,"preset_id":9,"cat_emoji":"⚽","lang":"PL","category":"Piłka nożna","text":"Portugalskie drużyny piłkarskie","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":67,"preset_id":9,"cat_emoji":"⚽","lang":"RU","category":"Футбол","text":"Португальские футбольные команды","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":68,"preset_id":9,"cat_emoji":"⚽","lang":"PT","category":"Futebol","text":"Times de futebol portugueses","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":69,"preset_id":9,"cat_emoji":"⚽","lang":"CN","category":"足球","text":"葡萄牙足球队","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"}]
+[
+  {
+    "id": 63,
+    "preset_id": 9,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "Football",
+    "text": "Croatian Football Teams",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 64,
+    "preset_id": 9,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "Equipos de Fútbol Croatas",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 65,
+    "preset_id": 9,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Kroatische Fußballmannschaften",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 66,
+    "preset_id": 9,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Chorwackie drużyny piłkarskie",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 67,
+    "preset_id": 9,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Хорватские футбольные команды",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 68,
+    "preset_id": 9,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Times de futebol croatas",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 69,
+    "preset_id": 9,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "足球",
+    "text": "克罗地亚足球队",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":2072,"preset_id":296,"cat_emoji":"🇨🇴","lang":"EN","category":"Columbian Football Teams","text":"Unión Magdalena","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"},{"id":2073,"preset_id":296,"cat_emoji":"🇨🇴","lang":"ES","category":"Equipos de Fútbol Colombianos","text":"Unión Magdalena","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"},{"id":2074,"preset_id":296,"cat_emoji":"🇨🇴","lang":"DE","category":"Kolumbianische Fußballmannschaften","text":"Unión Magdalena","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"},{"id":2075,"preset_id":296,"cat_emoji":"🇨🇴","lang":"PL","category":"Kolumbijskie drużyny piłkarskie","text":"Unión Magdalena","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"},{"id":2076,"preset_id":296,"cat_emoji":"🇨🇴","lang":"RU","category":"Колумбийские футбольные команды","text":"Unión Magdalena","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"},{"id":2077,"preset_id":296,"cat_emoji":"🇨🇴","lang":"PT","category":"Times de futebol colombianos","text":"Unión Magdalena","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"},{"id":2078,"preset_id":296,"cat_emoji":"🇨🇴","lang":"CN","category":"哥伦比亚足球队","text":"Unión Magdalena","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"}]
+[
+  {
+    "id": 2072,
+    "preset_id": 296,
+    "cat_emoji": "🇨🇴",
+    "lang": "EN",
+    "category": "Columbian Football Teams",
+    "text": "Millonarios",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2073,
+    "preset_id": 296,
+    "cat_emoji": "🇨🇴",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Colombianos",
+    "text": "Millonarios",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2074,
+    "preset_id": 296,
+    "cat_emoji": "🇨🇴",
+    "lang": "DE",
+    "category": "Kolumbianische Fußballmannschaften",
+    "text": "Millonarios",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2075,
+    "preset_id": 296,
+    "cat_emoji": "🇨🇴",
+    "lang": "PL",
+    "category": "Kolumbijskie drużyny piłkarskie",
+    "text": "Millonarios",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2076,
+    "preset_id": 296,
+    "cat_emoji": "🇨🇴",
+    "lang": "RU",
+    "category": "Колумбийские футбольные команды",
+    "text": "Millonarios",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2077,
+    "preset_id": 296,
+    "cat_emoji": "🇨🇴",
+    "lang": "PT",
+    "category": "Times de futebol colombianos",
+    "text": "Millonarios",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2078,
+    "preset_id": 296,
+    "cat_emoji": "🇨🇴",
+    "lang": "CN",
+    "category": "哥伦比亚足球队",
+    "text": "Millonarios",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  }
+]

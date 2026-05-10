@@ -1,1 +1,72 @@
-[{"id":17425,"text":"Ich mag dich","category":"Liebe\/Flirten","positive":true,"premium":false,"lang":"DE","cat_emoji":"2764","preset_id":445},{"id":17426,"text":"Eu gosto de ti","category":"Amor\/Namoriscar","positive":true,"premium":false,"lang":"PT","cat_emoji":"2764","preset_id":445},{"id":17427,"text":"Lubi\u0119 ci\u0119","category":"Mi\u0142o\u015b\u0107\/Flirt","positive":true,"premium":false,"lang":"PL","cat_emoji":"2764","preset_id":445},{"id":17428,"text":"\u0422\u044b \u043c\u043d\u0435 \u043d\u0440\u0430\u0432\u0438\u0448\u044c\u0441\u044f","category":"\u041b\u044e\u0431\u043e\u0432\u044c\/\u0424\u043b\u0438\u0440\u0442","positive":true,"premium":false,"lang":"RU","cat_emoji":"2764","preset_id":445},{"id":17429,"text":"Me gustas","category":"Amor\/Ligue","positive":true,"premium":false,"lang":"ES","cat_emoji":"2764","preset_id":445},{"id":17430,"text":"\u6211\u559c\u6b22\u4f60","category":"\u7231\/\u6311\u9017","positive":true,"premium":false,"lang":"CN","cat_emoji":"2764","preset_id":445},{"id":17424,"text":"I like you","category":"Love\/Flirt","positive":true,"premium":false,"lang":"EN","cat_emoji":"2764","preset_id":445}]
+[
+  {
+    "preset_id": 445,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I like you",
+    "premium": false,
+    "positive": true,
+    "id": 17424
+  },
+  {
+    "id": 17425,
+    "text": "Ich mag dich",
+    "category": "Liebe/Flirten",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "2764",
+    "preset_id": 445
+  },
+  {
+    "id": 17426,
+    "text": "Eu gosto de ti",
+    "category": "Amor/Namoriscar",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "2764",
+    "preset_id": 445
+  },
+  {
+    "id": 17427,
+    "text": "Lubię cię",
+    "category": "Miłość/Flirt",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "2764",
+    "preset_id": 445
+  },
+  {
+    "id": 17428,
+    "text": "Ты мне нравишься",
+    "category": "Любовь/Флирт",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "2764",
+    "preset_id": 445
+  },
+  {
+    "id": 17429,
+    "text": "Me gustas",
+    "category": "Amor/Ligue",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "2764",
+    "preset_id": 445
+  },
+  {
+    "id": 17430,
+    "text": "我喜欢你",
+    "category": "爱/挑逗",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "2764",
+    "preset_id": 445
+  }
+]

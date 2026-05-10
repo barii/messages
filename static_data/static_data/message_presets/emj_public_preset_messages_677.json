@@ -1,1 +1,72 @@
-[{"id":19048,"text":"That\u2019s a pleasant surprise","category":"Reply: Friendly","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":677},{"id":19049,"text":"Das ist eine angenehme \u00dcberraschung","category":"Antwort: Freundlich","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":677},{"id":19050,"text":"Que surpresa agrad\u00e1vel","category":"Resposta: amig\u00e1vel","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":677},{"id":19051,"text":"To mi\u0142a niespodzianka","category":"Powt\u00f3rka: przyjazny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":677},{"id":19052,"text":"\u042d\u0442\u043e \u043f\u0440\u0438\u044f\u0442\u043d\u044b\u0439 \u0441\u044e\u0440\u043f\u0440\u0438\u0437","category":"\u041e\u0442\u0432\u0435\u0442: \u0414\u0440\u0443\u0436\u0435\u043b\u044e\u0431\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":677},{"id":19053,"text":"Es una agradable sorpresa","category":"Respuesta: amistoso","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":677},{"id":19054,"text":"\u8fd9\u53ef\u771f\u662f\u4e2a\u610f\u5916\u7684\u60ca\u559c","category":"\u56de\u590d\uff1a\u53cb\u5584\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":677}]
+[
+  {
+    "preset_id": 677,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "That’s a pleasant surprise",
+    "premium": false,
+    "positive": true,
+    "id": 19048
+  },
+  {
+    "id": 19049,
+    "text": "Das ist eine angenehme Überraschung",
+    "category": "Antwort: Freundlich",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 677
+  },
+  {
+    "id": 19050,
+    "text": "Que surpresa agradável",
+    "category": "Resposta: amigável",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 677
+  },
+  {
+    "id": 19051,
+    "text": "To miła niespodzianka",
+    "category": "Powtórka: przyjazny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 677
+  },
+  {
+    "id": 19052,
+    "text": "Это приятный сюрприз",
+    "category": "Ответ: Дружелюбный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 677
+  },
+  {
+    "id": 19053,
+    "text": "Es una agradable sorpresa",
+    "category": "Respuesta: amistoso",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 677
+  },
+  {
+    "id": 19054,
+    "text": "这可真是个意外的惊喜",
+    "category": "回复：友善用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 677
+  }
+]

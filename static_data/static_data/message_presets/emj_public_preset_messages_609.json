@@ -1,1 +1,72 @@
-[{"id":18574,"text":"Est\u00e1s a exigir demais das pessoas","category":"Trabalho","positive":false,"premium":false,"lang":"PT","cat_emoji":"1F5C2","preset_id":609},{"id":18572,"text":"You are pushing everyone too hard","category":"Work","positive":false,"premium":false,"lang":"EN","cat_emoji":"1F5C2","preset_id":609},{"id":18573,"text":"Du dr\u00e4ngst andere zu sehr","category":"Arbeit","positive":false,"premium":false,"lang":"DE","cat_emoji":"1F5C2","preset_id":609},{"id":18575,"text":"Zbyt mocno na wszystkich naciskasz","category":"Praca","positive":false,"premium":false,"lang":"PL","cat_emoji":"1F5C2","preset_id":609},{"id":18576,"text":"\u0422\u044b \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0434\u0430\u0432\u0438\u0448\u044c \u043d\u0430 \u0434\u0440\u0443\u0433\u0438\u0445","category":"\u0420\u0430\u0431\u043e\u0442\u0430","positive":false,"premium":false,"lang":"RU","cat_emoji":"1F5C2","preset_id":609},{"id":18577,"text":"Est\u00e1s presionando mucho a todos","category":"Trabajo","positive":false,"premium":false,"lang":"ES","cat_emoji":"1F5C2","preset_id":609},{"id":18578,"text":"\u4f60\u5bf9\u6bcf\u4e2a\u4eba\u90fd\u592a\u82db\u523b","category":"\u5de5\u4f5c","positive":false,"premium":false,"lang":"CN","cat_emoji":"1F5C2","preset_id":609}]
+[
+  {
+    "preset_id": 609,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "You are pushing everyone too hard",
+    "premium": false,
+    "positive": false,
+    "id": 18572
+  },
+  {
+    "id": 18574,
+    "text": "Estás a exigir demais das pessoas",
+    "category": "Trabalho",
+    "positive": false,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F5C2",
+    "preset_id": 609
+  },
+  {
+    "id": 18573,
+    "text": "Du drängst andere zu sehr",
+    "category": "Arbeit",
+    "positive": false,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F5C2",
+    "preset_id": 609
+  },
+  {
+    "id": 18575,
+    "text": "Zbyt mocno na wszystkich naciskasz",
+    "category": "Praca",
+    "positive": false,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F5C2",
+    "preset_id": 609
+  },
+  {
+    "id": 18576,
+    "text": "Ты слишком давишь на других",
+    "category": "Работа",
+    "positive": false,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F5C2",
+    "preset_id": 609
+  },
+  {
+    "id": 18577,
+    "text": "Estás presionando mucho a todos",
+    "category": "Trabajo",
+    "positive": false,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F5C2",
+    "preset_id": 609
+  },
+  {
+    "id": 18578,
+    "text": "你对每个人都太苛刻",
+    "category": "工作",
+    "positive": false,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F5C2",
+    "preset_id": 609
+  }
+]

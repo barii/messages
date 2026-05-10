@@ -1,1 +1,72 @@
-[{"id":8013,"text":"Das ist Mobbing","category":"Beleidigung","positive":false,"premium":true,"lang":"DE","cat_emoji":"1F44E","preset_id":41},{"id":7579,"text":"That's bullying","category":"Insult","positive":false,"premium":true,"lang":"EN","cat_emoji":"1F44E","preset_id":41},{"id":9315,"text":"\u6b3a\u8d1f\u4eba","category":"\u4fae\u8fb1","positive":false,"premium":true,"lang":"CN","cat_emoji":"1F44E","preset_id":41},{"id":9749,"text":"Eso es acoso","category":"Insulto","positive":false,"premium":true,"lang":"ES","cat_emoji":"1F44E","preset_id":41},{"id":10183,"text":"To jest n\u0119kanie","category":"Obraza","positive":false,"premium":true,"lang":"PL","cat_emoji":"1F44E","preset_id":41},{"id":8447,"text":"\u042d\u0442\u043e \u0438\u0437\u0434\u0435\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e","category":"\u041e\u0441\u043a\u043e\u0440\u0431\u043b\u0435\u043d\u0438\u0435","positive":false,"premium":true,"lang":"RU","cat_emoji":"1F44E","preset_id":41},{"id":8881,"text":"Isso \u00e9 bullying","category":"Insulto","positive":false,"premium":true,"lang":"PT","cat_emoji":"1F44E","preset_id":41}]
+[
+  {
+    "preset_id": 41,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "That's bullying",
+    "premium": true,
+    "positive": false,
+    "id": 7579
+  },
+  {
+    "id": 8013,
+    "text": "Das ist Mobbing",
+    "category": "Beleidigung",
+    "positive": false,
+    "premium": true,
+    "lang": "DE",
+    "cat_emoji": "1F44E",
+    "preset_id": 41
+  },
+  {
+    "id": 9315,
+    "text": "欺负人",
+    "category": "侮辱",
+    "positive": false,
+    "premium": true,
+    "lang": "CN",
+    "cat_emoji": "1F44E",
+    "preset_id": 41
+  },
+  {
+    "id": 9749,
+    "text": "Eso es acoso",
+    "category": "Insulto",
+    "positive": false,
+    "premium": true,
+    "lang": "ES",
+    "cat_emoji": "1F44E",
+    "preset_id": 41
+  },
+  {
+    "id": 10183,
+    "text": "To jest nękanie",
+    "category": "Obraza",
+    "positive": false,
+    "premium": true,
+    "lang": "PL",
+    "cat_emoji": "1F44E",
+    "preset_id": 41
+  },
+  {
+    "id": 8447,
+    "text": "Это издевательство",
+    "category": "Оскорбление",
+    "positive": false,
+    "premium": true,
+    "lang": "RU",
+    "cat_emoji": "1F44E",
+    "preset_id": 41
+  },
+  {
+    "id": 8881,
+    "text": "Isso é bullying",
+    "category": "Insulto",
+    "positive": false,
+    "premium": true,
+    "lang": "PT",
+    "cat_emoji": "1F44E",
+    "preset_id": 41
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":2135,"preset_id":305,"cat_emoji":"🇲🇦","lang":"EN","category":"Moroccan Football Teams","text":"Mouloudia Oujda","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"},{"id":2136,"preset_id":305,"cat_emoji":"🇲🇦","lang":"ES","category":"Equipos de Fútbol Marroquíes","text":"Mouloudia Oujda","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"},{"id":2137,"preset_id":305,"cat_emoji":"🇲🇦","lang":"DE","category":"Marokkanische Fußballmannschaften","text":"Mouloudia Oujda","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"},{"id":2138,"preset_id":305,"cat_emoji":"🇲🇦","lang":"PL","category":"Marokańskie drużyny piłkarskie","text":"Mouloudia Oujda","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"},{"id":2139,"preset_id":305,"cat_emoji":"🇲🇦","lang":"RU","category":"Марокканские футбольные команды","text":"Mouloudia Oujda","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"},{"id":2140,"preset_id":305,"cat_emoji":"🇲🇦","lang":"PT","category":"Times de futebol marroquinos","text":"Mouloudia Oujda","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"},{"id":2141,"preset_id":305,"cat_emoji":"🇲🇦","lang":"CN","category":"摩洛哥足球队","text":"Mouloudia Oujda","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"}]
+[
+  {
+    "id": 2135,
+    "preset_id": 305,
+    "cat_emoji": "🇲🇦",
+    "lang": "EN",
+    "category": "Moroccan Football Teams",
+    "text": "Maghreb Fes",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2136,
+    "preset_id": 305,
+    "cat_emoji": "🇲🇦",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Marroquíes",
+    "text": "Maghreb Fes",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2137,
+    "preset_id": 305,
+    "cat_emoji": "🇲🇦",
+    "lang": "DE",
+    "category": "Marokkanische Fußballmannschaften",
+    "text": "Maghreb Fes",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2138,
+    "preset_id": 305,
+    "cat_emoji": "🇲🇦",
+    "lang": "PL",
+    "category": "Marokańskie drużyny piłkarskie",
+    "text": "Maghreb Fes",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2139,
+    "preset_id": 305,
+    "cat_emoji": "🇲🇦",
+    "lang": "RU",
+    "category": "Марокканские футбольные команды",
+    "text": "Maghreb Fes",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2140,
+    "preset_id": 305,
+    "cat_emoji": "🇲🇦",
+    "lang": "PT",
+    "category": "Times de futebol marroquinos",
+    "text": "Maghreb Fes",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2141,
+    "preset_id": 305,
+    "cat_emoji": "🇲🇦",
+    "lang": "CN",
+    "category": "摩洛哥足球队",
+    "text": "Maghreb Fes",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  }
+]

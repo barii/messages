@@ -1,1 +1,86 @@
-[{"id":3185,"preset_id":455,"cat_emoji":"🏈","lang":"EN","category":"NFL American Football Teams","text":"Seattle Sounders FC","premium":"false","positive":"true","msg_emoji":"🏈","continent":"American"},{"id":3186,"preset_id":455,"cat_emoji":"🏈","lang":"ES","category":"Equipos de Fútbol Americano de la NFL","text":"Seattle Sounders FC","premium":"false","positive":"true","msg_emoji":"🏈","continent":"American"},{"id":3187,"preset_id":455,"cat_emoji":"🏈","lang":"DE","category":"NFL American Football Teams","text":"Seattle Sounders FC","premium":"false","positive":"true","msg_emoji":"🏈","continent":"American"},{"id":3188,"preset_id":455,"cat_emoji":"🏈","lang":"PL","category":"Drużyny futbolu amerykańskiego NFL","text":"Seattle Sounders FC","premium":"false","positive":"true","msg_emoji":"🏈","continent":"American"},{"id":3189,"preset_id":455,"cat_emoji":"🏈","lang":"RU","category":"Команды Национальной футбольной лиги NFL","text":"Seattle Sounders FC","premium":"false","positive":"true","msg_emoji":"🏈","continent":"American"},{"id":3190,"preset_id":455,"cat_emoji":"🏈","lang":"PT","category":"Times de Futebol Americano da NFL","text":"Seattle Sounders FC","premium":"false","positive":"true","msg_emoji":"🏈","continent":"American"},{"id":3191,"preset_id":455,"cat_emoji":"🏈","lang":"CN","category":"NFL美式橄榄球队","text":"Seattle Sounders FC","premium":"false","positive":"true","msg_emoji":"🏈","continent":"American"}]
+[
+  {
+    "id": 3185,
+    "preset_id": 455,
+    "cat_emoji": "🏈",
+    "lang": "EN",
+    "category": "NFL American Football Teams",
+    "text": "Philadelphia Union",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏈",
+    "continent": "American"
+  },
+  {
+    "id": 3186,
+    "preset_id": 455,
+    "cat_emoji": "🏈",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Americano de la NFL",
+    "text": "Philadelphia Union",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏈",
+    "continent": "American"
+  },
+  {
+    "id": 3187,
+    "preset_id": 455,
+    "cat_emoji": "🏈",
+    "lang": "DE",
+    "category": "NFL American Football Teams",
+    "text": "Philadelphia Union",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏈",
+    "continent": "American"
+  },
+  {
+    "id": 3188,
+    "preset_id": 455,
+    "cat_emoji": "🏈",
+    "lang": "PL",
+    "category": "Drużyny futbolu amerykańskiego NFL",
+    "text": "Philadelphia Union",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏈",
+    "continent": "American"
+  },
+  {
+    "id": 3189,
+    "preset_id": 455,
+    "cat_emoji": "🏈",
+    "lang": "RU",
+    "category": "Команды Национальной футбольной лиги NFL",
+    "text": "Philadelphia Union",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏈",
+    "continent": "American"
+  },
+  {
+    "id": 3190,
+    "preset_id": 455,
+    "cat_emoji": "🏈",
+    "lang": "PT",
+    "category": "Times de Futebol Americano da NFL",
+    "text": "Philadelphia Union",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏈",
+    "continent": "American"
+  },
+  {
+    "id": 3191,
+    "preset_id": 455,
+    "cat_emoji": "🏈",
+    "lang": "CN",
+    "category": "NFL美式橄榄球队",
+    "text": "Philadelphia Union",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏈",
+    "continent": "American"
+  }
+]

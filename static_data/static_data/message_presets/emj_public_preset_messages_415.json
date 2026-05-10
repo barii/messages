@@ -1,1 +1,72 @@
-[{"id":7953,"text":"We all need a wage increase","category":"Work","positive":false,"premium":true,"lang":"EN","cat_emoji":"1F5C2","preset_id":415},{"id":8821,"text":"\u041d\u0430\u043c \u0432\u0441\u0435\u043c \u043d\u0443\u0436\u043d\u043e \u043f\u043e\u0432\u044b\u0441\u0438\u0442\u044c \u0437\u0430\u0440\u043f\u043b\u0430\u0442\u044b","category":"\u0420\u0430\u0431\u043e\u0442\u0430","positive":false,"premium":true,"lang":"RU","cat_emoji":"1F5C2","preset_id":415},{"id":9255,"text":"Todos precisamos de um aumento de sal\u00e1rio","category":"Trabalho","positive":false,"premium":true,"lang":"PT","cat_emoji":"1F5C2","preset_id":415},{"id":9689,"text":"\u6211\u4eec\u90fd\u9700\u8981\u52a0\u85aa","category":"\u5de5\u4f5c","positive":false,"premium":true,"lang":"CN","cat_emoji":"1F5C2","preset_id":415},{"id":10123,"text":"Todos necesitamos un aumento salarial","category":"Trabajo","positive":false,"premium":true,"lang":"ES","cat_emoji":"1F5C2","preset_id":415},{"id":8387,"text":"Wir alle verdienen eine Gehaltserh\u00f6hung","category":"Arbeit","positive":false,"premium":true,"lang":"DE","cat_emoji":"1F5C2","preset_id":415},{"id":10557,"text":"Wszyscy potrzebujemy podwy\u017cki","category":"Praca","positive":false,"premium":true,"lang":"PL","cat_emoji":"1F5C2","preset_id":415}]
+[
+  {
+    "preset_id": 415,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "We all need a wage increase",
+    "premium": true,
+    "positive": false,
+    "id": 7953
+  },
+  {
+    "id": 8821,
+    "text": "Нам всем нужно повысить зарплаты",
+    "category": "Работа",
+    "positive": false,
+    "premium": true,
+    "lang": "RU",
+    "cat_emoji": "1F5C2",
+    "preset_id": 415
+  },
+  {
+    "id": 9255,
+    "text": "Todos precisamos de um aumento de salário",
+    "category": "Trabalho",
+    "positive": false,
+    "premium": true,
+    "lang": "PT",
+    "cat_emoji": "1F5C2",
+    "preset_id": 415
+  },
+  {
+    "id": 9689,
+    "text": "我们都需要加薪",
+    "category": "工作",
+    "positive": false,
+    "premium": true,
+    "lang": "CN",
+    "cat_emoji": "1F5C2",
+    "preset_id": 415
+  },
+  {
+    "id": 10123,
+    "text": "Todos necesitamos un aumento salarial",
+    "category": "Trabajo",
+    "positive": false,
+    "premium": true,
+    "lang": "ES",
+    "cat_emoji": "1F5C2",
+    "preset_id": 415
+  },
+  {
+    "id": 8387,
+    "text": "Wir alle verdienen eine Gehaltserhöhung",
+    "category": "Arbeit",
+    "positive": false,
+    "premium": true,
+    "lang": "DE",
+    "cat_emoji": "1F5C2",
+    "preset_id": 415
+  },
+  {
+    "id": 10557,
+    "text": "Wszyscy potrzebujemy podwyżki",
+    "category": "Praca",
+    "positive": false,
+    "premium": true,
+    "lang": "PL",
+    "cat_emoji": "1F5C2",
+    "preset_id": 415
+  }
+]

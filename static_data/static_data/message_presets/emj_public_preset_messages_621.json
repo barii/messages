@@ -1,1 +1,72 @@
-[{"id":18656,"text":"I am Asian","category":"Personal","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F464","preset_id":621},{"id":18657,"text":"Ich bin aus Asien","category":"Pers\u00f6nliches","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F464","preset_id":621},{"id":18658,"text":"Sou asi\u00e1tico","category":"Pessoal","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F464","preset_id":621},{"id":18660,"text":"\u042f \u0430\u0437\u0438\u0430\u0442\/\u0430\u0437\u0438\u0430\u0442\u043a\u0430","category":"\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F464","preset_id":621},{"id":18661,"text":"Soy asi\u00e1tico","category":"Personal","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F464","preset_id":621},{"id":18662,"text":"\u6211\u662f\u4e9a\u6d32\u4eba","category":"\u4e2a\u4eba\u8bdd\u9898","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F464","preset_id":621},{"id":18659,"text":"Jestem Azjat\u0105\/Azjatk\u0105","category":"P\u0142aszczyzna osobista","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F464","preset_id":621}]
+[
+  {
+    "preset_id": 621,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I am Asian",
+    "premium": false,
+    "positive": true,
+    "id": 18656
+  },
+  {
+    "id": 18657,
+    "text": "Ich bin aus Asien",
+    "category": "Persönliches",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F464",
+    "preset_id": 621
+  },
+  {
+    "id": 18658,
+    "text": "Sou asiático",
+    "category": "Pessoal",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F464",
+    "preset_id": 621
+  },
+  {
+    "id": 18660,
+    "text": "Я азиат/азиатка",
+    "category": "Персональные",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F464",
+    "preset_id": 621
+  },
+  {
+    "id": 18661,
+    "text": "Soy asiático",
+    "category": "Personal",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F464",
+    "preset_id": 621
+  },
+  {
+    "id": 18662,
+    "text": "我是亚洲人",
+    "category": "个人话题",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F464",
+    "preset_id": 621
+  },
+  {
+    "id": 18659,
+    "text": "Jestem Azjatą/Azjatką",
+    "category": "Płaszczyzna osobista",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F464",
+    "preset_id": 621
+  }
+]

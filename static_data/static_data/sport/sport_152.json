@@ -1,1 +1,86 @@
-[{"id":1064,"preset_id":152,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"EN","category":"English Football Teams","text":"Ipswich Town","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1065,"preset_id":152,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"ES","category":"Equipos de Fútbol Ingleses","text":"Ipswich Town","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1066,"preset_id":152,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"DE","category":"Englische Fußballmannschaften","text":"Ipswich Town","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1067,"preset_id":152,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"PL","category":"Angielskie drużyny piłkarskie","text":"Ipswich Town","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1068,"preset_id":152,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"RU","category":"Английские футбольные команды","text":"Ipswich Town","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1069,"preset_id":152,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"PT","category":"Times de futebol ingleses","text":"Ipswich Town","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1070,"preset_id":152,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"CN","category":"英格兰足球队","text":"Ipswich Town","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"}]
+[
+  {
+    "id": 1064,
+    "preset_id": 152,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "EN",
+    "category": "English Football Teams",
+    "text": "Liverpool",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1065,
+    "preset_id": 152,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Ingleses",
+    "text": "Liverpool",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1066,
+    "preset_id": 152,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "DE",
+    "category": "Englische Fußballmannschaften",
+    "text": "Liverpool",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1067,
+    "preset_id": 152,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "PL",
+    "category": "Angielskie drużyny piłkarskie",
+    "text": "Liverpool",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1068,
+    "preset_id": 152,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "RU",
+    "category": "Английские футбольные команды",
+    "text": "Liverpool",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1069,
+    "preset_id": 152,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "PT",
+    "category": "Times de futebol ingleses",
+    "text": "Liverpool",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1070,
+    "preset_id": 152,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "CN",
+    "category": "英格兰足球队",
+    "text": "Liverpool",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  }
+]

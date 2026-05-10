@@ -1,1 +1,72 @@
-[{"id":8133,"text":"Lass uns dar\u00fcber reden","category":"Antwort: Neutral","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":161},{"id":9001,"text":"Vamos falar sobre isto","category":"Resposta: neutra","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":161},{"id":10303,"text":"Pogadajmy o tym","category":"Odpowied\u017a: neutralny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":161},{"id":8567,"text":"\u0414\u0430\u0432\u0430\u0439 \u043f\u043e\u0433\u043e\u0432\u043e\u0440\u0438\u043c \u043e\u0431 \u044d\u0442\u043e\u043c","category":"\u041e\u0442\u0432\u0435\u0442: \u041d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":161},{"id":9869,"text":"Hablemos de esto","category":"Respuesta: neutral","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":161},{"id":9435,"text":"\u6211\u4eec\u6765\u8c08\u8c08\u8fd9\u4ef6\u4e8b\u5427","category":"\u56de\u590d\uff1a\u4e2d\u6027\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":161},{"id":7699,"text":"Let's talk about this","category":"Reply: Neutral","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":161}]
+[
+  {
+    "preset_id": 161,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Let's talk about this",
+    "premium": false,
+    "positive": true,
+    "id": 7699
+  },
+  {
+    "id": 8133,
+    "text": "Lass uns darüber reden",
+    "category": "Antwort: Neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 161
+  },
+  {
+    "id": 9001,
+    "text": "Vamos falar sobre isto",
+    "category": "Resposta: neutra",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 161
+  },
+  {
+    "id": 10303,
+    "text": "Pogadajmy o tym",
+    "category": "Odpowiedź: neutralny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 161
+  },
+  {
+    "id": 8567,
+    "text": "Давай поговорим об этом",
+    "category": "Ответ: Нейтральный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 161
+  },
+  {
+    "id": 9869,
+    "text": "Hablemos de esto",
+    "category": "Respuesta: neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 161
+  },
+  {
+    "id": 9435,
+    "text": "我们来谈谈这件事吧",
+    "category": "回复：中性用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 161
+  }
+]

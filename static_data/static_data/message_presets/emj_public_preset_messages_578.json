@@ -1,1 +1,72 @@
-[{"id":18355,"text":"Don\u2019t be afraid to be yourself","category":"Advice\/Suggestion","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F914","preset_id":578},{"id":18356,"text":"Hab keine Angst, du selbst zu sein","category":"Empfehlung\/Vorschlag","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F914","preset_id":578},{"id":18357,"text":"N\u00e3o tenhas medo de ser tu mesmo","category":"Conselho\/Sugest\u00e3o","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F914","preset_id":578},{"id":18358,"text":"Nie b\u00f3j si\u0119 by\u0107 sob\u0105","category":"Porada\/sugestia","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F914","preset_id":578},{"id":18359,"text":"\u041d\u0435 \u0431\u043e\u0439\u0441\u044f \u0431\u044b\u0442\u044c \u0441\u043e\u0431\u043e\u0439","category":"\u0421\u043e\u0432\u0435\u0442\u044b\/\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F914","preset_id":578},{"id":18360,"text":"No tengas miedo de ser t\u00fa mismo","category":"Consejos\/sugerencia","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F914","preset_id":578},{"id":18361,"text":"\u4e0d\u8981\u5bb3\u6015\u505a\u4f60\u81ea\u5df1","category":"\u5fe0\u544a\/\u5efa\u8bae","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F914","preset_id":578}]
+[
+  {
+    "preset_id": 578,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Don’t be afraid to be yourself",
+    "premium": false,
+    "positive": true,
+    "id": 18355
+  },
+  {
+    "id": 18356,
+    "text": "Hab keine Angst, du selbst zu sein",
+    "category": "Empfehlung/Vorschlag",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F914",
+    "preset_id": 578
+  },
+  {
+    "id": 18357,
+    "text": "Não tenhas medo de ser tu mesmo",
+    "category": "Conselho/Sugestão",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F914",
+    "preset_id": 578
+  },
+  {
+    "id": 18358,
+    "text": "Nie bój się być sobą",
+    "category": "Porada/sugestia",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F914",
+    "preset_id": 578
+  },
+  {
+    "id": 18359,
+    "text": "Не бойся быть собой",
+    "category": "Советы/рекомендации",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F914",
+    "preset_id": 578
+  },
+  {
+    "id": 18360,
+    "text": "No tengas miedo de ser tú mismo",
+    "category": "Consejos/sugerencia",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F914",
+    "preset_id": 578
+  },
+  {
+    "id": 18361,
+    "text": "不要害怕做你自己",
+    "category": "忠告/建议",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F914",
+    "preset_id": 578
+  }
+]

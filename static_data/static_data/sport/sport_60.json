@@ -1,1 +1,86 @@
-[{"id":420,"preset_id":60,"cat_emoji":"🇦🇷","lang":"EN","category":"Argentine Football Teams","text":"Atlético Tucumán","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":421,"preset_id":60,"cat_emoji":"🇦🇷","lang":"ES","category":"Equipos de Fútbol Argentinos","text":"Atlético Tucumán","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":422,"preset_id":60,"cat_emoji":"🇦🇷","lang":"DE","category":"Argentinische Fußballmannschaften","text":"Atlético Tucumán","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":423,"preset_id":60,"cat_emoji":"🇦🇷","lang":"PL","category":"Argentyńskie drużyny piłkarskie","text":"Atlético Tucumán","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":424,"preset_id":60,"cat_emoji":"🇦🇷","lang":"RU","category":"Аргентинские футбольные команды","text":"Atlético Tucumán","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":425,"preset_id":60,"cat_emoji":"🇦🇷","lang":"PT","category":"Times de futebol argentinos","text":"Atlético Tucumán","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":426,"preset_id":60,"cat_emoji":"🇦🇷","lang":"CN","category":"阿根廷足球队","text":"Atlético Tucumán","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"}]
+[
+  {
+    "id": 420,
+    "preset_id": 60,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "National football teams",
+    "text": "Austrian football team",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇹",
+    "continent": "European"
+  },
+  {
+    "id": 421,
+    "preset_id": 60,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Selección nacional de fútbol",
+    "text": "Equipo de fútbol de Austria",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇹",
+    "continent": "European"
+  },
+  {
+    "id": 422,
+    "preset_id": 60,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Nationale Fußballmannschaft",
+    "text": "Österreichische Fußballmannschaft",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇹",
+    "continent": "European"
+  },
+  {
+    "id": 423,
+    "preset_id": 60,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Narodowa drużyna piłkarska",
+    "text": "Austriacka drużyna piłkarska",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇹",
+    "continent": "European"
+  },
+  {
+    "id": 424,
+    "preset_id": 60,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "национальная сборная по футболу",
+    "text": "Австрийская футбольная команда",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇹",
+    "continent": "European"
+  },
+  {
+    "id": 425,
+    "preset_id": 60,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Seleção nacional de futebol",
+    "text": "Seleção Austríaca de futebol",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇹",
+    "continent": "European"
+  },
+  {
+    "id": 426,
+    "preset_id": 60,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "国家足球队",
+    "text": "奥地利足球队",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇹",
+    "continent": "European"
+  }
+]

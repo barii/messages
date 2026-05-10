@@ -1,1 +1,86 @@
-[{"id":2478,"preset_id":354,"cat_emoji":"🇩🇪","lang":"EN","category":"German Football Teams","text":"FC Augsburg","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2479,"preset_id":354,"cat_emoji":"🇩🇪","lang":"ES","category":"Equipos de Fútbol Alemanes","text":"FC Augsburg","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2480,"preset_id":354,"cat_emoji":"🇩🇪","lang":"DE","category":"Deutsche Fußballmannschaften","text":"FC Augsburg","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2481,"preset_id":354,"cat_emoji":"🇩🇪","lang":"PL","category":"Niemieckie drużyny piłkarskie","text":"FC Augsburg","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2482,"preset_id":354,"cat_emoji":"🇩🇪","lang":"RU","category":"Немецкие футбольные команды","text":"FC Augsburg","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2483,"preset_id":354,"cat_emoji":"🇩🇪","lang":"PT","category":"Times de futebol alemães","text":"FC Augsburg","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2484,"preset_id":354,"cat_emoji":"🇩🇪","lang":"CN","category":"德国足球队","text":"FC Augsburg","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"}]
+[
+  {
+    "id": 2478,
+    "preset_id": 354,
+    "cat_emoji": "🇩🇪",
+    "lang": "EN",
+    "category": "German Football Teams",
+    "text": "Borussia Mönchengladbach",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2479,
+    "preset_id": 354,
+    "cat_emoji": "🇩🇪",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Alemanes",
+    "text": "Borussia Mönchengladbach",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2480,
+    "preset_id": 354,
+    "cat_emoji": "🇩🇪",
+    "lang": "DE",
+    "category": "Deutsche Fußballmannschaften",
+    "text": "Borussia Mönchengladbach",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2481,
+    "preset_id": 354,
+    "cat_emoji": "🇩🇪",
+    "lang": "PL",
+    "category": "Niemieckie drużyny piłkarskie",
+    "text": "Borussia Mönchengladbach",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2482,
+    "preset_id": 354,
+    "cat_emoji": "🇩🇪",
+    "lang": "RU",
+    "category": "Немецкие футбольные команды",
+    "text": "Borussia Mönchengladbach",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2483,
+    "preset_id": 354,
+    "cat_emoji": "🇩🇪",
+    "lang": "PT",
+    "category": "Times de futebol alemães",
+    "text": "Borussia Mönchengladbach",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2484,
+    "preset_id": 354,
+    "cat_emoji": "🇩🇪",
+    "lang": "CN",
+    "category": "德国足球队",
+    "text": "Borussia Mönchengladbach",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  }
+]

@@ -1,1 +1,79 @@
-[{"id":21445,"preset_id":1033,"cat_emoji":"0001F3C9","lang":"EN","category":"American sports","text":"Brick!","premium":"false","positive":"true"},{"id":21446,"preset_id":1033,"cat_emoji":"0001F3C9","lang":"ES","category":"Deportes americanos","text":"Brick!","premium":"false","positive":"true"},{"id":21447,"preset_id":1033,"cat_emoji":"0001F3C9","lang":"DE","category":"Amerikanische Sportarten","text":"Brick!","premium":"false","positive":"true"},{"id":21448,"preset_id":1033,"cat_emoji":"0001F3C9","lang":"PL","category":"Amerykańskie sporty","text":"Brick!","premium":"false","positive":"true"},{"id":21449,"preset_id":1033,"cat_emoji":"0001F3C9","lang":"RU","category":"Американские виды спорта","text":"Brick!","premium":"false","positive":"true"},{"id":21450,"preset_id":1033,"cat_emoji":"0001F3C9","lang":"PT","category":"Esportes americanos","text":"Brick!","premium":"false","positive":"true"},{"id":21451,"preset_id":1033,"cat_emoji":"0001F3C9","lang":"CN","category":"美国体育","text":"Brick!","premium":"false","positive":"true"}]
+[
+  {
+    "id": 21445,
+    "preset_id": 1033,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "text": "Brick!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21446,
+    "preset_id": 1033,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "text": "Brick!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21447,
+    "preset_id": 1033,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "text": "Brick!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21448,
+    "preset_id": 1033,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "text": "Brick!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21449,
+    "preset_id": 1033,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "text": "Brick!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21450,
+    "preset_id": 1033,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "text": "Brick!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21451,
+    "preset_id": 1033,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "text": "Brick!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  }
+]

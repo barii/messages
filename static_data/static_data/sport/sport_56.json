@@ -1,1 +1,86 @@
-[{"id":392,"preset_id":56,"cat_emoji":"⚽","lang":"EN","category":"National football teams","text":"Ecuadorian football team","premium":"false","positive":"true","msg_emoji":"🇪🇨","continent":"European"},{"id":393,"preset_id":56,"cat_emoji":"⚽","lang":"ES","category":"Selección nacional de fútbol","text":"Equipo de fútbol Ecuatoriano","premium":"false","positive":"true","msg_emoji":"🇪🇨","continent":"European"},{"id":394,"preset_id":56,"cat_emoji":"⚽","lang":"DE","category":"Nationale Fußballmannschaft","text":"Ecuadorianische Fußballmannschaft","premium":"false","positive":"true","msg_emoji":"🇪🇨","continent":"European"},{"id":395,"preset_id":56,"cat_emoji":"⚽","lang":"PL","category":"Narodowa drużyna piłkarska","text":"Ekwadorska drużyna piłkarska","premium":"false","positive":"true","msg_emoji":"🇪🇨","continent":"European"},{"id":396,"preset_id":56,"cat_emoji":"⚽","lang":"RU","category":"национальная сборная по футболу","text":"Эквадорская футбольная команда","premium":"false","positive":"true","msg_emoji":"🇪🇨","continent":"European"},{"id":397,"preset_id":56,"cat_emoji":"⚽","lang":"PT","category":"Seleção nacional de futebol","text":"Seleção Equatoriana de Futebol","premium":"false","positive":"true","msg_emoji":"🇪🇨","continent":"European"},{"id":398,"preset_id":56,"cat_emoji":"⚽","lang":"CN","category":"国家足球队","text":"厄瓜多尔足球队","premium":"false","positive":"true","msg_emoji":"🇪🇨","continent":"European"}]
+[
+  {
+    "id": 392,
+    "preset_id": 56,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "National football teams",
+    "text": "Chilian football team",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇱",
+    "continent": "European"
+  },
+  {
+    "id": 393,
+    "preset_id": 56,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Selección nacional de fútbol",
+    "text": "Selección de fútbol de Chile",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇱",
+    "continent": "European"
+  },
+  {
+    "id": 394,
+    "preset_id": 56,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Nationale Fußballmannschaft",
+    "text": "Chilenische Fußballmannschaft",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇱",
+    "continent": "European"
+  },
+  {
+    "id": 395,
+    "preset_id": 56,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Narodowa drużyna piłkarska",
+    "text": "Chilijska drużyna piłkarska",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇱",
+    "continent": "European"
+  },
+  {
+    "id": 396,
+    "preset_id": 56,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "национальная сборная по футболу",
+    "text": "Чилийская футбольная команда",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇱",
+    "continent": "European"
+  },
+  {
+    "id": 397,
+    "preset_id": 56,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Seleção nacional de futebol",
+    "text": "Seleção Chilena de Futebol",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇱",
+    "continent": "European"
+  },
+  {
+    "id": 398,
+    "preset_id": 56,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "国家足球队",
+    "text": "智利足球队",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇱",
+    "continent": "European"
+  }
+]

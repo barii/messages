@@ -1,1 +1,86 @@
-[{"id":497,"preset_id":71,"cat_emoji":"🇦🇷","lang":"EN","category":"Argentine Football Teams","text":"Huracán","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":498,"preset_id":71,"cat_emoji":"🇦🇷","lang":"ES","category":"Equipos de Fútbol Argentinos","text":"Huracán","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":499,"preset_id":71,"cat_emoji":"🇦🇷","lang":"DE","category":"Argentinische Fußballmannschaften","text":"Huracán","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":500,"preset_id":71,"cat_emoji":"🇦🇷","lang":"PL","category":"Argentyńskie drużyny piłkarskie","text":"Huracán","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":501,"preset_id":71,"cat_emoji":"🇦🇷","lang":"RU","category":"Аргентинские футбольные команды","text":"Huracán","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":502,"preset_id":71,"cat_emoji":"🇦🇷","lang":"PT","category":"Times de futebol argentinos","text":"Huracán","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":503,"preset_id":71,"cat_emoji":"🇦🇷","lang":"CN","category":"阿根廷足球队","text":"Huracán","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"}]
+[
+  {
+    "id": 497,
+    "preset_id": 71,
+    "cat_emoji": "🇦🇷",
+    "lang": "EN",
+    "category": "Argentine Football Teams",
+    "text": "Gimnasia y Esgrima (LP)",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 498,
+    "preset_id": 71,
+    "cat_emoji": "🇦🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Argentinos",
+    "text": "Gimnasia y Esgrima (LP)",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 499,
+    "preset_id": 71,
+    "cat_emoji": "🇦🇷",
+    "lang": "DE",
+    "category": "Argentinische Fußballmannschaften",
+    "text": "Gimnasia y Esgrima (LP)",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 500,
+    "preset_id": 71,
+    "cat_emoji": "🇦🇷",
+    "lang": "PL",
+    "category": "Argentyńskie drużyny piłkarskie",
+    "text": "Gimnasia y Esgrima (LP)",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 501,
+    "preset_id": 71,
+    "cat_emoji": "🇦🇷",
+    "lang": "RU",
+    "category": "Аргентинские футбольные команды",
+    "text": "Gimnasia y Esgrima (LP)",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 502,
+    "preset_id": 71,
+    "cat_emoji": "🇦🇷",
+    "lang": "PT",
+    "category": "Times de futebol argentinos",
+    "text": "Gimnasia y Esgrima (LP)",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 503,
+    "preset_id": 71,
+    "cat_emoji": "🇦🇷",
+    "lang": "CN",
+    "category": "阿根廷足球队",
+    "text": "Gimnasia y Esgrima (LP)",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  }
+]

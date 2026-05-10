@@ -1,1 +1,86 @@
-[{"id":20675,"preset_id":923,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"All talk and no action.","premium":"false","positive":"true","header":"insult"},{"id":20676,"preset_id":923,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"Todo palabrería y nada de acción.","premium":"false","positive":"true","header":"insultante"},{"id":20677,"preset_id":923,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"Nur reden und nichts tun.","premium":"false","positive":"true","header":"Beleidigend"},{"id":20678,"preset_id":923,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"Tylko gadanie i żadnych działań.","premium":"false","positive":"true","header":"Obraźliwy"},{"id":20679,"preset_id":923,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"Одни разговоры и никаких действий.","premium":"false","positive":"true","header":"Оскорбительный"},{"id":20680,"preset_id":923,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"Só conversa e nada de ação.","premium":"false","positive":"true","header":"Insultuoso"},{"id":20681,"preset_id":923,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"只说不做。","premium":"false","positive":"true","header":"侮辱"}]
+[
+  {
+    "id": 20675,
+    "preset_id": 923,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "All talk and no action.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insult"
+  },
+  {
+    "id": 20676,
+    "preset_id": 923,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "Todo palabrería y nada de acción.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultante"
+  },
+  {
+    "id": 20677,
+    "preset_id": 923,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Nur reden und nichts tun.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Beleidigend"
+  },
+  {
+    "id": 20678,
+    "preset_id": 923,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Tylko gadanie i żadnych działań.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Obraźliwy"
+  },
+  {
+    "id": 20679,
+    "preset_id": 923,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Одни разговоры и никаких действий.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Оскорбительный"
+  },
+  {
+    "id": 20680,
+    "preset_id": 923,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Só conversa e nada de ação.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultuoso"
+  },
+  {
+    "id": 20681,
+    "preset_id": 923,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "只说不做。",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "侮辱"
+  }
+]

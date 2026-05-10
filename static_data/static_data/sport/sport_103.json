@@ -1,1 +1,86 @@
-[{"id":721,"preset_id":103,"cat_emoji":"🇫🇷","lang":"EN","category":"French Football Teams","text":"FC Nantes","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"},{"id":722,"preset_id":103,"cat_emoji":"🇫🇷","lang":"ES","category":"Equipos de Fútbol Franceses","text":"FC Nantes","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"},{"id":723,"preset_id":103,"cat_emoji":"🇫🇷","lang":"DE","category":"Französische Fußballmannschaften","text":"FC Nantes","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"},{"id":724,"preset_id":103,"cat_emoji":"🇫🇷","lang":"PL","category":"Francuskie drużyny piłkarskie","text":"FC Nantes","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"},{"id":725,"preset_id":103,"cat_emoji":"🇫🇷","lang":"RU","category":"Французские футбольные команды","text":"FC Nantes","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"},{"id":726,"preset_id":103,"cat_emoji":"🇫🇷","lang":"PT","category":"Times de futebol franceses","text":"FC Nantes","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"},{"id":727,"preset_id":103,"cat_emoji":"🇫🇷","lang":"CN","category":"法国足球队","text":"FC Nantes","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"}]
+[
+  {
+    "id": 721,
+    "preset_id": 103,
+    "cat_emoji": "🇫🇷",
+    "lang": "EN",
+    "category": "French Football Teams",
+    "text": "RC Strasbourg Alsace",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 722,
+    "preset_id": 103,
+    "cat_emoji": "🇫🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Franceses",
+    "text": "RC Strasbourg Alsace",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 723,
+    "preset_id": 103,
+    "cat_emoji": "🇫🇷",
+    "lang": "DE",
+    "category": "Französische Fußballmannschaften",
+    "text": "RC Strasbourg Alsace",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 724,
+    "preset_id": 103,
+    "cat_emoji": "🇫🇷",
+    "lang": "PL",
+    "category": "Francuskie drużyny piłkarskie",
+    "text": "RC Strasbourg Alsace",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 725,
+    "preset_id": 103,
+    "cat_emoji": "🇫🇷",
+    "lang": "RU",
+    "category": "Французские футбольные команды",
+    "text": "RC Strasbourg Alsace",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 726,
+    "preset_id": 103,
+    "cat_emoji": "🇫🇷",
+    "lang": "PT",
+    "category": "Times de futebol franceses",
+    "text": "RC Strasbourg Alsace",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 727,
+    "preset_id": 103,
+    "cat_emoji": "🇫🇷",
+    "lang": "CN",
+    "category": "法国足球队",
+    "text": "RC Strasbourg Alsace",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  }
+]

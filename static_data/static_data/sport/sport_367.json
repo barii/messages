@@ -1,1 +1,86 @@
-[{"id":2569,"preset_id":367,"cat_emoji":"🇵🇱","lang":"EN","category":"Polish Football Teams","text":"Jagiellonia Białystok","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2570,"preset_id":367,"cat_emoji":"🇵🇱","lang":"ES","category":"Equipos de Fútbol Polacos","text":"Jagiellonia Białystok","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2571,"preset_id":367,"cat_emoji":"🇵🇱","lang":"DE","category":"Polnische Fußballmannschaften","text":"Jagiellonia Białystok","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2572,"preset_id":367,"cat_emoji":"🇵🇱","lang":"PL","category":"Polskie drużyny piłkarskie","text":"Jagiellonia Białystok","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2573,"preset_id":367,"cat_emoji":"🇵🇱","lang":"RU","category":"Польские футбольные команды","text":"Jagiellonia Białystok","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2574,"preset_id":367,"cat_emoji":"🇵🇱","lang":"PT","category":"Times de futebol poloneses","text":"Jagiellonia Białystok","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2575,"preset_id":367,"cat_emoji":"🇵🇱","lang":"CN","category":"波兰足球队","text":"Jagiellonia Białystok","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"}]
+[
+  {
+    "id": 2569,
+    "preset_id": 367,
+    "cat_emoji": "🇵🇱",
+    "lang": "EN",
+    "category": "Polish Football Teams",
+    "text": "Cracovia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2570,
+    "preset_id": 367,
+    "cat_emoji": "🇵🇱",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Polacos",
+    "text": "Cracovia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2571,
+    "preset_id": 367,
+    "cat_emoji": "🇵🇱",
+    "lang": "DE",
+    "category": "Polnische Fußballmannschaften",
+    "text": "Cracovia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2572,
+    "preset_id": 367,
+    "cat_emoji": "🇵🇱",
+    "lang": "PL",
+    "category": "Polskie drużyny piłkarskie",
+    "text": "Cracovia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2573,
+    "preset_id": 367,
+    "cat_emoji": "🇵🇱",
+    "lang": "RU",
+    "category": "Польские футбольные команды",
+    "text": "Cracovia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2574,
+    "preset_id": 367,
+    "cat_emoji": "🇵🇱",
+    "lang": "PT",
+    "category": "Times de futebol poloneses",
+    "text": "Cracovia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2575,
+    "preset_id": 367,
+    "cat_emoji": "🇵🇱",
+    "lang": "CN",
+    "category": "波兰足球队",
+    "text": "Cracovia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id":20203,"text":"Did we meet in the gym?","category":"Hints","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F50E","preset_id":842},{"id":20204,"text":"Haben wir uns im Fitnessstudio kennen gelernt?","category":"Tipps","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F50E","preset_id":842},{"id":20205,"text":"Conhecemo-nos no gin\u00e1sio?","category":"Dicas","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F50E","preset_id":842},{"id":20206,"text":"Czy spotkali\u015bmy si\u0119 na si\u0142owni?","category":"Wskaz\u00f3wki","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F50E","preset_id":842},{"id":20207,"text":"\u041c\u044b \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u043b\u0438\u0441\u044c \u0432 \u0441\u043f\u043e\u0440\u0442\u0437\u0430\u043b\u0435?","category":"\u0421\u043e\u0432\u0435\u0442\u044b","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F50E","preset_id":842},{"id":20208,"text":"\u00bfNos conocimos en el gimnasio?","category":"Pistas","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F50E","preset_id":842},{"id":20209,"text":"\u6211\u4eec\u5728\u5065\u8eab\u623f\u89c1\u8fc7\u5417\uff1f","category":"\u63d0\u793a\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F50E","preset_id":842}]
+[
+  {
+    "preset_id": 842,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "Did we meet in the gym?",
+    "premium": false,
+    "positive": true,
+    "id": 20203
+  },
+  {
+    "id": 20204,
+    "text": "Haben wir uns im Fitnessstudio kennen gelernt?",
+    "category": "Tipps",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F50E",
+    "preset_id": 842
+  },
+  {
+    "id": 20205,
+    "text": "Conhecemo-nos no ginásio?",
+    "category": "Dicas",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F50E",
+    "preset_id": 842
+  },
+  {
+    "id": 20206,
+    "text": "Czy spotkaliśmy się na siłowni?",
+    "category": "Wskazówki",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F50E",
+    "preset_id": 842
+  },
+  {
+    "id": 20207,
+    "text": "Мы встречались в спортзале?",
+    "category": "Советы",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F50E",
+    "preset_id": 842
+  },
+  {
+    "id": 20208,
+    "text": "¿Nos conocimos en el gimnasio?",
+    "category": "Pistas",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F50E",
+    "preset_id": 842
+  },
+  {
+    "id": 20209,
+    "text": "我们在健身房见过吗？",
+    "category": "提示用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F50E",
+    "preset_id": 842
+  }
+]

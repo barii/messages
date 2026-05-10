@@ -1,1 +1,86 @@
-[{"id":3423,"preset_id":489,"cat_emoji":"🏀","lang":"EN","category":"NBA Basketball Teams","text":"Houston Rockets","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"},{"id":3424,"preset_id":489,"cat_emoji":"🏀","lang":"ES","category":"Equipos de Baloncesto de la NBA","text":"Houston Rockets","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"},{"id":3425,"preset_id":489,"cat_emoji":"🏀","lang":"DE","category":"NBA Basketball Teams","text":"Houston Rockets","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"},{"id":3426,"preset_id":489,"cat_emoji":"🏀","lang":"PL","category":"Drużyny koszykarskie NBA","text":"Houston Rockets","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"},{"id":3427,"preset_id":489,"cat_emoji":"🏀","lang":"RU","category":"Команды Национальной баскетбольной ассоциации NBA","text":"Houston Rockets","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"},{"id":3428,"preset_id":489,"cat_emoji":"🏀","lang":"PT","category":"Times de Basquete da NBA","text":"Houston Rockets","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"},{"id":3429,"preset_id":489,"cat_emoji":"🏀","lang":"CN","category":"NBA篮球队","text":"Houston Rockets","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"}]
+[
+  {
+    "id": 3423,
+    "preset_id": 489,
+    "cat_emoji": "🏀",
+    "lang": "EN",
+    "category": "NBA Basketball Teams",
+    "text": "Milwaukee Bucks",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3424,
+    "preset_id": 489,
+    "cat_emoji": "🏀",
+    "lang": "ES",
+    "category": "Equipos de Baloncesto de la NBA",
+    "text": "Milwaukee Bucks",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3425,
+    "preset_id": 489,
+    "cat_emoji": "🏀",
+    "lang": "DE",
+    "category": "NBA Basketball Teams",
+    "text": "Milwaukee Bucks",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3426,
+    "preset_id": 489,
+    "cat_emoji": "🏀",
+    "lang": "PL",
+    "category": "Drużyny koszykarskie NBA",
+    "text": "Milwaukee Bucks",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3427,
+    "preset_id": 489,
+    "cat_emoji": "🏀",
+    "lang": "RU",
+    "category": "Команды Национальной баскетбольной ассоциации NBA",
+    "text": "Milwaukee Bucks",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3428,
+    "preset_id": 489,
+    "cat_emoji": "🏀",
+    "lang": "PT",
+    "category": "Times de Basquete da NBA",
+    "text": "Milwaukee Bucks",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3429,
+    "preset_id": 489,
+    "cat_emoji": "🏀",
+    "lang": "CN",
+    "category": "NBA篮球队",
+    "text": "Milwaukee Bucks",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  }
+]

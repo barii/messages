@@ -1,1 +1,72 @@
-[{"id":19860,"text":"Dream on","category":"Reply: Unfriendly","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":793},{"id":19861,"text":"Tr\u00e4um weiter","category":"Antwort: Unfreundlich","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":793},{"id":19862,"text":"Continua a sonhar","category":"Resposta: hostil","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":793},{"id":19863,"text":"Nie przestawaj marzy\u0107","category":"Powt\u00f3rka: nieprzyjazny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":793},{"id":19865,"text":"Espera sentado","category":"Respuesta: antip\u00e1tico","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":793},{"id":19866,"text":"\u505a\u4f60\u7684\u6625\u79cb\u5927\u68a6","category":"\u56de\u590d\uff1a\u4e0d\u53cb\u5584\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":793},{"id":19864,"text":"\u041c\u0435\u0447\u0442\u0430\u0442\u044c \u043d\u0435 \u0432\u0440\u0435\u0434\u043d\u043e","category":"\u041e\u0442\u0432\u0435\u0442: \u041d\u0435\u0434\u0440\u0443\u0436\u0435\u043b\u044e\u0431\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":793}]
+[
+  {
+    "preset_id": 793,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Dream on",
+    "premium": false,
+    "positive": true,
+    "id": 19860
+  },
+  {
+    "id": 19861,
+    "text": "Träum weiter",
+    "category": "Antwort: Unfreundlich",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 793
+  },
+  {
+    "id": 19862,
+    "text": "Continua a sonhar",
+    "category": "Resposta: hostil",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 793
+  },
+  {
+    "id": 19863,
+    "text": "Nie przestawaj marzyć",
+    "category": "Powtórka: nieprzyjazny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 793
+  },
+  {
+    "id": 19865,
+    "text": "Espera sentado",
+    "category": "Respuesta: antipático",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 793
+  },
+  {
+    "id": 19866,
+    "text": "做你的春秋大梦",
+    "category": "回复：不友善用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 793
+  },
+  {
+    "id": 19864,
+    "text": "Мечтать не вредно",
+    "category": "Ответ: Недружелюбный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 793
+  }
+]

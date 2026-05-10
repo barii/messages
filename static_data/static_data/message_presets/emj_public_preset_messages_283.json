@@ -1,1 +1,72 @@
-[{"id":10425,"text":"Wstyd\u017a si\u0119 takiego s\u0142ownictwa","category":"Krytycyzm","positive":false,"premium":false,"lang":"PL","cat_emoji":"1F611","preset_id":283},{"id":8255,"text":"Deine Wortwahl ist peinlich","category":"Kritik","positive":false,"premium":false,"lang":"DE","cat_emoji":"1F611","preset_id":283},{"id":8689,"text":"\u0422\u044b \u0431\u0435\u0437\u043e\u0431\u0440\u0430\u0437\u043d\u043e \u0432\u044b\u0440\u0430\u0436\u0430\u0435\u0448\u044c\u0441\u044f","category":"\u041a\u0440\u0438\u0442\u0438\u043a\u0430","positive":false,"premium":false,"lang":"RU","cat_emoji":"1F611","preset_id":283},{"id":9557,"text":"\u4f60\u7684\u7528\u8bcd\u4ee4\u4eba\u53ef\u803b","category":"\u6279\u8bc4","positive":false,"premium":false,"lang":"CN","cat_emoji":"1F611","preset_id":283},{"id":7821,"text":"Your choice of words is shameful","category":"Criticism","positive":false,"premium":false,"lang":"EN","cat_emoji":"1F611","preset_id":283},{"id":9123,"text":"A tua escolha de palavras \u00e9 lament\u00e1vel","category":"Cr\u00edticas","positive":false,"premium":false,"lang":"PT","cat_emoji":"1F611","preset_id":283},{"id":9991,"text":"Tu elecci\u00f3n de palabras es vergonzosa","category":"Cr\u00edticas","positive":false,"premium":false,"lang":"ES","cat_emoji":"1F611","preset_id":283}]
+[
+  {
+    "preset_id": 283,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "Your choice of words is shameful",
+    "premium": false,
+    "positive": false,
+    "id": 7821
+  },
+  {
+    "id": 10425,
+    "text": "Wstydź się takiego słownictwa",
+    "category": "Krytycyzm",
+    "positive": false,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F611",
+    "preset_id": 283
+  },
+  {
+    "id": 8255,
+    "text": "Deine Wortwahl ist peinlich",
+    "category": "Kritik",
+    "positive": false,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F611",
+    "preset_id": 283
+  },
+  {
+    "id": 8689,
+    "text": "Ты безобразно выражаешься",
+    "category": "Критика",
+    "positive": false,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F611",
+    "preset_id": 283
+  },
+  {
+    "id": 9557,
+    "text": "你的用词令人可耻",
+    "category": "批评",
+    "positive": false,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F611",
+    "preset_id": 283
+  },
+  {
+    "id": 9123,
+    "text": "A tua escolha de palavras é lamentável",
+    "category": "Críticas",
+    "positive": false,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F611",
+    "preset_id": 283
+  },
+  {
+    "id": 9991,
+    "text": "Tu elección de palabras es vergonzosa",
+    "category": "Críticas",
+    "positive": false,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F611",
+    "preset_id": 283
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":1295,"preset_id":185,"cat_emoji":"🇭🇷","lang":"EN","category":"Croatian Football Teams","text":"Slaven Belupo","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"},{"id":1296,"preset_id":185,"cat_emoji":"🇭🇷","lang":"ES","category":"Equipos de Fútbol Croatas","text":"Slaven Belupo","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"},{"id":1297,"preset_id":185,"cat_emoji":"🇭🇷","lang":"DE","category":"Kroatische Fußballmannschaften","text":"Slaven Belupo","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"},{"id":1298,"preset_id":185,"cat_emoji":"🇭🇷","lang":"PL","category":"Chorwackie drużyny piłkarskie","text":"Slaven Belupo","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"},{"id":1299,"preset_id":185,"cat_emoji":"🇭🇷","lang":"RU","category":"Хорватские футбольные команды","text":"Slaven Belupo","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"},{"id":1300,"preset_id":185,"cat_emoji":"🇭🇷","lang":"PT","category":"Times de futebol croatas","text":"Slaven Belupo","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"},{"id":1301,"preset_id":185,"cat_emoji":"🇭🇷","lang":"CN","category":"克罗地亚足球队","text":"Slaven Belupo","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"}]
+[
+  {
+    "id": 1295,
+    "preset_id": 185,
+    "cat_emoji": "🇭🇷",
+    "lang": "EN",
+    "category": "Croatian Football Teams",
+    "text": "Lokomotiva",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1296,
+    "preset_id": 185,
+    "cat_emoji": "🇭🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Croatas",
+    "text": "Lokomotiva",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1297,
+    "preset_id": 185,
+    "cat_emoji": "🇭🇷",
+    "lang": "DE",
+    "category": "Kroatische Fußballmannschaften",
+    "text": "Lokomotiva",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1298,
+    "preset_id": 185,
+    "cat_emoji": "🇭🇷",
+    "lang": "PL",
+    "category": "Chorwackie drużyny piłkarskie",
+    "text": "Lokomotiva",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1299,
+    "preset_id": 185,
+    "cat_emoji": "🇭🇷",
+    "lang": "RU",
+    "category": "Хорватские футбольные команды",
+    "text": "Lokomotiva",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1300,
+    "preset_id": 185,
+    "cat_emoji": "🇭🇷",
+    "lang": "PT",
+    "category": "Times de futebol croatas",
+    "text": "Lokomotiva",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1301,
+    "preset_id": 185,
+    "cat_emoji": "🇭🇷",
+    "lang": "CN",
+    "category": "克罗地亚足球队",
+    "text": "Lokomotiva",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  }
+]

@@ -1,1 +1,79 @@
-[{"id":21452,"preset_id":1034,"cat_emoji":"0001F3C9","lang":"EN","category":"American sports","text":"It's too easy!","premium":"false","positive":"true"},{"id":21453,"preset_id":1034,"cat_emoji":"0001F3C9","lang":"ES","category":"Deportes americanos","text":"It's too easy!","premium":"false","positive":"true"},{"id":21454,"preset_id":1034,"cat_emoji":"0001F3C9","lang":"DE","category":"Amerikanische Sportarten","text":"It's too easy!","premium":"false","positive":"true"},{"id":21455,"preset_id":1034,"cat_emoji":"0001F3C9","lang":"PL","category":"Amerykańskie sporty","text":"It's too easy!","premium":"false","positive":"true"},{"id":21456,"preset_id":1034,"cat_emoji":"0001F3C9","lang":"RU","category":"Американские виды спорта","text":"It's too easy!","premium":"false","positive":"true"},{"id":21457,"preset_id":1034,"cat_emoji":"0001F3C9","lang":"PT","category":"Esportes americanos","text":"It's too easy!","premium":"false","positive":"true"},{"id":21458,"preset_id":1034,"cat_emoji":"0001F3C9","lang":"CN","category":"美国体育","text":"It's too easy!","premium":"false","positive":"true"}]
+[
+  {
+    "id": 21452,
+    "preset_id": 1034,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "text": "It's too easy!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21453,
+    "preset_id": 1034,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "text": "It's too easy!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21454,
+    "preset_id": 1034,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "text": "It's too easy!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21455,
+    "preset_id": 1034,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "text": "It's too easy!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21456,
+    "preset_id": 1034,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "text": "It's too easy!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21457,
+    "preset_id": 1034,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "text": "It's too easy!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21458,
+    "preset_id": 1034,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "text": "It's too easy!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id":17832,"text":"\u00c9s cansativo","category":"Insulto","positive":false,"premium":false,"lang":"PT","cat_emoji":"1F44E","preset_id":503},{"id":17830,"text":"You\u2019re draining","category":"Insult","positive":false,"premium":false,"lang":"EN","cat_emoji":"1F44E","preset_id":503},{"id":17834,"text":"\u0422\u044b \u043c\u0435\u043d\u044f \u0443\u0442\u043e\u043c\u043b\u044f\u0435\u0448\u044c","category":"\u041e\u0441\u043a\u043e\u0440\u0431\u043b\u0435\u043d\u0438\u0435","positive":false,"premium":false,"lang":"RU","cat_emoji":"1F44E","preset_id":503},{"id":17835,"text":"Te est\u00e1s agotando","category":"Insulto","positive":false,"premium":false,"lang":"ES","cat_emoji":"1F44E","preset_id":503},{"id":17836,"text":"\u548c\u4f60\u76f8\u5904\u771f\u7d2f","category":"\u4fae\u8fb1","positive":false,"premium":false,"lang":"CN","cat_emoji":"1F44E","preset_id":503},{"id":17833,"text":"Wyczerpujesz mnie","category":"Obraza","positive":false,"premium":false,"lang":"PL","cat_emoji":"1F44E","preset_id":503},{"id":17831,"text":"Du laugst mich aus","category":"Beleidigung","positive":false,"premium":false,"lang":"DE","cat_emoji":"1F44E","preset_id":503}]
+[
+  {
+    "preset_id": 503,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "You’re draining",
+    "premium": false,
+    "positive": false,
+    "id": 17830
+  },
+  {
+    "id": 17832,
+    "text": "És cansativo",
+    "category": "Insulto",
+    "positive": false,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F44E",
+    "preset_id": 503
+  },
+  {
+    "id": 17834,
+    "text": "Ты меня утомляешь",
+    "category": "Оскорбление",
+    "positive": false,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F44E",
+    "preset_id": 503
+  },
+  {
+    "id": 17835,
+    "text": "Te estás agotando",
+    "category": "Insulto",
+    "positive": false,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F44E",
+    "preset_id": 503
+  },
+  {
+    "id": 17836,
+    "text": "和你相处真累",
+    "category": "侮辱",
+    "positive": false,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F44E",
+    "preset_id": 503
+  },
+  {
+    "id": 17833,
+    "text": "Wyczerpujesz mnie",
+    "category": "Obraza",
+    "positive": false,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F44E",
+    "preset_id": 503
+  },
+  {
+    "id": 17831,
+    "text": "Du laugst mich aus",
+    "category": "Beleidigung",
+    "positive": false,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F44E",
+    "preset_id": 503
+  }
+]

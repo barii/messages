@@ -1,1 +1,86 @@
-[{"id":3409,"preset_id":487,"cat_emoji":"🏀","lang":"EN","category":"NBA Basketball Teams","text":"Milwaukee Bucks","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"},{"id":3410,"preset_id":487,"cat_emoji":"🏀","lang":"ES","category":"Equipos de Baloncesto de la NBA","text":"Milwaukee Bucks","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"},{"id":3411,"preset_id":487,"cat_emoji":"🏀","lang":"DE","category":"NBA Basketball Teams","text":"Milwaukee Bucks","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"},{"id":3412,"preset_id":487,"cat_emoji":"🏀","lang":"PL","category":"Drużyny koszykarskie NBA","text":"Milwaukee Bucks","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"},{"id":3413,"preset_id":487,"cat_emoji":"🏀","lang":"RU","category":"Команды Национальной баскетбольной ассоциации NBA","text":"Milwaukee Bucks","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"},{"id":3414,"preset_id":487,"cat_emoji":"🏀","lang":"PT","category":"Times de Basquete da NBA","text":"Milwaukee Bucks","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"},{"id":3415,"preset_id":487,"cat_emoji":"🏀","lang":"CN","category":"NBA篮球队","text":"Milwaukee Bucks","premium":"false","positive":"true","msg_emoji":"🏀","continent":"American"}]
+[
+  {
+    "id": 3409,
+    "preset_id": 487,
+    "cat_emoji": "🏀",
+    "lang": "EN",
+    "category": "NBA Basketball Teams",
+    "text": "Phoenix Suns",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3410,
+    "preset_id": 487,
+    "cat_emoji": "🏀",
+    "lang": "ES",
+    "category": "Equipos de Baloncesto de la NBA",
+    "text": "Phoenix Suns",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3411,
+    "preset_id": 487,
+    "cat_emoji": "🏀",
+    "lang": "DE",
+    "category": "NBA Basketball Teams",
+    "text": "Phoenix Suns",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3412,
+    "preset_id": 487,
+    "cat_emoji": "🏀",
+    "lang": "PL",
+    "category": "Drużyny koszykarskie NBA",
+    "text": "Phoenix Suns",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3413,
+    "preset_id": 487,
+    "cat_emoji": "🏀",
+    "lang": "RU",
+    "category": "Команды Национальной баскетбольной ассоциации NBA",
+    "text": "Phoenix Suns",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3414,
+    "preset_id": 487,
+    "cat_emoji": "🏀",
+    "lang": "PT",
+    "category": "Times de Basquete da NBA",
+    "text": "Phoenix Suns",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3415,
+    "preset_id": 487,
+    "cat_emoji": "🏀",
+    "lang": "CN",
+    "category": "NBA篮球队",
+    "text": "Phoenix Suns",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":133,"preset_id":19,"cat_emoji":"⚽","lang":"EN","category":"Football","text":"Hungarian Football Teams","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":134,"preset_id":19,"cat_emoji":"⚽","lang":"ES","category":"Fútbol","text":"Equipos de Fútbol Húngaros","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":135,"preset_id":19,"cat_emoji":"⚽","lang":"DE","category":"Fußball","text":"Ungarische Fußballmannschaften","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":136,"preset_id":19,"cat_emoji":"⚽","lang":"PL","category":"Piłka nożna","text":"Węgierskie drużyny piłkarskie","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":137,"preset_id":19,"cat_emoji":"⚽","lang":"RU","category":"Футбол","text":"Венгерские футбольные команды","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":138,"preset_id":19,"cat_emoji":"⚽","lang":"PT","category":"Futebol","text":"Times de futebol húngaros","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":139,"preset_id":19,"cat_emoji":"⚽","lang":"CN","category":"足球","text":"匈牙利足球队","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"}]
+[
+  {
+    "id": 133,
+    "preset_id": 19,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "Football",
+    "text": "Polish Football Teams",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 134,
+    "preset_id": 19,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "Equipos de Fútbol Polacos",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 135,
+    "preset_id": 19,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Polnische Fußballmannschaften",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 136,
+    "preset_id": 19,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Polskie drużyny piłkarskie",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 137,
+    "preset_id": 19,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Польские футбольные команды",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 138,
+    "preset_id": 19,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Times de futebol poloneses",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 139,
+    "preset_id": 19,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "足球",
+    "text": "波兰足球队",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  }
+]

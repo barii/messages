@@ -1,1 +1,86 @@
-[{"id":1470,"preset_id":210,"cat_emoji":"🇵🇹","lang":"EN","category":"Portuguese Football Teams","text":"AVS","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1471,"preset_id":210,"cat_emoji":"🇵🇹","lang":"ES","category":"Equipos de Fútbol Portugueses","text":"AVS","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1472,"preset_id":210,"cat_emoji":"🇵🇹","lang":"DE","category":"Portugiesische Fußballmannschaften","text":"AVS","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1473,"preset_id":210,"cat_emoji":"🇵🇹","lang":"PL","category":"Portugalskie drużyny piłkarskie","text":"AVS","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1474,"preset_id":210,"cat_emoji":"🇵🇹","lang":"RU","category":"Португальские футбольные команды","text":"AVS","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1475,"preset_id":210,"cat_emoji":"🇵🇹","lang":"PT","category":"Times de futebol portugueses","text":"AVS","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1476,"preset_id":210,"cat_emoji":"🇵🇹","lang":"CN","category":"葡萄牙足球队","text":"AVS","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"}]
+[
+  {
+    "id": 1470,
+    "preset_id": 210,
+    "cat_emoji": "🇮🇹",
+    "lang": "EN",
+    "category": "Italian Football Teams",
+    "text": "Udinese",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1471,
+    "preset_id": 210,
+    "cat_emoji": "🇮🇹",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Italianos",
+    "text": "Udinese",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1472,
+    "preset_id": 210,
+    "cat_emoji": "🇮🇹",
+    "lang": "DE",
+    "category": "Italienische Fußballmannschaften",
+    "text": "Udinese",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1473,
+    "preset_id": 210,
+    "cat_emoji": "🇮🇹",
+    "lang": "PL",
+    "category": "Włoskie drużyny piłkarskie",
+    "text": "Udinese",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1474,
+    "preset_id": 210,
+    "cat_emoji": "🇮🇹",
+    "lang": "RU",
+    "category": "Итальянские футбольные команды",
+    "text": "Udinese",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1475,
+    "preset_id": 210,
+    "cat_emoji": "🇮🇹",
+    "lang": "PT",
+    "category": "Times de futebol italianos",
+    "text": "Udinese",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1476,
+    "preset_id": 210,
+    "cat_emoji": "🇮🇹",
+    "lang": "CN",
+    "category": "意大利足球队",
+    "text": "Udinese",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  }
+]

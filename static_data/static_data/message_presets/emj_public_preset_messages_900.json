@@ -1,1 +1,86 @@
-[{"id":20514,"preset_id":900,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"you are a small club, and that is a fact.","premium":"false","positive":"true","header":"insult"},{"id":20515,"preset_id":900,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"sois un club pequeño, y eso es un hecho.","premium":"false","positive":"true","header":"insultante"},{"id":20516,"preset_id":900,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"Ihr seid ein kleiner Verein, und das ist eine Tatsache.","premium":"false","positive":"true","header":"Beleidigend"},{"id":20517,"preset_id":900,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"jesteście małym klubem i to jest fakt.","premium":"false","positive":"true","header":"Obraźliwy"},{"id":20518,"preset_id":900,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"вы - маленький клуб, и это факт.","premium":"false","positive":"true","header":"Оскорбительный"},{"id":20519,"preset_id":900,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"vocês são um clube pequeno, e isso é um facto.","premium":"false","positive":"true","header":"Insultuoso"},{"id":20520,"preset_id":900,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"你们是一个小俱乐部，这是事实。","premium":"false","positive":"true","header":"侮辱"}]
+[
+  {
+    "id": 20514,
+    "preset_id": 900,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "you are a small club, and that is a fact.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insult"
+  },
+  {
+    "id": 20515,
+    "preset_id": 900,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "sois un club pequeño, y eso es un hecho.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultante"
+  },
+  {
+    "id": 20516,
+    "preset_id": 900,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Ihr seid ein kleiner Verein, und das ist eine Tatsache.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Beleidigend"
+  },
+  {
+    "id": 20517,
+    "preset_id": 900,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "jesteście małym klubem i to jest fakt.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Obraźliwy"
+  },
+  {
+    "id": 20518,
+    "preset_id": 900,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "вы - маленький клуб, и это факт.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Оскорбительный"
+  },
+  {
+    "id": 20519,
+    "preset_id": 900,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "vocês são um clube pequeno, e isso é um facto.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultuoso"
+  },
+  {
+    "id": 20520,
+    "preset_id": 900,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "你们是一个小俱乐部，这是事实。",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "侮辱"
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":448,"preset_id":64,"cat_emoji":"🇦🇷","lang":"EN","category":"Argentine Football Teams","text":"Boca Juniors","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":449,"preset_id":64,"cat_emoji":"🇦🇷","lang":"ES","category":"Equipos de Fútbol Argentinos","text":"Boca Juniors","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":450,"preset_id":64,"cat_emoji":"🇦🇷","lang":"DE","category":"Argentinische Fußballmannschaften","text":"Boca Juniors","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":451,"preset_id":64,"cat_emoji":"🇦🇷","lang":"PL","category":"Argentyńskie drużyny piłkarskie","text":"Boca Juniors","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":452,"preset_id":64,"cat_emoji":"🇦🇷","lang":"RU","category":"Аргентинские футбольные команды","text":"Boca Juniors","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":453,"preset_id":64,"cat_emoji":"🇦🇷","lang":"PT","category":"Times de futebol argentinos","text":"Boca Juniors","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":454,"preset_id":64,"cat_emoji":"🇦🇷","lang":"CN","category":"阿根廷足球队","text":"Boca Juniors","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"}]
+[
+  {
+    "id": 448,
+    "preset_id": 64,
+    "cat_emoji": "🇦🇷",
+    "lang": "EN",
+    "category": "Argentine Football Teams",
+    "text": "Barracas Central",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 449,
+    "preset_id": 64,
+    "cat_emoji": "🇦🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Argentinos",
+    "text": "Barracas Central",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 450,
+    "preset_id": 64,
+    "cat_emoji": "🇦🇷",
+    "lang": "DE",
+    "category": "Argentinische Fußballmannschaften",
+    "text": "Barracas Central",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 451,
+    "preset_id": 64,
+    "cat_emoji": "🇦🇷",
+    "lang": "PL",
+    "category": "Argentyńskie drużyny piłkarskie",
+    "text": "Barracas Central",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 452,
+    "preset_id": 64,
+    "cat_emoji": "🇦🇷",
+    "lang": "RU",
+    "category": "Аргентинские футбольные команды",
+    "text": "Barracas Central",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 453,
+    "preset_id": 64,
+    "cat_emoji": "🇦🇷",
+    "lang": "PT",
+    "category": "Times de futebol argentinos",
+    "text": "Barracas Central",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 454,
+    "preset_id": 64,
+    "cat_emoji": "🇦🇷",
+    "lang": "CN",
+    "category": "阿根廷足球队",
+    "text": "Barracas Central",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  }
+]

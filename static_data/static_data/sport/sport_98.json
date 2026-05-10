@@ -1,1 +1,86 @@
-[{"id":686,"preset_id":98,"cat_emoji":"🇫🇷","lang":"EN","category":"French Football Teams","text":"Olympique Lyonnais","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"},{"id":687,"preset_id":98,"cat_emoji":"🇫🇷","lang":"ES","category":"Equipos de Fútbol Franceses","text":"Olympique Lyonnais","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"},{"id":688,"preset_id":98,"cat_emoji":"🇫🇷","lang":"DE","category":"Französische Fußballmannschaften","text":"Olympique Lyonnais","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"},{"id":689,"preset_id":98,"cat_emoji":"🇫🇷","lang":"PL","category":"Francuskie drużyny piłkarskie","text":"Olympique Lyonnais","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"},{"id":690,"preset_id":98,"cat_emoji":"🇫🇷","lang":"RU","category":"Французские футбольные команды","text":"Olympique Lyonnais","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"},{"id":691,"preset_id":98,"cat_emoji":"🇫🇷","lang":"PT","category":"Times de futebol franceses","text":"Olympique Lyonnais","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"},{"id":692,"preset_id":98,"cat_emoji":"🇫🇷","lang":"CN","category":"法国足球队","text":"Olympique Lyonnais","premium":"false","positive":"true","msg_emoji":"🇫🇷","continent":"European"}]
+[
+  {
+    "id": 686,
+    "preset_id": 98,
+    "cat_emoji": "🇫🇷",
+    "lang": "EN",
+    "category": "French Football Teams",
+    "text": "Stade Rennais",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 687,
+    "preset_id": 98,
+    "cat_emoji": "🇫🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Franceses",
+    "text": "Stade Rennais",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 688,
+    "preset_id": 98,
+    "cat_emoji": "🇫🇷",
+    "lang": "DE",
+    "category": "Französische Fußballmannschaften",
+    "text": "Stade Rennais",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 689,
+    "preset_id": 98,
+    "cat_emoji": "🇫🇷",
+    "lang": "PL",
+    "category": "Francuskie drużyny piłkarskie",
+    "text": "Stade Rennais",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 690,
+    "preset_id": 98,
+    "cat_emoji": "🇫🇷",
+    "lang": "RU",
+    "category": "Французские футбольные команды",
+    "text": "Stade Rennais",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 691,
+    "preset_id": 98,
+    "cat_emoji": "🇫🇷",
+    "lang": "PT",
+    "category": "Times de futebol franceses",
+    "text": "Stade Rennais",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 692,
+    "preset_id": 98,
+    "cat_emoji": "🇫🇷",
+    "lang": "CN",
+    "category": "法国足球队",
+    "text": "Stade Rennais",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  }
+]

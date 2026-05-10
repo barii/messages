@@ -1,1 +1,72 @@
-[{"id":17882,"text":"Jeste\u015b pozerem\/pozerk\u0105","category":"Obraza","positive":false,"premium":false,"lang":"PL","cat_emoji":"1F44E","preset_id":510},{"id":17879,"text":"You\u2019re a poser","category":"Insult","positive":false,"premium":false,"lang":"EN","cat_emoji":"1F44E","preset_id":510},{"id":17880,"text":"Du bist ein Angeber","category":"Beleidigung","positive":false,"premium":false,"lang":"DE","cat_emoji":"1F44E","preset_id":510},{"id":17883,"text":"\u0422\u044b \u043f\u0440\u043e\u0441\u0442\u043e \u043f\u043e\u0437\u0435\u0440","category":"\u041e\u0441\u043a\u043e\u0440\u0431\u043b\u0435\u043d\u0438\u0435","positive":false,"premium":false,"lang":"RU","cat_emoji":"1F44E","preset_id":510},{"id":17884,"text":"Eres un farsante","category":"Insulto","positive":false,"premium":false,"lang":"ES","cat_emoji":"1F44E","preset_id":510},{"id":17885,"text":"\u4f60\u662f\u4e2a\u88c5\u6a21\u4f5c\u6837\u7684\u8822\u8d27","category":"\u4fae\u8fb1","positive":false,"premium":false,"lang":"CN","cat_emoji":"1F44E","preset_id":510},{"id":17881,"text":"\u00c9s falso","category":"Insulto","positive":false,"premium":false,"lang":"PT","cat_emoji":"1F44E","preset_id":510}]
+[
+  {
+    "preset_id": 510,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "You’re a poser",
+    "premium": false,
+    "positive": false,
+    "id": 17879
+  },
+  {
+    "id": 17882,
+    "text": "Jesteś pozerem/pozerką",
+    "category": "Obraza",
+    "positive": false,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F44E",
+    "preset_id": 510
+  },
+  {
+    "id": 17880,
+    "text": "Du bist ein Angeber",
+    "category": "Beleidigung",
+    "positive": false,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F44E",
+    "preset_id": 510
+  },
+  {
+    "id": 17883,
+    "text": "Ты просто позер",
+    "category": "Оскорбление",
+    "positive": false,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F44E",
+    "preset_id": 510
+  },
+  {
+    "id": 17884,
+    "text": "Eres un farsante",
+    "category": "Insulto",
+    "positive": false,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F44E",
+    "preset_id": 510
+  },
+  {
+    "id": 17885,
+    "text": "你是个装模作样的蠢货",
+    "category": "侮辱",
+    "positive": false,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F44E",
+    "preset_id": 510
+  },
+  {
+    "id": 17881,
+    "text": "És falso",
+    "category": "Insulto",
+    "positive": false,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F44E",
+    "preset_id": 510
+  }
+]

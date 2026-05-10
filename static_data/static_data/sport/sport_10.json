@@ -1,1 +1,86 @@
-[{"id":70,"preset_id":10,"cat_emoji":"⚽","lang":"EN","category":"Football","text":"Spanish Football Teams","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"},{"id":71,"preset_id":10,"cat_emoji":"⚽","lang":"ES","category":"Fútbol","text":"Equipos de Fútbol Españoles","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"},{"id":72,"preset_id":10,"cat_emoji":"⚽","lang":"DE","category":"Fußball","text":"Spanische Fußballmannschaften","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"},{"id":73,"preset_id":10,"cat_emoji":"⚽","lang":"PL","category":"Piłka nożna","text":"Hiszpańskie drużyny piłkarskie","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"},{"id":74,"preset_id":10,"cat_emoji":"⚽","lang":"RU","category":"Футбол","text":"Испанские футбольные команды","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"},{"id":75,"preset_id":10,"cat_emoji":"⚽","lang":"PT","category":"Futebol","text":"Times de futebol espanhóis","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"},{"id":76,"preset_id":10,"cat_emoji":"⚽","lang":"CN","category":"足球","text":"西班牙足球队","premium":"false","positive":"true","msg_emoji":"🇪🇸","continent":"European"}]
+[
+  {
+    "id": 70,
+    "preset_id": 10,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "Football",
+    "text": "Italian Football Teams",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 71,
+    "preset_id": 10,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "Equipos de Fútbol Italianos",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 72,
+    "preset_id": 10,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Italienische Fußballmannschaften",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 73,
+    "preset_id": 10,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Włoskie drużyny piłkarskie",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 74,
+    "preset_id": 10,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Итальянские футбольные команды",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 75,
+    "preset_id": 10,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Times de futebol italianos",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 76,
+    "preset_id": 10,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "足球",
+    "text": "意大利足球队",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  }
+]

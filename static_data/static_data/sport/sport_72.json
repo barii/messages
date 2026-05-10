@@ -1,1 +1,86 @@
-[{"id":504,"preset_id":72,"cat_emoji":"🇦🇷","lang":"EN","category":"Argentine Football Teams","text":"Independiente","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":505,"preset_id":72,"cat_emoji":"🇦🇷","lang":"ES","category":"Equipos de Fútbol Argentinos","text":"Independiente","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":506,"preset_id":72,"cat_emoji":"🇦🇷","lang":"DE","category":"Argentinische Fußballmannschaften","text":"Independiente","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":507,"preset_id":72,"cat_emoji":"🇦🇷","lang":"PL","category":"Argentyńskie drużyny piłkarskie","text":"Independiente","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":508,"preset_id":72,"cat_emoji":"🇦🇷","lang":"RU","category":"Аргентинские футбольные команды","text":"Independiente","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":509,"preset_id":72,"cat_emoji":"🇦🇷","lang":"PT","category":"Times de futebol argentinos","text":"Independiente","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":510,"preset_id":72,"cat_emoji":"🇦🇷","lang":"CN","category":"阿根廷足球队","text":"Independiente","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"}]
+[
+  {
+    "id": 504,
+    "preset_id": 72,
+    "cat_emoji": "🇦🇷",
+    "lang": "EN",
+    "category": "Argentine Football Teams",
+    "text": "Godoy Cruz",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 505,
+    "preset_id": 72,
+    "cat_emoji": "🇦🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Argentinos",
+    "text": "Godoy Cruz",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 506,
+    "preset_id": 72,
+    "cat_emoji": "🇦🇷",
+    "lang": "DE",
+    "category": "Argentinische Fußballmannschaften",
+    "text": "Godoy Cruz",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 507,
+    "preset_id": 72,
+    "cat_emoji": "🇦🇷",
+    "lang": "PL",
+    "category": "Argentyńskie drużyny piłkarskie",
+    "text": "Godoy Cruz",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 508,
+    "preset_id": 72,
+    "cat_emoji": "🇦🇷",
+    "lang": "RU",
+    "category": "Аргентинские футбольные команды",
+    "text": "Godoy Cruz",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 509,
+    "preset_id": 72,
+    "cat_emoji": "🇦🇷",
+    "lang": "PT",
+    "category": "Times de futebol argentinos",
+    "text": "Godoy Cruz",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 510,
+    "preset_id": 72,
+    "cat_emoji": "🇦🇷",
+    "lang": "CN",
+    "category": "阿根廷足球队",
+    "text": "Godoy Cruz",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  }
+]

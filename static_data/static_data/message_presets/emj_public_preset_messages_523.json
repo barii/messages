@@ -1,1 +1,72 @@
-[{"id":17970,"text":"You are one of a kind","category":"Compliment","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F44D","preset_id":523},{"id":17971,"text":"Du bist einzigartig","category":"Kompliment","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F44D","preset_id":523},{"id":17972,"text":"\u00c9s \u00fanico","category":"Elogio","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F44D","preset_id":523},{"id":17974,"text":"\u0422\u044b \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u044b\u0439 (-\u0430\u044f)","category":"\u041a\u043e\u043c\u043f\u043b\u0438\u043c\u0435\u043d\u0442","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F44D","preset_id":523},{"id":17975,"text":"Eres \u00fanico en el mundo","category":"Cumplido","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F44D","preset_id":523},{"id":17976,"text":"\u4f60\u662f\u72ec\u4e00\u65e0\u4e8c\u7684","category":"\u79f0\u8d5e","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F44D","preset_id":523},{"id":17973,"text":"Jeste\u015b jedyny\/jedyna w swoim rodzaju","category":"Komplement","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F44D","preset_id":523}]
+[
+  {
+    "preset_id": 523,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You are one of a kind",
+    "premium": false,
+    "positive": true,
+    "id": 17970
+  },
+  {
+    "id": 17971,
+    "text": "Du bist einzigartig",
+    "category": "Kompliment",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F44D",
+    "preset_id": 523
+  },
+  {
+    "id": 17972,
+    "text": "És único",
+    "category": "Elogio",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F44D",
+    "preset_id": 523
+  },
+  {
+    "id": 17974,
+    "text": "Ты особенный (-ая)",
+    "category": "Комплимент",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F44D",
+    "preset_id": 523
+  },
+  {
+    "id": 17975,
+    "text": "Eres único en el mundo",
+    "category": "Cumplido",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F44D",
+    "preset_id": 523
+  },
+  {
+    "id": 17976,
+    "text": "你是独一无二的",
+    "category": "称赞",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F44D",
+    "preset_id": 523
+  },
+  {
+    "id": 17973,
+    "text": "Jesteś jedyny/jedyna w swoim rodzaju",
+    "category": "Komplement",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F44D",
+    "preset_id": 523
+  }
+]

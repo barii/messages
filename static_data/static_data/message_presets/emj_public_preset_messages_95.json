@@ -1,1 +1,72 @@
-[{"id":8067,"text":"Ja, bitte","category":"Antwort: Neutral","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":95},{"id":8501,"text":"\u0414\u0430, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430","category":"\u041e\u0442\u0432\u0435\u0442: \u041d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":95},{"id":9803,"text":"S\u00ed, por favor","category":"Respuesta: neutral","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":95},{"id":9369,"text":"\u597d\u7684\uff0c\u8bf7","category":"\u56de\u590d\uff1a\u4e2d\u6027\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":95},{"id":8935,"text":"Sim, por favor","category":"Resposta: neutra","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":95},{"id":10237,"text":"Tak, prosz\u0119","category":"Odpowied\u017a: neutralny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":95},{"id":7633,"text":"Yes please","category":"Reply: Neutral","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":95}]
+[
+  {
+    "preset_id": 95,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Yes please",
+    "premium": false,
+    "positive": true,
+    "id": 7633
+  },
+  {
+    "id": 8067,
+    "text": "Ja, bitte",
+    "category": "Antwort: Neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 95
+  },
+  {
+    "id": 8501,
+    "text": "Да, пожалуйста",
+    "category": "Ответ: Нейтральный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 95
+  },
+  {
+    "id": 9803,
+    "text": "Sí, por favor",
+    "category": "Respuesta: neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 95
+  },
+  {
+    "id": 9369,
+    "text": "好的，请",
+    "category": "回复：中性用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 95
+  },
+  {
+    "id": 8935,
+    "text": "Sim, por favor",
+    "category": "Resposta: neutra",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 95
+  },
+  {
+    "id": 10237,
+    "text": "Tak, proszę",
+    "category": "Odpowiedź: neutralny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 95
+  }
+]

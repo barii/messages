@@ -1,1 +1,86 @@
-[{"id":1015,"preset_id":145,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"EN","category":"English Football Teams","text":"Brighton &amp; Hove Albion","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1016,"preset_id":145,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"ES","category":"Equipos de Fútbol Ingleses","text":"Brighton &amp; Hove Albion","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1017,"preset_id":145,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"DE","category":"Englische Fußballmannschaften","text":"Brighton &amp; Hove Albion","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1018,"preset_id":145,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"PL","category":"Angielskie drużyny piłkarskie","text":"Brighton &amp; Hove Albion","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1019,"preset_id":145,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"RU","category":"Английские футбольные команды","text":"Brighton &amp; Hove Albion","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1020,"preset_id":145,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"PT","category":"Times de futebol ingleses","text":"Brighton &amp; Hove Albion","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"},{"id":1021,"preset_id":145,"cat_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","lang":"CN","category":"英格兰足球队","text":"Brighton &amp; Hove Albion","premium":"false","positive":"true","msg_emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","continent":"European"}]
+[
+  {
+    "id": 1015,
+    "preset_id": 145,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "EN",
+    "category": "English Football Teams",
+    "text": "Bournemouth",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1016,
+    "preset_id": 145,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Ingleses",
+    "text": "Bournemouth",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1017,
+    "preset_id": 145,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "DE",
+    "category": "Englische Fußballmannschaften",
+    "text": "Bournemouth",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1018,
+    "preset_id": 145,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "PL",
+    "category": "Angielskie drużyny piłkarskie",
+    "text": "Bournemouth",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1019,
+    "preset_id": 145,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "RU",
+    "category": "Английские футбольные команды",
+    "text": "Bournemouth",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1020,
+    "preset_id": 145,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "PT",
+    "category": "Times de futebol ingleses",
+    "text": "Bournemouth",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1021,
+    "preset_id": 145,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "CN",
+    "category": "英格兰足球队",
+    "text": "Bournemouth",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":7,"preset_id":1,"cat_emoji":"⚽","lang":"EN","category":"Football","text":"Argentine Football Teams","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":8,"preset_id":1,"cat_emoji":"⚽","lang":"ES","category":"Fútbol","text":"Equipos de Fútbol Argentinos","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":9,"preset_id":1,"cat_emoji":"⚽","lang":"DE","category":"Fußball","text":"Argentinische Fußballmannschaften","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":10,"preset_id":1,"cat_emoji":"⚽","lang":"PL","category":"Piłka nożna","text":"Argentyńskie drużyny piłkarskie","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":11,"preset_id":1,"cat_emoji":"⚽","lang":"RU","category":"Футбол","text":"Аргентинские футбольные команды","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":12,"preset_id":1,"cat_emoji":"⚽","lang":"PT","category":"Futebol","text":"Times de futebol argentinos","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":13,"preset_id":1,"cat_emoji":"⚽","lang":"CN","category":"足球","text":"阿根廷足球队    ","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"}]
+[
+  {
+    "id": 7,
+    "preset_id": 1,
+    "cat_emoji": "🏈",
+    "lang": "EN",
+    "category": "Sport",
+    "text": "American sports",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 8,
+    "preset_id": 1,
+    "cat_emoji": "🏈",
+    "lang": "ES",
+    "category": "Sport",
+    "text": "Deportes americanos",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 9,
+    "preset_id": 1,
+    "cat_emoji": "🏈",
+    "lang": "DE",
+    "category": "Sport",
+    "text": "Amerikanische Sportarten",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 10,
+    "preset_id": 1,
+    "cat_emoji": "🏈",
+    "lang": "PL",
+    "category": "Sport",
+    "text": "Amerykańskie sporty",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 11,
+    "preset_id": 1,
+    "cat_emoji": "🏈",
+    "lang": "RU",
+    "category": "Sport",
+    "text": "Американские виды спорта",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 12,
+    "preset_id": 1,
+    "cat_emoji": "🏈",
+    "lang": "PT",
+    "category": "Sport",
+    "text": "Esportes americanos",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 13,
+    "preset_id": 1,
+    "cat_emoji": "🏈",
+    "lang": "CN",
+    "category": "Sport",
+    "text": "美国体育",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  }
+]

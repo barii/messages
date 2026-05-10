@@ -1,1 +1,72 @@
-[{"id":19664,"text":"Tell me about it","category":"Reply: Neutral","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":765},{"id":19665,"text":"Wem sagst du das","category":"Antwort: Neutral","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":765},{"id":19667,"text":"Opowiedz mi o tym","category":"Odpowied\u017a: neutralny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":765},{"id":19668,"text":"\u0420\u0430\u0441\u0441\u043a\u0430\u0436\u0438 \u043c\u043d\u0435 \u043e\u0431 \u044d\u0442\u043e\u043c","category":"\u041e\u0442\u0432\u0435\u0442: \u041d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":765},{"id":19669,"text":"D\u00edmelo a m\u00ed","category":"Respuesta: neutral","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":765},{"id":19670,"text":"\u5feb\u544a\u8bc9\u6211","category":"\u56de\u590d\uff1a\u4e2d\u6027\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":765},{"id":19666,"text":"Nem me digas nada","category":"Resposta: neutra","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":765}]
+[
+  {
+    "preset_id": 765,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Tell me about it",
+    "premium": false,
+    "positive": true,
+    "id": 19664
+  },
+  {
+    "id": 19665,
+    "text": "Wem sagst du das",
+    "category": "Antwort: Neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 765
+  },
+  {
+    "id": 19667,
+    "text": "Opowiedz mi o tym",
+    "category": "Odpowiedź: neutralny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 765
+  },
+  {
+    "id": 19668,
+    "text": "Расскажи мне об этом",
+    "category": "Ответ: Нейтральный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 765
+  },
+  {
+    "id": 19669,
+    "text": "Dímelo a mí",
+    "category": "Respuesta: neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 765
+  },
+  {
+    "id": 19670,
+    "text": "快告诉我",
+    "category": "回复：中性用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 765
+  },
+  {
+    "id": 19666,
+    "text": "Nem me digas nada",
+    "category": "Resposta: neutra",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 765
+  }
+]

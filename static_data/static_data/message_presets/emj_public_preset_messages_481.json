@@ -1,1 +1,72 @@
-[{"id":17676,"text":"Is that joke of the day?","category":"Question","positive":true,"premium":false,"lang":"EN","cat_emoji":"2753","preset_id":481},{"id":17677,"text":"Ist das der Witz des Tages?","category":"Frage","positive":true,"premium":false,"lang":"DE","cat_emoji":"2753","preset_id":481},{"id":17678,"text":"Isso \u00e9 a piada do dia?","category":"Quest\u00e3o","positive":true,"premium":false,"lang":"PT","cat_emoji":"2753","preset_id":481},{"id":17679,"text":"Czy to \u017cart na dzisiaj?","category":"Pytanie","positive":true,"premium":false,"lang":"PL","cat_emoji":"2753","preset_id":481},{"id":17680,"text":"\u042d\u0442\u043e \u0448\u0443\u0442\u043a\u0430 \u0434\u043d\u044f?","category":"\u0412\u043e\u043f\u0440\u043e\u0441","positive":true,"premium":false,"lang":"RU","cat_emoji":"2753","preset_id":481},{"id":17681,"text":"\u00bfEs la broma del d\u00eda?","category":"Pregunta","positive":true,"premium":false,"lang":"ES","cat_emoji":"2753","preset_id":481},{"id":17682,"text":"\u8fd9\u662f\u4eca\u5929\u7684\u7279\u522b\u7b11\u8bdd\u5417\uff1f","category":"\u7591\u95ee","positive":true,"premium":false,"lang":"CN","cat_emoji":"2753","preset_id":481}]
+[
+  {
+    "preset_id": 481,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Is that joke of the day?",
+    "premium": false,
+    "positive": true,
+    "id": 17676
+  },
+  {
+    "id": 17677,
+    "text": "Ist das der Witz des Tages?",
+    "category": "Frage",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "2753",
+    "preset_id": 481
+  },
+  {
+    "id": 17678,
+    "text": "Isso é a piada do dia?",
+    "category": "Questão",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "2753",
+    "preset_id": 481
+  },
+  {
+    "id": 17679,
+    "text": "Czy to żart na dzisiaj?",
+    "category": "Pytanie",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "2753",
+    "preset_id": 481
+  },
+  {
+    "id": 17680,
+    "text": "Это шутка дня?",
+    "category": "Вопрос",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "2753",
+    "preset_id": 481
+  },
+  {
+    "id": 17681,
+    "text": "¿Es la broma del día?",
+    "category": "Pregunta",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "2753",
+    "preset_id": 481
+  },
+  {
+    "id": 17682,
+    "text": "这是今天的特别笑话吗？",
+    "category": "疑问",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "2753",
+    "preset_id": 481
+  }
+]

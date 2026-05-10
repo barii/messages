@@ -1,1 +1,79 @@
-[{"id":21585,"preset_id":1053,"cat_emoji":"0001F3C9","lang":"EN","category":"American sports","text":"Nice flop!","premium":"false","positive":"true"},{"id":21586,"preset_id":1053,"cat_emoji":"0001F3C9","lang":"ES","category":"Deportes americanos","text":"Nice flop!","premium":"false","positive":"true"},{"id":21587,"preset_id":1053,"cat_emoji":"0001F3C9","lang":"DE","category":"Amerikanische Sportarten","text":"Nice flop!","premium":"false","positive":"true"},{"id":21588,"preset_id":1053,"cat_emoji":"0001F3C9","lang":"PL","category":"Amerykańskie sporty","text":"Nice flop!","premium":"false","positive":"true"},{"id":21589,"preset_id":1053,"cat_emoji":"0001F3C9","lang":"RU","category":"Американские виды спорта","text":"Nice flop!","premium":"false","positive":"true"},{"id":21590,"preset_id":1053,"cat_emoji":"0001F3C9","lang":"PT","category":"Esportes americanos","text":"Nice flop!","premium":"false","positive":"true"},{"id":21591,"preset_id":1053,"cat_emoji":"0001F3C9","lang":"CN","category":"美国体育","text":"Nice flop!","premium":"false","positive":"true"}]
+[
+  {
+    "id": 21585,
+    "preset_id": 1053,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "text": "Nice flop!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21586,
+    "preset_id": 1053,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "text": "Nice flop!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21587,
+    "preset_id": 1053,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "text": "Nice flop!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21588,
+    "preset_id": 1053,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "text": "Nice flop!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21589,
+    "preset_id": 1053,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "text": "Nice flop!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21590,
+    "preset_id": 1053,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "text": "Nice flop!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21591,
+    "preset_id": 1053,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "text": "Nice flop!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  }
+]

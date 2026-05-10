@@ -1,1 +1,86 @@
-[{"id":20871,"preset_id":951,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"we love beating you.","premium":"false","positive":"true","header":"Boasting"},{"id":20872,"preset_id":951,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"nos encanta ganaros.","premium":"false","positive":"true","header":"Jactancia"},{"id":20873,"preset_id":951,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"wir lieben es, euch zu besiegen.","premium":"false","positive":"true","header":"Prahlerei"},{"id":20874,"preset_id":951,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"uwielbiamy cię pokonywać.","premium":"false","positive":"true","header":"Przechwalanie się"},{"id":20875,"preset_id":951,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"нам нравится побеждать вас.","premium":"false","positive":"true","header":"Хвастовство"},{"id":20876,"preset_id":951,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"adoramos vencer-vos.","premium":"false","positive":"true","header":"Vangloriando-se"},{"id":20877,"preset_id":951,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"我们喜欢打败你们。","premium":"false","positive":"true","header":"夸耀"}]
+[
+  {
+    "id": 20871,
+    "preset_id": 951,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "we love beating you.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Boasting"
+  },
+  {
+    "id": 20872,
+    "preset_id": 951,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "nos encanta ganaros.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Jactancia"
+  },
+  {
+    "id": 20873,
+    "preset_id": 951,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "wir lieben es, euch zu besiegen.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Prahlerei"
+  },
+  {
+    "id": 20874,
+    "preset_id": 951,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "uwielbiamy cię pokonywać.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Przechwalanie się"
+  },
+  {
+    "id": 20875,
+    "preset_id": 951,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "нам нравится побеждать вас.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Хвастовство"
+  },
+  {
+    "id": 20876,
+    "preset_id": 951,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "adoramos vencer-vos.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Vangloriando-se"
+  },
+  {
+    "id": 20877,
+    "preset_id": 951,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "我们喜欢打败你们。",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "夸耀"
+  }
+]

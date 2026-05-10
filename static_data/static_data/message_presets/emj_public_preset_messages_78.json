@@ -1,1 +1,72 @@
-[{"id":7616,"text":"Are you stressed","category":"Question","positive":true,"premium":false,"lang":"EN","cat_emoji":"2753","preset_id":78},{"id":8484,"text":"\u0422\u044b \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d (\u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0430)?","category":"\u0412\u043e\u043f\u0440\u043e\u0441","positive":true,"premium":false,"lang":"RU","cat_emoji":"2753","preset_id":78},{"id":8918,"text":"Est\u00e1s tenso\/a?","category":"Quest\u00e3o","positive":true,"premium":false,"lang":"PT","cat_emoji":"2753","preset_id":78},{"id":9352,"text":"\u4f60\u6709\u538b\u529b\u5417","category":"\u7591\u95ee","positive":true,"premium":false,"lang":"CN","cat_emoji":"2753","preset_id":78},{"id":9786,"text":"\u00bfTienes estr\u00e9s?","category":"Pregunta","positive":true,"premium":false,"lang":"ES","cat_emoji":"2753","preset_id":78},{"id":8050,"text":"Bist du gestresst?","category":"Frage","positive":true,"premium":false,"lang":"DE","cat_emoji":"2753","preset_id":78},{"id":10220,"text":"Stresujesz si\u0119?","category":"Pytanie","positive":true,"premium":false,"lang":"PL","cat_emoji":"2753","preset_id":78}]
+[
+  {
+    "preset_id": 78,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you stressed",
+    "premium": false,
+    "positive": true,
+    "id": 7616
+  },
+  {
+    "id": 8484,
+    "text": "Ты напряжен (напряжена)?",
+    "category": "Вопрос",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "2753",
+    "preset_id": 78
+  },
+  {
+    "id": 8918,
+    "text": "Estás tenso/a?",
+    "category": "Questão",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "2753",
+    "preset_id": 78
+  },
+  {
+    "id": 9352,
+    "text": "你有压力吗",
+    "category": "疑问",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "2753",
+    "preset_id": 78
+  },
+  {
+    "id": 9786,
+    "text": "¿Tienes estrés?",
+    "category": "Pregunta",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "2753",
+    "preset_id": 78
+  },
+  {
+    "id": 8050,
+    "text": "Bist du gestresst?",
+    "category": "Frage",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "2753",
+    "preset_id": 78
+  },
+  {
+    "id": 10220,
+    "text": "Stresujesz się?",
+    "category": "Pytanie",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "2753",
+    "preset_id": 78
+  }
+]

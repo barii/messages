@@ -1,1 +1,72 @@
-[{"id":8095,"text":"Oh, danke","category":"Antwort: Freundlich","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":123},{"id":8529,"text":"\u041e, \u0441\u043f\u0430\u0441\u0438\u0431\u043e","category":"\u041e\u0442\u0432\u0435\u0442: \u0414\u0440\u0443\u0436\u0435\u043b\u044e\u0431\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":123},{"id":8963,"text":"Oh, obrigado\/a","category":"Resposta: amig\u00e1vel","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":123},{"id":9397,"text":"\u54e6\uff0c\u8c22\u8c22","category":"\u56de\u590d\uff1a\u53cb\u5584\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":123},{"id":9831,"text":"Oh, gracias","category":"Respuesta: amistoso","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":123},{"id":10265,"text":"Ojej, dzi\u0119ki","category":"Powt\u00f3rka: przyjazny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":123},{"id":7661,"text":"Aw thanks","category":"Reply: Friendly","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":123}]
+[
+  {
+    "preset_id": 123,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Aw thanks",
+    "premium": false,
+    "positive": true,
+    "id": 7661
+  },
+  {
+    "id": 8095,
+    "text": "Oh, danke",
+    "category": "Antwort: Freundlich",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 123
+  },
+  {
+    "id": 8529,
+    "text": "О, спасибо",
+    "category": "Ответ: Дружелюбный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 123
+  },
+  {
+    "id": 8963,
+    "text": "Oh, obrigado/a",
+    "category": "Resposta: amigável",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 123
+  },
+  {
+    "id": 9397,
+    "text": "哦，谢谢",
+    "category": "回复：友善用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 123
+  },
+  {
+    "id": 9831,
+    "text": "Oh, gracias",
+    "category": "Respuesta: amistoso",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 123
+  },
+  {
+    "id": 10265,
+    "text": "Ojej, dzięki",
+    "category": "Powtórka: przyjazny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 123
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":20906,"preset_id":956,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"perfect performance","premium":"false","positive":"true","header":"Boasting"},{"id":20907,"preset_id":956,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"rendimiento perfecto","premium":"false","positive":"true","header":"Jactancia"},{"id":20908,"preset_id":956,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"perfekte Leistung","premium":"false","positive":"true","header":"Prahlerei"},{"id":20909,"preset_id":956,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"doskonały występ","premium":"false","positive":"true","header":"Przechwalanie się"},{"id":20910,"preset_id":956,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"идеальное выступление","premium":"false","positive":"true","header":"Хвастовство"},{"id":20911,"preset_id":956,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"desempenho perfeito","premium":"false","positive":"true","header":"Vangloriando-se"},{"id":20912,"preset_id":956,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"完美表现","premium":"false","positive":"true","header":"夸耀"}]
+[
+  {
+    "id": 20906,
+    "preset_id": 956,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "perfect performance",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Boasting"
+  },
+  {
+    "id": 20907,
+    "preset_id": 956,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "rendimiento perfecto",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Jactancia"
+  },
+  {
+    "id": 20908,
+    "preset_id": 956,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "perfekte Leistung",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Prahlerei"
+  },
+  {
+    "id": 20909,
+    "preset_id": 956,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "doskonały występ",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Przechwalanie się"
+  },
+  {
+    "id": 20910,
+    "preset_id": 956,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "идеальное выступление",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Хвастовство"
+  },
+  {
+    "id": 20911,
+    "preset_id": 956,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "desempenho perfeito",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Vangloriando-se"
+  },
+  {
+    "id": 20912,
+    "preset_id": 956,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "完美表现",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "夸耀"
+  }
+]

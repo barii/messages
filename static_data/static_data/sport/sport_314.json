@@ -1,1 +1,86 @@
-[{"id":2198,"preset_id":314,"cat_emoji":"🇲🇽","lang":"EN","category":"Mexican Football Teams","text":"Atlas","premium":"false","positive":"true","msg_emoji":"🇲🇽","continent":"European"},{"id":2199,"preset_id":314,"cat_emoji":"🇲🇽","lang":"ES","category":"Equipos de Fútbol Mexicanos","text":"Atlas","premium":"false","positive":"true","msg_emoji":"🇲🇽","continent":"European"},{"id":2200,"preset_id":314,"cat_emoji":"🇲🇽","lang":"DE","category":"Mexikanische Fußballmannschaften","text":"Atlas","premium":"false","positive":"true","msg_emoji":"🇲🇽","continent":"European"},{"id":2201,"preset_id":314,"cat_emoji":"🇲🇽","lang":"PL","category":"Meksykańskie drużyny piłkarskie","text":"Atlas","premium":"false","positive":"true","msg_emoji":"🇲🇽","continent":"European"},{"id":2202,"preset_id":314,"cat_emoji":"🇲🇽","lang":"RU","category":"Мексиканские футбольные команды","text":"Atlas","premium":"false","positive":"true","msg_emoji":"🇲🇽","continent":"European"},{"id":2203,"preset_id":314,"cat_emoji":"🇲🇽","lang":"PT","category":"Times de futebol mexicanos","text":"Atlas","premium":"false","positive":"true","msg_emoji":"🇲🇽","continent":"European"},{"id":2204,"preset_id":314,"cat_emoji":"🇲🇽","lang":"CN","category":"墨西哥足球队","text":"Atlas","premium":"false","positive":"true","msg_emoji":"🇲🇽","continent":"European"}]
+[
+  {
+    "id": 2198,
+    "preset_id": 314,
+    "cat_emoji": "🇲🇦",
+    "lang": "EN",
+    "category": "Moroccan Football Teams",
+    "text": "Youssoufia Berrechid",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2199,
+    "preset_id": 314,
+    "cat_emoji": "🇲🇦",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Marroquíes",
+    "text": "Youssoufia Berrechid",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2200,
+    "preset_id": 314,
+    "cat_emoji": "🇲🇦",
+    "lang": "DE",
+    "category": "Marokkanische Fußballmannschaften",
+    "text": "Youssoufia Berrechid",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2201,
+    "preset_id": 314,
+    "cat_emoji": "🇲🇦",
+    "lang": "PL",
+    "category": "Marokańskie drużyny piłkarskie",
+    "text": "Youssoufia Berrechid",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2202,
+    "preset_id": 314,
+    "cat_emoji": "🇲🇦",
+    "lang": "RU",
+    "category": "Марокканские футбольные команды",
+    "text": "Youssoufia Berrechid",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2203,
+    "preset_id": 314,
+    "cat_emoji": "🇲🇦",
+    "lang": "PT",
+    "category": "Times de futebol marroquinos",
+    "text": "Youssoufia Berrechid",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2204,
+    "preset_id": 314,
+    "cat_emoji": "🇲🇦",
+    "lang": "CN",
+    "category": "摩洛哥足球队",
+    "text": "Youssoufia Berrechid",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  }
+]

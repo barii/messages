@@ -1,1 +1,86 @@
-[{"id":189,"preset_id":27,"cat_emoji":"⚽","lang":"EN","category":"National football teams","text":"Brazilian football team","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":190,"preset_id":27,"cat_emoji":"⚽","lang":"ES","category":"Selección nacional de fútbol","text":"Equipo de fútbol Brasileño","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":191,"preset_id":27,"cat_emoji":"⚽","lang":"DE","category":"Nationale Fußballmannschaft","text":"Brasilianische Fußballmannschaft","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":192,"preset_id":27,"cat_emoji":"⚽","lang":"PL","category":"Narodowa drużyna piłkarska","text":"Brazylijska drużyna piłkarska","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":193,"preset_id":27,"cat_emoji":"⚽","lang":"RU","category":"национальная сборная по футболу","text":"Бразильская футбольная команда","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":194,"preset_id":27,"cat_emoji":"⚽","lang":"PT","category":"Seleção nacional de futebol","text":"Seleção Brasileira de futebol","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":195,"preset_id":27,"cat_emoji":"⚽","lang":"CN","category":"国家足球队","text":"巴西足球队","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"}]
+[
+  {
+    "id": 189,
+    "preset_id": 27,
+    "cat_emoji": "🏈",
+    "lang": "EN",
+    "category": "American sports",
+    "text": "MLB Baseball Teams",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  },
+  {
+    "id": 190,
+    "preset_id": 27,
+    "cat_emoji": "🏈",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "text": " Equipos de Béisbol de la MLB",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  },
+  {
+    "id": 191,
+    "preset_id": 27,
+    "cat_emoji": "🏈",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "text": "MLB Baseball Teams",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  },
+  {
+    "id": 192,
+    "preset_id": 27,
+    "cat_emoji": "🏈",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "text": "Drużyny baseballowe MLB",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  },
+  {
+    "id": 193,
+    "preset_id": 27,
+    "cat_emoji": "🏈",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "text": "Команды бейсбольной лиги MLB",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  },
+  {
+    "id": 194,
+    "preset_id": 27,
+    "cat_emoji": "🏈",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "text": "Times de Beisebol da MLB",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  },
+  {
+    "id": 195,
+    "preset_id": 27,
+    "cat_emoji": "🏈",
+    "lang": "CN",
+    "category": "美国体育",
+    "text": "MLB棒球队",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  }
+]

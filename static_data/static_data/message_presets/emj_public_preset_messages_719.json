@@ -1,1 +1,72 @@
-[{"id":19342,"text":"I need to know who you are first","category":"Reply: Neutral","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":719},{"id":19343,"text":"Ich muss zuerst wissen, wer du bist","category":"Antwort: Neutral","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":719},{"id":19344,"text":"Preciso de saber quem \u00e9s primeiro","category":"Resposta: neutra","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":719},{"id":19345,"text":"Przede wszystkim musz\u0119 wiedzie\u0107, kim jeste\u015b","category":"Odpowied\u017a: neutralny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":719},{"id":19346,"text":"\u0421\u043d\u0430\u0447\u0430\u043b\u0430 \u043c\u043d\u0435 \u043d\u0443\u0436\u043d\u043e \u0443\u0437\u043d\u0430\u0442\u044c, \u043a\u0442\u043e \u0442\u044b","category":"\u041e\u0442\u0432\u0435\u0442: \u041d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":719},{"id":19347,"text":"Primero necesito saber qui\u00e9n eres","category":"Respuesta: neutral","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":719},{"id":19348,"text":"\u6211\u5f97\u5148\u77e5\u9053\u4f60\u662f\u8c01","category":"\u56de\u590d\uff1a\u4e2d\u6027\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":719}]
+[
+  {
+    "preset_id": 719,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I need to know who you are first",
+    "premium": false,
+    "positive": true,
+    "id": 19342
+  },
+  {
+    "id": 19343,
+    "text": "Ich muss zuerst wissen, wer du bist",
+    "category": "Antwort: Neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 719
+  },
+  {
+    "id": 19344,
+    "text": "Preciso de saber quem és primeiro",
+    "category": "Resposta: neutra",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 719
+  },
+  {
+    "id": 19345,
+    "text": "Przede wszystkim muszę wiedzieć, kim jesteś",
+    "category": "Odpowiedź: neutralny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 719
+  },
+  {
+    "id": 19346,
+    "text": "Сначала мне нужно узнать, кто ты",
+    "category": "Ответ: Нейтральный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 719
+  },
+  {
+    "id": 19347,
+    "text": "Primero necesito saber quién eres",
+    "category": "Respuesta: neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 719
+  },
+  {
+    "id": 19348,
+    "text": "我得先知道你是谁",
+    "category": "回复：中性用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 719
+  }
+]

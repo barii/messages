@@ -1,1 +1,86 @@
-[{"id":20990,"preset_id":968,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"What a goal!","premium":"false","positive":"true","header":"Boasting"},{"id":20991,"preset_id":968,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"¡Qué gol!","premium":"false","positive":"true","header":"Jactancia"},{"id":20992,"preset_id":968,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"Was für ein Tor!","premium":"false","positive":"true","header":"Prahlerei"},{"id":20993,"preset_id":968,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"Co za bramka!","premium":"false","positive":"true","header":"Przechwalanie się"},{"id":20994,"preset_id":968,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"Какой гол","premium":"false","positive":"true","header":"Хвастовство"},{"id":20995,"preset_id":968,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"Que golo!","premium":"false","positive":"true","header":"Vangloriando-se"},{"id":20996,"preset_id":968,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"多么精彩的进球","premium":"false","positive":"true","header":"夸耀"}]
+[
+  {
+    "id": 20990,
+    "preset_id": 968,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "What a goal!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Boasting"
+  },
+  {
+    "id": 20991,
+    "preset_id": 968,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "¡Qué gol!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Jactancia"
+  },
+  {
+    "id": 20992,
+    "preset_id": 968,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Was für ein Tor!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Prahlerei"
+  },
+  {
+    "id": 20993,
+    "preset_id": 968,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Co za bramka!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Przechwalanie się"
+  },
+  {
+    "id": 20994,
+    "preset_id": 968,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Какой гол",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Хвастовство"
+  },
+  {
+    "id": 20995,
+    "preset_id": 968,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Que golo!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Vangloriando-se"
+  },
+  {
+    "id": 20996,
+    "preset_id": 968,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "多么精彩的进球",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "夸耀"
+  }
+]

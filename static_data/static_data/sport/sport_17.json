@@ -1,1 +1,86 @@
-[{"id":119,"preset_id":17,"cat_emoji":"⚽","lang":"EN","category":"Football","text":"Polish Football Teams","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":120,"preset_id":17,"cat_emoji":"⚽","lang":"ES","category":"Fútbol","text":"Equipos de Fútbol Polacos","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":121,"preset_id":17,"cat_emoji":"⚽","lang":"DE","category":"Fußball","text":"Polnische Fußballmannschaften","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":122,"preset_id":17,"cat_emoji":"⚽","lang":"PL","category":"Piłka nożna","text":"Polskie drużyny piłkarskie","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":123,"preset_id":17,"cat_emoji":"⚽","lang":"RU","category":"Футбол","text":"Польские футбольные команды","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":124,"preset_id":17,"cat_emoji":"⚽","lang":"PT","category":"Futebol","text":"Times de futebol poloneses","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":125,"preset_id":17,"cat_emoji":"⚽","lang":"CN","category":"足球","text":"波兰足球队","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"}]
+[
+  {
+    "id": 119,
+    "preset_id": 17,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "Football",
+    "text": "Uruguayan Football Teams",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 120,
+    "preset_id": 17,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "Equipos de Fútbol Uruguayos",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 121,
+    "preset_id": 17,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Uruguayanische Fußballmannschaften",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 122,
+    "preset_id": 17,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Urugwajskie drużyny piłkarskie",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 123,
+    "preset_id": 17,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Уругвайские футбольные команды",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 124,
+    "preset_id": 17,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Times de futebol uruguaios",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 125,
+    "preset_id": 17,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "足球",
+    "text": "乌拉圭足球队",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  }
+]

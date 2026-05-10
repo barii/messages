@@ -1,1 +1,72 @@
-[{"id":7900,"text":"You're the best boss ever","category":"Work","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F5C2","preset_id":362},{"id":8334,"text":"Du bist der beste Chef\/die beste Chefin der Welt","category":"Arbeit","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F5C2","preset_id":362},{"id":8768,"text":"\u0412\u044b \u043b\u0443\u0447\u0448\u0438\u0439 \u0431\u043e\u0441\u0441","category":"\u0420\u0430\u0431\u043e\u0442\u0430","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F5C2","preset_id":362},{"id":9636,"text":"\u4f60\u662f\u6709\u53f2\u4ee5\u6765\u6700\u597d\u7684\u8001\u677f","category":"\u5de5\u4f5c","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F5C2","preset_id":362},{"id":10070,"text":"Nunca he tenido un jefe mejor","category":"Trabajo","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F5C2","preset_id":362},{"id":10504,"text":"Jeste\u015b najlepszym szefem\/najlepsz\u0105 szefow\u0105 wszech czas\u00f3w","category":"Praca","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F5C2","preset_id":362},{"id":9202,"text":"\u00c9s o\/a melhor chefe de sempre","category":"Trabalho","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F5C2","preset_id":362}]
+[
+  {
+    "preset_id": 362,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "You're the best boss ever",
+    "premium": false,
+    "positive": true,
+    "id": 7900
+  },
+  {
+    "id": 8334,
+    "text": "Du bist der beste Chef/die beste Chefin der Welt",
+    "category": "Arbeit",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F5C2",
+    "preset_id": 362
+  },
+  {
+    "id": 8768,
+    "text": "Вы лучший босс",
+    "category": "Работа",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F5C2",
+    "preset_id": 362
+  },
+  {
+    "id": 9636,
+    "text": "你是有史以来最好的老板",
+    "category": "工作",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F5C2",
+    "preset_id": 362
+  },
+  {
+    "id": 10070,
+    "text": "Nunca he tenido un jefe mejor",
+    "category": "Trabajo",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F5C2",
+    "preset_id": 362
+  },
+  {
+    "id": 10504,
+    "text": "Jesteś najlepszym szefem/najlepszą szefową wszech czasów",
+    "category": "Praca",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F5C2",
+    "preset_id": 362
+  },
+  {
+    "id": 9202,
+    "text": "És o/a melhor chefe de sempre",
+    "category": "Trabalho",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F5C2",
+    "preset_id": 362
+  }
+]

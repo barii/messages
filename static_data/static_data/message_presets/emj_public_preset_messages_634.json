@@ -1,1 +1,72 @@
-[{"id":18747,"text":"I work hard","category":"Personal","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F464","preset_id":634},{"id":18748,"text":"Ich arbeite hart","category":"Pers\u00f6nliches","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F464","preset_id":634},{"id":18749,"text":"Eu trabalho muito","category":"Pessoal","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F464","preset_id":634},{"id":18750,"text":"Ci\u0119\u017cko pracuj\u0119","category":"P\u0142aszczyzna osobista","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F464","preset_id":634},{"id":18751,"text":"\u042f \u043c\u043d\u043e\u0433\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u044e","category":"\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F464","preset_id":634},{"id":18752,"text":"Trabajo duro","category":"Personal","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F464","preset_id":634},{"id":18753,"text":"\u6211\u52aa\u529b\u5de5\u4f5c","category":"\u4e2a\u4eba\u8bdd\u9898","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F464","preset_id":634}]
+[
+  {
+    "preset_id": 634,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I work hard",
+    "premium": false,
+    "positive": true,
+    "id": 18747
+  },
+  {
+    "id": 18748,
+    "text": "Ich arbeite hart",
+    "category": "Persönliches",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F464",
+    "preset_id": 634
+  },
+  {
+    "id": 18749,
+    "text": "Eu trabalho muito",
+    "category": "Pessoal",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F464",
+    "preset_id": 634
+  },
+  {
+    "id": 18750,
+    "text": "Ciężko pracuję",
+    "category": "Płaszczyzna osobista",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F464",
+    "preset_id": 634
+  },
+  {
+    "id": 18751,
+    "text": "Я много работаю",
+    "category": "Персональные",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F464",
+    "preset_id": 634
+  },
+  {
+    "id": 18752,
+    "text": "Trabajo duro",
+    "category": "Personal",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F464",
+    "preset_id": 634
+  },
+  {
+    "id": 18753,
+    "text": "我努力工作",
+    "category": "个人话题",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F464",
+    "preset_id": 634
+  }
+]

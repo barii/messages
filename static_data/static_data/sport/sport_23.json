@@ -1,1 +1,86 @@
-[{"id":161,"preset_id":23,"cat_emoji":"🏈","lang":"EN","category":"American sports","text":"NFL American Football Teams","premium":"false","positive":"true","msg_emoji":"🏈","continent":"European"},{"id":162,"preset_id":23,"cat_emoji":"🏈","lang":"ES","category":"Deportes americanos","text":"Equipos de Fútbol Americano de la NFL","premium":"false","positive":"true","msg_emoji":"🏈","continent":"European"},{"id":163,"preset_id":23,"cat_emoji":"🏈","lang":"DE","category":"Amerikanische Sportarten","text":"NFL American Football Teams","premium":"false","positive":"true","msg_emoji":"🏈","continent":"European"},{"id":164,"preset_id":23,"cat_emoji":"🏈","lang":"PL","category":"Amerykańskie sporty","text":"Drużyny futbolu amerykańskiego NFL","premium":"false","positive":"true","msg_emoji":"🏈","continent":"European"},{"id":165,"preset_id":23,"cat_emoji":"🏈","lang":"RU","category":"Американские виды спорта","text":"Команды Национальной футбольной лиги NFL","premium":"false","positive":"true","msg_emoji":"🏈","continent":"European"},{"id":166,"preset_id":23,"cat_emoji":"🏈","lang":"PT","category":"Esportes americanos","text":"Times de Futebol Americano da NFL","premium":"false","positive":"true","msg_emoji":"🏈","continent":"European"},{"id":167,"preset_id":23,"cat_emoji":"🏈","lang":"CN","category":"美国体育","text":"NFL美式橄榄球队","premium":"false","positive":"true","msg_emoji":"🏈","continent":"European"}]
+[
+  {
+    "id": 161,
+    "preset_id": 23,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "Football",
+    "text": "Scottish Football Teams",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 162,
+    "preset_id": 23,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "Equipos de Fútbol Escoceses",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 163,
+    "preset_id": 23,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Schottische Fußballmannschaften",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 164,
+    "preset_id": 23,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Szkockie drużyny piłkarskie",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 165,
+    "preset_id": 23,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Шотландские футбольные команды",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 166,
+    "preset_id": 23,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Times de futebol escoceses",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 167,
+    "preset_id": 23,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "足球",
+    "text": "苏格兰足球队",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  }
+]

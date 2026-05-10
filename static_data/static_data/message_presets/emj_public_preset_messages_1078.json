@@ -1,1 +1,79 @@
-[{"id":21760,"preset_id":1078,"cat_emoji":"0001F3C9","lang":"EN","category":"American sports","text":"Better luck next season!","premium":"false","positive":"true"},{"id":21761,"preset_id":1078,"cat_emoji":"0001F3C9","lang":"ES","category":"Deportes americanos","text":"Better luck next season!","premium":"false","positive":"true"},{"id":21762,"preset_id":1078,"cat_emoji":"0001F3C9","lang":"DE","category":"Amerikanische Sportarten","text":"Better luck next season!","premium":"false","positive":"true"},{"id":21763,"preset_id":1078,"cat_emoji":"0001F3C9","lang":"PL","category":"Amerykańskie sporty","text":"Better luck next season!","premium":"false","positive":"true"},{"id":21764,"preset_id":1078,"cat_emoji":"0001F3C9","lang":"RU","category":"Американские виды спорта","text":"Better luck next season!","premium":"false","positive":"true"},{"id":21765,"preset_id":1078,"cat_emoji":"0001F3C9","lang":"PT","category":"Esportes americanos","text":"Better luck next season!","premium":"false","positive":"true"},{"id":21766,"preset_id":1078,"cat_emoji":"0001F3C9","lang":"CN","category":"美国体育","text":"Better luck next season!","premium":"false","positive":"true"}]
+[
+  {
+    "id": 21760,
+    "preset_id": 1078,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "text": "Better luck next season!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21761,
+    "preset_id": 1078,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "text": "Better luck next season!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21762,
+    "preset_id": 1078,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "text": "Better luck next season!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21763,
+    "preset_id": 1078,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "text": "Better luck next season!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21764,
+    "preset_id": 1078,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "text": "Better luck next season!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21765,
+    "preset_id": 1078,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "text": "Better luck next season!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21766,
+    "preset_id": 1078,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "text": "Better luck next season!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  }
+]

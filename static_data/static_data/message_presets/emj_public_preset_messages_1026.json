@@ -1,1 +1,79 @@
-[{"id":21396,"preset_id":1026,"cat_emoji":"0001F3C9","lang":"EN","category":"American sports","text":"Better luck next at-bat!","premium":"false","positive":"true"},{"id":21397,"preset_id":1026,"cat_emoji":"0001F3C9","lang":"ES","category":"Deportes americanos","text":"Better luck next at-bat!","premium":"false","positive":"true"},{"id":21398,"preset_id":1026,"cat_emoji":"0001F3C9","lang":"DE","category":"Amerikanische Sportarten","text":"Better luck next at-bat!","premium":"false","positive":"true"},{"id":21399,"preset_id":1026,"cat_emoji":"0001F3C9","lang":"PL","category":"Amerykańskie sporty","text":"Better luck next at-bat!","premium":"false","positive":"true"},{"id":21400,"preset_id":1026,"cat_emoji":"0001F3C9","lang":"RU","category":"Американские виды спорта","text":"Better luck next at-bat!","premium":"false","positive":"true"},{"id":21401,"preset_id":1026,"cat_emoji":"0001F3C9","lang":"PT","category":"Esportes americanos","text":"Better luck next at-bat!","premium":"false","positive":"true"},{"id":21402,"preset_id":1026,"cat_emoji":"0001F3C9","lang":"CN","category":"美国体育","text":"Better luck next at-bat!","premium":"false","positive":"true"}]
+[
+  {
+    "id": 21396,
+    "preset_id": 1026,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "text": "Better luck next at-bat!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21397,
+    "preset_id": 1026,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "text": "Better luck next at-bat!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21398,
+    "preset_id": 1026,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "text": "Better luck next at-bat!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21399,
+    "preset_id": 1026,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "text": "Better luck next at-bat!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21400,
+    "preset_id": 1026,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "text": "Better luck next at-bat!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21401,
+    "preset_id": 1026,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "text": "Better luck next at-bat!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21402,
+    "preset_id": 1026,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "text": "Better luck next at-bat!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  }
+]

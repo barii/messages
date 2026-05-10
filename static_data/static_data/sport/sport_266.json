@@ -1,1 +1,86 @@
-[{"id":1862,"preset_id":266,"cat_emoji":"🇺🇸","lang":"EN","category":"American Football Teams","text":"Orlando City SC","premium":"false","positive":"true","msg_emoji":"🇺🇸","continent":"European"},{"id":1863,"preset_id":266,"cat_emoji":"🇺🇸","lang":"ES","category":"Equipos de Fútbol Americanos","text":"Orlando City SC","premium":"false","positive":"true","msg_emoji":"🇺🇸","continent":"European"},{"id":1864,"preset_id":266,"cat_emoji":"🇺🇸","lang":"DE","category":"Amerikanische Fußballmannschaften","text":"Orlando City SC","premium":"false","positive":"true","msg_emoji":"🇺🇸","continent":"European"},{"id":1865,"preset_id":266,"cat_emoji":"🇺🇸","lang":"PL","category":"Amerykańskie drużyny piłkarskie","text":"Orlando City SC","premium":"false","positive":"true","msg_emoji":"🇺🇸","continent":"European"},{"id":1866,"preset_id":266,"cat_emoji":"🇺🇸","lang":"RU","category":"Американские футбольные команды","text":"Orlando City SC","premium":"false","positive":"true","msg_emoji":"🇺🇸","continent":"European"},{"id":1867,"preset_id":266,"cat_emoji":"🇺🇸","lang":"PT","category":"Times de futebol americanos","text":"Orlando City SC","premium":"false","positive":"true","msg_emoji":"🇺🇸","continent":"European"},{"id":1868,"preset_id":266,"cat_emoji":"🇺🇸","lang":"CN","category":"美国足球队","text":"Orlando City SC","premium":"false","positive":"true","msg_emoji":"🇺🇸","continent":"European"}]
+[
+  {
+    "id": 1862,
+    "preset_id": 266,
+    "cat_emoji": "🇺🇸",
+    "lang": "EN",
+    "category": "American Football Teams",
+    "text": "New York City FC",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1863,
+    "preset_id": 266,
+    "cat_emoji": "🇺🇸",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Americanos",
+    "text": "New York City FC",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1864,
+    "preset_id": 266,
+    "cat_emoji": "🇺🇸",
+    "lang": "DE",
+    "category": "Amerikanische Fußballmannschaften",
+    "text": "New York City FC",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1865,
+    "preset_id": 266,
+    "cat_emoji": "🇺🇸",
+    "lang": "PL",
+    "category": "Amerykańskie drużyny piłkarskie",
+    "text": "New York City FC",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1866,
+    "preset_id": 266,
+    "cat_emoji": "🇺🇸",
+    "lang": "RU",
+    "category": "Американские футбольные команды",
+    "text": "New York City FC",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1867,
+    "preset_id": 266,
+    "cat_emoji": "🇺🇸",
+    "lang": "PT",
+    "category": "Times de futebol americanos",
+    "text": "New York City FC",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1868,
+    "preset_id": 266,
+    "cat_emoji": "🇺🇸",
+    "lang": "CN",
+    "category": "美国足球队",
+    "text": "New York City FC",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇸",
+    "continent": "European"
+  }
+]

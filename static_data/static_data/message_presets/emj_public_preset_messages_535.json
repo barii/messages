@@ -1,1 +1,72 @@
-[{"id":18054,"text":"You have great hair","category":"Compliment","positive":true,"premium":true,"lang":"EN","cat_emoji":"1F44D","preset_id":535},{"id":18055,"text":"Du hast tolle Haare","category":"Kompliment","positive":true,"premium":true,"lang":"DE","cat_emoji":"1F44D","preset_id":535},{"id":18056,"text":"Tens um cabelo muito bonito","category":"Elogio","positive":true,"premium":true,"lang":"PT","cat_emoji":"1F44D","preset_id":535},{"id":18057,"text":"Masz pi\u0119kne w\u0142osy","category":"Komplement","positive":true,"premium":true,"lang":"PL","cat_emoji":"1F44D","preset_id":535},{"id":18058,"text":"\u0423 \u0442\u0435\u0431\u044f \u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0435 \u0432\u043e\u043b\u043e\u0441\u044b","category":"\u041a\u043e\u043c\u043f\u043b\u0438\u043c\u0435\u043d\u0442","positive":true,"premium":true,"lang":"RU","cat_emoji":"1F44D","preset_id":535},{"id":18059,"text":"Me encanta tu pelo","category":"Cumplido","positive":true,"premium":true,"lang":"ES","cat_emoji":"1F44D","preset_id":535},{"id":18060,"text":"\u4f60\u6709\u4e00\u5934\u6d53\u5bc6\u7684\u79c0\u53d1","category":"\u79f0\u8d5e","positive":true,"premium":true,"lang":"CN","cat_emoji":"1F44D","preset_id":535}]
+[
+  {
+    "preset_id": 535,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You have great hair",
+    "premium": true,
+    "positive": true,
+    "id": 18054
+  },
+  {
+    "id": 18055,
+    "text": "Du hast tolle Haare",
+    "category": "Kompliment",
+    "positive": true,
+    "premium": true,
+    "lang": "DE",
+    "cat_emoji": "1F44D",
+    "preset_id": 535
+  },
+  {
+    "id": 18056,
+    "text": "Tens um cabelo muito bonito",
+    "category": "Elogio",
+    "positive": true,
+    "premium": true,
+    "lang": "PT",
+    "cat_emoji": "1F44D",
+    "preset_id": 535
+  },
+  {
+    "id": 18057,
+    "text": "Masz piękne włosy",
+    "category": "Komplement",
+    "positive": true,
+    "premium": true,
+    "lang": "PL",
+    "cat_emoji": "1F44D",
+    "preset_id": 535
+  },
+  {
+    "id": 18058,
+    "text": "У тебя красивые волосы",
+    "category": "Комплимент",
+    "positive": true,
+    "premium": true,
+    "lang": "RU",
+    "cat_emoji": "1F44D",
+    "preset_id": 535
+  },
+  {
+    "id": 18059,
+    "text": "Me encanta tu pelo",
+    "category": "Cumplido",
+    "positive": true,
+    "premium": true,
+    "lang": "ES",
+    "cat_emoji": "1F44D",
+    "preset_id": 535
+  },
+  {
+    "id": 18060,
+    "text": "你有一头浓密的秀发",
+    "category": "称赞",
+    "positive": true,
+    "premium": true,
+    "lang": "CN",
+    "cat_emoji": "1F44D",
+    "preset_id": 535
+  }
+]

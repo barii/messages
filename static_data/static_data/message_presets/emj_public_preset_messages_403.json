@@ -1,1 +1,72 @@
-[{"id":8375,"text":"Dein Fahrstil ist furchtbar","category":"Beleidigung","positive":false,"premium":false,"lang":"DE","cat_emoji":"1F44E","preset_id":403},{"id":9677,"text":"\u4f60\u7684\u9a7e\u9a76\u6c34\u5e73\u7cdf\u900f\u4e86","category":"\u4fae\u8fb1","positive":false,"premium":false,"lang":"CN","cat_emoji":"1F44E","preset_id":403},{"id":8809,"text":"\u0412\u044b \u0443\u0436\u0430\u0441\u043d\u043e \u0432\u043e\u0434\u0438\u0442\u0435 \u043c\u0430\u0448\u0438\u043d\u0443","category":"\u041e\u0441\u043a\u043e\u0440\u0431\u043b\u0435\u043d\u0438\u0435","positive":false,"premium":false,"lang":"RU","cat_emoji":"1F44E","preset_id":403},{"id":9243,"text":"A tua condu\u00e7\u00e3o \u00e9 horr\u00edvel","category":"Insulto","positive":false,"premium":false,"lang":"PT","cat_emoji":"1F44E","preset_id":403},{"id":10545,"text":"Fatalnie prowadzisz samoch\u00f3d","category":"Obraza","positive":false,"premium":false,"lang":"PL","cat_emoji":"1F44E","preset_id":403},{"id":10111,"text":"Conduces fatal","category":"Insulto","positive":false,"premium":false,"lang":"ES","cat_emoji":"1F44E","preset_id":403},{"id":7941,"text":"Your driving is awful","category":"Insult","positive":false,"premium":false,"lang":"EN","cat_emoji":"1F44E","preset_id":403}]
+[
+  {
+    "preset_id": 403,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "Your driving is awful",
+    "premium": false,
+    "positive": false,
+    "id": 7941
+  },
+  {
+    "id": 8375,
+    "text": "Dein Fahrstil ist furchtbar",
+    "category": "Beleidigung",
+    "positive": false,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F44E",
+    "preset_id": 403
+  },
+  {
+    "id": 9677,
+    "text": "你的驾驶水平糟透了",
+    "category": "侮辱",
+    "positive": false,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F44E",
+    "preset_id": 403
+  },
+  {
+    "id": 8809,
+    "text": "Вы ужасно водите машину",
+    "category": "Оскорбление",
+    "positive": false,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F44E",
+    "preset_id": 403
+  },
+  {
+    "id": 9243,
+    "text": "A tua condução é horrível",
+    "category": "Insulto",
+    "positive": false,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F44E",
+    "preset_id": 403
+  },
+  {
+    "id": 10545,
+    "text": "Fatalnie prowadzisz samochód",
+    "category": "Obraza",
+    "positive": false,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F44E",
+    "preset_id": 403
+  },
+  {
+    "id": 10111,
+    "text": "Conduces fatal",
+    "category": "Insulto",
+    "positive": false,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F44E",
+    "preset_id": 403
+  }
+]

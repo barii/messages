@@ -1,1 +1,86 @@
-[{"id":434,"preset_id":62,"cat_emoji":"🇦🇷","lang":"EN","category":"Argentine Football Teams","text":"Barracas Central","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":435,"preset_id":62,"cat_emoji":"🇦🇷","lang":"ES","category":"Equipos de Fútbol Argentinos","text":"Barracas Central","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":436,"preset_id":62,"cat_emoji":"🇦🇷","lang":"DE","category":"Argentinische Fußballmannschaften","text":"Barracas Central","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":437,"preset_id":62,"cat_emoji":"🇦🇷","lang":"PL","category":"Argentyńskie drużyny piłkarskie","text":"Barracas Central","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":438,"preset_id":62,"cat_emoji":"🇦🇷","lang":"RU","category":"Аргентинские футбольные команды","text":"Barracas Central","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":439,"preset_id":62,"cat_emoji":"🇦🇷","lang":"PT","category":"Times de futebol argentinos","text":"Barracas Central","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"},{"id":440,"preset_id":62,"cat_emoji":"🇦🇷","lang":"CN","category":"阿根廷足球队","text":"Barracas Central","premium":"false","positive":"true","msg_emoji":"🇦🇷","continent":"European"}]
+[
+  {
+    "id": 434,
+    "preset_id": 62,
+    "cat_emoji": "🇦🇷",
+    "lang": "EN",
+    "category": "Argentine Football Teams",
+    "text": "Atlético Tucumán",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 435,
+    "preset_id": 62,
+    "cat_emoji": "🇦🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Argentinos",
+    "text": "Atlético Tucumán",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 436,
+    "preset_id": 62,
+    "cat_emoji": "🇦🇷",
+    "lang": "DE",
+    "category": "Argentinische Fußballmannschaften",
+    "text": "Atlético Tucumán",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 437,
+    "preset_id": 62,
+    "cat_emoji": "🇦🇷",
+    "lang": "PL",
+    "category": "Argentyńskie drużyny piłkarskie",
+    "text": "Atlético Tucumán",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 438,
+    "preset_id": 62,
+    "cat_emoji": "🇦🇷",
+    "lang": "RU",
+    "category": "Аргентинские футбольные команды",
+    "text": "Atlético Tucumán",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 439,
+    "preset_id": 62,
+    "cat_emoji": "🇦🇷",
+    "lang": "PT",
+    "category": "Times de futebol argentinos",
+    "text": "Atlético Tucumán",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 440,
+    "preset_id": 62,
+    "cat_emoji": "🇦🇷",
+    "lang": "CN",
+    "category": "阿根廷足球队",
+    "text": "Atlético Tucumán",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  }
+]

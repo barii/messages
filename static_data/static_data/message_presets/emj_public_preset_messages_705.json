@@ -1,1 +1,72 @@
-[{"id":19247,"text":"Nie chc\u0119 m\u00f3wi\u0107","category":"Odpowied\u017a: neutralny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":705},{"id":19244,"text":"I don\u2019t feel like saying","category":"Reply: Neutral","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":705},{"id":19245,"text":"Das m\u00f6chte ich nicht sagen","category":"Antwort: Neutral","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":705},{"id":19246,"text":"N\u00e3o tenho vontade de dizer","category":"Resposta: neutra","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":705},{"id":19248,"text":"\u041c\u043d\u0435 \u043d\u0435 \u0445\u043e\u0447\u0435\u0442\u0441\u044f \u043e\u0431 \u044d\u0442\u043e\u043c \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c","category":"\u041e\u0442\u0432\u0435\u0442: \u041d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":705},{"id":19249,"text":"No tengo ganas de decirlo","category":"Respuesta: neutral","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":705},{"id":19250,"text":"\u6211\u4e0d\u60f3\u8bf4","category":"\u56de\u590d\uff1a\u4e2d\u6027\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":705}]
+[
+  {
+    "preset_id": 705,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I don’t feel like saying",
+    "premium": false,
+    "positive": true,
+    "id": 19244
+  },
+  {
+    "id": 19247,
+    "text": "Nie chcę mówić",
+    "category": "Odpowiedź: neutralny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 705
+  },
+  {
+    "id": 19245,
+    "text": "Das möchte ich nicht sagen",
+    "category": "Antwort: Neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 705
+  },
+  {
+    "id": 19246,
+    "text": "Não tenho vontade de dizer",
+    "category": "Resposta: neutra",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 705
+  },
+  {
+    "id": 19248,
+    "text": "Мне не хочется об этом говорить",
+    "category": "Ответ: Нейтральный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 705
+  },
+  {
+    "id": 19249,
+    "text": "No tengo ganas de decirlo",
+    "category": "Respuesta: neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 705
+  },
+  {
+    "id": 19250,
+    "text": "我不想说",
+    "category": "回复：中性用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 705
+  }
+]

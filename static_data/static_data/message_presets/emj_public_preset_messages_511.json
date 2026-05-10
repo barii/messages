@@ -1,1 +1,72 @@
-[{"id":17888,"text":"\u00c9s um palha\u00e7o","category":"Insulto","positive":false,"premium":true,"lang":"PT","cat_emoji":"1F44E","preset_id":511},{"id":17886,"text":"You\u2019re a clown","category":"Insult","positive":false,"premium":true,"lang":"EN","cat_emoji":"1F44E","preset_id":511},{"id":17887,"text":"Du bist ein Clown","category":"Beleidigung","positive":false,"premium":true,"lang":"DE","cat_emoji":"1F44E","preset_id":511},{"id":17889,"text":"Jeste\u015b klaunem","category":"Obraza","positive":false,"premium":true,"lang":"PL","cat_emoji":"1F44E","preset_id":511},{"id":17891,"text":"Eres un payaso","category":"Insulto","positive":false,"premium":true,"lang":"ES","cat_emoji":"1F44E","preset_id":511},{"id":17890,"text":"\u0422\u044b \u043f\u0440\u043e\u0441\u0442\u043e \u043a\u043b\u043e\u0443\u043d","category":"\u041e\u0441\u043a\u043e\u0440\u0431\u043b\u0435\u043d\u0438\u0435","positive":false,"premium":true,"lang":"RU","cat_emoji":"1F44E","preset_id":511},{"id":17892,"text":"\u4f60\u662f\u4e2a\u5c0f\u4e11","category":"\u4fae\u8fb1","positive":false,"premium":true,"lang":"CN","cat_emoji":"1F44E","preset_id":511}]
+[
+  {
+    "preset_id": 511,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "You’re a clown",
+    "premium": true,
+    "positive": false,
+    "id": 17886
+  },
+  {
+    "id": 17888,
+    "text": "És um palhaço",
+    "category": "Insulto",
+    "positive": false,
+    "premium": true,
+    "lang": "PT",
+    "cat_emoji": "1F44E",
+    "preset_id": 511
+  },
+  {
+    "id": 17887,
+    "text": "Du bist ein Clown",
+    "category": "Beleidigung",
+    "positive": false,
+    "premium": true,
+    "lang": "DE",
+    "cat_emoji": "1F44E",
+    "preset_id": 511
+  },
+  {
+    "id": 17889,
+    "text": "Jesteś klaunem",
+    "category": "Obraza",
+    "positive": false,
+    "premium": true,
+    "lang": "PL",
+    "cat_emoji": "1F44E",
+    "preset_id": 511
+  },
+  {
+    "id": 17891,
+    "text": "Eres un payaso",
+    "category": "Insulto",
+    "positive": false,
+    "premium": true,
+    "lang": "ES",
+    "cat_emoji": "1F44E",
+    "preset_id": 511
+  },
+  {
+    "id": 17890,
+    "text": "Ты просто клоун",
+    "category": "Оскорбление",
+    "positive": false,
+    "premium": true,
+    "lang": "RU",
+    "cat_emoji": "1F44E",
+    "preset_id": 511
+  },
+  {
+    "id": 17892,
+    "text": "你是个小丑",
+    "category": "侮辱",
+    "positive": false,
+    "premium": true,
+    "lang": "CN",
+    "cat_emoji": "1F44E",
+    "preset_id": 511
+  }
+]

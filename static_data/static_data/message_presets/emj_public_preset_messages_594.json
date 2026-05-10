@@ -1,1 +1,72 @@
-[{"id":18467,"text":"You deserve better","category":"Advice\/Suggestion","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F914","preset_id":594},{"id":18468,"text":"Du hast etwas Besseres verdient","category":"Empfehlung\/Vorschlag","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F914","preset_id":594},{"id":18469,"text":"Tu mereces melhor","category":"Conselho\/Sugest\u00e3o","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F914","preset_id":594},{"id":18470,"text":"Zas\u0142ugujesz na wi\u0119cej","category":"Porada\/sugestia","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F914","preset_id":594},{"id":18471,"text":"\u0422\u044b \u0437\u0430\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u0435\u0448\u044c \u043b\u0443\u0447\u0448\u0435\u0433\u043e","category":"\u0421\u043e\u0432\u0435\u0442\u044b\/\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F914","preset_id":594},{"id":18472,"text":"Te mereces algo mejor","category":"Consejos\/sugerencia","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F914","preset_id":594},{"id":18473,"text":"\u4f60\u503c\u5f97\u62e5\u6709\u66f4\u597d\u7684","category":"\u5fe0\u544a\/\u5efa\u8bae","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F914","preset_id":594}]
+[
+  {
+    "preset_id": 594,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "You deserve better",
+    "premium": false,
+    "positive": true,
+    "id": 18467
+  },
+  {
+    "id": 18468,
+    "text": "Du hast etwas Besseres verdient",
+    "category": "Empfehlung/Vorschlag",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F914",
+    "preset_id": 594
+  },
+  {
+    "id": 18469,
+    "text": "Tu mereces melhor",
+    "category": "Conselho/Sugestão",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F914",
+    "preset_id": 594
+  },
+  {
+    "id": 18470,
+    "text": "Zasługujesz na więcej",
+    "category": "Porada/sugestia",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F914",
+    "preset_id": 594
+  },
+  {
+    "id": 18471,
+    "text": "Ты заслуживаешь лучшего",
+    "category": "Советы/рекомендации",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F914",
+    "preset_id": 594
+  },
+  {
+    "id": 18472,
+    "text": "Te mereces algo mejor",
+    "category": "Consejos/sugerencia",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F914",
+    "preset_id": 594
+  },
+  {
+    "id": 18473,
+    "text": "你值得拥有更好的",
+    "category": "忠告/建议",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F914",
+    "preset_id": 594
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":2506,"preset_id":358,"cat_emoji":"🇩🇪","lang":"EN","category":"German Football Teams","text":"Holstein Kiel","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2507,"preset_id":358,"cat_emoji":"🇩🇪","lang":"ES","category":"Equipos de Fútbol Alemanes","text":"Holstein Kiel","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2508,"preset_id":358,"cat_emoji":"🇩🇪","lang":"DE","category":"Deutsche Fußballmannschaften","text":"Holstein Kiel","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2509,"preset_id":358,"cat_emoji":"🇩🇪","lang":"PL","category":"Niemieckie drużyny piłkarskie","text":"Holstein Kiel","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2510,"preset_id":358,"cat_emoji":"🇩🇪","lang":"RU","category":"Немецкие футбольные команды","text":"Holstein Kiel","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2511,"preset_id":358,"cat_emoji":"🇩🇪","lang":"PT","category":"Times de futebol alemães","text":"Holstein Kiel","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2512,"preset_id":358,"cat_emoji":"🇩🇪","lang":"CN","category":"德国足球队","text":"Holstein Kiel","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"}]
+[
+  {
+    "id": 2506,
+    "preset_id": 358,
+    "cat_emoji": "🇩🇪",
+    "lang": "EN",
+    "category": "German Football Teams",
+    "text": "FC Schalke 04",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2507,
+    "preset_id": 358,
+    "cat_emoji": "🇩🇪",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Alemanes",
+    "text": "FC Schalke 05",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2508,
+    "preset_id": 358,
+    "cat_emoji": "🇩🇪",
+    "lang": "DE",
+    "category": "Deutsche Fußballmannschaften",
+    "text": "FC Schalke 06",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2509,
+    "preset_id": 358,
+    "cat_emoji": "🇩🇪",
+    "lang": "PL",
+    "category": "Niemieckie drużyny piłkarskie",
+    "text": "FC Schalke 07",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2510,
+    "preset_id": 358,
+    "cat_emoji": "🇩🇪",
+    "lang": "RU",
+    "category": "Немецкие футбольные команды",
+    "text": "FC Schalke 08",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2511,
+    "preset_id": 358,
+    "cat_emoji": "🇩🇪",
+    "lang": "PT",
+    "category": "Times de futebol alemães",
+    "text": "FC Schalke 09",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2512,
+    "preset_id": 358,
+    "cat_emoji": "🇩🇪",
+    "lang": "CN",
+    "category": "德国足球队",
+    "text": "FC Schalke 10",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":2121,"preset_id":303,"cat_emoji":"🇲🇦","lang":"EN","category":"Moroccan Football Teams","text":"Maghreb Fes","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"},{"id":2122,"preset_id":303,"cat_emoji":"🇲🇦","lang":"ES","category":"Equipos de Fútbol Marroquíes","text":"Maghreb Fes","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"},{"id":2123,"preset_id":303,"cat_emoji":"🇲🇦","lang":"DE","category":"Marokkanische Fußballmannschaften","text":"Maghreb Fes","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"},{"id":2124,"preset_id":303,"cat_emoji":"🇲🇦","lang":"PL","category":"Marokańskie drużyny piłkarskie","text":"Maghreb Fes","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"},{"id":2125,"preset_id":303,"cat_emoji":"🇲🇦","lang":"RU","category":"Марокканские футбольные команды","text":"Maghreb Fes","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"},{"id":2126,"preset_id":303,"cat_emoji":"🇲🇦","lang":"PT","category":"Times de futebol marroquinos","text":"Maghreb Fes","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"},{"id":2127,"preset_id":303,"cat_emoji":"🇲🇦","lang":"CN","category":"摩洛哥足球队","text":"Maghreb Fes","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"}]
+[
+  {
+    "id": 2121,
+    "preset_id": 303,
+    "cat_emoji": "🇲🇦",
+    "lang": "EN",
+    "category": "Moroccan Football Teams",
+    "text": "Hassania Agadir",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2122,
+    "preset_id": 303,
+    "cat_emoji": "🇲🇦",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Marroquíes",
+    "text": "Hassania Agadir",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2123,
+    "preset_id": 303,
+    "cat_emoji": "🇲🇦",
+    "lang": "DE",
+    "category": "Marokkanische Fußballmannschaften",
+    "text": "Hassania Agadir",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2124,
+    "preset_id": 303,
+    "cat_emoji": "🇲🇦",
+    "lang": "PL",
+    "category": "Marokańskie drużyny piłkarskie",
+    "text": "Hassania Agadir",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2125,
+    "preset_id": 303,
+    "cat_emoji": "🇲🇦",
+    "lang": "RU",
+    "category": "Марокканские футбольные команды",
+    "text": "Hassania Agadir",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2126,
+    "preset_id": 303,
+    "cat_emoji": "🇲🇦",
+    "lang": "PT",
+    "category": "Times de futebol marroquinos",
+    "text": "Hassania Agadir",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2127,
+    "preset_id": 303,
+    "cat_emoji": "🇲🇦",
+    "lang": "CN",
+    "category": "摩洛哥足球队",
+    "text": "Hassania Agadir",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  }
+]

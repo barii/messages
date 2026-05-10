@@ -1,1 +1,86 @@
-[{"id":2870,"preset_id":410,"cat_emoji":"🇭🇺","lang":"EN","category":"Hungarian Football Teams","text":"Zalaegerszeg","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":2871,"preset_id":410,"cat_emoji":"🇭🇺","lang":"ES","category":"Equipos de Fútbol Húngaros","text":"Zalaegerszeg","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":2872,"preset_id":410,"cat_emoji":"🇭🇺","lang":"DE","category":"Ungarische Fußballmannschaften","text":"Zalaegerszeg","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":2873,"preset_id":410,"cat_emoji":"🇭🇺","lang":"PL","category":"Węgierskie drużyny piłkarskie","text":"Zalaegerszeg","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":2874,"preset_id":410,"cat_emoji":"🇭🇺","lang":"RU","category":"Венгерские футбольные команды","text":"Zalaegerszeg","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":2875,"preset_id":410,"cat_emoji":"🇭🇺","lang":"PT","category":"Times de futebol húngaros","text":"Zalaegerszeg","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":2876,"preset_id":410,"cat_emoji":"🇭🇺","lang":"CN","category":"匈牙利足球队","text":"Zalaegerszeg","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"}]
+[
+  {
+    "id": 2870,
+    "preset_id": 410,
+    "cat_emoji": "🇭🇺",
+    "lang": "EN",
+    "category": "Hungarian Football Teams",
+    "text": "Puskás Akadémia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2871,
+    "preset_id": 410,
+    "cat_emoji": "🇭🇺",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Húngaros",
+    "text": "Puskás Akadémia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2872,
+    "preset_id": 410,
+    "cat_emoji": "🇭🇺",
+    "lang": "DE",
+    "category": "Ungarische Fußballmannschaften",
+    "text": "Puskás Akadémia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2873,
+    "preset_id": 410,
+    "cat_emoji": "🇭🇺",
+    "lang": "PL",
+    "category": "Węgierskie drużyny piłkarskie",
+    "text": "Puskás Akadémia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2874,
+    "preset_id": 410,
+    "cat_emoji": "🇭🇺",
+    "lang": "RU",
+    "category": "Венгерские футбольные команды",
+    "text": "Puskás Akadémia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2875,
+    "preset_id": 410,
+    "cat_emoji": "🇭🇺",
+    "lang": "PT",
+    "category": "Times de futebol húngaros",
+    "text": "Puskás Akadémia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2876,
+    "preset_id": 410,
+    "cat_emoji": "🇭🇺",
+    "lang": "CN",
+    "category": "匈牙利足球队",
+    "text": "Puskás Akadémia",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  }
+]

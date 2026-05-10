@@ -1,1 +1,86 @@
-[{"id":154,"preset_id":22,"cat_emoji":"⚽","lang":"EN","category":"Football","text":"Paraguayan Football Teams","premium":"false","positive":"true","msg_emoji":"🇵🇾","continent":"European"},{"id":155,"preset_id":22,"cat_emoji":"⚽","lang":"ES","category":"Fútbol","text":"Equipos de Fútbol Paraguayos","premium":"false","positive":"true","msg_emoji":"🇵🇾","continent":"European"},{"id":156,"preset_id":22,"cat_emoji":"⚽","lang":"DE","category":"Fußball","text":"Paraguayische Fußballmannschaften","premium":"false","positive":"true","msg_emoji":"🇵🇾","continent":"European"},{"id":157,"preset_id":22,"cat_emoji":"⚽","lang":"PL","category":"Piłka nożna","text":"Paragwajskie drużyny piłkarskie","premium":"false","positive":"true","msg_emoji":"🇵🇾","continent":"European"},{"id":158,"preset_id":22,"cat_emoji":"⚽","lang":"RU","category":"Футбол","text":"Парагвайские футбольные команды","premium":"false","positive":"true","msg_emoji":"🇵🇾","continent":"European"},{"id":159,"preset_id":22,"cat_emoji":"⚽","lang":"PT","category":"Futebol","text":"Times de futebol paraguaios","premium":"false","positive":"true","msg_emoji":"🇵🇾","continent":"European"},{"id":160,"preset_id":22,"cat_emoji":"⚽","lang":"CN","category":"足球","text":"巴拉圭足球队","premium":"false","positive":"true","msg_emoji":"🇵🇾","continent":"European"}]
+[
+  {
+    "id": 154,
+    "preset_id": 22,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "Football",
+    "text": "Russian Football Teams",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 155,
+    "preset_id": 22,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "Equipos de Fútbol Rusos",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 156,
+    "preset_id": 22,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Russische Fußballmannschaften",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 157,
+    "preset_id": 22,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Rosyjskie drużyny piłkarskie",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 158,
+    "preset_id": 22,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Российские футбольные команды",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 159,
+    "preset_id": 22,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Times de futebol russos",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 160,
+    "preset_id": 22,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "足球",
+    "text": "俄罗斯足球队",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  }
+]

@@ -1,1 +1,86 @@
-[{"id":20696,"preset_id":926,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"You're looking nervous","premium":"false","positive":"true","header":"insult"},{"id":20697,"preset_id":926,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"Parece nervioso","premium":"false","positive":"true","header":"insultante"},{"id":20698,"preset_id":926,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"Sie sehen nervös aus","premium":"false","positive":"true","header":"Beleidigend"},{"id":20699,"preset_id":926,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"Wyglądasz na zdenerwowanego","premium":"false","positive":"true","header":"Obraźliwy"},{"id":20700,"preset_id":926,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"Вы выглядите нервным","premium":"false","positive":"true","header":"Оскорбительный"},{"id":20701,"preset_id":926,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"Estás com um ar nervoso","premium":"false","positive":"true","header":"Insultuoso"},{"id":20702,"preset_id":926,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"你看起来很紧张","premium":"false","positive":"true","header":"侮辱"}]
+[
+  {
+    "id": 20696,
+    "preset_id": 926,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "You're looking nervous",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insult"
+  },
+  {
+    "id": 20697,
+    "preset_id": 926,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "Parece nervioso",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultante"
+  },
+  {
+    "id": 20698,
+    "preset_id": 926,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Sie sehen nervös aus",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Beleidigend"
+  },
+  {
+    "id": 20699,
+    "preset_id": 926,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Wyglądasz na zdenerwowanego",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Obraźliwy"
+  },
+  {
+    "id": 20700,
+    "preset_id": 926,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Вы выглядите нервным",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Оскорбительный"
+  },
+  {
+    "id": 20701,
+    "preset_id": 926,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Estás com um ar nervoso",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultuoso"
+  },
+  {
+    "id": 20702,
+    "preset_id": 926,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "你看起来很紧张",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "侮辱"
+  }
+]

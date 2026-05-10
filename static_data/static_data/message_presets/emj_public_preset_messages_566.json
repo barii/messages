@@ -1,1 +1,72 @@
-[{"id":18271,"text":"Your replies are so slow","category":"Criticism","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F611","preset_id":566},{"id":18272,"text":"Deine Antworten kommen immer so langsam","category":"Kritik","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F611","preset_id":566},{"id":18273,"text":"As tuas respostas s\u00e3o t\u00e3o lentas","category":"Cr\u00edticas","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F611","preset_id":566},{"id":18274,"text":"Twoje odpowiedzi s\u0105 strasznie powolne","category":"Krytycyzm","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F611","preset_id":566},{"id":18275,"text":"\u0422\u044b \u0442\u0430\u043a \u043c\u0435\u0434\u043b\u0435\u043d\u043d\u043e \u043e\u0442\u0432\u0435\u0447\u0430\u0435\u0448\u044c","category":"\u041a\u0440\u0438\u0442\u0438\u043a\u0430","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F611","preset_id":566},{"id":18276,"text":"Tardas en contestar","category":"Cr\u00edticas","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F611","preset_id":566},{"id":18277,"text":"\u4f60\u56de\u590d\u7684\u901f\u5ea6\u592a\u6162\u4e86","category":"\u6279\u8bc4","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F611","preset_id":566}]
+[
+  {
+    "preset_id": 566,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "Your replies are so slow",
+    "premium": false,
+    "positive": true,
+    "id": 18271
+  },
+  {
+    "id": 18272,
+    "text": "Deine Antworten kommen immer so langsam",
+    "category": "Kritik",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F611",
+    "preset_id": 566
+  },
+  {
+    "id": 18273,
+    "text": "As tuas respostas são tão lentas",
+    "category": "Críticas",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F611",
+    "preset_id": 566
+  },
+  {
+    "id": 18274,
+    "text": "Twoje odpowiedzi są strasznie powolne",
+    "category": "Krytycyzm",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F611",
+    "preset_id": 566
+  },
+  {
+    "id": 18275,
+    "text": "Ты так медленно отвечаешь",
+    "category": "Критика",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F611",
+    "preset_id": 566
+  },
+  {
+    "id": 18276,
+    "text": "Tardas en contestar",
+    "category": "Críticas",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F611",
+    "preset_id": 566
+  },
+  {
+    "id": 18277,
+    "text": "你回复的速度太慢了",
+    "category": "批评",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F611",
+    "preset_id": 566
+  }
+]

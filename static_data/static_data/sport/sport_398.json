@@ -1,1 +1,86 @@
-[{"id":2786,"preset_id":398,"cat_emoji":"🇺🇦","lang":"EN","category":"Ukrainian Football Teams","text":"Zorya Luhansk","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"},{"id":2787,"preset_id":398,"cat_emoji":"🇺🇦","lang":"ES","category":"Equipos de Fútbol Ucranianos","text":"Zorya Luhansk","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"},{"id":2788,"preset_id":398,"cat_emoji":"🇺🇦","lang":"DE","category":"Ukrainische Fußballmannschaften","text":"Zorya Luhansk","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"},{"id":2789,"preset_id":398,"cat_emoji":"🇺🇦","lang":"PL","category":"Ukraińskie drużyny piłkarskie","text":"Zorya Luhansk","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"},{"id":2790,"preset_id":398,"cat_emoji":"🇺🇦","lang":"RU","category":"Украинские футбольные команды","text":"Zorya Luhansk","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"},{"id":2791,"preset_id":398,"cat_emoji":"🇺🇦","lang":"PT","category":"Times de futebol ucranianos","text":"Zorya Luhansk","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"},{"id":2792,"preset_id":398,"cat_emoji":"🇺🇦","lang":"CN","category":"乌克兰足球队","text":"Zorya Luhansk","premium":"false","positive":"true","msg_emoji":"🇺🇦","continent":"European"}]
+[
+  {
+    "id": 2786,
+    "preset_id": 398,
+    "cat_emoji": "🇺🇦",
+    "lang": "EN",
+    "category": "Ukrainian Football Teams",
+    "text": "Shakhtar Donetsk",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2787,
+    "preset_id": 398,
+    "cat_emoji": "🇺🇦",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Ucranianos",
+    "text": "Shakhtar Donetsk",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2788,
+    "preset_id": 398,
+    "cat_emoji": "🇺🇦",
+    "lang": "DE",
+    "category": "Ukrainische Fußballmannschaften",
+    "text": "Shakhtar Donetsk",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2789,
+    "preset_id": 398,
+    "cat_emoji": "🇺🇦",
+    "lang": "PL",
+    "category": "Ukraińskie drużyny piłkarskie",
+    "text": "Shakhtar Donetsk",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2790,
+    "preset_id": 398,
+    "cat_emoji": "🇺🇦",
+    "lang": "RU",
+    "category": "Украинские футбольные команды",
+    "text": "Shakhtar Donetsk",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2791,
+    "preset_id": 398,
+    "cat_emoji": "🇺🇦",
+    "lang": "PT",
+    "category": "Times de futebol ucranianos",
+    "text": "Shakhtar Donetsk",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2792,
+    "preset_id": 398,
+    "cat_emoji": "🇺🇦",
+    "lang": "CN",
+    "category": "乌克兰足球队",
+    "text": "Shakhtar Donetsk",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  }
+]

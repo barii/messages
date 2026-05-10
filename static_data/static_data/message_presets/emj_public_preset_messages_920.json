@@ -1,1 +1,86 @@
-[{"id":20654,"preset_id":920,"cat_emoji":"26BD","lang":"EN","premium":"false","positive":"true"},{"preset_id":920,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"You'll never win anything","premium":"false","positive":"true","header":"insult","id":20654},{"preset_id":920,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"Ты никогда ничего не выиграешь","premium":"false","positive":"true","header":"Оскорбительный","id":20658},{"preset_id":920,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"Nunca ganarás nada","premium":"false","positive":"true","header":"insultante","id":20655},{"preset_id":920,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"你什么都赢不了","premium":"false","positive":"true","header":"侮辱","id":20660},{"preset_id":920,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"Nunca vais ganhar nada","premium":"false","positive":"true","header":"Insultuoso","id":20659},{"preset_id":920,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"Nigdy niczego nie wygrasz","premium":"false","positive":"true","header":"Obraźliwy","id":20657},{"preset_id":920,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"Du wirst nie etwas gewinnen","premium":"false","positive":"true","header":"Beleidigend","id":20656}]
+[
+  {
+    "preset_id": 920,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "You'll never win anything",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insult",
+    "id": 20654
+  },
+  {
+    "preset_id": 920,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Ты никогда ничего не выиграешь",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Оскорбительный",
+    "id": 20658
+  },
+  {
+    "preset_id": 920,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "Nunca ganarás nada",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultante",
+    "id": 20655
+  },
+  {
+    "preset_id": 920,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "你什么都赢不了",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "侮辱",
+    "id": 20660
+  },
+  {
+    "preset_id": 920,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Nunca vais ganhar nada",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultuoso",
+    "id": 20659
+  },
+  {
+    "preset_id": 920,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Nigdy niczego nie wygrasz",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Obraźliwy",
+    "id": 20657
+  },
+  {
+    "preset_id": 920,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Du wirst nie etwas gewinnen",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Beleidigend",
+    "id": 20656
+  }
+]

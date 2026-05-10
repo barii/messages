@@ -1,1 +1,72 @@
-[{"id":8109,"text":"Das ist nett","category":"Antwort: Neutral","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":137},{"id":8977,"text":"Isso \u00e9 bom","category":"Resposta: neutra","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":137},{"id":10279,"text":"To mi\u0142e","category":"Odpowied\u017a: neutralny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":137},{"id":8543,"text":"\u041c\u0438\u043b\u043e","category":"\u041e\u0442\u0432\u0435\u0442: \u041d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":137},{"id":9845,"text":"\u00a1Qu\u00e9 guay!","category":"Respuesta: neutral","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":137},{"id":9411,"text":"\u90a3\u5f88\u597d","category":"\u56de\u590d\uff1a\u4e2d\u6027\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":137},{"id":7675,"text":"That's nice","category":"Reply: Neutral","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":137}]
+[
+  {
+    "preset_id": 137,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "That's nice",
+    "premium": false,
+    "positive": true,
+    "id": 7675
+  },
+  {
+    "id": 8109,
+    "text": "Das ist nett",
+    "category": "Antwort: Neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 137
+  },
+  {
+    "id": 8977,
+    "text": "Isso é bom",
+    "category": "Resposta: neutra",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 137
+  },
+  {
+    "id": 10279,
+    "text": "To miłe",
+    "category": "Odpowiedź: neutralny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 137
+  },
+  {
+    "id": 8543,
+    "text": "Мило",
+    "category": "Ответ: Нейтральный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 137
+  },
+  {
+    "id": 9845,
+    "text": "¡Qué guay!",
+    "category": "Respuesta: neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 137
+  },
+  {
+    "id": 9411,
+    "text": "那很好",
+    "category": "回复：中性用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 137
+  }
+]

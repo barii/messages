@@ -1,1 +1,72 @@
-[{"id":17704,"text":"What are you up to?","category":"Question","positive":true,"premium":false,"lang":"EN","cat_emoji":"2753","preset_id":485},{"id":17705,"text":"Was machst du gerade?","category":"Frage","positive":true,"premium":false,"lang":"DE","cat_emoji":"2753","preset_id":485},{"id":17706,"text":"O que \u00e9 que est\u00e1s a preparar?","category":"Quest\u00e3o","positive":true,"premium":false,"lang":"PT","cat_emoji":"2753","preset_id":485},{"id":17707,"text":"Co porabiasz?","category":"Pytanie","positive":true,"premium":false,"lang":"PL","cat_emoji":"2753","preset_id":485},{"id":17708,"text":"\u0427\u0435\u043c \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0448\u044c\u0441\u044f?","category":"\u0412\u043e\u043f\u0440\u043e\u0441","positive":true,"premium":false,"lang":"RU","cat_emoji":"2753","preset_id":485},{"id":17709,"text":"\u00bfQu\u00e9 est\u00e1s tramando?","category":"Pregunta","positive":true,"premium":false,"lang":"ES","cat_emoji":"2753","preset_id":485},{"id":17710,"text":"\u6700\u8fd1\u4f60\u5728\u5fd9\u4ec0\u4e48\u5462\uff1f","category":"\u7591\u95ee","positive":true,"premium":false,"lang":"CN","cat_emoji":"2753","preset_id":485}]
+[
+  {
+    "preset_id": 485,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "What are you up to?",
+    "premium": false,
+    "positive": true,
+    "id": 17704
+  },
+  {
+    "id": 17705,
+    "text": "Was machst du gerade?",
+    "category": "Frage",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "2753",
+    "preset_id": 485
+  },
+  {
+    "id": 17706,
+    "text": "O que é que estás a preparar?",
+    "category": "Questão",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "2753",
+    "preset_id": 485
+  },
+  {
+    "id": 17707,
+    "text": "Co porabiasz?",
+    "category": "Pytanie",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "2753",
+    "preset_id": 485
+  },
+  {
+    "id": 17708,
+    "text": "Чем занимаешься?",
+    "category": "Вопрос",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "2753",
+    "preset_id": 485
+  },
+  {
+    "id": 17709,
+    "text": "¿Qué estás tramando?",
+    "category": "Pregunta",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "2753",
+    "preset_id": 485
+  },
+  {
+    "id": 17710,
+    "text": "最近你在忙什么呢？",
+    "category": "疑问",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "2753",
+    "preset_id": 485
+  }
+]

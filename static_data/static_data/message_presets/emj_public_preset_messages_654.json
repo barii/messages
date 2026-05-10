@@ -1,1 +1,72 @@
-[{"id":18887,"text":"Happy Halloween","category":"Seasonal","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F5D3","preset_id":654},{"id":18888,"text":"Fr\u00f6hliches Halloween","category":"Zeitlich begrenzt","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F5D3","preset_id":654},{"id":18889,"text":"Feliz Dia das Bruxas","category":"Sazonal","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F5D3","preset_id":654},{"id":18891,"text":"\u0412\u0435\u0441\u0435\u043b\u043e\u0433\u043e \u0425\u044d\u043b\u043b\u043e\u0443\u0438\u043d\u0430!","category":"\u0421\u0435\u0437\u043e\u043d\u043d\u044b\u0435","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F5D3","preset_id":654},{"id":18892,"text":"Feliz Halloween","category":"Estacional","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F5D3","preset_id":654},{"id":18893,"text":"\u4e07\u5723\u8282\u5feb\u4e50","category":"\u8282\u65e5\u95ee\u5019","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F5D3","preset_id":654},{"id":18890,"text":"Wszystkiego najlepszego z okazji Halloween!","category":"Sezonowy","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F5D3","preset_id":654}]
+[
+  {
+    "preset_id": 654,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Happy Halloween",
+    "premium": false,
+    "positive": true,
+    "id": 18887
+  },
+  {
+    "id": 18888,
+    "text": "Fröhliches Halloween",
+    "category": "Zeitlich begrenzt",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F5D3",
+    "preset_id": 654
+  },
+  {
+    "id": 18889,
+    "text": "Feliz Dia das Bruxas",
+    "category": "Sazonal",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F5D3",
+    "preset_id": 654
+  },
+  {
+    "id": 18891,
+    "text": "Веселого Хэллоуина!",
+    "category": "Сезонные",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F5D3",
+    "preset_id": 654
+  },
+  {
+    "id": 18892,
+    "text": "Feliz Halloween",
+    "category": "Estacional",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F5D3",
+    "preset_id": 654
+  },
+  {
+    "id": 18893,
+    "text": "万圣节快乐",
+    "category": "节日问候",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F5D3",
+    "preset_id": 654
+  },
+  {
+    "id": 18890,
+    "text": "Wszystkiego najlepszego z okazji Halloween!",
+    "category": "Sezonowy",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F5D3",
+    "preset_id": 654
+  }
+]

@@ -1,1 +1,72 @@
-[{"id":18705,"text":"I am straight","category":"Personal","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F464","preset_id":628},{"id":18706,"text":"Ich bin heterosexuell","category":"Pers\u00f6nliches","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F464","preset_id":628},{"id":18707,"text":"Sou heterossexual","category":"Pessoal","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F464","preset_id":628},{"id":18708,"text":"Jestem hetero","category":"P\u0142aszczyzna osobista","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F464","preset_id":628},{"id":18710,"text":"Soy heterosexual","category":"Personal","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F464","preset_id":628},{"id":18711,"text":"\u6211\u662f\u5f02\u6027\u604b","category":"\u4e2a\u4eba\u8bdd\u9898","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F464","preset_id":628},{"id":18709,"text":"\u042f \u0433\u0435\u0442\u0435\u0440\u043e\u0441\u0435\u043a\u0441\u0443\u0430\u043b\u0435\u043d\/\u0433\u0435\u0442\u0435\u0440\u043e\u0441\u0435\u043a\u0441\u0443\u0430\u043b\u044c\u043d\u0430","category":"\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F464","preset_id":628}]
+[
+  {
+    "preset_id": 628,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I am straight",
+    "premium": false,
+    "positive": true,
+    "id": 18705
+  },
+  {
+    "id": 18706,
+    "text": "Ich bin heterosexuell",
+    "category": "Persönliches",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F464",
+    "preset_id": 628
+  },
+  {
+    "id": 18707,
+    "text": "Sou heterossexual",
+    "category": "Pessoal",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F464",
+    "preset_id": 628
+  },
+  {
+    "id": 18708,
+    "text": "Jestem hetero",
+    "category": "Płaszczyzna osobista",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F464",
+    "preset_id": 628
+  },
+  {
+    "id": 18710,
+    "text": "Soy heterosexual",
+    "category": "Personal",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F464",
+    "preset_id": 628
+  },
+  {
+    "id": 18711,
+    "text": "我是异性恋",
+    "category": "个人话题",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F464",
+    "preset_id": 628
+  },
+  {
+    "id": 18709,
+    "text": "Я гетеросексуален/гетеросексуальна",
+    "category": "Персональные",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F464",
+    "preset_id": 628
+  }
+]

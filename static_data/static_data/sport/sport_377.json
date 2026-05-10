@@ -1,1 +1,86 @@
-[{"id":2639,"preset_id":377,"cat_emoji":"🇵🇱","lang":"EN","category":"Polish Football Teams","text":"Radomiak Radom","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2640,"preset_id":377,"cat_emoji":"🇵🇱","lang":"ES","category":"Equipos de Fútbol Polacos","text":"Radomiak Radom","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2641,"preset_id":377,"cat_emoji":"🇵🇱","lang":"DE","category":"Polnische Fußballmannschaften","text":"Radomiak Radom","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2642,"preset_id":377,"cat_emoji":"🇵🇱","lang":"PL","category":"Polskie drużyny piłkarskie","text":"Radomiak Radom","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2643,"preset_id":377,"cat_emoji":"🇵🇱","lang":"RU","category":"Польские футбольные команды","text":"Radomiak Radom","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2644,"preset_id":377,"cat_emoji":"🇵🇱","lang":"PT","category":"Times de futebol poloneses","text":"Radomiak Radom","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2645,"preset_id":377,"cat_emoji":"🇵🇱","lang":"CN","category":"波兰足球队","text":"Radomiak Radom","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"}]
+[
+  {
+    "id": 2639,
+    "preset_id": 377,
+    "cat_emoji": "🇵🇱",
+    "lang": "EN",
+    "category": "Polish Football Teams",
+    "text": "Pogoń Szczecin",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2640,
+    "preset_id": 377,
+    "cat_emoji": "🇵🇱",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Polacos",
+    "text": "Pogoń Szczecin",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2641,
+    "preset_id": 377,
+    "cat_emoji": "🇵🇱",
+    "lang": "DE",
+    "category": "Polnische Fußballmannschaften",
+    "text": "Pogoń Szczecin",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2642,
+    "preset_id": 377,
+    "cat_emoji": "🇵🇱",
+    "lang": "PL",
+    "category": "Polskie drużyny piłkarskie",
+    "text": "Pogoń Szczecin",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2643,
+    "preset_id": 377,
+    "cat_emoji": "🇵🇱",
+    "lang": "RU",
+    "category": "Польские футбольные команды",
+    "text": "Pogoń Szczecin",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2644,
+    "preset_id": 377,
+    "cat_emoji": "🇵🇱",
+    "lang": "PT",
+    "category": "Times de futebol poloneses",
+    "text": "Pogoń Szczecin",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2645,
+    "preset_id": 377,
+    "cat_emoji": "🇵🇱",
+    "lang": "CN",
+    "category": "波兰足球队",
+    "text": "Pogoń Szczecin",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  }
+]

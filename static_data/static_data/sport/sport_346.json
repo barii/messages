@@ -1,1 +1,86 @@
-[{"id":2422,"preset_id":346,"cat_emoji":"🇺🇾","lang":"EN","category":"Uruguayan Football Teams","text":"Wanderers","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2423,"preset_id":346,"cat_emoji":"🇺🇾","lang":"ES","category":"Equipos de Fútbol Uruguayos","text":"Wanderers","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2424,"preset_id":346,"cat_emoji":"🇺🇾","lang":"DE","category":"Uruguayanische Fußballmannschaften","text":"Wanderers","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2425,"preset_id":346,"cat_emoji":"🇺🇾","lang":"PL","category":"Urugwajskie drużyny piłkarskie","text":"Wanderers","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2426,"preset_id":346,"cat_emoji":"🇺🇾","lang":"RU","category":"Уругвайские футбольные команды","text":"Wanderers","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2427,"preset_id":346,"cat_emoji":"🇺🇾","lang":"PT","category":"Times de futebol uruguaios","text":"Wanderers","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2428,"preset_id":346,"cat_emoji":"🇺🇾","lang":"CN","category":"乌拉圭足球队","text":"Wanderers","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"}]
+[
+  {
+    "id": 2422,
+    "preset_id": 346,
+    "cat_emoji": "🇺🇾",
+    "lang": "EN",
+    "category": "Uruguayan Football Teams",
+    "text": "Rampla Juniors",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2423,
+    "preset_id": 346,
+    "cat_emoji": "🇺🇾",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Uruguayos",
+    "text": "Rampla Juniors",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2424,
+    "preset_id": 346,
+    "cat_emoji": "🇺🇾",
+    "lang": "DE",
+    "category": "Uruguayanische Fußballmannschaften",
+    "text": "Rampla Juniors",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2425,
+    "preset_id": 346,
+    "cat_emoji": "🇺🇾",
+    "lang": "PL",
+    "category": "Urugwajskie drużyny piłkarskie",
+    "text": "Rampla Juniors",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2426,
+    "preset_id": 346,
+    "cat_emoji": "🇺🇾",
+    "lang": "RU",
+    "category": "Уругвайские футбольные команды",
+    "text": "Rampla Juniors",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2427,
+    "preset_id": 346,
+    "cat_emoji": "🇺🇾",
+    "lang": "PT",
+    "category": "Times de futebol uruguaios",
+    "text": "Rampla Juniors",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2428,
+    "preset_id": 346,
+    "cat_emoji": "🇺🇾",
+    "lang": "CN",
+    "category": "乌拉圭足球队",
+    "text": "Rampla Juniors",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  }
+]

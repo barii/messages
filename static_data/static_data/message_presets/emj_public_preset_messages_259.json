@@ -1,1 +1,62 @@
-[{"id":9099,"text":"Cuidado com o que desejas","category":"Conselho\/Sugest\u00e3o","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F914","preset_id":259},{"id":9967,"text":"Ten cuidado con lo que deseas","category":"Consejos\/sugerencia","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F914","preset_id":259},{"id":10401,"text":"Uwa\u017caj, czego sobie \u017cyczysz","category":"Porada\/sugestia","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F914","preset_id":259},{"id":8231,"text":"Sei vorsichtig, was du dir w\u00fcnschst","category":"Empfehlung\/Vorschlag","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F914","preset_id":259},{"id":8665,"text":"\u0411\u0443\u0434\u044c \u043e\u0441\u0442\u043e\u0440\u043e\u0436\u0435\u043d (\u043e\u0441\u0442\u043e\u0440\u043e\u0436\u043d\u0430) \u0432 \u0441\u0432\u043e\u0438\u0445 \u0436\u0435\u043b\u0430\u043d\u0438\u044f\u0445","category":"\u0421\u043e\u0432\u0435\u0442\u044b\/\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F914","preset_id":259},{"id":7797,"text":"Be careful what you wish for","category":"Advice\/Suggestion","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F914","preset_id":259}]
+[
+  {
+    "preset_id": 259,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Be careful what you wish for",
+    "premium": false,
+    "positive": true,
+    "id": 7797
+  },
+  {
+    "id": 9099,
+    "text": "Cuidado com o que desejas",
+    "category": "Conselho/Sugestão",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F914",
+    "preset_id": 259
+  },
+  {
+    "id": 9967,
+    "text": "Ten cuidado con lo que deseas",
+    "category": "Consejos/sugerencia",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F914",
+    "preset_id": 259
+  },
+  {
+    "id": 10401,
+    "text": "Uważaj, czego sobie życzysz",
+    "category": "Porada/sugestia",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F914",
+    "preset_id": 259
+  },
+  {
+    "id": 8231,
+    "text": "Sei vorsichtig, was du dir wünschst",
+    "category": "Empfehlung/Vorschlag",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F914",
+    "preset_id": 259
+  },
+  {
+    "id": 8665,
+    "text": "Будь осторожен (осторожна) в своих желаниях",
+    "category": "Советы/рекомендации",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F914",
+    "preset_id": 259
+  }
+]

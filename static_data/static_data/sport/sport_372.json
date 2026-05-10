@@ -1,1 +1,86 @@
-[{"id":2604,"preset_id":372,"cat_emoji":"🇵🇱","lang":"EN","category":"Polish Football Teams","text":"ŁKS Łódź","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2605,"preset_id":372,"cat_emoji":"🇵🇱","lang":"ES","category":"Equipos de Fútbol Polacos","text":"ŁKS Łódź","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2606,"preset_id":372,"cat_emoji":"🇵🇱","lang":"DE","category":"Polnische Fußballmannschaften","text":"ŁKS Łódź","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2607,"preset_id":372,"cat_emoji":"🇵🇱","lang":"PL","category":"Polskie drużyny piłkarskie","text":"ŁKS Łódź","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2608,"preset_id":372,"cat_emoji":"🇵🇱","lang":"RU","category":"Польские футбольные команды","text":"ŁKS Łódź","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2609,"preset_id":372,"cat_emoji":"🇵🇱","lang":"PT","category":"Times de futebol poloneses","text":"ŁKS Łódź","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2610,"preset_id":372,"cat_emoji":"🇵🇱","lang":"CN","category":"波兰足球队","text":"ŁKS Łódź","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"}]
+[
+  {
+    "id": 2604,
+    "preset_id": 372,
+    "cat_emoji": "🇵🇱",
+    "lang": "EN",
+    "category": "Polish Football Teams",
+    "text": "Lech Poznań",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2605,
+    "preset_id": 372,
+    "cat_emoji": "🇵🇱",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Polacos",
+    "text": "Lech Poznań",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2606,
+    "preset_id": 372,
+    "cat_emoji": "🇵🇱",
+    "lang": "DE",
+    "category": "Polnische Fußballmannschaften",
+    "text": "Lech Poznań",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2607,
+    "preset_id": 372,
+    "cat_emoji": "🇵🇱",
+    "lang": "PL",
+    "category": "Polskie drużyny piłkarskie",
+    "text": "Lech Poznań",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2608,
+    "preset_id": 372,
+    "cat_emoji": "🇵🇱",
+    "lang": "RU",
+    "category": "Польские футбольные команды",
+    "text": "Lech Poznań",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2609,
+    "preset_id": 372,
+    "cat_emoji": "🇵🇱",
+    "lang": "PT",
+    "category": "Times de futebol poloneses",
+    "text": "Lech Poznań",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2610,
+    "preset_id": 372,
+    "cat_emoji": "🇵🇱",
+    "lang": "CN",
+    "category": "波兰足球队",
+    "text": "Lech Poznań",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  }
+]

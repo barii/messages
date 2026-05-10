@@ -1,1 +1,86 @@
-[{"id":2023,"preset_id":289,"cat_emoji":"🇨🇴","lang":"EN","category":"Columbian Football Teams","text":"Independiente Medellín","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"},{"id":2024,"preset_id":289,"cat_emoji":"🇨🇴","lang":"ES","category":"Equipos de Fútbol Colombianos","text":"Independiente Medellín","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"},{"id":2025,"preset_id":289,"cat_emoji":"🇨🇴","lang":"DE","category":"Kolumbianische Fußballmannschaften","text":"Independiente Medellín","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"},{"id":2026,"preset_id":289,"cat_emoji":"🇨🇴","lang":"PL","category":"Kolumbijskie drużyny piłkarskie","text":"Independiente Medellín","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"},{"id":2027,"preset_id":289,"cat_emoji":"🇨🇴","lang":"RU","category":"Колумбийские футбольные команды","text":"Independiente Medellín","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"},{"id":2028,"preset_id":289,"cat_emoji":"🇨🇴","lang":"PT","category":"Times de futebol colombianos","text":"Independiente Medellín","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"},{"id":2029,"preset_id":289,"cat_emoji":"🇨🇴","lang":"CN","category":"哥伦比亚足球队","text":"Independiente Medellín","premium":"false","positive":"true","msg_emoji":"🇨🇴","continent":"European"}]
+[
+  {
+    "id": 2023,
+    "preset_id": 289,
+    "cat_emoji": "🇨🇴",
+    "lang": "EN",
+    "category": "Columbian Football Teams",
+    "text": "Deportivo Pereira",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2024,
+    "preset_id": 289,
+    "cat_emoji": "🇨🇴",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Colombianos",
+    "text": "Deportivo Pereira",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2025,
+    "preset_id": 289,
+    "cat_emoji": "🇨🇴",
+    "lang": "DE",
+    "category": "Kolumbianische Fußballmannschaften",
+    "text": "Deportivo Pereira",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2026,
+    "preset_id": 289,
+    "cat_emoji": "🇨🇴",
+    "lang": "PL",
+    "category": "Kolumbijskie drużyny piłkarskie",
+    "text": "Deportivo Pereira",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2027,
+    "preset_id": 289,
+    "cat_emoji": "🇨🇴",
+    "lang": "RU",
+    "category": "Колумбийские футбольные команды",
+    "text": "Deportivo Pereira",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2028,
+    "preset_id": 289,
+    "cat_emoji": "🇨🇴",
+    "lang": "PT",
+    "category": "Times de futebol colombianos",
+    "text": "Deportivo Pereira",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2029,
+    "preset_id": 289,
+    "cat_emoji": "🇨🇴",
+    "lang": "CN",
+    "category": "哥伦比亚足球队",
+    "text": "Deportivo Pereira",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  }
+]

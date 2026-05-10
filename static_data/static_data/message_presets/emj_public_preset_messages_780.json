@@ -1,1 +1,72 @@
-[{"id":19769,"text":"We\u2019ll see about that","category":"Reply: Neutral","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":780},{"id":19770,"text":"Das werden wir ja sehen","category":"Antwort: Neutral","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":780},{"id":19771,"text":"Isso \u00e9 o que veremos","category":"Resposta: neutra","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":780},{"id":19773,"text":"\u042d\u0442\u043e \u043c\u044b \u0435\u0449\u0435 \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0438\u043c","category":"\u041e\u0442\u0432\u0435\u0442: \u041d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":780},{"id":19774,"text":"Ya lo veremos","category":"Respuesta: neutral","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":780},{"id":19775,"text":"\u6211\u4eec\u8d70\u7740\u77a7","category":"\u56de\u590d\uff1a\u4e2d\u6027\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":780},{"id":19772,"text":"Zobaczymy","category":"Odpowied\u017a: neutralny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":780}]
+[
+  {
+    "preset_id": 780,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "We’ll see about that",
+    "premium": false,
+    "positive": true,
+    "id": 19769
+  },
+  {
+    "id": 19770,
+    "text": "Das werden wir ja sehen",
+    "category": "Antwort: Neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 780
+  },
+  {
+    "id": 19771,
+    "text": "Isso é o que veremos",
+    "category": "Resposta: neutra",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 780
+  },
+  {
+    "id": 19773,
+    "text": "Это мы еще посмотрим",
+    "category": "Ответ: Нейтральный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 780
+  },
+  {
+    "id": 19774,
+    "text": "Ya lo veremos",
+    "category": "Respuesta: neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 780
+  },
+  {
+    "id": 19775,
+    "text": "我们走着瞧",
+    "category": "回复：中性用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 780
+  },
+  {
+    "id": 19772,
+    "text": "Zobaczymy",
+    "category": "Odpowiedź: neutralny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 780
+  }
+]

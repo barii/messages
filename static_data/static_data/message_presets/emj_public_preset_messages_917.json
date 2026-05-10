@@ -1,1 +1,86 @@
-[{"id":20633,"preset_id":917,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"Own goal…. hooray!","premium":"false","positive":"true","header":"insult"},{"id":20634,"preset_id":917,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"Gol propio.... ¡hurra!","premium":"false","positive":"true","header":"insultante"},{"id":20635,"preset_id":917,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"Eigentor.... Hurra!","premium":"false","positive":"true","header":"Beleidigend"},{"id":20636,"preset_id":917,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"Własny gol.... hura!","premium":"false","positive":"true","header":"Obraźliwy"},{"id":20637,"preset_id":917,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"Собственный гол.... ура!","premium":"false","positive":"true","header":"Оскорбительный"},{"id":20638,"preset_id":917,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"Golo próprio.... hooray!","premium":"false","positive":"true","header":"Insultuoso"},{"id":20639,"preset_id":917,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"自己的进球.... 万岁！","premium":"false","positive":"true","header":"侮辱"}]
+[
+  {
+    "id": 20633,
+    "preset_id": 917,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "Own goal…. hooray!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insult"
+  },
+  {
+    "id": 20634,
+    "preset_id": 917,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "Gol propio.... ¡hurra!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultante"
+  },
+  {
+    "id": 20635,
+    "preset_id": 917,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Eigentor.... Hurra!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Beleidigend"
+  },
+  {
+    "id": 20636,
+    "preset_id": 917,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Własny gol.... hura!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Obraźliwy"
+  },
+  {
+    "id": 20637,
+    "preset_id": 917,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Собственный гол.... ура!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Оскорбительный"
+  },
+  {
+    "id": 20638,
+    "preset_id": 917,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Golo próprio.... hooray!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultuoso"
+  },
+  {
+    "id": 20639,
+    "preset_id": 917,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "自己的进球.... 万岁！",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "侮辱"
+  }
+]

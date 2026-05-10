@@ -1,1 +1,86 @@
-[{"id":49,"preset_id":7,"cat_emoji":"⚽","lang":"EN","category":"Football","text":"Croatian Football Teams","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"},{"id":50,"preset_id":7,"cat_emoji":"⚽","lang":"ES","category":"Fútbol","text":"Equipos de Fútbol Croatas","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"},{"id":51,"preset_id":7,"cat_emoji":"⚽","lang":"DE","category":"Fußball","text":"Kroatische Fußballmannschaften","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"},{"id":52,"preset_id":7,"cat_emoji":"⚽","lang":"PL","category":"Piłka nożna","text":"Chorwackie drużyny piłkarskie","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"},{"id":53,"preset_id":7,"cat_emoji":"⚽","lang":"RU","category":"Футбол","text":"Хорватские футбольные команды","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"},{"id":54,"preset_id":7,"cat_emoji":"⚽","lang":"PT","category":"Futebol","text":"Times de futebol croatas","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"},{"id":55,"preset_id":7,"cat_emoji":"⚽","lang":"CN","category":"足球","text":"克罗地亚足球队","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"}]
+[
+  {
+    "id": 49,
+    "preset_id": 7,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "Football",
+    "text": "English Football Teams",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 50,
+    "preset_id": 7,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "Equipos de Fútbol Ingleses",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 51,
+    "preset_id": 7,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Englische Fußballmannschaften",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 52,
+    "preset_id": 7,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Angielskie drużyny piłkarskie",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 53,
+    "preset_id": 7,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Английские футбольные команды",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 54,
+    "preset_id": 7,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Times de futebol ingleses",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 55,
+    "preset_id": 7,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "足球",
+    "text": "英格兰足球队",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  }
+]

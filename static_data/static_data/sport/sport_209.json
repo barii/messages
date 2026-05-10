@@ -1,1 +1,86 @@
-[{"id":1463,"preset_id":209,"cat_emoji":"🇵🇹","lang":"EN","category":"Portuguese Football Teams","text":"Arouca","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1464,"preset_id":209,"cat_emoji":"🇵🇹","lang":"ES","category":"Equipos de Fútbol Portugueses","text":"Arouca","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1465,"preset_id":209,"cat_emoji":"🇵🇹","lang":"DE","category":"Portugiesische Fußballmannschaften","text":"Arouca","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1466,"preset_id":209,"cat_emoji":"🇵🇹","lang":"PL","category":"Portugalskie drużyny piłkarskie","text":"Arouca","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1467,"preset_id":209,"cat_emoji":"🇵🇹","lang":"RU","category":"Португальские футбольные команды","text":"Arouca","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1468,"preset_id":209,"cat_emoji":"🇵🇹","lang":"PT","category":"Times de futebol portugueses","text":"Arouca","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"},{"id":1469,"preset_id":209,"cat_emoji":"🇵🇹","lang":"CN","category":"葡萄牙足球队","text":"Arouca","premium":"false","positive":"true","msg_emoji":"🇵🇹","continent":"European"}]
+[
+  {
+    "id": 1463,
+    "preset_id": 209,
+    "cat_emoji": "🇮🇹",
+    "lang": "EN",
+    "category": "Italian Football Teams",
+    "text": "Torino",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1464,
+    "preset_id": 209,
+    "cat_emoji": "🇮🇹",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Italianos",
+    "text": "Torino",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1465,
+    "preset_id": 209,
+    "cat_emoji": "🇮🇹",
+    "lang": "DE",
+    "category": "Italienische Fußballmannschaften",
+    "text": "Torino",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1466,
+    "preset_id": 209,
+    "cat_emoji": "🇮🇹",
+    "lang": "PL",
+    "category": "Włoskie drużyny piłkarskie",
+    "text": "Torino",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1467,
+    "preset_id": 209,
+    "cat_emoji": "🇮🇹",
+    "lang": "RU",
+    "category": "Итальянские футбольные команды",
+    "text": "Torino",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1468,
+    "preset_id": 209,
+    "cat_emoji": "🇮🇹",
+    "lang": "PT",
+    "category": "Times de futebol italianos",
+    "text": "Torino",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1469,
+    "preset_id": 209,
+    "cat_emoji": "🇮🇹",
+    "lang": "CN",
+    "category": "意大利足球队",
+    "text": "Torino",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  }
+]

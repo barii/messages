@@ -1,1 +1,86 @@
-[{"id":287,"preset_id":41,"cat_emoji":"⚽","lang":"EN","category":"National football teams","text":"Senegalese football team","premium":"false","positive":"true","msg_emoji":"🇸🇬","continent":"European"},{"id":288,"preset_id":41,"cat_emoji":"⚽","lang":"ES","category":"Selección nacional de fútbol","text":"Equipo de fútbol Senegalés","premium":"false","positive":"true","msg_emoji":"🇸🇬","continent":"European"},{"id":289,"preset_id":41,"cat_emoji":"⚽","lang":"DE","category":"Nationale Fußballmannschaft","text":"Senegalesische Fußballmannschaft","premium":"false","positive":"true","msg_emoji":"🇸🇬","continent":"European"},{"id":290,"preset_id":41,"cat_emoji":"⚽","lang":"PL","category":"Narodowa drużyna piłkarska","text":"Senegalska drużyna piłkarska","premium":"false","positive":"true","msg_emoji":"🇸🇬","continent":"European"},{"id":291,"preset_id":41,"cat_emoji":"⚽","lang":"RU","category":"национальная сборная по футболу","text":"Сенегальская футбольная команда","premium":"false","positive":"true","msg_emoji":"🇸🇬","continent":"European"},{"id":292,"preset_id":41,"cat_emoji":"⚽","lang":"PT","category":"Seleção nacional de futebol","text":"Seleção Senegalesa de Futebol","premium":"false","positive":"true","msg_emoji":"🇸🇬","continent":"European"},{"id":293,"preset_id":41,"cat_emoji":"⚽","lang":"CN","category":"国家足球队","text":"塞内加尔足球队","premium":"false","positive":"true","msg_emoji":"🇸🇬","continent":"European"}]
+[
+  {
+    "id": 287,
+    "preset_id": 41,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "National football teams",
+    "text": "Uruguayan football team",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 288,
+    "preset_id": 41,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Selección nacional de fútbol",
+    "text": "Selección Uruguaya de fútbol",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 289,
+    "preset_id": 41,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Nationale Fußballmannschaft",
+    "text": "Uruguayische Fußballmannschaft",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 290,
+    "preset_id": 41,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Narodowa drużyna piłkarska",
+    "text": "Reprezentacja Urugwaju w piłce nożnej",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 291,
+    "preset_id": 41,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "национальная сборная по футболу",
+    "text": "Уругвайская футбольная команда",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 292,
+    "preset_id": 41,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Seleção nacional de futebol",
+    "text": "Seleção Uruguaia de Futebol",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 293,
+    "preset_id": 41,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "国家足球队",
+    "text": "乌拉圭足球队",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  }
+]

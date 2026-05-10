@@ -1,1 +1,86 @@
-[{"id":2982,"preset_id":426,"cat_emoji":"🇷🇺","lang":"EN","category":"Russian Football Teams","text":"Zenit St. Petersburg","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2983,"preset_id":426,"cat_emoji":"🇷🇺","lang":"ES","category":"Equipos de Fútbol Rusos","text":"Zenit St. Petersburg","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2984,"preset_id":426,"cat_emoji":"🇷🇺","lang":"DE","category":"Russische Fußballmannschaften","text":"Zenit St. Petersburg","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2985,"preset_id":426,"cat_emoji":"🇷🇺","lang":"PL","category":"Rosyjskie drużyny piłkarskie","text":"Zenit St. Petersburg","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2986,"preset_id":426,"cat_emoji":"🇷🇺","lang":"RU","category":"Российские футбольные команды","text":"Zenit St. Petersburg","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2987,"preset_id":426,"cat_emoji":"🇷🇺","lang":"PT","category":"Times de futebol russos","text":"Zenit St. Petersburg","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"},{"id":2988,"preset_id":426,"cat_emoji":"🇷🇺","lang":"CN","category":"俄罗斯足球队","text":"Zenit St. Petersburg","premium":"false","positive":"true","msg_emoji":"🇷🇺","continent":"European"}]
+[
+  {
+    "id": 2982,
+    "preset_id": 426,
+    "cat_emoji": "🇷🇺",
+    "lang": "EN",
+    "category": "Russian Football Teams",
+    "text": "Rubin Kazan",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2983,
+    "preset_id": 426,
+    "cat_emoji": "🇷🇺",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Rusos",
+    "text": "Rubin Kazan",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2984,
+    "preset_id": 426,
+    "cat_emoji": "🇷🇺",
+    "lang": "DE",
+    "category": "Russische Fußballmannschaften",
+    "text": "Rubin Kazan",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2985,
+    "preset_id": 426,
+    "cat_emoji": "🇷🇺",
+    "lang": "PL",
+    "category": "Rosyjskie drużyny piłkarskie",
+    "text": "Rubin Kazan",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2986,
+    "preset_id": 426,
+    "cat_emoji": "🇷🇺",
+    "lang": "RU",
+    "category": "Российские футбольные команды",
+    "text": "Rubin Kazan",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2987,
+    "preset_id": 426,
+    "cat_emoji": "🇷🇺",
+    "lang": "PT",
+    "category": "Times de futebol russos",
+    "text": "Rubin Kazan",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2988,
+    "preset_id": 426,
+    "cat_emoji": "🇷🇺",
+    "lang": "CN",
+    "category": "俄罗斯足球队",
+    "text": "Rubin Kazan",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  }
+]

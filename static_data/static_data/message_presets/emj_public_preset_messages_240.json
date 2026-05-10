@@ -1,1 +1,72 @@
-[{"id":7778,"text":"You are the sunshine of my life","category":"Love\/Flirt","positive":true,"premium":false,"lang":"EN","cat_emoji":"2764","preset_id":240},{"id":8212,"text":"Du bist mein Lebensmittelpunkt","category":"Liebe\/Flirten","positive":true,"premium":false,"lang":"DE","cat_emoji":"2764","preset_id":240},{"id":8646,"text":"\u0422\u044b \u0440\u0430\u0434\u043e\u0441\u0442\u044c \u043c\u043e\u0435\u0439 \u0436\u0438\u0437\u043d\u0438","category":"\u041b\u044e\u0431\u043e\u0432\u044c\/\u0424\u043b\u0438\u0440\u0442","positive":true,"premium":false,"lang":"RU","cat_emoji":"2764","preset_id":240},{"id":9080,"text":"\u00c9s o sol da minha vida","category":"Amor\/Namoriscar","positive":true,"premium":false,"lang":"PT","cat_emoji":"2764","preset_id":240},{"id":9514,"text":"\u4f60\u662f\u6211\u751f\u547d\u4e2d\u7684\u9633\u5149","category":"\u7231\/\u6311\u9017","positive":true,"premium":false,"lang":"CN","cat_emoji":"2764","preset_id":240},{"id":9948,"text":"Eres el sol de mi vida","category":"Amor\/Ligue","positive":true,"premium":false,"lang":"ES","cat_emoji":"2764","preset_id":240},{"id":10382,"text":"Jeste\u015b moim s\u0142o\u0144cem","category":"Mi\u0142o\u015b\u0107\/Flirt","positive":true,"premium":false,"lang":"PL","cat_emoji":"2764","preset_id":240}]
+[
+  {
+    "preset_id": 240,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You are the sunshine of my life",
+    "premium": false,
+    "positive": true,
+    "id": 7778
+  },
+  {
+    "id": 8212,
+    "text": "Du bist mein Lebensmittelpunkt",
+    "category": "Liebe/Flirten",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "2764",
+    "preset_id": 240
+  },
+  {
+    "id": 8646,
+    "text": "Ты радость моей жизни",
+    "category": "Любовь/Флирт",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "2764",
+    "preset_id": 240
+  },
+  {
+    "id": 9080,
+    "text": "És o sol da minha vida",
+    "category": "Amor/Namoriscar",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "2764",
+    "preset_id": 240
+  },
+  {
+    "id": 9514,
+    "text": "你是我生命中的阳光",
+    "category": "爱/挑逗",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "2764",
+    "preset_id": 240
+  },
+  {
+    "id": 9948,
+    "text": "Eres el sol de mi vida",
+    "category": "Amor/Ligue",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "2764",
+    "preset_id": 240
+  },
+  {
+    "id": 10382,
+    "text": "Jesteś moim słońcem",
+    "category": "Miłość/Flirt",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "2764",
+    "preset_id": 240
+  }
+]

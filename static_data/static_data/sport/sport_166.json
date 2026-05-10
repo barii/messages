@@ -1,1 +1,86 @@
-[{"id":1162,"preset_id":166,"cat_emoji":"🇳🇱","lang":"EN","category":"Dutch Football Teams","text":"Fortuna Sittard","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"},{"id":1163,"preset_id":166,"cat_emoji":"🇳🇱","lang":"ES","category":"Equipos de Fútbol Holandeses","text":"Fortuna Sittard","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"},{"id":1164,"preset_id":166,"cat_emoji":"🇳🇱","lang":"DE","category":"Niederländische Fußballmannschaften","text":"Fortuna Sittard","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"},{"id":1165,"preset_id":166,"cat_emoji":"🇳🇱","lang":"PL","category":"Holenderskie drużyny piłkarskie","text":"Fortuna Sittard","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"},{"id":1166,"preset_id":166,"cat_emoji":"🇳🇱","lang":"RU","category":"Голландские футбольные команды","text":"Fortuna Sittard","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"},{"id":1167,"preset_id":166,"cat_emoji":"🇳🇱","lang":"PT","category":"Times de futebol holandeses","text":"Fortuna Sittard","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"},{"id":1168,"preset_id":166,"cat_emoji":"🇳🇱","lang":"CN","category":"荷兰足球队","text":"Fortuna Sittard","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"}]
+[
+  {
+    "id": 1162,
+    "preset_id": 166,
+    "cat_emoji": "🇳🇱",
+    "lang": "EN",
+    "category": "Dutch Football Teams",
+    "text": "Excelsior",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1163,
+    "preset_id": 166,
+    "cat_emoji": "🇳🇱",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Holandeses",
+    "text": "Excelsior",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1164,
+    "preset_id": 166,
+    "cat_emoji": "🇳🇱",
+    "lang": "DE",
+    "category": "Niederländische Fußballmannschaften",
+    "text": "Excelsior",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1165,
+    "preset_id": 166,
+    "cat_emoji": "🇳🇱",
+    "lang": "PL",
+    "category": "Holenderskie drużyny piłkarskie",
+    "text": "Excelsior",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1166,
+    "preset_id": 166,
+    "cat_emoji": "🇳🇱",
+    "lang": "RU",
+    "category": "Голландские футбольные команды",
+    "text": "Excelsior",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1167,
+    "preset_id": 166,
+    "cat_emoji": "🇳🇱",
+    "lang": "PT",
+    "category": "Times de futebol holandeses",
+    "text": "Excelsior",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1168,
+    "preset_id": 166,
+    "cat_emoji": "🇳🇱",
+    "lang": "CN",
+    "category": "荷兰足球队",
+    "text": "Excelsior",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  }
+]

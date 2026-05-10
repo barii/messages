@@ -1,1 +1,79 @@
-[{"id":21410,"preset_id":1028,"cat_emoji":"0001F3C9","lang":"EN","category":"American sports","text":"Our grandma hits harder than that!","premium":"false","positive":"true"},{"id":21411,"preset_id":1028,"cat_emoji":"0001F3C9","lang":"ES","category":"Deportes americanos","text":"Our grandma hits harder than that!","premium":"false","positive":"true"},{"id":21412,"preset_id":1028,"cat_emoji":"0001F3C9","lang":"DE","category":"Amerikanische Sportarten","text":"Our grandma hits harder than that!","premium":"false","positive":"true"},{"id":21413,"preset_id":1028,"cat_emoji":"0001F3C9","lang":"PL","category":"Amerykańskie sporty","text":"Our grandma hits harder than that!","premium":"false","positive":"true"},{"id":21414,"preset_id":1028,"cat_emoji":"0001F3C9","lang":"RU","category":"Американские виды спорта","text":"Our grandma hits harder than that!","premium":"false","positive":"true"},{"id":21415,"preset_id":1028,"cat_emoji":"0001F3C9","lang":"PT","category":"Esportes americanos","text":"Our grandma hits harder than that!","premium":"false","positive":"true"},{"id":21416,"preset_id":1028,"cat_emoji":"0001F3C9","lang":"CN","category":"美国体育","text":"Our grandma hits harder than that!","premium":"false","positive":"true"}]
+[
+  {
+    "id": 21410,
+    "preset_id": 1028,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "text": "Our grandma hits harder than that!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21411,
+    "preset_id": 1028,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "text": "Our grandma hits harder than that!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21412,
+    "preset_id": 1028,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "text": "Our grandma hits harder than that!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21413,
+    "preset_id": 1028,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "text": "Our grandma hits harder than that!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21414,
+    "preset_id": 1028,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "text": "Our grandma hits harder than that!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21415,
+    "preset_id": 1028,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "text": "Our grandma hits harder than that!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21416,
+    "preset_id": 1028,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "text": "Our grandma hits harder than that!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  }
+]

@@ -1,1 +1,79 @@
-[{"id":21879,"preset_id":1095,"cat_emoji":"0001F3C9","lang":"EN","category":"American sports","text":"Is this a scrimmage?","premium":"false","positive":"true"},{"id":21880,"preset_id":1095,"cat_emoji":"0001F3C9","lang":"ES","category":"Deportes americanos","text":"Is this a scrimmage?","premium":"false","positive":"true"},{"id":21881,"preset_id":1095,"cat_emoji":"0001F3C9","lang":"DE","category":"Amerikanische Sportarten","text":"Is this a scrimmage?","premium":"false","positive":"true"},{"id":21882,"preset_id":1095,"cat_emoji":"0001F3C9","lang":"PL","category":"Amerykańskie sporty","text":"Is this a scrimmage?","premium":"false","positive":"true"},{"id":21883,"preset_id":1095,"cat_emoji":"0001F3C9","lang":"RU","category":"Американские виды спорта","text":"Is this a scrimmage?","premium":"false","positive":"true"},{"id":21884,"preset_id":1095,"cat_emoji":"0001F3C9","lang":"PT","category":"Esportes americanos","text":"Is this a scrimmage?","premium":"false","positive":"true"},{"id":21885,"preset_id":1095,"cat_emoji":"0001F3C9","lang":"CN","category":"美国体育","text":"Is this a scrimmage?","premium":"false","positive":"true"}]
+[
+  {
+    "id": 21879,
+    "preset_id": 1095,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "text": "Is this a scrimmage?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21880,
+    "preset_id": 1095,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "text": "Is this a scrimmage?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21881,
+    "preset_id": 1095,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "text": "Is this a scrimmage?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21882,
+    "preset_id": 1095,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "text": "Is this a scrimmage?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21883,
+    "preset_id": 1095,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "text": "Is this a scrimmage?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21884,
+    "preset_id": 1095,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "text": "Is this a scrimmage?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21885,
+    "preset_id": 1095,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "text": "Is this a scrimmage?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  }
+]

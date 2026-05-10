@@ -1,1 +1,86 @@
-[{"id":2394,"preset_id":342,"cat_emoji":"🇺🇾","lang":"EN","category":"Uruguayan Football Teams","text":"Progreso","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2395,"preset_id":342,"cat_emoji":"🇺🇾","lang":"ES","category":"Equipos de Fútbol Uruguayos","text":"Progreso","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2396,"preset_id":342,"cat_emoji":"🇺🇾","lang":"DE","category":"Uruguayanische Fußballmannschaften","text":"Progreso","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2397,"preset_id":342,"cat_emoji":"🇺🇾","lang":"PL","category":"Urugwajskie drużyny piłkarskie","text":"Progreso","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2398,"preset_id":342,"cat_emoji":"🇺🇾","lang":"RU","category":"Уругвайские футбольные команды","text":"Progreso","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2399,"preset_id":342,"cat_emoji":"🇺🇾","lang":"PT","category":"Times de futebol uruguaios","text":"Progreso","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2400,"preset_id":342,"cat_emoji":"🇺🇾","lang":"CN","category":"乌拉圭足球队","text":"Progreso","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"}]
+[
+  {
+    "id": 2394,
+    "preset_id": 342,
+    "cat_emoji": "🇺🇾",
+    "lang": "EN",
+    "category": "Uruguayan Football Teams",
+    "text": "Peñarol",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2395,
+    "preset_id": 342,
+    "cat_emoji": "🇺🇾",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Uruguayos",
+    "text": "Peñarol",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2396,
+    "preset_id": 342,
+    "cat_emoji": "🇺🇾",
+    "lang": "DE",
+    "category": "Uruguayanische Fußballmannschaften",
+    "text": "Peñarol",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2397,
+    "preset_id": 342,
+    "cat_emoji": "🇺🇾",
+    "lang": "PL",
+    "category": "Urugwajskie drużyny piłkarskie",
+    "text": "Peñarol",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2398,
+    "preset_id": 342,
+    "cat_emoji": "🇺🇾",
+    "lang": "RU",
+    "category": "Уругвайские футбольные команды",
+    "text": "Peñarol",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2399,
+    "preset_id": 342,
+    "cat_emoji": "🇺🇾",
+    "lang": "PT",
+    "category": "Times de futebol uruguaios",
+    "text": "Peñarol",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2400,
+    "preset_id": 342,
+    "cat_emoji": "🇺🇾",
+    "lang": "CN",
+    "category": "乌拉圭足球队",
+    "text": "Peñarol",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  }
+]

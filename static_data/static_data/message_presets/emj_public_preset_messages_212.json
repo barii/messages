@@ -1,1 +1,72 @@
-[{"id":7750,"text":"Do you have a boyfriend","category":"Love\/Flirt","positive":true,"premium":false,"lang":"EN","cat_emoji":"2764","preset_id":212},{"id":8184,"text":"Hast du einen Freund?","category":"Liebe\/Flirten","positive":true,"premium":false,"lang":"DE","cat_emoji":"2764","preset_id":212},{"id":8618,"text":"\u0423 \u0442\u0435\u0431\u044f \u0435\u0441\u0442\u044c \u043f\u0430\u0440\u0435\u043d\u044c?","category":"\u041b\u044e\u0431\u043e\u0432\u044c\/\u0424\u043b\u0438\u0440\u0442","positive":true,"premium":false,"lang":"RU","cat_emoji":"2764","preset_id":212},{"id":9052,"text":"Tens namorado?","category":"Amor\/Namoriscar","positive":true,"premium":false,"lang":"PT","cat_emoji":"2764","preset_id":212},{"id":9486,"text":"\u4f60\u6709\u7537\u670b\u53cb\u5417","category":"\u7231\/\u6311\u9017","positive":true,"premium":false,"lang":"CN","cat_emoji":"2764","preset_id":212},{"id":9920,"text":"\u00bfTienes novio?","category":"Amor\/Ligue","positive":true,"premium":false,"lang":"ES","cat_emoji":"2764","preset_id":212},{"id":10354,"text":"Masz ch\u0142opaka?","category":"Mi\u0142o\u015b\u0107\/Flirt","positive":true,"premium":false,"lang":"PL","cat_emoji":"2764","preset_id":212}]
+[
+  {
+    "preset_id": 212,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "Do you have a boyfriend",
+    "premium": false,
+    "positive": true,
+    "id": 7750
+  },
+  {
+    "id": 8184,
+    "text": "Hast du einen Freund?",
+    "category": "Liebe/Flirten",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "2764",
+    "preset_id": 212
+  },
+  {
+    "id": 8618,
+    "text": "У тебя есть парень?",
+    "category": "Любовь/Флирт",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "2764",
+    "preset_id": 212
+  },
+  {
+    "id": 9052,
+    "text": "Tens namorado?",
+    "category": "Amor/Namoriscar",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "2764",
+    "preset_id": 212
+  },
+  {
+    "id": 9486,
+    "text": "你有男朋友吗",
+    "category": "爱/挑逗",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "2764",
+    "preset_id": 212
+  },
+  {
+    "id": 9920,
+    "text": "¿Tienes novio?",
+    "category": "Amor/Ligue",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "2764",
+    "preset_id": 212
+  },
+  {
+    "id": 10354,
+    "text": "Masz chłopaka?",
+    "category": "Miłość/Flirt",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "2764",
+    "preset_id": 212
+  }
+]

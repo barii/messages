@@ -1,1 +1,72 @@
-[{"id":19007,"text":"Ich zeige gerne, wer ich bin","category":"Antwort: Freundlich","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":671},{"id":19008,"text":"Estou feliz por me revelar","category":"Resposta: amig\u00e1vel","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":671},{"id":19009,"text":"Z przyjemno\u015bci\u0105 si\u0119 ujawniam","category":"Powt\u00f3rka: przyjazny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":671},{"id":19010,"text":"\u042f \u0440\u0430\u0434, \u0447\u0442\u043e \u043e\u0442\u043a\u0440\u044b\u043b\u0441\u044f\/\u043e\u0442\u043a\u0440\u044b\u043b\u0430\u0441\u044c \u0442\u0435\u0431\u0435","category":"\u041e\u0442\u0432\u0435\u0442: \u0414\u0440\u0443\u0436\u0435\u043b\u044e\u0431\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":671},{"id":19011,"text":"Estoy feliz de poder mostrarme como soy","category":"Respuesta: amistoso","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":671},{"id":19012,"text":"\u6211\u5f88\u9ad8\u5174\u5c55\u793a\u81ea\u5df1","category":"\u56de\u590d\uff1a\u53cb\u5584\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":671},{"id":19006,"text":"I'm happy to reveal myself","category":"Reply: Friendly","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":671}]
+[
+  {
+    "preset_id": 671,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I'm happy to reveal myself",
+    "premium": false,
+    "positive": true,
+    "id": 19006
+  },
+  {
+    "id": 19007,
+    "text": "Ich zeige gerne, wer ich bin",
+    "category": "Antwort: Freundlich",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 671
+  },
+  {
+    "id": 19008,
+    "text": "Estou feliz por me revelar",
+    "category": "Resposta: amigável",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 671
+  },
+  {
+    "id": 19009,
+    "text": "Z przyjemnością się ujawniam",
+    "category": "Powtórka: przyjazny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 671
+  },
+  {
+    "id": 19010,
+    "text": "Я рад, что открылся/открылась тебе",
+    "category": "Ответ: Дружелюбный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 671
+  },
+  {
+    "id": 19011,
+    "text": "Estoy feliz de poder mostrarme como soy",
+    "category": "Respuesta: amistoso",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 671
+  },
+  {
+    "id": 19012,
+    "text": "我很高兴展示自己",
+    "category": "回复：友善用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 671
+  }
+]

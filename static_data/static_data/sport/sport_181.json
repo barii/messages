@@ -1,1 +1,86 @@
-[{"id":1267,"preset_id":181,"cat_emoji":"🇭🇷","lang":"EN","category":"Croatian Football Teams","text":"Osijek","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"},{"id":1268,"preset_id":181,"cat_emoji":"🇭🇷","lang":"ES","category":"Equipos de Fútbol Croatas","text":"Osijek","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"},{"id":1269,"preset_id":181,"cat_emoji":"🇭🇷","lang":"DE","category":"Kroatische Fußballmannschaften","text":"Osijek","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"},{"id":1270,"preset_id":181,"cat_emoji":"🇭🇷","lang":"PL","category":"Chorwackie drużyny piłkarskie","text":"Osijek","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"},{"id":1271,"preset_id":181,"cat_emoji":"🇭🇷","lang":"RU","category":"Хорватские футбольные команды","text":"Osijek","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"},{"id":1272,"preset_id":181,"cat_emoji":"🇭🇷","lang":"PT","category":"Times de futebol croatas","text":"Osijek","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"},{"id":1273,"preset_id":181,"cat_emoji":"🇭🇷","lang":"CN","category":"克罗地亚足球队","text":"Osijek","premium":"false","positive":"true","msg_emoji":"🇭🇷","continent":"European"}]
+[
+  {
+    "id": 1267,
+    "preset_id": 181,
+    "cat_emoji": "🇭🇷",
+    "lang": "EN",
+    "category": "Croatian Football Teams",
+    "text": "Dinamo Zagreb",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1268,
+    "preset_id": 181,
+    "cat_emoji": "🇭🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Croatas",
+    "text": "Dinamo Zagreb",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1269,
+    "preset_id": 181,
+    "cat_emoji": "🇭🇷",
+    "lang": "DE",
+    "category": "Kroatische Fußballmannschaften",
+    "text": "Dinamo Zagreb",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1270,
+    "preset_id": 181,
+    "cat_emoji": "🇭🇷",
+    "lang": "PL",
+    "category": "Chorwackie drużyny piłkarskie",
+    "text": "Dinamo Zagreb",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1271,
+    "preset_id": 181,
+    "cat_emoji": "🇭🇷",
+    "lang": "RU",
+    "category": "Хорватские футбольные команды",
+    "text": "Dinamo Zagreb",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1272,
+    "preset_id": 181,
+    "cat_emoji": "🇭🇷",
+    "lang": "PT",
+    "category": "Times de futebol croatas",
+    "text": "Dinamo Zagreb",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1273,
+    "preset_id": 181,
+    "cat_emoji": "🇭🇷",
+    "lang": "CN",
+    "category": "克罗地亚足球队",
+    "text": "Dinamo Zagreb",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  }
+]

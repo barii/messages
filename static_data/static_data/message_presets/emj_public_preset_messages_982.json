@@ -1,1 +1,86 @@
-[{"id":21088,"preset_id":982,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"is that your best?","premium":"false","positive":"true","header":"Replies"},{"id":21089,"preset_id":982,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"¿es ese vuestro mejor resultado?","premium":"false","positive":"true","header":"Respuestas"},{"id":21090,"preset_id":982,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"ist das euer Bestes?","premium":"false","positive":"true","header":"Antworten"},{"id":21091,"preset_id":982,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"czy to twój najlepszy wynik?","premium":"false","positive":"true","header":"Odpowiedzi"},{"id":21092,"preset_id":982,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"это ваш лучший результат?","premium":"false","positive":"true","header":"Ответы"},{"id":21093,"preset_id":982,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"é o teu melhor?","premium":"false","positive":"true","header":"Respostas"},{"id":21094,"preset_id":982,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"这就是你最好的表现？","premium":"false","positive":"true","header":"答复"}]
+[
+  {
+    "id": 21088,
+    "preset_id": 982,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "is that your best?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Replies"
+  },
+  {
+    "id": 21089,
+    "preset_id": 982,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "¿es ese vuestro mejor resultado?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Respuestas"
+  },
+  {
+    "id": 21090,
+    "preset_id": 982,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "ist das euer Bestes?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Antworten"
+  },
+  {
+    "id": 21091,
+    "preset_id": 982,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "czy to twój najlepszy wynik?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Odpowiedzi"
+  },
+  {
+    "id": 21092,
+    "preset_id": 982,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "это ваш лучший результат?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Ответы"
+  },
+  {
+    "id": 21093,
+    "preset_id": 982,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "é o teu melhor?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Respostas"
+  },
+  {
+    "id": 21094,
+    "preset_id": 982,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "这就是你最好的表现？",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "答复"
+  }
+]

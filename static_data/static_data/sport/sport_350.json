@@ -1,1 +1,86 @@
-[{"id":2450,"preset_id":350,"cat_emoji":"🇩🇪","lang":"EN","category":"German Football Teams","text":"Bayern Munich","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2451,"preset_id":350,"cat_emoji":"🇩🇪","lang":"ES","category":"Equipos de Fútbol Alemanes","text":"Bayern Munich","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2452,"preset_id":350,"cat_emoji":"🇩🇪","lang":"DE","category":"Deutsche Fußballmannschaften","text":"Bayern Munich","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2453,"preset_id":350,"cat_emoji":"🇩🇪","lang":"PL","category":"Niemieckie drużyny piłkarskie","text":"Bayern Munich","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2454,"preset_id":350,"cat_emoji":"🇩🇪","lang":"RU","category":"Немецкие футбольные команды","text":"Bayern Munich","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2455,"preset_id":350,"cat_emoji":"🇩🇪","lang":"PT","category":"Times de futebol alemães","text":"Bayern Munich","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2456,"preset_id":350,"cat_emoji":"🇩🇪","lang":"CN","category":"德国足球队","text":"Bayern Munich","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"}]
+[
+  {
+    "id": 2450,
+    "preset_id": 350,
+    "cat_emoji": "🇩🇪",
+    "lang": "EN",
+    "category": "German Football Teams",
+    "text": "FSV Mainz 05",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2451,
+    "preset_id": 350,
+    "cat_emoji": "🇩🇪",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Alemanes",
+    "text": "FSV Mainz 06",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2452,
+    "preset_id": 350,
+    "cat_emoji": "🇩🇪",
+    "lang": "DE",
+    "category": "Deutsche Fußballmannschaften",
+    "text": "FSV Mainz 07",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2453,
+    "preset_id": 350,
+    "cat_emoji": "🇩🇪",
+    "lang": "PL",
+    "category": "Niemieckie drużyny piłkarskie",
+    "text": "FSV Mainz 08",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2454,
+    "preset_id": 350,
+    "cat_emoji": "🇩🇪",
+    "lang": "RU",
+    "category": "Немецкие футбольные команды",
+    "text": "FSV Mainz 09",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2455,
+    "preset_id": 350,
+    "cat_emoji": "🇩🇪",
+    "lang": "PT",
+    "category": "Times de futebol alemães",
+    "text": "FSV Mainz 10",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2456,
+    "preset_id": 350,
+    "cat_emoji": "🇩🇪",
+    "lang": "CN",
+    "category": "德国足球队",
+    "text": "FSV Mainz 11",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  }
+]

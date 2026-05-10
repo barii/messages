@@ -1,1 +1,72 @@
-[{"id":20301,"text":"I am a family friend","category":"Hints","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F50E","preset_id":856},{"id":20302,"text":"Ich bin jemand aus deinem Bekanntenkreis","category":"Tipps","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F50E","preset_id":856},{"id":20303,"text":"Sou um amigo da fam\u00edlia","category":"Dicas","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F50E","preset_id":856},{"id":20304,"text":"Jestem przyjacielem rodziny","category":"Wskaz\u00f3wki","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F50E","preset_id":856},{"id":20305,"text":"\u042f \u0434\u0440\u0443\u0433 \u0441\u0435\u043c\u044c\u0438","category":"\u0421\u043e\u0432\u0435\u0442\u044b","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F50E","preset_id":856},{"id":20306,"text":"Soy un amigo de la familia","category":"Pistas","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F50E","preset_id":856},{"id":20307,"text":"\u6211\u662f\u5bb6\u5ead\u5171\u540c\u7684\u670b\u53cb","category":"\u63d0\u793a\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F50E","preset_id":856}]
+[
+  {
+    "preset_id": 856,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "I am a family friend",
+    "premium": false,
+    "positive": true,
+    "id": 20301
+  },
+  {
+    "id": 20302,
+    "text": "Ich bin jemand aus deinem Bekanntenkreis",
+    "category": "Tipps",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F50E",
+    "preset_id": 856
+  },
+  {
+    "id": 20303,
+    "text": "Sou um amigo da família",
+    "category": "Dicas",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F50E",
+    "preset_id": 856
+  },
+  {
+    "id": 20304,
+    "text": "Jestem przyjacielem rodziny",
+    "category": "Wskazówki",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F50E",
+    "preset_id": 856
+  },
+  {
+    "id": 20305,
+    "text": "Я друг семьи",
+    "category": "Советы",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F50E",
+    "preset_id": 856
+  },
+  {
+    "id": 20306,
+    "text": "Soy un amigo de la familia",
+    "category": "Pistas",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F50E",
+    "preset_id": 856
+  },
+  {
+    "id": 20307,
+    "text": "我是家庭共同的朋友",
+    "category": "提示用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F50E",
+    "preset_id": 856
+  }
+]

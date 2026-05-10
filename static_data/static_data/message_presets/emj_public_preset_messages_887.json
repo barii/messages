@@ -1,1 +1,86 @@
-[{"id":20423,"preset_id":887,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"I think my grandma could've scored against your defence.","premium":"false","positive":"true","header":"insult"},{"id":20424,"preset_id":887,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"Creo que mi abuela podría haber marcado contra tu defensa.","premium":"false","positive":"true","header":"insultante"},{"id":20425,"preset_id":887,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"Ich glaube, meine Oma hätte gegen eure Verteidigung ein Tor erzielen können.","premium":"false","positive":"true","header":"Beleidigend"},{"id":20426,"preset_id":887,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"Myślę, że moja babcia mogłaby strzelić gola przeciwko twojej obronie.","premium":"false","positive":"true","header":"Obraźliwy"},{"id":20427,"preset_id":887,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"Думаю, моя бабушка могла бы забить в ворота вашей защиты.","premium":"false","positive":"true","header":"Оскорбительный"},{"id":20428,"preset_id":887,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"Acho que a minha avó podia ter marcado contra a tua defesa.","premium":"false","positive":"true","header":"Insultuoso"},{"id":20429,"preset_id":887,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"我想我奶奶面对你的防守也能进球。","premium":"false","positive":"true","header":"侮辱"}]
+[
+  {
+    "id": 20423,
+    "preset_id": 887,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "I think my grandma could've scored against your defence.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insult"
+  },
+  {
+    "id": 20424,
+    "preset_id": 887,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "Creo que mi abuela podría haber marcado contra tu defensa.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultante"
+  },
+  {
+    "id": 20425,
+    "preset_id": 887,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Ich glaube, meine Oma hätte gegen eure Verteidigung ein Tor erzielen können.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Beleidigend"
+  },
+  {
+    "id": 20426,
+    "preset_id": 887,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Myślę, że moja babcia mogłaby strzelić gola przeciwko twojej obronie.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Obraźliwy"
+  },
+  {
+    "id": 20427,
+    "preset_id": 887,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Думаю, моя бабушка могла бы забить в ворота вашей защиты.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Оскорбительный"
+  },
+  {
+    "id": 20428,
+    "preset_id": 887,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Acho que a minha avó podia ter marcado contra a tua defesa.",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultuoso"
+  },
+  {
+    "id": 20429,
+    "preset_id": 887,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "我想我奶奶面对你的防守也能进球。",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "侮辱"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id":8710,"text":"\u0422\u044b \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0441\u0430\u043c\u043e\u0443\u0432\u0435\u0440\u0435\u043d (\u0441\u0430\u043c\u043e\u0443\u0432\u0435\u0440\u0435\u043d\u043d\u0430)","category":"\u041a\u0440\u0438\u0442\u0438\u043a\u0430","positive":false,"premium":false,"lang":"RU","cat_emoji":"1F611","preset_id":304},{"id":9578,"text":"\u4f60\u592a\u72c2\u5984","category":"\u6279\u8bc4","positive":false,"premium":false,"lang":"CN","cat_emoji":"1F611","preset_id":304},{"id":8276,"text":"Du bist zu gro\u00dfspurig","category":"Kritik","positive":false,"premium":false,"lang":"DE","cat_emoji":"1F611","preset_id":304},{"id":9144,"text":"\u00c9s muito arrogante","category":"Cr\u00edticas","positive":false,"premium":false,"lang":"PT","cat_emoji":"1F611","preset_id":304},{"id":10446,"text":"Jeste\u015b za bardzo pewny\/pewna siebie","category":"Krytycyzm","positive":false,"premium":false,"lang":"PL","cat_emoji":"1F611","preset_id":304},{"id":7842,"text":"You're too cocky","category":"Criticism","positive":false,"premium":false,"lang":"EN","cat_emoji":"1F611","preset_id":304},{"id":10012,"text":"Eres demasiado chulo","category":"Cr\u00edticas","positive":false,"premium":false,"lang":"ES","cat_emoji":"1F611","preset_id":304}]
+[
+  {
+    "preset_id": 304,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You're too cocky",
+    "premium": false,
+    "positive": false,
+    "id": 7842
+  },
+  {
+    "id": 8710,
+    "text": "Ты слишком самоуверен (самоуверенна)",
+    "category": "Критика",
+    "positive": false,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F611",
+    "preset_id": 304
+  },
+  {
+    "id": 9578,
+    "text": "你太狂妄",
+    "category": "批评",
+    "positive": false,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F611",
+    "preset_id": 304
+  },
+  {
+    "id": 8276,
+    "text": "Du bist zu großspurig",
+    "category": "Kritik",
+    "positive": false,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F611",
+    "preset_id": 304
+  },
+  {
+    "id": 9144,
+    "text": "És muito arrogante",
+    "category": "Críticas",
+    "positive": false,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F611",
+    "preset_id": 304
+  },
+  {
+    "id": 10446,
+    "text": "Jesteś za bardzo pewny/pewna siebie",
+    "category": "Krytycyzm",
+    "positive": false,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F611",
+    "preset_id": 304
+  },
+  {
+    "id": 10012,
+    "text": "Eres demasiado chulo",
+    "category": "Críticas",
+    "positive": false,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F611",
+    "preset_id": 304
+  }
+]

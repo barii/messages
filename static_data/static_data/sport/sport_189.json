@@ -1,1 +1,86 @@
-[{"id":1323,"preset_id":189,"cat_emoji":"🇮🇹","lang":"EN","category":"Italian Football Teams","text":"AC Milan","premium":"false","positive":"true","msg_emoji":"🇮🇹","continent":"European"},{"id":1324,"preset_id":189,"cat_emoji":"🇮🇹","lang":"ES","category":"Equipos de Fútbol Italianos","text":"AC Milan","premium":"false","positive":"true","msg_emoji":"🇮🇹","continent":"European"},{"id":1325,"preset_id":189,"cat_emoji":"🇮🇹","lang":"DE","category":"Italienische Fußballmannschaften","text":"AC Milan","premium":"false","positive":"true","msg_emoji":"🇮🇹","continent":"European"},{"id":1326,"preset_id":189,"cat_emoji":"🇮🇹","lang":"PL","category":"Włoskie drużyny piłkarskie","text":"AC Milan","premium":"false","positive":"true","msg_emoji":"🇮🇹","continent":"European"},{"id":1327,"preset_id":189,"cat_emoji":"🇮🇹","lang":"RU","category":"Итальянские футбольные команды","text":"AC Milan","premium":"false","positive":"true","msg_emoji":"🇮🇹","continent":"European"},{"id":1328,"preset_id":189,"cat_emoji":"🇮🇹","lang":"PT","category":"Times de futebol italianos","text":"AC Milan","premium":"false","positive":"true","msg_emoji":"🇮🇹","continent":"European"},{"id":1329,"preset_id":189,"cat_emoji":"🇮🇹","lang":"CN","category":"意大利足球队","text":"AC Milan","premium":"false","positive":"true","msg_emoji":"🇮🇹","continent":"European"}]
+[
+  {
+    "id": 1323,
+    "preset_id": 189,
+    "cat_emoji": "🇭🇷",
+    "lang": "EN",
+    "category": "Croatian Football Teams",
+    "text": "Varaždin",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1324,
+    "preset_id": 189,
+    "cat_emoji": "🇭🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Croatas",
+    "text": "Varaždin",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1325,
+    "preset_id": 189,
+    "cat_emoji": "🇭🇷",
+    "lang": "DE",
+    "category": "Kroatische Fußballmannschaften",
+    "text": "Varaždin",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1326,
+    "preset_id": 189,
+    "cat_emoji": "🇭🇷",
+    "lang": "PL",
+    "category": "Chorwackie drużyny piłkarskie",
+    "text": "Varaždin",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1327,
+    "preset_id": 189,
+    "cat_emoji": "🇭🇷",
+    "lang": "RU",
+    "category": "Хорватские футбольные команды",
+    "text": "Varaždin",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1328,
+    "preset_id": 189,
+    "cat_emoji": "🇭🇷",
+    "lang": "PT",
+    "category": "Times de futebol croatas",
+    "text": "Varaždin",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1329,
+    "preset_id": 189,
+    "cat_emoji": "🇭🇷",
+    "lang": "CN",
+    "category": "克罗地亚足球队",
+    "text": "Varaždin",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  }
+]

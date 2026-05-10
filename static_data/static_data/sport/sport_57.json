@@ -1,1 +1,86 @@
-[{"id":399,"preset_id":57,"cat_emoji":"⚽","lang":"EN","category":"National football teams","text":"Czech Republic football team","premium":"false","positive":"true","msg_emoji":"🇨🇿","continent":"European"},{"id":400,"preset_id":57,"cat_emoji":"⚽","lang":"ES","category":"Selección nacional de fútbol","text":"Equipo de fútbol de la República Checa","premium":"false","positive":"true","msg_emoji":"🇨🇿","continent":"European"},{"id":401,"preset_id":57,"cat_emoji":"⚽","lang":"DE","category":"Nationale Fußballmannschaft","text":"Fußballmannschaft der Tschechischen Republik","premium":"false","positive":"true","msg_emoji":"🇨🇿","continent":"European"},{"id":402,"preset_id":57,"cat_emoji":"⚽","lang":"PL","category":"Narodowa drużyna piłkarska","text":"Reprezentacja Czech w piłce nożnej","premium":"false","positive":"true","msg_emoji":"🇨🇿","continent":"European"},{"id":403,"preset_id":57,"cat_emoji":"⚽","lang":"RU","category":"национальная сборная по футболу","text":"Сборная Чехии по футболу","premium":"false","positive":"true","msg_emoji":"🇨🇿","continent":"European"},{"id":404,"preset_id":57,"cat_emoji":"⚽","lang":"PT","category":"Seleção nacional de futebol","text":"Seleção de futebol da República Tcheca","premium":"false","positive":"true","msg_emoji":"🇨🇿","continent":"European"},{"id":405,"preset_id":57,"cat_emoji":"⚽","lang":"CN","category":"国家足球队","text":"捷克共和国足球队","premium":"false","positive":"true","msg_emoji":"🇨🇿","continent":"European"}]
+[
+  {
+    "id": 399,
+    "preset_id": 57,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "National football teams",
+    "text": "Nigerian football team",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇬",
+    "continent": "European"
+  },
+  {
+    "id": 400,
+    "preset_id": 57,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Selección nacional de fútbol",
+    "text": "Equipo de fútbol de Nigeria",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇬",
+    "continent": "European"
+  },
+  {
+    "id": 401,
+    "preset_id": 57,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Nationale Fußballmannschaft",
+    "text": "Nigerianische Fußballmannschaft",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇬",
+    "continent": "European"
+  },
+  {
+    "id": 402,
+    "preset_id": 57,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Narodowa drużyna piłkarska",
+    "text": "Nigeryjska drużyna piłkarska",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇬",
+    "continent": "European"
+  },
+  {
+    "id": 403,
+    "preset_id": 57,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "национальная сборная по футболу",
+    "text": "Нигерийская футбольная команда",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇬",
+    "continent": "European"
+  },
+  {
+    "id": 404,
+    "preset_id": 57,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Seleção nacional de futebol",
+    "text": "Seleção Nigeriana de futebol",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇬",
+    "continent": "European"
+  },
+  {
+    "id": 405,
+    "preset_id": 57,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "国家足球队",
+    "text": "尼日利亚足球队",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇬",
+    "continent": "European"
+  }
+]

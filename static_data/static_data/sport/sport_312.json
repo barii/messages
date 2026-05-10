@@ -1,1 +1,86 @@
-[{"id":2184,"preset_id":312,"cat_emoji":"🇲🇦","lang":"EN","category":"Moroccan Football Teams","text":"Youssoufia Berrechid","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"},{"id":2185,"preset_id":312,"cat_emoji":"🇲🇦","lang":"ES","category":"Equipos de Fútbol Marroquíes","text":"Youssoufia Berrechid","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"},{"id":2186,"preset_id":312,"cat_emoji":"🇲🇦","lang":"DE","category":"Marokkanische Fußballmannschaften","text":"Youssoufia Berrechid","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"},{"id":2187,"preset_id":312,"cat_emoji":"🇲🇦","lang":"PL","category":"Marokańskie drużyny piłkarskie","text":"Youssoufia Berrechid","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"},{"id":2188,"preset_id":312,"cat_emoji":"🇲🇦","lang":"RU","category":"Марокканские футбольные команды","text":"Youssoufia Berrechid","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"},{"id":2189,"preset_id":312,"cat_emoji":"🇲🇦","lang":"PT","category":"Times de futebol marroquinos","text":"Youssoufia Berrechid","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"},{"id":2190,"preset_id":312,"cat_emoji":"🇲🇦","lang":"CN","category":"摩洛哥足球队","text":"Youssoufia Berrechid","premium":"false","positive":"true","msg_emoji":"🇲🇦","continent":"European"}]
+[
+  {
+    "id": 2184,
+    "preset_id": 312,
+    "cat_emoji": "🇲🇦",
+    "lang": "EN",
+    "category": "Moroccan Football Teams",
+    "text": "UTS Rabat",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2185,
+    "preset_id": 312,
+    "cat_emoji": "🇲🇦",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Marroquíes",
+    "text": "UTS Rabat",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2186,
+    "preset_id": 312,
+    "cat_emoji": "🇲🇦",
+    "lang": "DE",
+    "category": "Marokkanische Fußballmannschaften",
+    "text": "UTS Rabat",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2187,
+    "preset_id": 312,
+    "cat_emoji": "🇲🇦",
+    "lang": "PL",
+    "category": "Marokańskie drużyny piłkarskie",
+    "text": "UTS Rabat",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2188,
+    "preset_id": 312,
+    "cat_emoji": "🇲🇦",
+    "lang": "RU",
+    "category": "Марокканские футбольные команды",
+    "text": "UTS Rabat",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2189,
+    "preset_id": 312,
+    "cat_emoji": "🇲🇦",
+    "lang": "PT",
+    "category": "Times de futebol marroquinos",
+    "text": "UTS Rabat",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2190,
+    "preset_id": 312,
+    "cat_emoji": "🇲🇦",
+    "lang": "CN",
+    "category": "摩洛哥足球队",
+    "text": "UTS Rabat",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  }
+]

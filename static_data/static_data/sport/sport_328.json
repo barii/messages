@@ -1,1 +1,86 @@
-[{"id":2296,"preset_id":328,"cat_emoji":"🇲🇽","lang":"EN","category":"Mexican Football Teams","text":"Tijuana","premium":"false","positive":"true","msg_emoji":"🇲🇽","continent":"European"},{"id":2297,"preset_id":328,"cat_emoji":"🇲🇽","lang":"ES","category":"Equipos de Fútbol Mexicanos","text":"Tijuana","premium":"false","positive":"true","msg_emoji":"🇲🇽","continent":"European"},{"id":2298,"preset_id":328,"cat_emoji":"🇲🇽","lang":"DE","category":"Mexikanische Fußballmannschaften","text":"Tijuana","premium":"false","positive":"true","msg_emoji":"🇲🇽","continent":"European"},{"id":2299,"preset_id":328,"cat_emoji":"🇲🇽","lang":"PL","category":"Meksykańskie drużyny piłkarskie","text":"Tijuana","premium":"false","positive":"true","msg_emoji":"🇲🇽","continent":"European"},{"id":2300,"preset_id":328,"cat_emoji":"🇲🇽","lang":"RU","category":"Мексиканские футбольные команды","text":"Tijuana","premium":"false","positive":"true","msg_emoji":"🇲🇽","continent":"European"},{"id":2301,"preset_id":328,"cat_emoji":"🇲🇽","lang":"PT","category":"Times de futebol mexicanos","text":"Tijuana","premium":"false","positive":"true","msg_emoji":"🇲🇽","continent":"European"},{"id":2302,"preset_id":328,"cat_emoji":"🇲🇽","lang":"CN","category":"墨西哥足球队","text":"Tijuana","premium":"false","positive":"true","msg_emoji":"🇲🇽","continent":"European"}]
+[
+  {
+    "id": 2296,
+    "preset_id": 328,
+    "cat_emoji": "🇲🇽",
+    "lang": "EN",
+    "category": "Mexican Football Teams",
+    "text": "Santos Laguna",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  },
+  {
+    "id": 2297,
+    "preset_id": 328,
+    "cat_emoji": "🇲🇽",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Mexicanos",
+    "text": "Santos Laguna",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  },
+  {
+    "id": 2298,
+    "preset_id": 328,
+    "cat_emoji": "🇲🇽",
+    "lang": "DE",
+    "category": "Mexikanische Fußballmannschaften",
+    "text": "Santos Laguna",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  },
+  {
+    "id": 2299,
+    "preset_id": 328,
+    "cat_emoji": "🇲🇽",
+    "lang": "PL",
+    "category": "Meksykańskie drużyny piłkarskie",
+    "text": "Santos Laguna",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  },
+  {
+    "id": 2300,
+    "preset_id": 328,
+    "cat_emoji": "🇲🇽",
+    "lang": "RU",
+    "category": "Мексиканские футбольные команды",
+    "text": "Santos Laguna",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  },
+  {
+    "id": 2301,
+    "preset_id": 328,
+    "cat_emoji": "🇲🇽",
+    "lang": "PT",
+    "category": "Times de futebol mexicanos",
+    "text": "Santos Laguna",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  },
+  {
+    "id": 2302,
+    "preset_id": 328,
+    "cat_emoji": "🇲🇽",
+    "lang": "CN",
+    "category": "墨西哥足球队",
+    "text": "Santos Laguna",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  }
+]

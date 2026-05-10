@@ -1,1 +1,86 @@
-[{"id":20752,"preset_id":934,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"You're already looking beat","premium":"false","positive":"true","header":"insult"},{"id":20753,"preset_id":934,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"Ya te ves derrotado","premium":"false","positive":"true","header":"insultante"},{"id":20754,"preset_id":934,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"Ihr seht schon geschlagen aus","premium":"false","positive":"true","header":"Beleidigend"},{"id":20755,"preset_id":934,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"Już wyglądasz na pokonanego","premium":"false","positive":"true","header":"Obraźliwy"},{"id":20756,"preset_id":934,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"Вы уже выглядите побитым","premium":"false","positive":"true","header":"Оскорбительный"},{"id":20757,"preset_id":934,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"Já estás a parecer derrotado","premium":"false","positive":"true","header":"Insultuoso"},{"id":20758,"preset_id":934,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"你已经被打败了","premium":"false","positive":"true","header":"侮辱"}]
+[
+  {
+    "id": 20752,
+    "preset_id": 934,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "You're already looking beat",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insult"
+  },
+  {
+    "id": 20753,
+    "preset_id": 934,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "Ya te ves derrotado",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultante"
+  },
+  {
+    "id": 20754,
+    "preset_id": 934,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Ihr seht schon geschlagen aus",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Beleidigend"
+  },
+  {
+    "id": 20755,
+    "preset_id": 934,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Już wyglądasz na pokonanego",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Obraźliwy"
+  },
+  {
+    "id": 20756,
+    "preset_id": 934,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Вы уже выглядите побитым",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Оскорбительный"
+  },
+  {
+    "id": 20757,
+    "preset_id": 934,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Já estás a parecer derrotado",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultuoso"
+  },
+  {
+    "id": 20758,
+    "preset_id": 934,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "你已经被打败了",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "侮辱"
+  }
+]

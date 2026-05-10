@@ -1,1 +1,72 @@
-[{"id":17564,"text":"Do you miss me?","category":"Question","positive":true,"premium":false,"lang":"EN","cat_emoji":"2753","preset_id":465},{"id":17565,"text":"Vermisst du mich?","category":"Frage","positive":true,"premium":false,"lang":"DE","cat_emoji":"2753","preset_id":465},{"id":17566,"text":"Tens saudades minhas?","category":"Quest\u00e3o","positive":true,"premium":false,"lang":"PT","cat_emoji":"2753","preset_id":465},{"id":17567,"text":"Czy za mn\u0105 t\u0119sknisz?","category":"Pytanie","positive":true,"premium":false,"lang":"PL","cat_emoji":"2753","preset_id":465},{"id":17568,"text":"\u0422\u044b \u0441\u043a\u0443\u0447\u0430\u0435\u0448\u044c \u043f\u043e \u043c\u043d\u0435?","category":"\u0412\u043e\u043f\u0440\u043e\u0441","positive":true,"premium":false,"lang":"RU","cat_emoji":"2753","preset_id":465},{"id":17569,"text":"\u00bfMe has echado de menos?","category":"Pregunta","positive":true,"premium":false,"lang":"ES","cat_emoji":"2753","preset_id":465},{"id":17570,"text":"\u4f60\u60f3\u5ff5\u6211\u5417\uff1f","category":"\u7591\u95ee","positive":true,"premium":false,"lang":"CN","cat_emoji":"2753","preset_id":465}]
+[
+  {
+    "preset_id": 465,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Do you miss me?",
+    "premium": false,
+    "positive": true,
+    "id": 17564
+  },
+  {
+    "id": 17565,
+    "text": "Vermisst du mich?",
+    "category": "Frage",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "2753",
+    "preset_id": 465
+  },
+  {
+    "id": 17566,
+    "text": "Tens saudades minhas?",
+    "category": "Questão",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "2753",
+    "preset_id": 465
+  },
+  {
+    "id": 17567,
+    "text": "Czy za mną tęsknisz?",
+    "category": "Pytanie",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "2753",
+    "preset_id": 465
+  },
+  {
+    "id": 17568,
+    "text": "Ты скучаешь по мне?",
+    "category": "Вопрос",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "2753",
+    "preset_id": 465
+  },
+  {
+    "id": 17569,
+    "text": "¿Me has echado de menos?",
+    "category": "Pregunta",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "2753",
+    "preset_id": 465
+  },
+  {
+    "id": 17570,
+    "text": "你想念我吗？",
+    "category": "疑问",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "2753",
+    "preset_id": 465
+  }
+]

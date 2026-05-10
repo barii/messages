@@ -1,1 +1,86 @@
-[{"id":2380,"preset_id":340,"cat_emoji":"🇺🇾","lang":"EN","category":"Uruguayan Football Teams","text":"Peñarol","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2381,"preset_id":340,"cat_emoji":"🇺🇾","lang":"ES","category":"Equipos de Fútbol Uruguayos","text":"Peñarol","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2382,"preset_id":340,"cat_emoji":"🇺🇾","lang":"DE","category":"Uruguayanische Fußballmannschaften","text":"Peñarol","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2383,"preset_id":340,"cat_emoji":"🇺🇾","lang":"PL","category":"Urugwajskie drużyny piłkarskie","text":"Peñarol","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2384,"preset_id":340,"cat_emoji":"🇺🇾","lang":"RU","category":"Уругвайские футбольные команды","text":"Peñarol","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2385,"preset_id":340,"cat_emoji":"🇺🇾","lang":"PT","category":"Times de futebol uruguaios","text":"Peñarol","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"},{"id":2386,"preset_id":340,"cat_emoji":"🇺🇾","lang":"CN","category":"乌拉圭足球队","text":"Peñarol","premium":"false","positive":"true","msg_emoji":"🇺🇾","continent":"European"}]
+[
+  {
+    "id": 2380,
+    "preset_id": 340,
+    "cat_emoji": "🇺🇾",
+    "lang": "EN",
+    "category": "Uruguayan Football Teams",
+    "text": "Liverpool FC (Montevideo)",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2381,
+    "preset_id": 340,
+    "cat_emoji": "🇺🇾",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Uruguayos",
+    "text": "Liverpool FC (Montevideo)",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2382,
+    "preset_id": 340,
+    "cat_emoji": "🇺🇾",
+    "lang": "DE",
+    "category": "Uruguayanische Fußballmannschaften",
+    "text": "Liverpool FC (Montevideo)",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2383,
+    "preset_id": 340,
+    "cat_emoji": "🇺🇾",
+    "lang": "PL",
+    "category": "Urugwajskie drużyny piłkarskie",
+    "text": "Liverpool FC (Montevideo)",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2384,
+    "preset_id": 340,
+    "cat_emoji": "🇺🇾",
+    "lang": "RU",
+    "category": "Уругвайские футбольные команды",
+    "text": "Liverpool FC (Montevideo)",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2385,
+    "preset_id": 340,
+    "cat_emoji": "🇺🇾",
+    "lang": "PT",
+    "category": "Times de futebol uruguaios",
+    "text": "Liverpool FC (Montevideo)",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  },
+  {
+    "id": 2386,
+    "preset_id": 340,
+    "cat_emoji": "🇺🇾",
+    "lang": "CN",
+    "category": "乌拉圭足球队",
+    "text": "Liverpool FC (Montevideo)",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇺🇾",
+    "continent": "European"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id":8061,"text":"Wechseln wir das Thema","category":"Antwort: Neutral","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":89},{"id":9363,"text":"\u8ba9\u6211\u4eec\u7ee7\u7eed\u5427","category":"\u56de\u590d\uff1a\u4e2d\u6027\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":89},{"id":8495,"text":"\u0414\u0430\u0432\u0430\u0439 \u043d\u0435 \u0431\u0443\u0434\u0435\u043c \u043d\u0430 \u044d\u0442\u043e\u043c \u0437\u0430\u0446\u0438\u043a\u043b\u0438\u0432\u0430\u0442\u044c\u0441\u044f","category":"\u041e\u0442\u0432\u0435\u0442: \u041d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":89},{"id":8929,"text":"Vamos seguir em frente","category":"Resposta: neutra","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":89},{"id":10231,"text":"Id\u017amy dalej","category":"Odpowied\u017a: neutralny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":89},{"id":7627,"text":"Let's move on","category":"Reply: Neutral","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":89},{"id":9797,"text":"Pasemos p\u00e1gina","category":"Respuesta: neutral","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":89}]
+[
+  {
+    "preset_id": 89,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Let's move on",
+    "premium": false,
+    "positive": true,
+    "id": 7627
+  },
+  {
+    "id": 8061,
+    "text": "Wechseln wir das Thema",
+    "category": "Antwort: Neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 89
+  },
+  {
+    "id": 9363,
+    "text": "让我们继续吧",
+    "category": "回复：中性用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 89
+  },
+  {
+    "id": 8495,
+    "text": "Давай не будем на этом зацикливаться",
+    "category": "Ответ: Нейтральный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 89
+  },
+  {
+    "id": 8929,
+    "text": "Vamos seguir em frente",
+    "category": "Resposta: neutra",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 89
+  },
+  {
+    "id": 10231,
+    "text": "Idźmy dalej",
+    "category": "Odpowiedź: neutralny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 89
+  },
+  {
+    "id": 9797,
+    "text": "Pasemos página",
+    "category": "Respuesta: neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 89
+  }
+]

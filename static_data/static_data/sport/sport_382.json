@@ -1,1 +1,86 @@
-[{"id":2674,"preset_id":382,"cat_emoji":"🇵🇱","lang":"EN","category":"Polish Football Teams","text":"Widzew Łódź","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2675,"preset_id":382,"cat_emoji":"🇵🇱","lang":"ES","category":"Equipos de Fútbol Polacos","text":"Widzew Łódź","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2676,"preset_id":382,"cat_emoji":"🇵🇱","lang":"DE","category":"Polnische Fußballmannschaften","text":"Widzew Łódź","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2677,"preset_id":382,"cat_emoji":"🇵🇱","lang":"PL","category":"Polskie drużyny piłkarskie","text":"Widzew Łódź","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2678,"preset_id":382,"cat_emoji":"🇵🇱","lang":"RU","category":"Польские футбольные команды","text":"Widzew Łódź","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2679,"preset_id":382,"cat_emoji":"🇵🇱","lang":"PT","category":"Times de futebol poloneses","text":"Widzew Łódź","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2680,"preset_id":382,"cat_emoji":"🇵🇱","lang":"CN","category":"波兰足球队","text":"Widzew Łódź","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"}]
+[
+  {
+    "id": 2674,
+    "preset_id": 382,
+    "cat_emoji": "🇵🇱",
+    "lang": "EN",
+    "category": "Polish Football Teams",
+    "text": "Śląsk Wrocław",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2675,
+    "preset_id": 382,
+    "cat_emoji": "🇵🇱",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Polacos",
+    "text": "Śląsk Wrocław",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2676,
+    "preset_id": 382,
+    "cat_emoji": "🇵🇱",
+    "lang": "DE",
+    "category": "Polnische Fußballmannschaften",
+    "text": "Śląsk Wrocław",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2677,
+    "preset_id": 382,
+    "cat_emoji": "🇵🇱",
+    "lang": "PL",
+    "category": "Polskie drużyny piłkarskie",
+    "text": "Śląsk Wrocław",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2678,
+    "preset_id": 382,
+    "cat_emoji": "🇵🇱",
+    "lang": "RU",
+    "category": "Польские футбольные команды",
+    "text": "Śląsk Wrocław",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2679,
+    "preset_id": 382,
+    "cat_emoji": "🇵🇱",
+    "lang": "PT",
+    "category": "Times de futebol poloneses",
+    "text": "Śląsk Wrocław",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2680,
+    "preset_id": 382,
+    "cat_emoji": "🇵🇱",
+    "lang": "CN",
+    "category": "波兰足球队",
+    "text": "Śląsk Wrocław",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  }
+]

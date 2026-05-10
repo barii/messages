@@ -1,1 +1,79 @@
-[{"id":21403,"preset_id":1027,"cat_emoji":"0001F3C9","lang":"EN","category":"American sports","text":"You need a map to find the strike zone?","premium":"false","positive":"true"},{"id":21404,"preset_id":1027,"cat_emoji":"0001F3C9","lang":"ES","category":"Deportes americanos","text":"You need a map to find the strike zone?","premium":"false","positive":"true"},{"id":21405,"preset_id":1027,"cat_emoji":"0001F3C9","lang":"DE","category":"Amerikanische Sportarten","text":"You need a map to find the strike zone?","premium":"false","positive":"true"},{"id":21406,"preset_id":1027,"cat_emoji":"0001F3C9","lang":"PL","category":"Amerykańskie sporty","text":"You need a map to find the strike zone?","premium":"false","positive":"true"},{"id":21407,"preset_id":1027,"cat_emoji":"0001F3C9","lang":"RU","category":"Американские виды спорта","text":"You need a map to find the strike zone?","premium":"false","positive":"true"},{"id":21408,"preset_id":1027,"cat_emoji":"0001F3C9","lang":"PT","category":"Esportes americanos","text":"You need a map to find the strike zone?","premium":"false","positive":"true"},{"id":21409,"preset_id":1027,"cat_emoji":"0001F3C9","lang":"CN","category":"美国体育","text":"You need a map to find the strike zone?","premium":"false","positive":"true"}]
+[
+  {
+    "id": 21403,
+    "preset_id": 1027,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "text": "You need a map to find the strike zone?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21404,
+    "preset_id": 1027,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "text": "You need a map to find the strike zone?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21405,
+    "preset_id": 1027,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "text": "You need a map to find the strike zone?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21406,
+    "preset_id": 1027,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "text": "You need a map to find the strike zone?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21407,
+    "preset_id": 1027,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "text": "You need a map to find the strike zone?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21408,
+    "preset_id": 1027,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "text": "You need a map to find the strike zone?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  },
+  {
+    "id": 21409,
+    "preset_id": 1027,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "text": "You need a map to find the strike zone?",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true"
+  }
+]

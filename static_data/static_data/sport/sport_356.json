@@ -1,1 +1,86 @@
-[{"id":2492,"preset_id":356,"cat_emoji":"🇩🇪","lang":"EN","category":"German Football Teams","text":"FC Schalke 04","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2493,"preset_id":356,"cat_emoji":"🇩🇪","lang":"ES","category":"Equipos de Fútbol Alemanes","text":"FC Schalke 05","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2494,"preset_id":356,"cat_emoji":"🇩🇪","lang":"DE","category":"Deutsche Fußballmannschaften","text":"FC Schalke 06","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2495,"preset_id":356,"cat_emoji":"🇩🇪","lang":"PL","category":"Niemieckie drużyny piłkarskie","text":"FC Schalke 07","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2496,"preset_id":356,"cat_emoji":"🇩🇪","lang":"RU","category":"Немецкие футбольные команды","text":"FC Schalke 08","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2497,"preset_id":356,"cat_emoji":"🇩🇪","lang":"PT","category":"Times de futebol alemães","text":"FC Schalke 09","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"},{"id":2498,"preset_id":356,"cat_emoji":"🇩🇪","lang":"CN","category":"德国足球队","text":"FC Schalke 10","premium":"false","positive":"true","msg_emoji":"🇩🇪","continent":"European"}]
+[
+  {
+    "id": 2492,
+    "preset_id": 356,
+    "cat_emoji": "🇩🇪",
+    "lang": "EN",
+    "category": "German Football Teams",
+    "text": "FC Augsburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2493,
+    "preset_id": 356,
+    "cat_emoji": "🇩🇪",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Alemanes",
+    "text": "FC Augsburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2494,
+    "preset_id": 356,
+    "cat_emoji": "🇩🇪",
+    "lang": "DE",
+    "category": "Deutsche Fußballmannschaften",
+    "text": "FC Augsburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2495,
+    "preset_id": 356,
+    "cat_emoji": "🇩🇪",
+    "lang": "PL",
+    "category": "Niemieckie drużyny piłkarskie",
+    "text": "FC Augsburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2496,
+    "preset_id": 356,
+    "cat_emoji": "🇩🇪",
+    "lang": "RU",
+    "category": "Немецкие футбольные команды",
+    "text": "FC Augsburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2497,
+    "preset_id": 356,
+    "cat_emoji": "🇩🇪",
+    "lang": "PT",
+    "category": "Times de futebol alemães",
+    "text": "FC Augsburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2498,
+    "preset_id": 356,
+    "cat_emoji": "🇩🇪",
+    "lang": "CN",
+    "category": "德国足球队",
+    "text": "FC Augsburg",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  }
+]

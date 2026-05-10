@@ -1,1 +1,86 @@
-[{"id":2821,"preset_id":403,"cat_emoji":"🇭🇺","lang":"EN","category":"Hungarian Football Teams","text":"Kecskemét","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":2822,"preset_id":403,"cat_emoji":"🇭🇺","lang":"ES","category":"Equipos de Fútbol Húngaros","text":"Kecskemét","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":2823,"preset_id":403,"cat_emoji":"🇭🇺","lang":"DE","category":"Ungarische Fußballmannschaften","text":"Kecskemét","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":2824,"preset_id":403,"cat_emoji":"🇭🇺","lang":"PL","category":"Węgierskie drużyny piłkarskie","text":"Kecskemét","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":2825,"preset_id":403,"cat_emoji":"🇭🇺","lang":"RU","category":"Венгерские футбольные команды","text":"Kecskemét","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":2826,"preset_id":403,"cat_emoji":"🇭🇺","lang":"PT","category":"Times de futebol húngaros","text":"Kecskemét","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"},{"id":2827,"preset_id":403,"cat_emoji":"🇭🇺","lang":"CN","category":"匈牙利足球队","text":"Kecskemét","premium":"false","positive":"true","msg_emoji":"🇭🇺","continent":"European"}]
+[
+  {
+    "id": 2821,
+    "preset_id": 403,
+    "cat_emoji": "🇭🇺",
+    "lang": "EN",
+    "category": "Hungarian Football Teams",
+    "text": "Fehérvár",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2822,
+    "preset_id": 403,
+    "cat_emoji": "🇭🇺",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Húngaros",
+    "text": "Fehérvár",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2823,
+    "preset_id": 403,
+    "cat_emoji": "🇭🇺",
+    "lang": "DE",
+    "category": "Ungarische Fußballmannschaften",
+    "text": "Fehérvár",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2824,
+    "preset_id": 403,
+    "cat_emoji": "🇭🇺",
+    "lang": "PL",
+    "category": "Węgierskie drużyny piłkarskie",
+    "text": "Fehérvár",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2825,
+    "preset_id": 403,
+    "cat_emoji": "🇭🇺",
+    "lang": "RU",
+    "category": "Венгерские футбольные команды",
+    "text": "Fehérvár",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2826,
+    "preset_id": 403,
+    "cat_emoji": "🇭🇺",
+    "lang": "PT",
+    "category": "Times de futebol húngaros",
+    "text": "Fehérvár",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2827,
+    "preset_id": 403,
+    "cat_emoji": "🇭🇺",
+    "lang": "CN",
+    "category": "匈牙利足球队",
+    "text": "Fehérvár",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  }
+]

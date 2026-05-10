@@ -1,1 +1,86 @@
-[{"id":20409,"preset_id":885,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"you are going down!","premium":"false","positive":"true","header":"insult"},{"id":20410,"preset_id":885,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"¡vais a caer!","premium":"false","positive":"true","header":"insultante"},{"id":20411,"preset_id":885,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"Du gehst unter!","premium":"false","positive":"true","header":"Beleidigend"},{"id":20412,"preset_id":885,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"idziesz na dno!","premium":"false","positive":"true","header":"Obraźliwy"},{"id":20413,"preset_id":885,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"вы идете ко дну!","premium":"false","positive":"true","header":"Оскорбительный"},{"id":20414,"preset_id":885,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"vais cair!","premium":"false","positive":"true","header":"Insultuoso"},{"id":20415,"preset_id":885,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"你们正在走向衰落！","premium":"false","positive":"true","header":"侮辱"}]
+[
+  {
+    "id": 20409,
+    "preset_id": 885,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "you are going down!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insult"
+  },
+  {
+    "id": 20410,
+    "preset_id": 885,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "¡vais a caer!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultante"
+  },
+  {
+    "id": 20411,
+    "preset_id": 885,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Du gehst unter!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Beleidigend"
+  },
+  {
+    "id": 20412,
+    "preset_id": 885,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "idziesz na dno!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Obraźliwy"
+  },
+  {
+    "id": 20413,
+    "preset_id": 885,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "вы идете ко дну!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Оскорбительный"
+  },
+  {
+    "id": 20414,
+    "preset_id": 885,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "vais cair!",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultuoso"
+  },
+  {
+    "id": 20415,
+    "preset_id": 885,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "你们正在走向衰落！",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "侮辱"
+  }
+]

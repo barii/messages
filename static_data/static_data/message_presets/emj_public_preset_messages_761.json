@@ -1,1 +1,72 @@
-[{"id":19636,"text":"Right back at you","category":"Reply: Neutral","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F4AC","preset_id":761},{"id":19637,"text":"Gleich wieder bei dir","category":"Antwort: Neutral","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F4AC","preset_id":761},{"id":19638,"text":"De volta para ti","category":"Resposta: neutra","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F4AC","preset_id":761},{"id":19639,"text":"Wzajemnie","category":"Odpowied\u017a: neutralny","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F4AC","preset_id":761},{"id":19641,"text":"Lo mismo digo","category":"Respuesta: neutral","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F4AC","preset_id":761},{"id":19642,"text":"\u6211\u9a6c\u4e0a\u5c31\u6765\u627e\u4f60","category":"\u56de\u590d\uff1a\u4e2d\u6027\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F4AC","preset_id":761},{"id":19640,"text":"\u041a\u0442\u043e \u0431\u044b \u0433\u043e\u0432\u043e\u0440\u0438\u043b!","category":"\u041e\u0442\u0432\u0435\u0442: \u041d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F4AC","preset_id":761}]
+[
+  {
+    "preset_id": 761,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Right back at you",
+    "premium": false,
+    "positive": true,
+    "id": 19636
+  },
+  {
+    "id": 19637,
+    "text": "Gleich wieder bei dir",
+    "category": "Antwort: Neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F4AC",
+    "preset_id": 761
+  },
+  {
+    "id": 19638,
+    "text": "De volta para ti",
+    "category": "Resposta: neutra",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F4AC",
+    "preset_id": 761
+  },
+  {
+    "id": 19639,
+    "text": "Wzajemnie",
+    "category": "Odpowiedź: neutralny",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F4AC",
+    "preset_id": 761
+  },
+  {
+    "id": 19641,
+    "text": "Lo mismo digo",
+    "category": "Respuesta: neutral",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F4AC",
+    "preset_id": 761
+  },
+  {
+    "id": 19642,
+    "text": "我马上就来找你",
+    "category": "回复：中性用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F4AC",
+    "preset_id": 761
+  },
+  {
+    "id": 19640,
+    "text": "Кто бы говорил!",
+    "category": "Ответ: Нейтральный",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F4AC",
+    "preset_id": 761
+  }
+]

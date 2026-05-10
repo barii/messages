@@ -1,1 +1,86 @@
-[{"id":2555,"preset_id":365,"cat_emoji":"🇵🇱","lang":"EN","category":"Polish Football Teams","text":"Cracovia","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2556,"preset_id":365,"cat_emoji":"🇵🇱","lang":"ES","category":"Equipos de Fútbol Polacos","text":"Cracovia","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2557,"preset_id":365,"cat_emoji":"🇵🇱","lang":"DE","category":"Polnische Fußballmannschaften","text":"Cracovia","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2558,"preset_id":365,"cat_emoji":"🇵🇱","lang":"PL","category":"Polskie drużyny piłkarskie","text":"Cracovia","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2559,"preset_id":365,"cat_emoji":"🇵🇱","lang":"RU","category":"Польские футбольные команды","text":"Cracovia","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2560,"preset_id":365,"cat_emoji":"🇵🇱","lang":"PT","category":"Times de futebol poloneses","text":"Cracovia","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"},{"id":2561,"preset_id":365,"cat_emoji":"🇵🇱","lang":"CN","category":"波兰足球队","text":"Cracovia","premium":"false","positive":"true","msg_emoji":"🇵🇱","continent":"European"}]
+[
+  {
+    "id": 2555,
+    "preset_id": 365,
+    "cat_emoji": "🇩🇪",
+    "lang": "EN",
+    "category": "German Football Teams",
+    "text": "VfL Bochum",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2556,
+    "preset_id": 365,
+    "cat_emoji": "🇩🇪",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Alemanes",
+    "text": "VfL Bochum",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2557,
+    "preset_id": 365,
+    "cat_emoji": "🇩🇪",
+    "lang": "DE",
+    "category": "Deutsche Fußballmannschaften",
+    "text": "VfL Bochum",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2558,
+    "preset_id": 365,
+    "cat_emoji": "🇩🇪",
+    "lang": "PL",
+    "category": "Niemieckie drużyny piłkarskie",
+    "text": "VfL Bochum",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2559,
+    "preset_id": 365,
+    "cat_emoji": "🇩🇪",
+    "lang": "RU",
+    "category": "Немецкие футбольные команды",
+    "text": "VfL Bochum",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2560,
+    "preset_id": 365,
+    "cat_emoji": "🇩🇪",
+    "lang": "PT",
+    "category": "Times de futebol alemães",
+    "text": "VfL Bochum",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  },
+  {
+    "id": 2561,
+    "preset_id": 365,
+    "cat_emoji": "🇩🇪",
+    "lang": "CN",
+    "category": "德国足球队",
+    "text": "VfL Bochum",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇩🇪",
+    "continent": "European"
+  }
+]

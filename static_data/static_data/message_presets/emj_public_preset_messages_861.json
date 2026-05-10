@@ -1,1 +1,72 @@
-[{"id":20337,"text":"Also gut, hier bin ich. Was waren deine beiden anderen W\u00fcnsche?","category":"Flirtspruch","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F48C","preset_id":861},{"id":20338,"text":"Bem, aqui estou eu. Quais s\u00e3o os teus outros dois desejos?","category":"Linhas de conversa","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F48C","preset_id":861},{"id":20339,"text":"C\u00f3\u017c, oto jestem. Wymie\u0144 swoje dwa pozosta\u0142e \u017cyczenia?","category":"Linie czatu","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F48C","preset_id":861},{"id":20340,"text":"\u041d\u0443, \u0432\u043e\u0442 \u0438 \u044f. \u041a\u0430\u043a\u0438\u0435 \u0442\u0432\u043e\u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0434\u0432\u0430 \u0436\u0435\u043b\u0430\u043d\u0438\u044f?","category":"\u0417\u0430\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u0435","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F48C","preset_id":861},{"id":20341,"text":"Pues aqu\u00ed estoy. \u00bfCu\u00e1les son tus otros dos deseos?","category":"Frases de chat","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F48C","preset_id":861},{"id":20342,"text":"\u5443\uff0c\u6211\u5c31\u5728\u8fd9\u91cc\u3002\u4f60\u7684\u53e6\u5916\u4e24\u4e2a\u613f\u671b\u662f\u4ec0\u4e48\uff1f","category":"\u642d\u8baa\u7528\u8bed","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F48C","preset_id":861},{"id":20336,"text":"Well, here I am. What are your other two wishes?","category":"Chat-up Lines","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F48C","preset_id":861}]
+[
+  {
+    "preset_id": 861,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "Well, here I am. What are your other two wishes?",
+    "premium": false,
+    "positive": true,
+    "id": 20336
+  },
+  {
+    "id": 20337,
+    "text": "Also gut, hier bin ich. Was waren deine beiden anderen Wünsche?",
+    "category": "Flirtspruch",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F48C",
+    "preset_id": 861
+  },
+  {
+    "id": 20338,
+    "text": "Bem, aqui estou eu. Quais são os teus outros dois desejos?",
+    "category": "Linhas de conversa",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F48C",
+    "preset_id": 861
+  },
+  {
+    "id": 20339,
+    "text": "Cóż, oto jestem. Wymień swoje dwa pozostałe życzenia?",
+    "category": "Linie czatu",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F48C",
+    "preset_id": 861
+  },
+  {
+    "id": 20340,
+    "text": "Ну, вот и я. Какие твои другие два желания?",
+    "category": "Заигрывание",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F48C",
+    "preset_id": 861
+  },
+  {
+    "id": 20341,
+    "text": "Pues aquí estoy. ¿Cuáles son tus otros dos deseos?",
+    "category": "Frases de chat",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F48C",
+    "preset_id": 861
+  },
+  {
+    "id": 20342,
+    "text": "呃，我就在这里。你的另外两个愿望是什么？",
+    "category": "搭讪用语",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F48C",
+    "preset_id": 861
+  }
+]

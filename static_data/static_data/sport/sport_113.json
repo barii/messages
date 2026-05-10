@@ -1,1 +1,86 @@
-[{"id":791,"preset_id":113,"cat_emoji":"🇧🇷","lang":"EN","category":"Brazilian Football Teams","text":"Cuiabá","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":792,"preset_id":113,"cat_emoji":"🇧🇷","lang":"ES","category":"Equipos de Fútbol Brasileños","text":"Cuiabá","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":793,"preset_id":113,"cat_emoji":"🇧🇷","lang":"DE","category":"Brasilianische Fußballmannschaften","text":"Cuiabá","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":794,"preset_id":113,"cat_emoji":"🇧🇷","lang":"PL","category":"Brazylijskie drużyny piłkarskie","text":"Cuiabá","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":795,"preset_id":113,"cat_emoji":"🇧🇷","lang":"RU","category":"Бразильские футбольные команды","text":"Cuiabá","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":796,"preset_id":113,"cat_emoji":"🇧🇷","lang":"PT","category":"Times de futebol brasileiros","text":"Cuiabá","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"},{"id":797,"preset_id":113,"cat_emoji":"🇧🇷","lang":"CN","category":"巴西足球队","text":"Cuiabá","premium":"false","positive":"true","msg_emoji":"🇧🇷","continent":"European"}]
+[
+  {
+    "id": 791,
+    "preset_id": 113,
+    "cat_emoji": "🇧🇷",
+    "lang": "EN",
+    "category": "Brazilian Football Teams",
+    "text": "Criciúma",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 792,
+    "preset_id": 113,
+    "cat_emoji": "🇧🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Brasileños",
+    "text": "Criciúma",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 793,
+    "preset_id": 113,
+    "cat_emoji": "🇧🇷",
+    "lang": "DE",
+    "category": "Brasilianische Fußballmannschaften",
+    "text": "Criciúma",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 794,
+    "preset_id": 113,
+    "cat_emoji": "🇧🇷",
+    "lang": "PL",
+    "category": "Brazylijskie drużyny piłkarskie",
+    "text": "Criciúma",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 795,
+    "preset_id": 113,
+    "cat_emoji": "🇧🇷",
+    "lang": "RU",
+    "category": "Бразильские футбольные команды",
+    "text": "Criciúma",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 796,
+    "preset_id": 113,
+    "cat_emoji": "🇧🇷",
+    "lang": "PT",
+    "category": "Times de futebol brasileiros",
+    "text": "Criciúma",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 797,
+    "preset_id": 113,
+    "cat_emoji": "🇧🇷",
+    "lang": "CN",
+    "category": "巴西足球队",
+    "text": "Criciúma",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  }
+]

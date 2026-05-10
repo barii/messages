@@ -1,1 +1,86 @@
-[{"id":20759,"preset_id":935,"cat_emoji":"26BD","lang":"EN","category":"Football","text":"You're not looking too good right now","premium":"false","positive":"true","header":"insult"},{"id":20760,"preset_id":935,"cat_emoji":"26BD","lang":"ES","category":"Fútbol","text":"No tienes muy buena pinta en estos momentos","premium":"false","positive":"true","header":"insultante"},{"id":20761,"preset_id":935,"cat_emoji":"26BD","lang":"DE","category":"Fußball","text":"Du siehst im Moment nicht besonders gut aus","premium":"false","positive":"true","header":"Beleidigend"},{"id":20762,"preset_id":935,"cat_emoji":"26BD","lang":"PL","category":"Piłka nożna","text":"Nie wyglądasz teraz zbyt dobrze","premium":"false","positive":"true","header":"Obraźliwy"},{"id":20763,"preset_id":935,"cat_emoji":"26BD","lang":"RU","category":"Футбол","text":"Ты сейчас выглядишь не очень хорошо","premium":"false","positive":"true","header":"Оскорбительный"},{"id":20764,"preset_id":935,"cat_emoji":"26BD","lang":"PT","category":"Futebol","text":"Não estás com muito bom aspeto neste momento","premium":"false","positive":"true","header":"Insultuoso"},{"id":20765,"preset_id":935,"cat_emoji":"26BD","lang":"CN","category":"足球","text":"你现在看起来不太好","premium":"false","positive":"true","header":"侮辱"}]
+[
+  {
+    "id": 20759,
+    "preset_id": 935,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "text": "You're not looking too good right now",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insult"
+  },
+  {
+    "id": 20760,
+    "preset_id": 935,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "No tienes muy buena pinta en estos momentos",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultante"
+  },
+  {
+    "id": 20761,
+    "preset_id": 935,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Du siehst im Moment nicht besonders gut aus",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Beleidigend"
+  },
+  {
+    "id": 20762,
+    "preset_id": 935,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Nie wyglądasz teraz zbyt dobrze",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Obraźliwy"
+  },
+  {
+    "id": 20763,
+    "preset_id": 935,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Ты сейчас выглядишь не очень хорошо",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Оскорбительный"
+  },
+  {
+    "id": 20764,
+    "preset_id": 935,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Não estás com muito bom aspeto neste momento",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "Insultuoso"
+  },
+  {
+    "id": 20765,
+    "preset_id": 935,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "text": "你现在看起来不太好",
+    "premium": "false",
+    "positive": "true",
+    "sport": "true",
+    "header": "侮辱"
+  }
+]

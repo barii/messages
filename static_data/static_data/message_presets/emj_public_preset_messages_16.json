@@ -1,1 +1,72 @@
-[{"id":7554,"text":"I think you're really smart","category":"Compliment","positive":true,"premium":false,"lang":"EN","cat_emoji":"1F44D","preset_id":16},{"id":7988,"text":"Ich finde dich echt intelligent","category":"Kompliment","positive":true,"premium":false,"lang":"DE","cat_emoji":"1F44D","preset_id":16},{"id":8422,"text":"\u0422\u044b \u043e\u0447\u0435\u043d\u044c \u0443\u043c\u043d\u044b\u0439 (\u0443\u043c\u043d\u0430\u044f)","category":"\u041a\u043e\u043c\u043f\u043b\u0438\u043c\u0435\u043d\u0442","positive":true,"premium":false,"lang":"RU","cat_emoji":"1F44D","preset_id":16},{"id":8856,"text":"Acho que \u00e9s muito inteligente","category":"Elogio","positive":true,"premium":false,"lang":"PT","cat_emoji":"1F44D","preset_id":16},{"id":9290,"text":"\u6211\u89c9\u5f97\u4f60\u771f\u806a\u660e","category":"\u79f0\u8d5e","positive":true,"premium":false,"lang":"CN","cat_emoji":"1F44D","preset_id":16},{"id":9724,"text":"Creo que eres muy listo","category":"Cumplido","positive":true,"premium":false,"lang":"ES","cat_emoji":"1F44D","preset_id":16},{"id":10158,"text":"Uwa\u017cam, \u017ce jeste\u015b bardzo inteligentny\/inteligentna","category":"Komplement","positive":true,"premium":false,"lang":"PL","cat_emoji":"1F44D","preset_id":16}]
+[
+  {
+    "preset_id": 16,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "I think you're really smart",
+    "premium": false,
+    "positive": true,
+    "id": 7554
+  },
+  {
+    "id": 7988,
+    "text": "Ich finde dich echt intelligent",
+    "category": "Kompliment",
+    "positive": true,
+    "premium": false,
+    "lang": "DE",
+    "cat_emoji": "1F44D",
+    "preset_id": 16
+  },
+  {
+    "id": 8422,
+    "text": "Ты очень умный (умная)",
+    "category": "Комплимент",
+    "positive": true,
+    "premium": false,
+    "lang": "RU",
+    "cat_emoji": "1F44D",
+    "preset_id": 16
+  },
+  {
+    "id": 8856,
+    "text": "Acho que és muito inteligente",
+    "category": "Elogio",
+    "positive": true,
+    "premium": false,
+    "lang": "PT",
+    "cat_emoji": "1F44D",
+    "preset_id": 16
+  },
+  {
+    "id": 9290,
+    "text": "我觉得你真聪明",
+    "category": "称赞",
+    "positive": true,
+    "premium": false,
+    "lang": "CN",
+    "cat_emoji": "1F44D",
+    "preset_id": 16
+  },
+  {
+    "id": 9724,
+    "text": "Creo que eres muy listo",
+    "category": "Cumplido",
+    "positive": true,
+    "premium": false,
+    "lang": "ES",
+    "cat_emoji": "1F44D",
+    "preset_id": 16
+  },
+  {
+    "id": 10158,
+    "text": "Uważam, że jesteś bardzo inteligentny/inteligentna",
+    "category": "Komplement",
+    "positive": true,
+    "premium": false,
+    "lang": "PL",
+    "cat_emoji": "1F44D",
+    "preset_id": 16
+  }
+]

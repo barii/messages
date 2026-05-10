@@ -1,1 +1,86 @@
-[{"id":1155,"preset_id":165,"cat_emoji":"🇳🇱","lang":"EN","category":"Dutch Football Teams","text":"Feyenoord","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"},{"id":1156,"preset_id":165,"cat_emoji":"🇳🇱","lang":"ES","category":"Equipos de Fútbol Holandeses","text":"Feyenoord","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"},{"id":1157,"preset_id":165,"cat_emoji":"🇳🇱","lang":"DE","category":"Niederländische Fußballmannschaften","text":"Feyenoord","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"},{"id":1158,"preset_id":165,"cat_emoji":"🇳🇱","lang":"PL","category":"Holenderskie drużyny piłkarskie","text":"Feyenoord","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"},{"id":1159,"preset_id":165,"cat_emoji":"🇳🇱","lang":"RU","category":"Голландские футбольные команды","text":"Feyenoord","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"},{"id":1160,"preset_id":165,"cat_emoji":"🇳🇱","lang":"PT","category":"Times de futebol holandeses","text":"Feyenoord","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"},{"id":1161,"preset_id":165,"cat_emoji":"🇳🇱","lang":"CN","category":"荷兰足球队","text":"Feyenoord","premium":"false","positive":"true","msg_emoji":"🇳🇱","continent":"European"}]
+[
+  {
+    "id": 1155,
+    "preset_id": 165,
+    "cat_emoji": "🇳🇱",
+    "lang": "EN",
+    "category": "Dutch Football Teams",
+    "text": "AZ Alkmaar",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1156,
+    "preset_id": 165,
+    "cat_emoji": "🇳🇱",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Holandeses",
+    "text": "AZ Alkmaar",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1157,
+    "preset_id": 165,
+    "cat_emoji": "🇳🇱",
+    "lang": "DE",
+    "category": "Niederländische Fußballmannschaften",
+    "text": "AZ Alkmaar",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1158,
+    "preset_id": 165,
+    "cat_emoji": "🇳🇱",
+    "lang": "PL",
+    "category": "Holenderskie drużyny piłkarskie",
+    "text": "AZ Alkmaar",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1159,
+    "preset_id": 165,
+    "cat_emoji": "🇳🇱",
+    "lang": "RU",
+    "category": "Голландские футбольные команды",
+    "text": "AZ Alkmaar",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1160,
+    "preset_id": 165,
+    "cat_emoji": "🇳🇱",
+    "lang": "PT",
+    "category": "Times de futebol holandeses",
+    "text": "AZ Alkmaar",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1161,
+    "preset_id": 165,
+    "cat_emoji": "🇳🇱",
+    "lang": "CN",
+    "category": "荷兰足球队",
+    "text": "AZ Alkmaar",
+    "premium": "false",
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  }
+]
