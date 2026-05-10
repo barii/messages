@@ -9,8 +9,14 @@ gcloud storage cp --recursive gs://emojiwho-prod.appspot.com/message_presets ./m
 ## Upload
 
 ```bash
-gcloud storage cp --recursive ./static_data gs://emojiwho-prod.appspot.com/
-gcloud storage cp --recursive ./message_presets gs://emojiwho-prod.appspot.com/message_presets
+gcloud storage cp -m --recursive ./static_data gs://emojiwho-prod.appspot.com/
+gcloud storage cp -m  --recursive ./message_presets gs://emojiwho-prod.appspot.com/
+```
+
+## Sync upload
+```bash
+gcloud storage rsync -m -r ./static_data gs://emojiwho-prod.appspot.com/static_data
+gcloud storage rsync -m -r ./message_presets gs://emojiwho-prod.appspot.com/message_presets
 ```
 
 # Staging
@@ -25,8 +31,14 @@ gcloud storage cp --recursive gs://emj-staging.appspot.com/message_presets ./mes
 ## Upload
 
 ```bash
-gcloud storage cp --recursive ./static_data gs://emj-staging.appspot.com/
-gcloud storage cp --recursive ./message_presets gs://emj-staging.appspot.com/message_presets
+gcloud storage cp -m --recursive ./static_data gs://emj-staging.appspot.com/
+gcloud storage cp -m --recursive ./message_presets gs://emj-staging.appspot.com/
+```
+
+## Sync upload
+```bash
+gcloud storage rsync -m -r ./static_data gs://emj-staging.appspot.com/static_data
+gcloud storage rsync -m -r ./message_presets gs://emj-staging.appspot.com/message_presets
 ```
 
 # Dev
@@ -41,6 +53,12 @@ gcloud storage cp --recursive gs://emojiwho-dev-784d0.appspot.com/message_preset
 ## Upload
 
 ```bash
-gcloud storage cp --recursive ./static_data gs://emojiwho-dev-784d0.appspot.com/
-gcloud storage cp --recursive ./message_presets gs://emojiwho-dev-784d0.appspot.com/message_presets
+gcloud storage cp -m --recursive ./static_data gs://emojiwho-dev-784d0.appspot.com/
+gcloud storage cp -m --recursive ./message_presets gs://emojiwho-dev-784d0.appspot.com/
+```
+
+## Sync upload
+```bash
+gcloud storage rsync -m -r ./static_data gs://emojiwho-dev-784d0.appspot.com/static_data
+gcloud storage rsync -m -r ./message_presets gs://emojiwho-dev-784d0.appspot.com/message_presets
 ```
