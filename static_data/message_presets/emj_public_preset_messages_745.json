@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 745,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "We love to see it",
+    "premium": "false",
+    "positive": true,
+    "id": 5208
+  },
+  {
+    "preset_id": 745,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Nos encanta verlo",
+    "premium": "false",
+    "positive": true,
+    "id": 5209
+  },
+  {
+    "preset_id": 745,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Wir lieben es zu sehen",
+    "premium": "false",
+    "positive": true,
+    "id": 5210
+  },
+  {
+    "preset_id": 745,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Adoramos ver isto",
+    "premium": "false",
+    "positive": true,
+    "id": 5211
+  },
+  {
+    "preset_id": 745,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Uwielbiamy to widzieć",
+    "premium": "false",
+    "positive": true,
+    "id": 5212
+  },
+  {
+    "preset_id": 745,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Любим это видеть",
+    "premium": "false",
+    "positive": true,
+    "id": 5213
+  },
+  {
+    "preset_id": 745,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我们爱看",
+    "premium": "false",
+    "positive": true,
+    "id": 5214
+  }
+]

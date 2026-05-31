@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1068,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "We smashed that project",
+    "premium": "false",
+    "positive": true,
+    "id": 7469
+  },
+  {
+    "preset_id": 1068,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Aplastamos ese proyecto",
+    "premium": "false",
+    "positive": true,
+    "id": 7470
+  },
+  {
+    "preset_id": 1068,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Wir haben dieses Projekt zerrissen",
+    "premium": "false",
+    "positive": true,
+    "id": 7471
+  },
+  {
+    "preset_id": 1068,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Arrasámos naquele projeto",
+    "premium": "false",
+    "positive": true,
+    "id": 7472
+  },
+  {
+    "preset_id": 1068,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Rozwaliliśmy ten projekt",
+    "premium": "false",
+    "positive": true,
+    "id": 7473
+  },
+  {
+    "preset_id": 1068,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Мы порвали этот проект",
+    "premium": "false",
+    "positive": true,
+    "id": 7474
+  },
+  {
+    "preset_id": 1068,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "我们搞定了那个项目",
+    "premium": "false",
+    "positive": true,
+    "id": 7475
+  }
+]

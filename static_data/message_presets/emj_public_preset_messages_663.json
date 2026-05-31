@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 663,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "How original",
+    "premium": "false",
+    "positive": true,
+    "id": 4634
+  },
+  {
+    "preset_id": 663,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Qué original",
+    "premium": "false",
+    "positive": true,
+    "id": 4635
+  },
+  {
+    "preset_id": 663,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Wie originell",
+    "premium": "false",
+    "positive": true,
+    "id": 4636
+  },
+  {
+    "preset_id": 663,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Que original",
+    "premium": "false",
+    "positive": true,
+    "id": 4637
+  },
+  {
+    "preset_id": 663,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Jakie oryginalne",
+    "premium": "false",
+    "positive": true,
+    "id": 4638
+  },
+  {
+    "preset_id": 663,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Как оригинально",
+    "premium": "false",
+    "positive": true,
+    "id": 4639
+  },
+  {
+    "preset_id": 663,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "真原创",
+    "premium": "false",
+    "positive": true,
+    "id": 4640
+  }
+]

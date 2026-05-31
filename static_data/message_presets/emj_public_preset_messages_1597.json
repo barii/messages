@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1597,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Blame the ref, blame the pitch, blame everything but yourselves.",
+    "premium": "true",
+    "positive": true,
+    "id": 11172
+  },
+  {
+    "preset_id": 1597,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Culpad al árbitro, culpad al campo, culpad a todo menos a vosotros.",
+    "premium": "true",
+    "positive": true,
+    "id": 11173
+  },
+  {
+    "preset_id": 1597,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Schiebt es auf den Schiri, den Platz, alles außer euch selbst.",
+    "premium": "true",
+    "positive": true,
+    "id": 11174
+  },
+  {
+    "preset_id": 1597,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Culpem o árbitro, culpem o relvado, culpem tudo menos vocês.",
+    "premium": "true",
+    "positive": true,
+    "id": 11175
+  },
+  {
+    "preset_id": 1597,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Obwiniajcie sędziego, obwiniajcie boisko, obwiniajcie wszystko oprócz siebie.",
+    "premium": "true",
+    "positive": true,
+    "id": 11176
+  },
+  {
+    "preset_id": 1597,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Вините судью, поле, всё кроме себя.",
+    "premium": "true",
+    "positive": true,
+    "id": 11177
+  },
+  {
+    "preset_id": 1597,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "怪裁判,怪草坪,怪一切除了你们自己。",
+    "premium": "true",
+    "positive": true,
+    "id": 11178
+  }
+]

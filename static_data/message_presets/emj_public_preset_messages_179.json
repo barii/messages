@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 179,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you free this weekend?",
+    "premium": "false",
+    "positive": true,
+    "id": 1246
+  },
+  {
+    "preset_id": 179,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Estás libre este fin de semana?",
+    "premium": "false",
+    "positive": true,
+    "id": 1247
+  },
+  {
+    "preset_id": 179,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Hast du dieses Wochenende Zeit?",
+    "premium": "false",
+    "positive": true,
+    "id": 1248
+  },
+  {
+    "preset_id": 179,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás livre este fim de semana?",
+    "premium": "false",
+    "positive": true,
+    "id": 1249
+  },
+  {
+    "preset_id": 179,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Masz wolne w ten weekend?",
+    "premium": "false",
+    "positive": true,
+    "id": 1250
+  },
+  {
+    "preset_id": 179,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты свободен в эти выходные?",
+    "premium": "false",
+    "positive": true,
+    "id": 1251
+  },
+  {
+    "preset_id": 179,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "这个周末你有空吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1252
+  }
+]

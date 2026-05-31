@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1145,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "How's life?",
+    "premium": "false",
+    "positive": true,
+    "id": 8008
+  },
+  {
+    "preset_id": 1145,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "¿Qué tal la vida?",
+    "premium": "false",
+    "positive": true,
+    "id": 8009
+  },
+  {
+    "preset_id": 1145,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Wie läuft's so?",
+    "premium": "false",
+    "positive": true,
+    "id": 8010
+  },
+  {
+    "preset_id": 1145,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Como vai a vida?",
+    "premium": "false",
+    "positive": true,
+    "id": 8011
+  },
+  {
+    "preset_id": 1145,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Jak życie?",
+    "premium": "false",
+    "positive": true,
+    "id": 8012
+  },
+  {
+    "preset_id": 1145,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Как жизнь?",
+    "premium": "false",
+    "positive": true,
+    "id": 8013
+  },
+  {
+    "preset_id": 1145,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "生活怎么样?",
+    "premium": "false",
+    "positive": true,
+    "id": 8014
+  }
+]

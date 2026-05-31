@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 594,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Take it easy",
+    "premium": "false",
+    "positive": true,
+    "id": 4151
+  },
+  {
+    "preset_id": 594,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Tranquilo",
+    "premium": "false",
+    "positive": true,
+    "id": 4152
+  },
+  {
+    "preset_id": 594,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Mach's locker",
+    "premium": "false",
+    "positive": true,
+    "id": 4153
+  },
+  {
+    "preset_id": 594,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Tem calma",
+    "premium": "false",
+    "positive": true,
+    "id": 4154
+  },
+  {
+    "preset_id": 594,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Spokojnie",
+    "premium": "false",
+    "positive": true,
+    "id": 4155
+  },
+  {
+    "preset_id": 594,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Расслабься",
+    "premium": "false",
+    "positive": true,
+    "id": 4156
+  },
+  {
+    "preset_id": 594,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "放轻松",
+    "premium": "false",
+    "positive": true,
+    "id": 4157
+  }
+]

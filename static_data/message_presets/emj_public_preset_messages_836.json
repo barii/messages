@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 836,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I think we would be good together",
+    "premium": "false",
+    "positive": true,
+    "id": 5845
+  },
+  {
+    "preset_id": 836,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Creo que seríamos buenos juntos",
+    "premium": "false",
+    "positive": true,
+    "id": 5846
+  },
+  {
+    "preset_id": 836,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich denke, wir wären gut zusammen",
+    "premium": "false",
+    "positive": true,
+    "id": 5847
+  },
+  {
+    "preset_id": 836,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Acho que daríamos bem juntos",
+    "premium": "false",
+    "positive": true,
+    "id": 5848
+  },
+  {
+    "preset_id": 836,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Myślę, że byłoby nam dobrze razem",
+    "premium": "false",
+    "positive": true,
+    "id": 5849
+  },
+  {
+    "preset_id": 836,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Думаю, нам было бы хорошо вместе",
+    "premium": "false",
+    "positive": true,
+    "id": 5850
+  },
+  {
+    "preset_id": 836,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我觉得我们在一起会很好",
+    "premium": "false",
+    "positive": true,
+    "id": 5851
+  }
+]

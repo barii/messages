@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1221,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "POV: you finally answer my message",
+    "premium": "false",
+    "positive": true,
+    "id": 8540
+  },
+  {
+    "preset_id": 1221,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "POV: por fin contestas mi mensaje",
+    "premium": "false",
+    "positive": true,
+    "id": 8541
+  },
+  {
+    "preset_id": 1221,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "POV: du antwortest endlich auf meine Nachricht",
+    "premium": "false",
+    "positive": true,
+    "id": 8542
+  },
+  {
+    "preset_id": 1221,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "POV: respondes finalmente à minha mensagem",
+    "premium": "false",
+    "positive": true,
+    "id": 8543
+  },
+  {
+    "preset_id": 1221,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "POV: w końcu odpowiadasz na moją wiadomość",
+    "premium": "false",
+    "positive": true,
+    "id": 8544
+  },
+  {
+    "preset_id": 1221,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "POV: ты наконец отвечаешь на моё сообщение",
+    "premium": "false",
+    "positive": true,
+    "id": 8545
+  },
+  {
+    "preset_id": 1221,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "POV:你终于回复了我的消息",
+    "premium": "false",
+    "positive": true,
+    "id": 8546
+  }
+]

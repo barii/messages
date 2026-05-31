@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1460,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We steamrolled you.",
+    "premium": "false",
+    "positive": true,
+    "id": 10213
+  },
+  {
+    "preset_id": 1460,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Os hemos arrollado.",
+    "premium": "false",
+    "positive": true,
+    "id": 10214
+  },
+  {
+    "preset_id": 1460,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir haben euch überrollt.",
+    "premium": "false",
+    "positive": true,
+    "id": 10215
+  },
+  {
+    "preset_id": 1460,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Atropelámos-vos.",
+    "premium": "false",
+    "positive": true,
+    "id": 10216
+  },
+  {
+    "preset_id": 1460,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Przejechaliśmy się po was.",
+    "premium": "false",
+    "positive": true,
+    "id": 10217
+  },
+  {
+    "preset_id": 1460,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Мы вас раздавили.",
+    "premium": "false",
+    "positive": true,
+    "id": 10218
+  },
+  {
+    "preset_id": 1460,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们横扫了你们。",
+    "premium": "false",
+    "positive": true,
+    "id": 10219
+  }
+]

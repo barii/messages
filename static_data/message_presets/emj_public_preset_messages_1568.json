@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1568,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Leave it out.",
+    "premium": "false",
+    "positive": true,
+    "id": 10969
+  },
+  {
+    "preset_id": 1568,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Dejadlo ya.",
+    "premium": "false",
+    "positive": true,
+    "id": 10970
+  },
+  {
+    "preset_id": 1568,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Lasst es.",
+    "premium": "false",
+    "positive": true,
+    "id": 10971
+  },
+  {
+    "preset_id": 1568,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Deixa-te disso.",
+    "premium": "false",
+    "positive": true,
+    "id": 10972
+  },
+  {
+    "preset_id": 1568,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Zostawcie to.",
+    "premium": "false",
+    "positive": true,
+    "id": 10973
+  },
+  {
+    "preset_id": 1568,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Оставьте.",
+    "premium": "false",
+    "positive": true,
+    "id": 10974
+  },
+  {
+    "preset_id": 1568,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "得了吧。",
+    "premium": "false",
+    "positive": true,
+    "id": 10975
+  }
+]

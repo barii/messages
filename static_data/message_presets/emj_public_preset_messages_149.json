@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 149,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you single?",
+    "premium": "false",
+    "positive": true,
+    "id": 1036
+  },
+  {
+    "preset_id": 149,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Estás soltero?",
+    "premium": "false",
+    "positive": true,
+    "id": 1037
+  },
+  {
+    "preset_id": 149,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du Single?",
+    "premium": "false",
+    "positive": true,
+    "id": 1038
+  },
+  {
+    "preset_id": 149,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás solteiro?",
+    "premium": "false",
+    "positive": true,
+    "id": 1039
+  },
+  {
+    "preset_id": 149,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jesteś singlem?",
+    "premium": "false",
+    "positive": true,
+    "id": 1040
+  },
+  {
+    "preset_id": 149,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты свободен?",
+    "premium": "false",
+    "positive": true,
+    "id": 1041
+  },
+  {
+    "preset_id": 149,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你单身吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1042
+  }
+]

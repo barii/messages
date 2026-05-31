@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 110,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "You feeling okay?",
+    "premium": "false",
+    "positive": true,
+    "id": 763
+  },
+  {
+    "preset_id": 110,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Te encuentras bien?",
+    "premium": "false",
+    "positive": true,
+    "id": 764
+  },
+  {
+    "preset_id": 110,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Fühlst du dich gut?",
+    "premium": "false",
+    "positive": true,
+    "id": 765
+  },
+  {
+    "preset_id": 110,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Sentes-te bem?",
+    "premium": "false",
+    "positive": true,
+    "id": 766
+  },
+  {
+    "preset_id": 110,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Czujesz się ok?",
+    "premium": "false",
+    "positive": true,
+    "id": 767
+  },
+  {
+    "preset_id": 110,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты нормально себя чувствуешь?",
+    "premium": "false",
+    "positive": true,
+    "id": 768
+  },
+  {
+    "preset_id": 110,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你感觉还好吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 769
+  }
+]

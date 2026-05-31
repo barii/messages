@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 410,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Yup",
+    "premium": "false",
+    "positive": true,
+    "id": 2863
+  },
+  {
+    "preset_id": 410,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Sip",
+    "premium": "false",
+    "positive": true,
+    "id": 2864
+  },
+  {
+    "preset_id": 410,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Jup",
+    "premium": "false",
+    "positive": true,
+    "id": 2865
+  },
+  {
+    "preset_id": 410,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Yup",
+    "premium": "false",
+    "positive": true,
+    "id": 2866
+  },
+  {
+    "preset_id": 410,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Yhm",
+    "premium": "false",
+    "positive": true,
+    "id": 2867
+  },
+  {
+    "preset_id": 410,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Йеп",
+    "premium": "false",
+    "positive": true,
+    "id": 2868
+  },
+  {
+    "preset_id": 410,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "嗯",
+    "premium": "false",
+    "positive": true,
+    "id": 2869
+  }
+]

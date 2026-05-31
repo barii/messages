@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1152,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Sending good vibes",
+    "premium": "false",
+    "positive": true,
+    "id": 8057
+  },
+  {
+    "preset_id": 1152,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Te mando buenas vibras",
+    "premium": "false",
+    "positive": true,
+    "id": 8058
+  },
+  {
+    "preset_id": 1152,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Schicke dir gute Vibes",
+    "premium": "false",
+    "positive": true,
+    "id": 8059
+  },
+  {
+    "preset_id": 1152,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "A mandar-te boas vibrações",
+    "premium": "false",
+    "positive": true,
+    "id": 8060
+  },
+  {
+    "preset_id": 1152,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Wysyłam dobre wibracje",
+    "premium": "false",
+    "positive": true,
+    "id": 8061
+  },
+  {
+    "preset_id": 1152,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Шлю тебе хорошие вибрации",
+    "premium": "false",
+    "positive": true,
+    "id": 8062
+  },
+  {
+    "preset_id": 1152,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "给你送上好的祝福",
+    "premium": "false",
+    "positive": true,
+    "id": 8063
+  }
+]

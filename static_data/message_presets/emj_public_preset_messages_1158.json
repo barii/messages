@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1158,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Happy New Year's Eve",
+    "premium": "false",
+    "positive": true,
+    "id": 8099
+  },
+  {
+    "preset_id": 1158,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Feliz Nochevieja",
+    "premium": "false",
+    "positive": true,
+    "id": 8100
+  },
+  {
+    "preset_id": 1158,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Frohen Silvesterabend",
+    "premium": "false",
+    "positive": true,
+    "id": 8101
+  },
+  {
+    "preset_id": 1158,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Feliz Passagem de Ano",
+    "premium": "false",
+    "positive": true,
+    "id": 8102
+  },
+  {
+    "preset_id": 1158,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Szczęśliwego Sylwestra",
+    "premium": "false",
+    "positive": true,
+    "id": 8103
+  },
+  {
+    "preset_id": 1158,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "С Новогодней ночью",
+    "premium": "false",
+    "positive": true,
+    "id": 8104
+  },
+  {
+    "preset_id": 1158,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "新年除夕快乐",
+    "premium": "false",
+    "positive": true,
+    "id": 8105
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 490,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Wow",
+    "premium": "false",
+    "positive": true,
+    "id": 3423
+  },
+  {
+    "preset_id": 490,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Wow",
+    "premium": "false",
+    "positive": true,
+    "id": 3424
+  },
+  {
+    "preset_id": 490,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Wow",
+    "premium": "false",
+    "positive": true,
+    "id": 3425
+  },
+  {
+    "preset_id": 490,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Uau",
+    "premium": "false",
+    "positive": true,
+    "id": 3426
+  },
+  {
+    "preset_id": 490,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Wow",
+    "premium": "false",
+    "positive": true,
+    "id": 3427
+  },
+  {
+    "preset_id": 490,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Вау",
+    "premium": "false",
+    "positive": true,
+    "id": 3428
+  },
+  {
+    "preset_id": 490,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "哇",
+    "premium": "false",
+    "positive": true,
+    "id": 3429
+  }
+]

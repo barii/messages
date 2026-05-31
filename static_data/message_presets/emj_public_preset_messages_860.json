@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 860,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You're so beautiful",
+    "premium": "false",
+    "positive": true,
+    "id": 6013
+  },
+  {
+    "preset_id": 860,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Eres muy precioso",
+    "premium": "false",
+    "positive": true,
+    "id": 6014
+  },
+  {
+    "preset_id": 860,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Du bist so schön",
+    "premium": "false",
+    "positive": true,
+    "id": 6015
+  },
+  {
+    "preset_id": 860,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "És tão lindo",
+    "premium": "false",
+    "positive": true,
+    "id": 6016
+  },
+  {
+    "preset_id": 860,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Jesteś taki piękny",
+    "premium": "false",
+    "positive": true,
+    "id": 6017
+  },
+  {
+    "preset_id": 860,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты такой красивый",
+    "premium": "false",
+    "positive": true,
+    "id": 6018
+  },
+  {
+    "preset_id": 860,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你太美了",
+    "premium": "false",
+    "positive": true,
+    "id": 6019
+  }
+]

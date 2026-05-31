@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1006,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You hurt my feelings",
+    "premium": "false",
+    "positive": true,
+    "id": 7035
+  },
+  {
+    "preset_id": 1006,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Heriste mis sentimientos",
+    "premium": "false",
+    "positive": true,
+    "id": 7036
+  },
+  {
+    "preset_id": 1006,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du hast meine Gefühle verletzt",
+    "premium": "false",
+    "positive": true,
+    "id": 7037
+  },
+  {
+    "preset_id": 1006,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Magoaste os meus sentimentos",
+    "premium": "false",
+    "positive": true,
+    "id": 7038
+  },
+  {
+    "preset_id": 1006,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Zraniłeś moje uczucia",
+    "premium": "false",
+    "positive": true,
+    "id": 7039
+  },
+  {
+    "preset_id": 1006,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты задел мои чувства",
+    "premium": "false",
+    "positive": true,
+    "id": 7040
+  },
+  {
+    "preset_id": 1006,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你伤害了我的感情",
+    "premium": "false",
+    "positive": true,
+    "id": 7041
+  }
+]

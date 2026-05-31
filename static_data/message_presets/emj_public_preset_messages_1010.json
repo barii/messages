@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1010,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You should think about how that came across",
+    "premium": "false",
+    "positive": true,
+    "id": 7063
+  },
+  {
+    "preset_id": 1010,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Deberías pensar en cómo sonó eso",
+    "premium": "false",
+    "positive": true,
+    "id": 7064
+  },
+  {
+    "preset_id": 1010,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du solltest darüber nachdenken, wie das rüberkam",
+    "premium": "false",
+    "positive": true,
+    "id": 7065
+  },
+  {
+    "preset_id": 1010,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Devias pensar em como isso soou",
+    "premium": "false",
+    "positive": true,
+    "id": 7066
+  },
+  {
+    "preset_id": 1010,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Powinieneś pomyśleć, jak to zabrzmiało",
+    "premium": "false",
+    "positive": true,
+    "id": 7067
+  },
+  {
+    "preset_id": 1010,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Тебе стоит подумать, как это прозвучало",
+    "premium": "false",
+    "positive": true,
+    "id": 7068
+  },
+  {
+    "preset_id": 1010,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你应该想想这听起来如何",
+    "premium": "false",
+    "positive": true,
+    "id": 7069
+  }
+]

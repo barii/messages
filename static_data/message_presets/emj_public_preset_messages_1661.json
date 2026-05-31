@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1661,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Swing and a miss.",
+    "premium": "true",
+    "positive": true,
+    "id": 11620
+  },
+  {
+    "preset_id": 1661,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Fallasteis.",
+    "premium": "true",
+    "positive": true,
+    "id": 11621
+  },
+  {
+    "preset_id": 1661,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Daneben.",
+    "premium": "true",
+    "positive": true,
+    "id": 11622
+  },
+  {
+    "preset_id": 1661,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Falharam.",
+    "premium": "true",
+    "positive": true,
+    "id": 11623
+  },
+  {
+    "preset_id": 1661,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Pudło.",
+    "premium": "true",
+    "positive": true,
+    "id": 11624
+  },
+  {
+    "preset_id": 1661,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Мимо.",
+    "premium": "true",
+    "positive": true,
+    "id": 11625
+  },
+  {
+    "preset_id": 1661,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "没打中。",
+    "premium": "true",
+    "positive": true,
+    "id": 11626
+  }
+]

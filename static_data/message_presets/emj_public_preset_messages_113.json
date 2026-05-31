@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 113,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "How are you really doing?",
+    "premium": "false",
+    "positive": true,
+    "id": 784
+  },
+  {
+    "preset_id": 113,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Cómo estás de verdad?",
+    "premium": "false",
+    "positive": true,
+    "id": 785
+  },
+  {
+    "preset_id": 113,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Wie geht's dir wirklich?",
+    "premium": "false",
+    "positive": true,
+    "id": 786
+  },
+  {
+    "preset_id": 113,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Como estás mesmo?",
+    "premium": "false",
+    "positive": true,
+    "id": 787
+  },
+  {
+    "preset_id": 113,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jak naprawdę się masz?",
+    "premium": "false",
+    "positive": true,
+    "id": 788
+  },
+  {
+    "preset_id": 113,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Как ты на самом деле?",
+    "premium": "false",
+    "positive": true,
+    "id": 789
+  },
+  {
+    "preset_id": 113,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你真的怎么样?",
+    "premium": "false",
+    "positive": true,
+    "id": 790
+  }
+]

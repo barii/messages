@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 559,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Such is life",
+    "premium": "false",
+    "positive": true,
+    "id": 3906
+  },
+  {
+    "preset_id": 559,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Así es la vida",
+    "premium": "false",
+    "positive": true,
+    "id": 3907
+  },
+  {
+    "preset_id": 559,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "So ist das Leben",
+    "premium": "false",
+    "positive": true,
+    "id": 3908
+  },
+  {
+    "preset_id": 559,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Assim é a vida",
+    "premium": "false",
+    "positive": true,
+    "id": 3909
+  },
+  {
+    "preset_id": 559,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Takie życie",
+    "premium": "false",
+    "positive": true,
+    "id": 3910
+  },
+  {
+    "preset_id": 559,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Такова жизнь",
+    "premium": "false",
+    "positive": true,
+    "id": 3911
+  },
+  {
+    "preset_id": 559,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "这就是生活",
+    "premium": "false",
+    "positive": true,
+    "id": 3912
+  }
+]

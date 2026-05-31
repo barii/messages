@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 213,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Did we ever date?",
+    "premium": "false",
+    "positive": true,
+    "id": 1484
+  },
+  {
+    "preset_id": 213,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Salimos alguna vez?",
+    "premium": "false",
+    "positive": true,
+    "id": 1485
+  },
+  {
+    "preset_id": 213,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Hatten wir je was miteinander?",
+    "premium": "false",
+    "positive": true,
+    "id": 1486
+  },
+  {
+    "preset_id": 213,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Já namorámos?",
+    "premium": "false",
+    "positive": true,
+    "id": 1487
+  },
+  {
+    "preset_id": 213,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Czy kiedykolwiek się umawialiśmy?",
+    "premium": "false",
+    "positive": true,
+    "id": 1488
+  },
+  {
+    "preset_id": 213,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Мы когда-нибудь встречались?",
+    "premium": "false",
+    "positive": true,
+    "id": 1489
+  },
+  {
+    "preset_id": 213,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我们以前约会过吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1490
+  }
+]

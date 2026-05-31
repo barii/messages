@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1592,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Not so loud now are you.",
+    "premium": "false",
+    "positive": true,
+    "id": 11137
+  },
+  {
+    "preset_id": 1592,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "No tan altos ahora, ¿verdad?",
+    "premium": "false",
+    "positive": true,
+    "id": 11138
+  },
+  {
+    "preset_id": 1592,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Jetzt nicht mehr so laut, oder?",
+    "premium": "false",
+    "positive": true,
+    "id": 11139
+  },
+  {
+    "preset_id": 1592,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Não tão alto agora, pois não?",
+    "premium": "false",
+    "positive": true,
+    "id": 11140
+  },
+  {
+    "preset_id": 1592,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Już nie tak głośno, prawda?",
+    "premium": "false",
+    "positive": true,
+    "id": 11141
+  },
+  {
+    "preset_id": 1592,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Не так громко теперь, да?",
+    "premium": "false",
+    "positive": true,
+    "id": 11142
+  },
+  {
+    "preset_id": 1592,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "现在没那么大声了吧?",
+    "premium": "false",
+    "positive": true,
+    "id": 11143
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 917,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Nothing lasts forever",
+    "premium": "false",
+    "positive": true,
+    "id": 6412
+  },
+  {
+    "preset_id": 917,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Nada dura para siempre",
+    "premium": "false",
+    "positive": true,
+    "id": 6413
+  },
+  {
+    "preset_id": 917,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Nichts hält ewig",
+    "premium": "false",
+    "positive": true,
+    "id": 6414
+  },
+  {
+    "preset_id": 917,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Nada dura para sempre",
+    "premium": "false",
+    "positive": true,
+    "id": 6415
+  },
+  {
+    "preset_id": 917,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Nic nie trwa wiecznie",
+    "premium": "false",
+    "positive": true,
+    "id": 6416
+  },
+  {
+    "preset_id": 917,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Ничто не вечно",
+    "premium": "false",
+    "positive": true,
+    "id": 6417
+  },
+  {
+    "preset_id": 917,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "没有什么是永恒的",
+    "premium": "false",
+    "positive": true,
+    "id": 6418
+  }
+]

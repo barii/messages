@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 269,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "I'm a guy",
+    "premium": "false",
+    "positive": true,
+    "id": 1876
+  },
+  {
+    "preset_id": 269,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Soy un chico",
+    "premium": "false",
+    "positive": true,
+    "id": 1877
+  },
+  {
+    "preset_id": 269,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Ich bin ein Typ",
+    "premium": "false",
+    "positive": true,
+    "id": 1878
+  },
+  {
+    "preset_id": 269,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Sou um rapaz",
+    "premium": "false",
+    "positive": true,
+    "id": 1879
+  },
+  {
+    "preset_id": 269,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Jestem facetem",
+    "premium": "false",
+    "positive": true,
+    "id": 1880
+  },
+  {
+    "preset_id": 269,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Я парень",
+    "premium": "false",
+    "positive": true,
+    "id": 1881
+  },
+  {
+    "preset_id": 269,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我是男生",
+    "premium": "false",
+    "positive": true,
+    "id": 1882
+  }
+]

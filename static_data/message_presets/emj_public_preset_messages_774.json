@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 774,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Sent me",
+    "premium": "false",
+    "positive": true,
+    "id": 5411
+  },
+  {
+    "preset_id": 774,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Me mató",
+    "premium": "false",
+    "positive": true,
+    "id": 5412
+  },
+  {
+    "preset_id": 774,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Bringt mich um",
+    "premium": "false",
+    "positive": true,
+    "id": 5413
+  },
+  {
+    "preset_id": 774,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Matou-me",
+    "premium": "false",
+    "positive": true,
+    "id": 5414
+  },
+  {
+    "preset_id": 774,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Zabiło mnie",
+    "premium": "false",
+    "positive": true,
+    "id": 5415
+  },
+  {
+    "preset_id": 774,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Убило меня",
+    "premium": "false",
+    "positive": true,
+    "id": 5416
+  },
+  {
+    "preset_id": 774,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "让我笑死了",
+    "premium": "false",
+    "positive": true,
+    "id": 5417
+  }
+]

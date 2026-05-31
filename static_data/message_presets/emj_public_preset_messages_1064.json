@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1064,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "I'm not joining the team night out, sorry",
+    "premium": "true",
+    "positive": true,
+    "id": 7441
+  },
+  {
+    "preset_id": 1064,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "No voy a la salida del equipo, lo siento",
+    "premium": "true",
+    "positive": true,
+    "id": 7442
+  },
+  {
+    "preset_id": 1064,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Ich komme nicht zum Team-Abend, sorry",
+    "premium": "true",
+    "positive": true,
+    "id": 7443
+  },
+  {
+    "preset_id": 1064,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Não vou à noite de equipa, desculpa",
+    "premium": "true",
+    "positive": true,
+    "id": 7444
+  },
+  {
+    "preset_id": 1064,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Nie idę na wieczór z zespołem, sorry",
+    "premium": "true",
+    "positive": true,
+    "id": 7445
+  },
+  {
+    "preset_id": 1064,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Я не пойду на командный вечер, извини",
+    "premium": "true",
+    "positive": true,
+    "id": 7446
+  },
+  {
+    "preset_id": 1064,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "我不参加团队之夜,抱歉",
+    "premium": "true",
+    "positive": true,
+    "id": 7447
+  }
+]

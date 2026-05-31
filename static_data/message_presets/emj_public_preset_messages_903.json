@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 903,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I've been thinking the same thing",
+    "premium": "false",
+    "positive": true,
+    "id": 6314
+  },
+  {
+    "preset_id": 903,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "He estado pensando lo mismo",
+    "premium": "false",
+    "positive": true,
+    "id": 6315
+  },
+  {
+    "preset_id": 903,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich habe dasselbe gedacht",
+    "premium": "false",
+    "positive": true,
+    "id": 6316
+  },
+  {
+    "preset_id": 903,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Tenho andado a pensar o mesmo",
+    "premium": "false",
+    "positive": true,
+    "id": 6317
+  },
+  {
+    "preset_id": 903,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Myślałem o tym samym",
+    "premium": "false",
+    "positive": true,
+    "id": 6318
+  },
+  {
+    "preset_id": 903,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Я думал о том же",
+    "premium": "false",
+    "positive": true,
+    "id": 6319
+  },
+  {
+    "preset_id": 903,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我一直在想同样的事情",
+    "premium": "false",
+    "positive": true,
+    "id": 6320
+  }
+]

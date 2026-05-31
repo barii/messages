@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 776,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Crying laughing",
+    "premium": "false",
+    "positive": true,
+    "id": 5425
+  },
+  {
+    "preset_id": 776,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Llorando de risa",
+    "premium": "false",
+    "positive": true,
+    "id": 5426
+  },
+  {
+    "preset_id": 776,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Lache mich tot",
+    "premium": "false",
+    "positive": true,
+    "id": 5427
+  },
+  {
+    "preset_id": 776,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "A chorar a rir",
+    "premium": "false",
+    "positive": true,
+    "id": 5428
+  },
+  {
+    "preset_id": 776,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Śmieję się do łez",
+    "premium": "false",
+    "positive": true,
+    "id": 5429
+  },
+  {
+    "preset_id": 776,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Плачу от смеха",
+    "premium": "false",
+    "positive": true,
+    "id": 5430
+  },
+  {
+    "preset_id": 776,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "笑哭了",
+    "premium": "false",
+    "positive": true,
+    "id": 5431
+  }
+]

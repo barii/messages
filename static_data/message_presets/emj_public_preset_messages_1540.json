@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1540,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Your team is a joke.",
+    "premium": "false",
+    "positive": true,
+    "id": 10773
+  },
+  {
+    "preset_id": 1540,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Vuestro equipo es un chiste.",
+    "premium": "false",
+    "positive": true,
+    "id": 10774
+  },
+  {
+    "preset_id": 1540,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Eure Mannschaft ist ein Witz.",
+    "premium": "false",
+    "positive": true,
+    "id": 10775
+  },
+  {
+    "preset_id": 1540,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "A vossa equipa é uma piada.",
+    "premium": "false",
+    "positive": true,
+    "id": 10776
+  },
+  {
+    "preset_id": 1540,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Wasza drużyna to żart.",
+    "premium": "false",
+    "positive": true,
+    "id": 10777
+  },
+  {
+    "preset_id": 1540,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Ваша команда — шутка.",
+    "premium": "false",
+    "positive": true,
+    "id": 10778
+  },
+  {
+    "preset_id": 1540,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们队就是个笑话。",
+    "premium": "false",
+    "positive": true,
+    "id": 10779
+  }
+]

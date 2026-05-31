@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1033,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "I need a coffee",
+    "premium": "false",
+    "positive": true,
+    "id": 7224
+  },
+  {
+    "preset_id": 1033,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Necesito un café",
+    "premium": "false",
+    "positive": true,
+    "id": 7225
+  },
+  {
+    "preset_id": 1033,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Ich brauche einen Kaffee",
+    "premium": "false",
+    "positive": true,
+    "id": 7226
+  },
+  {
+    "preset_id": 1033,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Preciso de um café",
+    "premium": "false",
+    "positive": true,
+    "id": 7227
+  },
+  {
+    "preset_id": 1033,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Potrzebuję kawy",
+    "premium": "false",
+    "positive": true,
+    "id": 7228
+  },
+  {
+    "preset_id": 1033,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Мне нужен кофе",
+    "premium": "false",
+    "positive": true,
+    "id": 7229
+  },
+  {
+    "preset_id": 1033,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "我需要一杯咖啡",
+    "premium": "false",
+    "positive": true,
+    "id": 7230
+  }
+]

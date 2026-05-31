@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 117,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you taking care of yourself?",
+    "premium": "false",
+    "positive": true,
+    "id": 812
+  },
+  {
+    "preset_id": 117,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Te estás cuidando?",
+    "premium": "false",
+    "positive": true,
+    "id": 813
+  },
+  {
+    "preset_id": 117,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Passt du auf dich auf?",
+    "premium": "false",
+    "positive": true,
+    "id": 814
+  },
+  {
+    "preset_id": 117,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás a cuidar de ti?",
+    "premium": "false",
+    "positive": true,
+    "id": 815
+  },
+  {
+    "preset_id": 117,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Czy dbasz o siebie?",
+    "premium": "false",
+    "positive": true,
+    "id": 816
+  },
+  {
+    "preset_id": 117,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты заботишься о себе?",
+    "premium": "false",
+    "positive": true,
+    "id": 817
+  },
+  {
+    "preset_id": 117,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你在照顾自己吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 818
+  }
+]

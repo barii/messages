@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1380,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You choked.",
+    "premium": "false",
+    "positive": true,
+    "id": 9653
+  },
+  {
+    "preset_id": 1380,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Os habéis ahogado.",
+    "premium": "false",
+    "positive": true,
+    "id": 9654
+  },
+  {
+    "preset_id": 1380,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr habt euch verschluckt.",
+    "premium": "false",
+    "positive": true,
+    "id": 9655
+  },
+  {
+    "preset_id": 1380,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Sufocaram.",
+    "premium": "false",
+    "positive": true,
+    "id": 9656
+  },
+  {
+    "preset_id": 1380,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Zadławiliście się.",
+    "premium": "false",
+    "positive": true,
+    "id": 9657
+  },
+  {
+    "preset_id": 1380,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Захлебнулись.",
+    "premium": "false",
+    "positive": true,
+    "id": 9658
+  },
+  {
+    "preset_id": 1380,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们呛到了。",
+    "premium": "false",
+    "positive": true,
+    "id": 9659
+  }
+]

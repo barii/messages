@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 181,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Do you want to see me?",
+    "premium": "false",
+    "positive": true,
+    "id": 1260
+  },
+  {
+    "preset_id": 181,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Quieres verme?",
+    "premium": "false",
+    "positive": true,
+    "id": 1261
+  },
+  {
+    "preset_id": 181,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Willst du mich sehen?",
+    "premium": "false",
+    "positive": true,
+    "id": 1262
+  },
+  {
+    "preset_id": 181,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Queres ver-me?",
+    "premium": "false",
+    "positive": true,
+    "id": 1263
+  },
+  {
+    "preset_id": 181,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Chcesz mnie zobaczyć?",
+    "premium": "false",
+    "positive": true,
+    "id": 1264
+  },
+  {
+    "preset_id": 181,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Хочешь меня увидеть?",
+    "premium": "false",
+    "positive": true,
+    "id": 1265
+  },
+  {
+    "preset_id": 181,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你想见我吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1266
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 541,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "That's crazy",
+    "premium": "false",
+    "positive": true,
+    "id": 3780
+  },
+  {
+    "preset_id": 541,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Es una locura",
+    "premium": "false",
+    "positive": true,
+    "id": 3781
+  },
+  {
+    "preset_id": 541,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Das ist verrückt",
+    "premium": "false",
+    "positive": true,
+    "id": 3782
+  },
+  {
+    "preset_id": 541,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Isso é doido",
+    "premium": "false",
+    "positive": true,
+    "id": 3783
+  },
+  {
+    "preset_id": 541,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "To szalone",
+    "premium": "false",
+    "positive": true,
+    "id": 3784
+  },
+  {
+    "preset_id": 541,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Это безумно",
+    "premium": "false",
+    "positive": true,
+    "id": 3785
+  },
+  {
+    "preset_id": 541,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "太疯狂了",
+    "premium": "false",
+    "positive": true,
+    "id": 3786
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 86,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "That was basic",
+    "premium": "false",
+    "positive": false,
+    "id": 595
+  },
+  {
+    "preset_id": 86,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Eso fue básico",
+    "premium": "false",
+    "positive": false,
+    "id": 596
+  },
+  {
+    "preset_id": 86,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Das war basic",
+    "premium": "false",
+    "positive": false,
+    "id": 597
+  },
+  {
+    "preset_id": 86,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Isso foi básico",
+    "premium": "false",
+    "positive": false,
+    "id": 598
+  },
+  {
+    "preset_id": 86,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "To było podstawowe",
+    "premium": "false",
+    "positive": false,
+    "id": 599
+  },
+  {
+    "preset_id": 86,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Это было базово",
+    "premium": "false",
+    "positive": false,
+    "id": 600
+  },
+  {
+    "preset_id": 86,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "那太基础了",
+    "premium": "false",
+    "positive": false,
+    "id": 601
+  }
+]

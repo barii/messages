@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1773,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Defense? More like no-fense!",
+    "premium": "false",
+    "positive": true,
+    "id": 12404
+  },
+  {
+    "preset_id": 1773,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Defense? More like no-fense!",
+    "premium": "false",
+    "positive": true,
+    "id": 12405
+  },
+  {
+    "preset_id": 1773,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Defense? More like no-fense!",
+    "premium": "false",
+    "positive": true,
+    "id": 12406
+  },
+  {
+    "preset_id": 1773,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Defense? More like no-fense!",
+    "premium": "false",
+    "positive": true,
+    "id": 12407
+  },
+  {
+    "preset_id": 1773,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Defense? More like no-fense!",
+    "premium": "false",
+    "positive": true,
+    "id": 12408
+  },
+  {
+    "preset_id": 1773,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Defense? More like no-fense!",
+    "premium": "false",
+    "positive": true,
+    "id": 12409
+  },
+  {
+    "preset_id": 1773,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Defense? More like no-fense!",
+    "premium": "false",
+    "positive": true,
+    "id": 12410
+  }
+]

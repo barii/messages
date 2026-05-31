@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1561,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Noted.",
+    "premium": "false",
+    "positive": true,
+    "id": 10920
+  },
+  {
+    "preset_id": 1561,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Tomado nota.",
+    "premium": "false",
+    "positive": true,
+    "id": 10921
+  },
+  {
+    "preset_id": 1561,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Notiert.",
+    "premium": "false",
+    "positive": true,
+    "id": 10922
+  },
+  {
+    "preset_id": 1561,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Anotado.",
+    "premium": "false",
+    "positive": true,
+    "id": 10923
+  },
+  {
+    "preset_id": 1561,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Zanotowane.",
+    "premium": "false",
+    "positive": true,
+    "id": 10924
+  },
+  {
+    "preset_id": 1561,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Принято.",
+    "premium": "false",
+    "positive": true,
+    "id": 10925
+  },
+  {
+    "preset_id": 1561,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "记下了。",
+    "premium": "false",
+    "positive": true,
+    "id": 10926
+  }
+]

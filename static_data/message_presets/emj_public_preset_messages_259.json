@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 259,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We're neighbors",
+    "premium": "false",
+    "positive": true,
+    "id": 1806
+  },
+  {
+    "preset_id": 259,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Somos vecinos",
+    "premium": "false",
+    "positive": true,
+    "id": 1807
+  },
+  {
+    "preset_id": 259,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir sind Nachbarn",
+    "premium": "false",
+    "positive": true,
+    "id": 1808
+  },
+  {
+    "preset_id": 259,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Somos vizinhos",
+    "premium": "false",
+    "positive": true,
+    "id": 1809
+  },
+  {
+    "preset_id": 259,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Jesteśmy sąsiadami",
+    "premium": "false",
+    "positive": true,
+    "id": 1810
+  },
+  {
+    "preset_id": 259,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы соседи",
+    "premium": "false",
+    "positive": true,
+    "id": 1811
+  },
+  {
+    "preset_id": 259,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们是邻居",
+    "premium": "false",
+    "positive": true,
+    "id": 1812
+  }
+]

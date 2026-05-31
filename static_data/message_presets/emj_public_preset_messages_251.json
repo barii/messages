@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 251,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We met through mutual friends",
+    "premium": "false",
+    "positive": true,
+    "id": 1750
+  },
+  {
+    "preset_id": 251,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Nos conocimos por amigos en común",
+    "premium": "false",
+    "positive": true,
+    "id": 1751
+  },
+  {
+    "preset_id": 251,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir haben uns über gemeinsame Freunde kennengelernt",
+    "premium": "false",
+    "positive": true,
+    "id": 1752
+  },
+  {
+    "preset_id": 251,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Conhecemo-nos através de amigos",
+    "premium": "false",
+    "positive": true,
+    "id": 1753
+  },
+  {
+    "preset_id": 251,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Poznaliśmy się przez wspólnych znajomych",
+    "premium": "false",
+    "positive": true,
+    "id": 1754
+  },
+  {
+    "preset_id": 251,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы познакомились через общих друзей",
+    "premium": "false",
+    "positive": true,
+    "id": 1755
+  },
+  {
+    "preset_id": 251,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们通过共同朋友认识",
+    "premium": "false",
+    "positive": true,
+    "id": 1756
+  }
+]

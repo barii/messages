@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 294,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm tired",
+    "premium": "false",
+    "positive": true,
+    "id": 2051
+  },
+  {
+    "preset_id": 294,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Estoy cansado",
+    "premium": "false",
+    "positive": true,
+    "id": 2052
+  },
+  {
+    "preset_id": 294,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin müde",
+    "premium": "false",
+    "positive": true,
+    "id": 2053
+  },
+  {
+    "preset_id": 294,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Estou cansado",
+    "premium": "false",
+    "positive": true,
+    "id": 2054
+  },
+  {
+    "preset_id": 294,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem zmęczony",
+    "premium": "false",
+    "positive": true,
+    "id": 2055
+  },
+  {
+    "preset_id": 294,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я устал",
+    "premium": "false",
+    "positive": true,
+    "id": 2056
+  },
+  {
+    "preset_id": 294,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我累了",
+    "premium": "false",
+    "positive": true,
+    "id": 2057
+  }
+]

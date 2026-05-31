@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 759,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I have your back",
+    "premium": "false",
+    "positive": true,
+    "id": 5306
+  },
+  {
+    "preset_id": 759,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Te cubro",
+    "premium": "false",
+    "positive": true,
+    "id": 5307
+  },
+  {
+    "preset_id": 759,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Ich hab deinen Rücken",
+    "premium": "false",
+    "positive": true,
+    "id": 5308
+  },
+  {
+    "preset_id": 759,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Tens-me a teu lado",
+    "premium": "false",
+    "positive": true,
+    "id": 5309
+  },
+  {
+    "preset_id": 759,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Mam twoje plecy",
+    "premium": "false",
+    "positive": true,
+    "id": 5310
+  },
+  {
+    "preset_id": 759,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Я тебя прикрою",
+    "premium": "false",
+    "positive": true,
+    "id": 5311
+  },
+  {
+    "preset_id": 759,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我罩着你",
+    "premium": "false",
+    "positive": true,
+    "id": 5312
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1359,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Couldn't fill your own stadium.",
+    "premium": "true",
+    "positive": true,
+    "id": 9506
+  },
+  {
+    "preset_id": 1359,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Ni siquiera podéis llenar vuestro propio estadio.",
+    "premium": "true",
+    "positive": true,
+    "id": 9507
+  },
+  {
+    "preset_id": 1359,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr kriegt nicht mal euer eigenes Stadion voll.",
+    "premium": "true",
+    "positive": true,
+    "id": 9508
+  },
+  {
+    "preset_id": 1359,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Nem conseguem encher o vosso próprio estádio.",
+    "premium": "true",
+    "positive": true,
+    "id": 9509
+  },
+  {
+    "preset_id": 1359,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Nie potraficie nawet wypełnić własnego stadionu.",
+    "premium": "true",
+    "positive": true,
+    "id": 9510
+  },
+  {
+    "preset_id": 1359,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Не можете заполнить даже свой стадион.",
+    "premium": "true",
+    "positive": true,
+    "id": 9511
+  },
+  {
+    "preset_id": 1359,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "连自己的球场都填不满。",
+    "premium": "true",
+    "positive": true,
+    "id": 9512
+  }
+]

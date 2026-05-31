@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 991,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You're quick to judge",
+    "premium": "true",
+    "positive": true,
+    "id": 6930
+  },
+  {
+    "preset_id": 991,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Eres rápido para juzgar",
+    "premium": "true",
+    "positive": true,
+    "id": 6931
+  },
+  {
+    "preset_id": 991,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du urteilst schnell",
+    "premium": "true",
+    "positive": true,
+    "id": 6932
+  },
+  {
+    "preset_id": 991,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "És rápido a julgar",
+    "premium": "true",
+    "positive": true,
+    "id": 6933
+  },
+  {
+    "preset_id": 991,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Szybko oceniasz",
+    "premium": "true",
+    "positive": true,
+    "id": 6934
+  },
+  {
+    "preset_id": 991,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты быстро судишь",
+    "premium": "true",
+    "positive": true,
+    "id": 6935
+  },
+  {
+    "preset_id": 991,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你太快下判断",
+    "premium": "true",
+    "positive": true,
+    "id": 6936
+  }
+]

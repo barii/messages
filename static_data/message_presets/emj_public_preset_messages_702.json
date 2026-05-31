@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 702,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "All good",
+    "premium": "false",
+    "positive": true,
+    "id": 4907
+  },
+  {
+    "preset_id": 702,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Todo bien",
+    "premium": "false",
+    "positive": true,
+    "id": 4908
+  },
+  {
+    "preset_id": 702,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Alles gut",
+    "premium": "false",
+    "positive": true,
+    "id": 4909
+  },
+  {
+    "preset_id": 702,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Tudo bem",
+    "premium": "false",
+    "positive": true,
+    "id": 4910
+  },
+  {
+    "preset_id": 702,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Wszystko ok",
+    "premium": "false",
+    "positive": true,
+    "id": 4911
+  },
+  {
+    "preset_id": 702,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Всё ок",
+    "premium": "false",
+    "positive": true,
+    "id": 4912
+  },
+  {
+    "preset_id": 702,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "都好",
+    "premium": "false",
+    "positive": true,
+    "id": 4913
+  }
+]

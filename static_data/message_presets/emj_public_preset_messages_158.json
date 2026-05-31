@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 158,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you religious?",
+    "premium": "false",
+    "positive": true,
+    "id": 1099
+  },
+  {
+    "preset_id": 158,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Eres religioso?",
+    "premium": "false",
+    "positive": true,
+    "id": 1100
+  },
+  {
+    "preset_id": 158,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du religiös?",
+    "premium": "false",
+    "positive": true,
+    "id": 1101
+  },
+  {
+    "preset_id": 158,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "És religioso?",
+    "premium": "false",
+    "positive": true,
+    "id": 1102
+  },
+  {
+    "preset_id": 158,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Czy jesteś religijny?",
+    "premium": "false",
+    "positive": true,
+    "id": 1103
+  },
+  {
+    "preset_id": 158,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты религиозный?",
+    "premium": "false",
+    "positive": true,
+    "id": 1104
+  },
+  {
+    "preset_id": 158,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你有宗教信仰吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1105
+  }
+]

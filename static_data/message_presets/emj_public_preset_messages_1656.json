@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1656,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Bless you.",
+    "premium": "false",
+    "positive": true,
+    "id": 11585
+  },
+  {
+    "preset_id": 1656,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Bendito tú.",
+    "premium": "false",
+    "positive": true,
+    "id": 11586
+  },
+  {
+    "preset_id": 1656,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ach Gottchen.",
+    "premium": "false",
+    "positive": true,
+    "id": 11587
+  },
+  {
+    "preset_id": 1656,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Coitadinho de ti.",
+    "premium": "false",
+    "positive": true,
+    "id": 11588
+  },
+  {
+    "preset_id": 1656,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Biedaczku.",
+    "premium": "false",
+    "positive": true,
+    "id": 11589
+  },
+  {
+    "preset_id": 1656,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Бедненькие вы.",
+    "premium": "false",
+    "positive": true,
+    "id": 11590
+  },
+  {
+    "preset_id": 1656,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "可怜的你们。",
+    "premium": "false",
+    "positive": true,
+    "id": 11591
+  }
+]

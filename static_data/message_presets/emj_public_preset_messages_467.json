@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 467,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Fair enough",
+    "premium": "false",
+    "positive": true,
+    "id": 3262
+  },
+  {
+    "preset_id": 467,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Bastante justo",
+    "premium": "false",
+    "positive": true,
+    "id": 3263
+  },
+  {
+    "preset_id": 467,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ist fair",
+    "premium": "false",
+    "positive": true,
+    "id": 3264
+  },
+  {
+    "preset_id": 467,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Justo o suficiente",
+    "premium": "false",
+    "positive": true,
+    "id": 3265
+  },
+  {
+    "preset_id": 467,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Wystarczająco sprawiedliwie",
+    "premium": "false",
+    "positive": true,
+    "id": 3266
+  },
+  {
+    "preset_id": 467,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Достаточно справедливо",
+    "premium": "false",
+    "positive": true,
+    "id": 3267
+  },
+  {
+    "preset_id": 467,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "够公平",
+    "premium": "false",
+    "positive": true,
+    "id": 3268
+  }
+]

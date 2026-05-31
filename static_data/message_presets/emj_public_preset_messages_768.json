@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 768,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I'm dead",
+    "premium": "false",
+    "positive": true,
+    "id": 5369
+  },
+  {
+    "preset_id": 768,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Me muero",
+    "premium": "false",
+    "positive": true,
+    "id": 5370
+  },
+  {
+    "preset_id": 768,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Ich bin tot",
+    "premium": "false",
+    "positive": true,
+    "id": 5371
+  },
+  {
+    "preset_id": 768,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Estou morto",
+    "premium": "false",
+    "positive": true,
+    "id": 5372
+  },
+  {
+    "preset_id": 768,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Umieram",
+    "premium": "false",
+    "positive": true,
+    "id": 5373
+  },
+  {
+    "preset_id": 768,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Я мёртв",
+    "premium": "false",
+    "positive": true,
+    "id": 5374
+  },
+  {
+    "preset_id": 768,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我死了",
+    "premium": "false",
+    "positive": true,
+    "id": 5375
+  }
+]

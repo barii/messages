@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1449,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Look at the table.",
+    "premium": "true",
+    "positive": true,
+    "id": 10136
+  },
+  {
+    "preset_id": 1449,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Mirad la tabla.",
+    "premium": "true",
+    "positive": true,
+    "id": 10137
+  },
+  {
+    "preset_id": 1449,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Schaut auf die Tabelle.",
+    "premium": "true",
+    "positive": true,
+    "id": 10138
+  },
+  {
+    "preset_id": 1449,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Olhem para a tabela.",
+    "premium": "true",
+    "positive": true,
+    "id": 10139
+  },
+  {
+    "preset_id": 1449,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Spójrzcie na tabelę.",
+    "premium": "true",
+    "positive": true,
+    "id": 10140
+  },
+  {
+    "preset_id": 1449,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Посмотрите на таблицу.",
+    "premium": "true",
+    "positive": true,
+    "id": 10141
+  },
+  {
+    "preset_id": 1449,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "看看积分榜。",
+    "premium": "true",
+    "positive": true,
+    "id": 10142
+  }
+]

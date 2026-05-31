@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1416,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Beating you is so easy.",
+    "premium": "false",
+    "positive": true,
+    "id": 9905
+  },
+  {
+    "preset_id": 1416,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Venceros es muy fácil.",
+    "premium": "false",
+    "positive": true,
+    "id": 9906
+  },
+  {
+    "preset_id": 1416,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Euch zu schlagen ist so einfach.",
+    "premium": "false",
+    "positive": true,
+    "id": 9907
+  },
+  {
+    "preset_id": 1416,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Ganhar-vos é tão fácil.",
+    "premium": "false",
+    "positive": true,
+    "id": 9908
+  },
+  {
+    "preset_id": 1416,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Pokonanie was jest takie łatwe.",
+    "premium": "false",
+    "positive": true,
+    "id": 9909
+  },
+  {
+    "preset_id": 1416,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Побеждать вас так легко.",
+    "premium": "false",
+    "positive": true,
+    "id": 9910
+  },
+  {
+    "preset_id": 1416,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "击败你们太简单了。",
+    "premium": "false",
+    "positive": true,
+    "id": 9911
+  }
+]

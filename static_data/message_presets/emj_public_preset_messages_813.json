@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 813,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "So smooth",
+    "premium": "false",
+    "positive": true,
+    "id": 5684
+  },
+  {
+    "preset_id": 813,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Qué suave",
+    "premium": "false",
+    "positive": true,
+    "id": 5685
+  },
+  {
+    "preset_id": 813,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "So glatt",
+    "premium": "false",
+    "positive": true,
+    "id": 5686
+  },
+  {
+    "preset_id": 813,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Tão suave",
+    "premium": "false",
+    "positive": true,
+    "id": 5687
+  },
+  {
+    "preset_id": 813,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Bardzo gładko",
+    "premium": "false",
+    "positive": true,
+    "id": 5688
+  },
+  {
+    "preset_id": 813,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Так гладко",
+    "premium": "false",
+    "positive": true,
+    "id": 5689
+  },
+  {
+    "preset_id": 813,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "太丝滑了",
+    "premium": "false",
+    "positive": true,
+    "id": 5690
+  }
+]

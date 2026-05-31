@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 26,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "Your smile is contagious",
+    "premium": "false",
+    "positive": true,
+    "id": 175
+  },
+  {
+    "preset_id": 26,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Tu sonrisa es contagiosa",
+    "premium": "false",
+    "positive": true,
+    "id": 176
+  },
+  {
+    "preset_id": 26,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Dein Lächeln ist ansteckend",
+    "premium": "false",
+    "positive": true,
+    "id": 177
+  },
+  {
+    "preset_id": 26,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "O teu sorriso é contagiante",
+    "premium": "false",
+    "positive": true,
+    "id": 178
+  },
+  {
+    "preset_id": 26,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Twój uśmiech jest zaraźliwy",
+    "premium": "false",
+    "positive": true,
+    "id": 179
+  },
+  {
+    "preset_id": 26,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Твоя улыбка заразительна",
+    "premium": "false",
+    "positive": true,
+    "id": 180
+  },
+  {
+    "preset_id": 26,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你的笑容有感染力",
+    "premium": "false",
+    "positive": true,
+    "id": 181
+  }
+]

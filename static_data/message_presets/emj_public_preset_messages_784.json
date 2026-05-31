@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 784,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Said what you said",
+    "premium": "false",
+    "positive": true,
+    "id": 5481
+  },
+  {
+    "preset_id": 784,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Dijiste lo que dijiste",
+    "premium": "false",
+    "positive": true,
+    "id": 5482
+  },
+  {
+    "preset_id": 784,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Du sagst es",
+    "premium": "false",
+    "positive": true,
+    "id": 5483
+  },
+  {
+    "preset_id": 784,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Disseste o que disseste",
+    "premium": "false",
+    "positive": true,
+    "id": 5484
+  },
+  {
+    "preset_id": 784,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Powiedziałeś, co powiedziałeś",
+    "premium": "false",
+    "positive": true,
+    "id": 5485
+  },
+  {
+    "preset_id": 784,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Сказал что сказал",
+    "premium": "false",
+    "positive": true,
+    "id": 5486
+  },
+  {
+    "preset_id": 784,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "你说得对",
+    "premium": "false",
+    "positive": true,
+    "id": 5487
+  }
+]

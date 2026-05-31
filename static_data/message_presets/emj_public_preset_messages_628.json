@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 628,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Cool story",
+    "premium": "false",
+    "positive": true,
+    "id": 4389
+  },
+  {
+    "preset_id": 628,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Qué historia",
+    "premium": "false",
+    "positive": true,
+    "id": 4390
+  },
+  {
+    "preset_id": 628,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Coole Geschichte",
+    "premium": "false",
+    "positive": true,
+    "id": 4391
+  },
+  {
+    "preset_id": 628,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Que história",
+    "premium": "false",
+    "positive": true,
+    "id": 4392
+  },
+  {
+    "preset_id": 628,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Niezła historia",
+    "premium": "false",
+    "positive": true,
+    "id": 4393
+  },
+  {
+    "preset_id": 628,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Крутая история",
+    "premium": "false",
+    "positive": true,
+    "id": 4394
+  },
+  {
+    "preset_id": 628,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "故事不错",
+    "premium": "false",
+    "positive": true,
+    "id": 4395
+  }
+]

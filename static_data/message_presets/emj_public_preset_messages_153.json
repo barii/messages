@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 153,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you happy in your relationship?",
+    "premium": "false",
+    "positive": true,
+    "id": 1064
+  },
+  {
+    "preset_id": 153,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Eres feliz en tu relación?",
+    "premium": "false",
+    "positive": true,
+    "id": 1065
+  },
+  {
+    "preset_id": 153,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du glücklich in deiner Beziehung?",
+    "premium": "false",
+    "positive": true,
+    "id": 1066
+  },
+  {
+    "preset_id": 153,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás feliz na tua relação?",
+    "premium": "false",
+    "positive": true,
+    "id": 1067
+  },
+  {
+    "preset_id": 153,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Czy jesteś szczęśliwy w swoim związku?",
+    "premium": "false",
+    "positive": true,
+    "id": 1068
+  },
+  {
+    "preset_id": 153,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты счастлив в отношениях?",
+    "premium": "false",
+    "positive": true,
+    "id": 1069
+  },
+  {
+    "preset_id": 153,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你在恋爱中开心吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1070
+  }
+]

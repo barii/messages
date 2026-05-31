@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 608,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I hear you",
+    "premium": "false",
+    "positive": true,
+    "id": 4249
+  },
+  {
+    "preset_id": 608,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Te escucho",
+    "premium": "false",
+    "positive": true,
+    "id": 4250
+  },
+  {
+    "preset_id": 608,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ich höre dich",
+    "premium": "false",
+    "positive": true,
+    "id": 4251
+  },
+  {
+    "preset_id": 608,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Estou a ouvir-te",
+    "premium": "false",
+    "positive": true,
+    "id": 4252
+  },
+  {
+    "preset_id": 608,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Słyszę cię",
+    "premium": "false",
+    "positive": true,
+    "id": 4253
+  },
+  {
+    "preset_id": 608,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Я тебя слышу",
+    "premium": "false",
+    "positive": true,
+    "id": 4254
+  },
+  {
+    "preset_id": 608,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我听到了",
+    "premium": "false",
+    "positive": true,
+    "id": 4255
+  }
+]

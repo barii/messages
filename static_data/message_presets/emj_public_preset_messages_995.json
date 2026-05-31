@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 995,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You give criticism but can't take it",
+    "premium": "false",
+    "positive": true,
+    "id": 6958
+  },
+  {
+    "preset_id": 995,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Das críticas pero no las aceptas",
+    "premium": "false",
+    "positive": true,
+    "id": 6959
+  },
+  {
+    "preset_id": 995,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du teilst Kritik aus, kannst sie aber nicht nehmen",
+    "premium": "false",
+    "positive": true,
+    "id": 6960
+  },
+  {
+    "preset_id": 995,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Dás críticas mas não as aceitas",
+    "premium": "false",
+    "positive": true,
+    "id": 6961
+  },
+  {
+    "preset_id": 995,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Dajesz krytykę, ale nie potrafisz jej przyjąć",
+    "premium": "false",
+    "positive": true,
+    "id": 6962
+  },
+  {
+    "preset_id": 995,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты даёшь критику, но не можешь её принять",
+    "premium": "false",
+    "positive": true,
+    "id": 6963
+  },
+  {
+    "preset_id": 995,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你给批评但承受不了",
+    "premium": "false",
+    "positive": true,
+    "id": 6964
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1327,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Bottom three vibes.",
+    "premium": "false",
+    "positive": true,
+    "id": 9282
+  },
+  {
+    "preset_id": 1327,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Energía de zona de descenso.",
+    "premium": "false",
+    "positive": true,
+    "id": 9283
+  },
+  {
+    "preset_id": 1327,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Abstiegszone-Vibes.",
+    "premium": "false",
+    "positive": true,
+    "id": 9284
+  },
+  {
+    "preset_id": 1327,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Atmosfera de zona de descida.",
+    "premium": "false",
+    "positive": true,
+    "id": 9285
+  },
+  {
+    "preset_id": 1327,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Klimat strefy spadkowej.",
+    "premium": "false",
+    "positive": true,
+    "id": 9286
+  },
+  {
+    "preset_id": 1327,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Атмосфера зоны вылета.",
+    "premium": "false",
+    "positive": true,
+    "id": 9287
+  },
+  {
+    "preset_id": 1327,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "降级区的氛围。",
+    "premium": "false",
+    "positive": true,
+    "id": 9288
+  }
+]

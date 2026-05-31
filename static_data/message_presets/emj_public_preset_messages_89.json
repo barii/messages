@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 89,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "Big talk for someone with your track record",
+    "premium": "false",
+    "positive": false,
+    "id": 616
+  },
+  {
+    "preset_id": 89,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Mucho hablar para alguien con tu historial",
+    "premium": "false",
+    "positive": false,
+    "id": 617
+  },
+  {
+    "preset_id": 89,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Große Worte für jemanden mit deinem Track Record",
+    "premium": "false",
+    "positive": false,
+    "id": 618
+  },
+  {
+    "preset_id": 89,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Muita conversa para alguém com o teu historial",
+    "premium": "false",
+    "positive": false,
+    "id": 619
+  },
+  {
+    "preset_id": 89,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Wielkie słowa jak na kogoś z twoim dorobkiem",
+    "premium": "false",
+    "positive": false,
+    "id": 620
+  },
+  {
+    "preset_id": 89,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Громкие слова для кого-то с твоей историей",
+    "premium": "false",
+    "positive": false,
+    "id": 621
+  },
+  {
+    "preset_id": 89,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "凭你的经历,说大话",
+    "premium": "false",
+    "positive": false,
+    "id": 622
+  }
+]

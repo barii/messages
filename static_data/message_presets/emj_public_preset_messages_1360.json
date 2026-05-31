@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1360,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You bought your trophies.",
+    "premium": "true",
+    "positive": true,
+    "id": 9513
+  },
+  {
+    "preset_id": 1360,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Habéis comprado vuestros trofeos.",
+    "premium": "true",
+    "positive": true,
+    "id": 9514
+  },
+  {
+    "preset_id": 1360,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr habt eure Pokale gekauft.",
+    "premium": "true",
+    "positive": true,
+    "id": 9515
+  },
+  {
+    "preset_id": 1360,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Compraram os vossos troféus.",
+    "premium": "true",
+    "positive": true,
+    "id": 9516
+  },
+  {
+    "preset_id": 1360,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Kupiliście swoje trofea.",
+    "premium": "true",
+    "positive": true,
+    "id": 9517
+  },
+  {
+    "preset_id": 1360,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Вы купили свои трофеи.",
+    "premium": "true",
+    "positive": true,
+    "id": 9518
+  },
+  {
+    "preset_id": 1360,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们的奖杯是买来的。",
+    "premium": "true",
+    "positive": true,
+    "id": 9519
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 915,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Things will look different in the morning",
+    "premium": "false",
+    "positive": true,
+    "id": 6398
+  },
+  {
+    "preset_id": 915,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Las cosas se verán diferentes por la mañana",
+    "premium": "false",
+    "positive": true,
+    "id": 6399
+  },
+  {
+    "preset_id": 915,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Die Dinge sehen morgen anders aus",
+    "premium": "false",
+    "positive": true,
+    "id": 6400
+  },
+  {
+    "preset_id": 915,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "As coisas vão parecer diferentes de manhã",
+    "premium": "false",
+    "positive": true,
+    "id": 6401
+  },
+  {
+    "preset_id": 915,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Rano sprawy będą wyglądać inaczej",
+    "premium": "false",
+    "positive": true,
+    "id": 6402
+  },
+  {
+    "preset_id": 915,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Утром всё будет выглядеть по-другому",
+    "premium": "false",
+    "positive": true,
+    "id": 6403
+  },
+  {
+    "preset_id": 915,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "事情早上看起来会不同",
+    "premium": "false",
+    "positive": true,
+    "id": 6404
+  }
+]

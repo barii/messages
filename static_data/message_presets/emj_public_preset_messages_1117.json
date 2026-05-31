@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1117,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "See you tomorrow",
+    "premium": "false",
+    "positive": true,
+    "id": 7812
+  },
+  {
+    "preset_id": 1117,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Nos vemos mañana",
+    "premium": "false",
+    "positive": true,
+    "id": 7813
+  },
+  {
+    "preset_id": 1117,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Bis morgen",
+    "premium": "false",
+    "positive": true,
+    "id": 7814
+  },
+  {
+    "preset_id": 1117,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Até amanhã",
+    "premium": "false",
+    "positive": true,
+    "id": 7815
+  },
+  {
+    "preset_id": 1117,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Do jutra",
+    "premium": "false",
+    "positive": true,
+    "id": 7816
+  },
+  {
+    "preset_id": 1117,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "До завтра",
+    "premium": "false",
+    "positive": true,
+    "id": 7817
+  },
+  {
+    "preset_id": 1117,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "明天见",
+    "premium": "false",
+    "positive": true,
+    "id": 7818
+  }
+]

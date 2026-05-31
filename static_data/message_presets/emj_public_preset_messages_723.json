@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 723,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "You're so sweet",
+    "premium": "false",
+    "positive": true,
+    "id": 5054
+  },
+  {
+    "preset_id": 723,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Eres muy dulce",
+    "premium": "false",
+    "positive": true,
+    "id": 5055
+  },
+  {
+    "preset_id": 723,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Du bist so süß",
+    "premium": "false",
+    "positive": true,
+    "id": 5056
+  },
+  {
+    "preset_id": 723,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "És tão querido",
+    "premium": "false",
+    "positive": true,
+    "id": 5057
+  },
+  {
+    "preset_id": 723,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Jesteś taki słodki",
+    "premium": "false",
+    "positive": true,
+    "id": 5058
+  },
+  {
+    "preset_id": 723,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Ты такой милый",
+    "premium": "false",
+    "positive": true,
+    "id": 5059
+  },
+  {
+    "preset_id": 723,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "你真贴心",
+    "premium": "false",
+    "positive": true,
+    "id": 5060
+  }
+]

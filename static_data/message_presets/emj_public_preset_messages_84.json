@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 84,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "Log off and go outside",
+    "premium": "true",
+    "positive": false,
+    "id": 581
+  },
+  {
+    "preset_id": 84,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Desconéctate y sal a la calle",
+    "premium": "true",
+    "positive": false,
+    "id": 582
+  },
+  {
+    "preset_id": 84,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Geh offline und raus",
+    "premium": "true",
+    "positive": false,
+    "id": 583
+  },
+  {
+    "preset_id": 84,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Sai da internet e vai para a rua",
+    "premium": "true",
+    "positive": false,
+    "id": 584
+  },
+  {
+    "preset_id": 84,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Wyloguj się i wyjdź na zewnątrz",
+    "premium": "true",
+    "positive": false,
+    "id": 585
+  },
+  {
+    "preset_id": 84,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Выйди в офлайн и на улицу",
+    "premium": "true",
+    "positive": false,
+    "id": 586
+  },
+  {
+    "preset_id": 84,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "下线出去走走",
+    "premium": "true",
+    "positive": false,
+    "id": 587
+  }
+]

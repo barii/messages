@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 180,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you doing anything tonight?",
+    "premium": "false",
+    "positive": true,
+    "id": 1253
+  },
+  {
+    "preset_id": 180,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Tienes planes esta noche?",
+    "premium": "false",
+    "positive": true,
+    "id": 1254
+  },
+  {
+    "preset_id": 180,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Hast du heute Abend was vor?",
+    "premium": "false",
+    "positive": true,
+    "id": 1255
+  },
+  {
+    "preset_id": 180,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Tens planos para hoje à noite?",
+    "premium": "false",
+    "positive": true,
+    "id": 1256
+  },
+  {
+    "preset_id": 180,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Masz dziś jakieś plany?",
+    "premium": "false",
+    "positive": true,
+    "id": 1257
+  },
+  {
+    "preset_id": 180,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "У тебя есть планы на сегодня?",
+    "premium": "false",
+    "positive": true,
+    "id": 1258
+  },
+  {
+    "preset_id": 180,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你今晚有什么安排吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1259
+  }
+]

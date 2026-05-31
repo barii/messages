@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 740,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I'm screaming",
+    "premium": "false",
+    "positive": true,
+    "id": 5173
+  },
+  {
+    "preset_id": 740,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Estoy gritando",
+    "premium": "false",
+    "positive": true,
+    "id": 5174
+  },
+  {
+    "preset_id": 740,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Ich schreie",
+    "premium": "false",
+    "positive": true,
+    "id": 5175
+  },
+  {
+    "preset_id": 740,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Estou aos gritos",
+    "premium": "false",
+    "positive": true,
+    "id": 5176
+  },
+  {
+    "preset_id": 740,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Krzyczę",
+    "premium": "false",
+    "positive": true,
+    "id": 5177
+  },
+  {
+    "preset_id": 740,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Я кричу",
+    "premium": "false",
+    "positive": true,
+    "id": 5178
+  },
+  {
+    "preset_id": 740,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我在尖叫",
+    "premium": "false",
+    "positive": true,
+    "id": 5179
+  }
+]

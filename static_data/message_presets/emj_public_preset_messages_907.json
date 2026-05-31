@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 907,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I'm closer than you think",
+    "premium": "true",
+    "positive": true,
+    "id": 6342
+  },
+  {
+    "preset_id": 907,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Estoy más cerca de lo que crees",
+    "premium": "true",
+    "positive": true,
+    "id": 6343
+  },
+  {
+    "preset_id": 907,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich bin näher, als du denkst",
+    "premium": "true",
+    "positive": true,
+    "id": 6344
+  },
+  {
+    "preset_id": 907,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Estou mais perto do que pensas",
+    "premium": "true",
+    "positive": true,
+    "id": 6345
+  },
+  {
+    "preset_id": 907,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Jestem bliżej, niż myślisz",
+    "premium": "true",
+    "positive": true,
+    "id": 6346
+  },
+  {
+    "preset_id": 907,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Я ближе, чем ты думаешь",
+    "premium": "true",
+    "positive": true,
+    "id": 6347
+  },
+  {
+    "preset_id": 907,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我比你想的更近",
+    "premium": "true",
+    "positive": true,
+    "id": 6348
+  }
+]

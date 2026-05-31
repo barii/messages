@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 141,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Were you expecting to hear from me?",
+    "premium": "false",
+    "positive": true,
+    "id": 980
+  },
+  {
+    "preset_id": 141,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Esperabas saber de mí?",
+    "premium": "false",
+    "positive": true,
+    "id": 981
+  },
+  {
+    "preset_id": 141,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Hast du erwartet, von mir zu hören?",
+    "premium": "false",
+    "positive": true,
+    "id": 982
+  },
+  {
+    "preset_id": 141,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estavas à espera de saber de mim?",
+    "premium": "false",
+    "positive": true,
+    "id": 983
+  },
+  {
+    "preset_id": 141,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Spodziewałeś się ode mnie wiadomości?",
+    "premium": "false",
+    "positive": true,
+    "id": 984
+  },
+  {
+    "preset_id": 141,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты ожидал услышать меня?",
+    "premium": "false",
+    "positive": true,
+    "id": 985
+  },
+  {
+    "preset_id": 141,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你预料到会收到我的消息吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 986
+  }
+]

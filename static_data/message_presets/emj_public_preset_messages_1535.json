@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1535,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "We have a big stadium because were a big team.",
+    "premium": "false",
+    "positive": true,
+    "id": 10738
+  },
+  {
+    "preset_id": 1535,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Tenemos un estadio grande porque somos un equipo grande.",
+    "premium": "false",
+    "positive": true,
+    "id": 10739
+  },
+  {
+    "preset_id": 1535,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Wir haben ein großes Stadion, weil wir eine große Mannschaft sind.",
+    "premium": "false",
+    "positive": true,
+    "id": 10740
+  },
+  {
+    "preset_id": 1535,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Temos um estádio grande porque somos uma equipa grande.",
+    "premium": "false",
+    "positive": true,
+    "id": 10741
+  },
+  {
+    "preset_id": 1535,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Mamy duży stadion, bo jesteśmy dużą drużyną.",
+    "premium": "false",
+    "positive": true,
+    "id": 10742
+  },
+  {
+    "preset_id": 1535,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "У нас большой стадион, потому что мы большая команда.",
+    "premium": "false",
+    "positive": true,
+    "id": 10743
+  },
+  {
+    "preset_id": 1535,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "我们有大球场是因为我们是大球队。",
+    "premium": "false",
+    "positive": true,
+    "id": 10744
+  }
+]

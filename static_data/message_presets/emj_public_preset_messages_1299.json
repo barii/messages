@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1299,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Behave.",
+    "premium": "false",
+    "positive": true,
+    "id": 9086
+  },
+  {
+    "preset_id": 1299,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Comportaos.",
+    "premium": "false",
+    "positive": true,
+    "id": 9087
+  },
+  {
+    "preset_id": 1299,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Benehmt euch.",
+    "premium": "false",
+    "positive": true,
+    "id": 9088
+  },
+  {
+    "preset_id": 1299,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Tem juízo.",
+    "premium": "false",
+    "positive": true,
+    "id": 9089
+  },
+  {
+    "preset_id": 1299,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Zachowuj się.",
+    "premium": "false",
+    "positive": true,
+    "id": 9090
+  },
+  {
+    "preset_id": 1299,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Ведите себя прилично.",
+    "premium": "false",
+    "positive": true,
+    "id": 9091
+  },
+  {
+    "preset_id": 1299,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "规矩点。",
+    "premium": "false",
+    "positive": true,
+    "id": 9092
+  }
+]

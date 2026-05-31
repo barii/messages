@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1750,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Fight on!",
+    "premium": "false",
+    "positive": true,
+    "id": 12243
+  },
+  {
+    "preset_id": 1750,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Fight on!",
+    "premium": "false",
+    "positive": true,
+    "id": 12244
+  },
+  {
+    "preset_id": 1750,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Fight on!",
+    "premium": "false",
+    "positive": true,
+    "id": 12245
+  },
+  {
+    "preset_id": 1750,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Fight on!",
+    "premium": "false",
+    "positive": true,
+    "id": 12246
+  },
+  {
+    "preset_id": 1750,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Fight on!",
+    "premium": "false",
+    "positive": true,
+    "id": 12247
+  },
+  {
+    "preset_id": 1750,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Fight on!",
+    "premium": "false",
+    "positive": true,
+    "id": 12248
+  },
+  {
+    "preset_id": 1750,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Fight on!",
+    "premium": "false",
+    "positive": true,
+    "id": 12249
+  }
+]

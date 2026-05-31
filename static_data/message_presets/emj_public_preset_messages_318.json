@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 318,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I overthink everything",
+    "premium": "false",
+    "positive": true,
+    "id": 2219
+  },
+  {
+    "preset_id": 318,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Le doy vueltas a todo",
+    "premium": "false",
+    "positive": true,
+    "id": 2220
+  },
+  {
+    "preset_id": 318,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich überdenke alles",
+    "premium": "false",
+    "positive": true,
+    "id": 2221
+  },
+  {
+    "preset_id": 318,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Penso demais em tudo",
+    "premium": "false",
+    "positive": true,
+    "id": 2222
+  },
+  {
+    "preset_id": 318,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Nadmiernie wszystko analizuję",
+    "premium": "false",
+    "positive": true,
+    "id": 2223
+  },
+  {
+    "preset_id": 318,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я слишком много об всём думаю",
+    "premium": "false",
+    "positive": true,
+    "id": 2224
+  },
+  {
+    "preset_id": 318,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我什么事都想得太多",
+    "premium": "false",
+    "positive": true,
+    "id": 2225
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 395,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I don't really believe in any of that",
+    "premium": "false",
+    "positive": true,
+    "id": 2758
+  },
+  {
+    "preset_id": 395,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "No creo en nada de eso, la verdad",
+    "premium": "false",
+    "positive": true,
+    "id": 2759
+  },
+  {
+    "preset_id": 395,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich glaube nicht wirklich an sowas",
+    "premium": "false",
+    "positive": true,
+    "id": 2760
+  },
+  {
+    "preset_id": 395,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Não acredito muito nisso",
+    "premium": "false",
+    "positive": true,
+    "id": 2761
+  },
+  {
+    "preset_id": 395,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Nie wierzę za bardzo w nic z tego",
+    "premium": "false",
+    "positive": true,
+    "id": 2762
+  },
+  {
+    "preset_id": 395,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я не очень в это верю",
+    "premium": "false",
+    "positive": true,
+    "id": 2763
+  },
+  {
+    "preset_id": 395,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我不太相信那些",
+    "premium": "false",
+    "positive": true,
+    "id": 2764
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1401,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You're a mid-table team at best.",
+    "premium": "true",
+    "positive": true,
+    "id": 9800
+  },
+  {
+    "preset_id": 1401,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Sois un equipo de media tabla como mucho.",
+    "premium": "true",
+    "positive": true,
+    "id": 9801
+  },
+  {
+    "preset_id": 1401,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr seid bestenfalls eine Mittelfeldmannschaft.",
+    "premium": "true",
+    "positive": true,
+    "id": 9802
+  },
+  {
+    "preset_id": 1401,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "São uma equipa de meio da tabela, no máximo.",
+    "premium": "true",
+    "positive": true,
+    "id": 9803
+  },
+  {
+    "preset_id": 1401,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Jesteście drużyną środka tabeli, co najwyżej.",
+    "premium": "true",
+    "positive": true,
+    "id": 9804
+  },
+  {
+    "preset_id": 1401,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Вы команда середины таблицы в лучшем случае.",
+    "premium": "true",
+    "positive": true,
+    "id": 9805
+  },
+  {
+    "preset_id": 1401,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们最多就是个中游球队。",
+    "premium": "true",
+    "positive": true,
+    "id": 9806
+  }
+]

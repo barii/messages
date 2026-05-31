@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1141,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "How's your day going?",
+    "premium": "false",
+    "positive": true,
+    "id": 7980
+  },
+  {
+    "preset_id": 1141,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "¿Cómo va tu día?",
+    "premium": "false",
+    "positive": true,
+    "id": 7981
+  },
+  {
+    "preset_id": 1141,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Wie läuft dein Tag?",
+    "premium": "false",
+    "positive": true,
+    "id": 7982
+  },
+  {
+    "preset_id": 1141,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Como está o teu dia?",
+    "premium": "false",
+    "positive": true,
+    "id": 7983
+  },
+  {
+    "preset_id": 1141,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Jak ci dzień idzie?",
+    "premium": "false",
+    "positive": true,
+    "id": 7984
+  },
+  {
+    "preset_id": 1141,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Как проходит твой день?",
+    "premium": "false",
+    "positive": true,
+    "id": 7985
+  },
+  {
+    "preset_id": 1141,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "你今天过得怎么样?",
+    "premium": "false",
+    "positive": true,
+    "id": 7986
+  }
+]

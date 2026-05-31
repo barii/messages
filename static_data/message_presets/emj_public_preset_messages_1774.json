@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1774,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Your coach needs a time-out!",
+    "premium": "false",
+    "positive": true,
+    "id": 12411
+  },
+  {
+    "preset_id": 1774,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Your coach needs a time-out!",
+    "premium": "false",
+    "positive": true,
+    "id": 12412
+  },
+  {
+    "preset_id": 1774,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Your coach needs a time-out!",
+    "premium": "false",
+    "positive": true,
+    "id": 12413
+  },
+  {
+    "preset_id": 1774,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Your coach needs a time-out!",
+    "premium": "false",
+    "positive": true,
+    "id": 12414
+  },
+  {
+    "preset_id": 1774,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Your coach needs a time-out!",
+    "premium": "false",
+    "positive": true,
+    "id": 12415
+  },
+  {
+    "preset_id": 1774,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Your coach needs a time-out!",
+    "premium": "false",
+    "positive": true,
+    "id": 12416
+  },
+  {
+    "preset_id": 1774,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Your coach needs a time-out!",
+    "premium": "false",
+    "positive": true,
+    "id": 12417
+  }
+]

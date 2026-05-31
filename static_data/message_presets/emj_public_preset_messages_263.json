@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 263,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We had a moment once",
+    "premium": "true",
+    "positive": true,
+    "id": 1834
+  },
+  {
+    "preset_id": 263,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Tuvimos un momento una vez",
+    "premium": "true",
+    "positive": true,
+    "id": 1835
+  },
+  {
+    "preset_id": 263,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir hatten mal einen Moment",
+    "premium": "true",
+    "positive": true,
+    "id": 1836
+  },
+  {
+    "preset_id": 263,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Tivemos um momento uma vez",
+    "premium": "true",
+    "positive": true,
+    "id": 1837
+  },
+  {
+    "preset_id": 263,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Mieliśmy raz moment",
+    "premium": "true",
+    "positive": true,
+    "id": 1838
+  },
+  {
+    "preset_id": 263,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "У нас был момент однажды",
+    "premium": "true",
+    "positive": true,
+    "id": 1839
+  },
+  {
+    "preset_id": 263,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们有过一个瞬间",
+    "premium": "true",
+    "positive": true,
+    "id": 1840
+  }
+]

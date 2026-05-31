@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 788,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "You ate that up",
+    "premium": "true",
+    "positive": true,
+    "id": 5509
+  },
+  {
+    "preset_id": 788,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Lo bordaste",
+    "premium": "true",
+    "positive": true,
+    "id": 5510
+  },
+  {
+    "preset_id": 788,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Du hast es gerockt",
+    "premium": "true",
+    "positive": true,
+    "id": 5511
+  },
+  {
+    "preset_id": 788,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Arrasaste",
+    "premium": "true",
+    "positive": true,
+    "id": 5512
+  },
+  {
+    "preset_id": 788,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Pozjadałeś",
+    "premium": "true",
+    "positive": true,
+    "id": 5513
+  },
+  {
+    "preset_id": 788,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Ты порвал",
+    "premium": "true",
+    "positive": true,
+    "id": 5514
+  },
+  {
+    "preset_id": 788,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "你做到了",
+    "premium": "true",
+    "positive": true,
+    "id": 5515
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 300,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm lonely",
+    "premium": "false",
+    "positive": true,
+    "id": 2093
+  },
+  {
+    "preset_id": 300,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Me siento solo",
+    "premium": "false",
+    "positive": true,
+    "id": 2094
+  },
+  {
+    "preset_id": 300,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin einsam",
+    "premium": "false",
+    "positive": true,
+    "id": 2095
+  },
+  {
+    "preset_id": 300,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Estou sozinho",
+    "premium": "false",
+    "positive": true,
+    "id": 2096
+  },
+  {
+    "preset_id": 300,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem samotny",
+    "premium": "false",
+    "positive": true,
+    "id": 2097
+  },
+  {
+    "preset_id": 300,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Мне одиноко",
+    "premium": "false",
+    "positive": true,
+    "id": 2098
+  },
+  {
+    "preset_id": 300,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我感到孤独",
+    "premium": "false",
+    "positive": true,
+    "id": 2099
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 207,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Did we used to work together?",
+    "premium": "false",
+    "positive": true,
+    "id": 1442
+  },
+  {
+    "preset_id": 207,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Trabajamos juntos antes?",
+    "premium": "false",
+    "positive": true,
+    "id": 1443
+  },
+  {
+    "preset_id": 207,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Haben wir früher zusammen gearbeitet?",
+    "premium": "false",
+    "positive": true,
+    "id": 1444
+  },
+  {
+    "preset_id": 207,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Trabalhámos juntos?",
+    "premium": "false",
+    "positive": true,
+    "id": 1445
+  },
+  {
+    "preset_id": 207,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Pracowaliśmy kiedyś razem?",
+    "premium": "false",
+    "positive": true,
+    "id": 1446
+  },
+  {
+    "preset_id": 207,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Мы раньше работали вместе?",
+    "premium": "false",
+    "positive": true,
+    "id": 1447
+  },
+  {
+    "preset_id": 207,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我们以前一起工作过吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1448
+  }
+]

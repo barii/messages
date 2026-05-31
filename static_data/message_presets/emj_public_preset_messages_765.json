@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 765,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Haha",
+    "premium": "false",
+    "positive": true,
+    "id": 5348
+  },
+  {
+    "preset_id": 765,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Jaja",
+    "premium": "false",
+    "positive": true,
+    "id": 5349
+  },
+  {
+    "preset_id": 765,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Haha",
+    "premium": "false",
+    "positive": true,
+    "id": 5350
+  },
+  {
+    "preset_id": 765,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Haha",
+    "premium": "false",
+    "positive": true,
+    "id": 5351
+  },
+  {
+    "preset_id": 765,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Haha",
+    "premium": "false",
+    "positive": true,
+    "id": 5352
+  },
+  {
+    "preset_id": 765,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Хаха",
+    "premium": "false",
+    "positive": true,
+    "id": 5353
+  },
+  {
+    "preset_id": 765,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "哈哈",
+    "premium": "false",
+    "positive": true,
+    "id": 5354
+  }
+]

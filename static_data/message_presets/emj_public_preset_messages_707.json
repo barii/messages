@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 707,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I'm so sorry",
+    "premium": "false",
+    "positive": true,
+    "id": 4942
+  },
+  {
+    "preset_id": 707,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Lo siento mucho",
+    "premium": "false",
+    "positive": true,
+    "id": 4943
+  },
+  {
+    "preset_id": 707,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Es tut mir so leid",
+    "premium": "false",
+    "positive": true,
+    "id": 4944
+  },
+  {
+    "preset_id": 707,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Desculpa imenso",
+    "premium": "false",
+    "positive": true,
+    "id": 4945
+  },
+  {
+    "preset_id": 707,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Bardzo przepraszam",
+    "premium": "false",
+    "positive": true,
+    "id": 4946
+  },
+  {
+    "preset_id": 707,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Мне так жаль",
+    "premium": "false",
+    "positive": true,
+    "id": 4947
+  },
+  {
+    "preset_id": 707,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我很抱歉",
+    "premium": "false",
+    "positive": true,
+    "id": 4948
+  }
+]

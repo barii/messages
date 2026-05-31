@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 927,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Eat something",
+    "premium": "false",
+    "positive": true,
+    "id": 6482
+  },
+  {
+    "preset_id": 927,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Come algo",
+    "premium": "false",
+    "positive": true,
+    "id": 6483
+  },
+  {
+    "preset_id": 927,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Iss etwas",
+    "premium": "false",
+    "positive": true,
+    "id": 6484
+  },
+  {
+    "preset_id": 927,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Come alguma coisa",
+    "premium": "false",
+    "positive": true,
+    "id": 6485
+  },
+  {
+    "preset_id": 927,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Zjedz coś",
+    "premium": "false",
+    "positive": true,
+    "id": 6486
+  },
+  {
+    "preset_id": 927,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Поешь чего-нибудь",
+    "premium": "false",
+    "positive": true,
+    "id": 6487
+  },
+  {
+    "preset_id": 927,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "吃点东西",
+    "premium": "false",
+    "positive": true,
+    "id": 6488
+  }
+]

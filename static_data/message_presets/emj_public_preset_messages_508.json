@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 508,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Vibing",
+    "premium": "false",
+    "positive": true,
+    "id": 3549
+  },
+  {
+    "preset_id": 508,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Viviendo",
+    "premium": "false",
+    "positive": true,
+    "id": 3550
+  },
+  {
+    "preset_id": 508,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Vibe",
+    "premium": "false",
+    "positive": true,
+    "id": 3551
+  },
+  {
+    "preset_id": 508,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Na vibe",
+    "premium": "false",
+    "positive": true,
+    "id": 3552
+  },
+  {
+    "preset_id": 508,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Wibracje",
+    "premium": "false",
+    "positive": true,
+    "id": 3553
+  },
+  {
+    "preset_id": 508,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Вайблю",
+    "premium": "false",
+    "positive": true,
+    "id": 3554
+  },
+  {
+    "preset_id": 508,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "感受",
+    "premium": "false",
+    "positive": true,
+    "id": 3555
+  }
+]

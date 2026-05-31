@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 187,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you for real?",
+    "premium": "false",
+    "positive": true,
+    "id": 1302
+  },
+  {
+    "preset_id": 187,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿De verdad?",
+    "premium": "false",
+    "positive": true,
+    "id": 1303
+  },
+  {
+    "preset_id": 187,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Im Ernst?",
+    "premium": "false",
+    "positive": true,
+    "id": 1304
+  },
+  {
+    "preset_id": 187,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "A sério mesmo?",
+    "premium": "false",
+    "positive": true,
+    "id": 1305
+  },
+  {
+    "preset_id": 187,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Naprawdę?",
+    "premium": "false",
+    "positive": true,
+    "id": 1306
+  },
+  {
+    "preset_id": 187,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Серьёзно?",
+    "premium": "false",
+    "positive": true,
+    "id": 1307
+  },
+  {
+    "preset_id": 187,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "真的吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1308
+  }
+]

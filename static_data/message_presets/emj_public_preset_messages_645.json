@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 645,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Calm down",
+    "premium": "false",
+    "positive": true,
+    "id": 4508
+  },
+  {
+    "preset_id": 645,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Cálmate",
+    "premium": "false",
+    "positive": true,
+    "id": 4509
+  },
+  {
+    "preset_id": 645,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Beruhig dich",
+    "premium": "false",
+    "positive": true,
+    "id": 4510
+  },
+  {
+    "preset_id": 645,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Acalma-te",
+    "premium": "false",
+    "positive": true,
+    "id": 4511
+  },
+  {
+    "preset_id": 645,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Uspokój się",
+    "premium": "false",
+    "positive": true,
+    "id": 4512
+  },
+  {
+    "preset_id": 645,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Успокойся",
+    "premium": "false",
+    "positive": true,
+    "id": 4513
+  },
+  {
+    "preset_id": 645,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "冷静",
+    "premium": "false",
+    "positive": true,
+    "id": 4514
+  }
+]

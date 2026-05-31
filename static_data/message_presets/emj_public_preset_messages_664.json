@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 664,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Yawn",
+    "premium": "false",
+    "positive": true,
+    "id": 4641
+  },
+  {
+    "preset_id": 664,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Qué aburrido",
+    "premium": "false",
+    "positive": true,
+    "id": 4642
+  },
+  {
+    "preset_id": 664,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Gähn",
+    "premium": "false",
+    "positive": true,
+    "id": 4643
+  },
+  {
+    "preset_id": 664,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Bocejo",
+    "premium": "false",
+    "positive": true,
+    "id": 4644
+  },
+  {
+    "preset_id": 664,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Ziewam",
+    "premium": "false",
+    "positive": true,
+    "id": 4645
+  },
+  {
+    "preset_id": 664,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Зевок",
+    "premium": "false",
+    "positive": true,
+    "id": 4646
+  },
+  {
+    "preset_id": 664,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "无聊",
+    "premium": "false",
+    "positive": true,
+    "id": 4647
+  }
+]

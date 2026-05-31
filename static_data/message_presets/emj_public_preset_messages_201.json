@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 201,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Should I reveal myself?",
+    "premium": "false",
+    "positive": true,
+    "id": 1400
+  },
+  {
+    "preset_id": 201,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Debería revelarme?",
+    "premium": "false",
+    "positive": true,
+    "id": 1401
+  },
+  {
+    "preset_id": 201,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Soll ich mich offenbaren?",
+    "premium": "false",
+    "positive": true,
+    "id": 1402
+  },
+  {
+    "preset_id": 201,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Devo revelar-me?",
+    "premium": "false",
+    "positive": true,
+    "id": 1403
+  },
+  {
+    "preset_id": 201,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Powinienem się ujawnić?",
+    "premium": "false",
+    "positive": true,
+    "id": 1404
+  },
+  {
+    "preset_id": 201,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Мне раскрыться?",
+    "premium": "false",
+    "positive": true,
+    "id": 1405
+  },
+  {
+    "preset_id": 201,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我应该揭晓吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1406
+  }
+]

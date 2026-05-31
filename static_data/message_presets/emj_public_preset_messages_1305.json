@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1305,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Wind your neck in.",
+    "premium": "true",
+    "positive": true,
+    "id": 9128
+  },
+  {
+    "preset_id": 1305,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Bajad los humos.",
+    "premium": "true",
+    "positive": true,
+    "id": 9129
+  },
+  {
+    "preset_id": 1305,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Bleibt mal auf dem Teppich.",
+    "premium": "true",
+    "positive": true,
+    "id": 9130
+  },
+  {
+    "preset_id": 1305,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Vai-te embora.",
+    "premium": "true",
+    "positive": true,
+    "id": 9131
+  },
+  {
+    "preset_id": 1305,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Stonujcie się.",
+    "premium": "true",
+    "positive": true,
+    "id": 9132
+  },
+  {
+    "preset_id": 1305,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Сбавьте обороты.",
+    "premium": "true",
+    "positive": true,
+    "id": 9133
+  },
+  {
+    "preset_id": 1305,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "收敛点。",
+    "premium": "true",
+    "positive": true,
+    "id": 9134
+  }
+]

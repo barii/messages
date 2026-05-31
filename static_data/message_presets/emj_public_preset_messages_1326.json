@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1326,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Down you go.",
+    "premium": "false",
+    "positive": true,
+    "id": 9275
+  },
+  {
+    "preset_id": 1326,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Abajo vais.",
+    "premium": "false",
+    "positive": true,
+    "id": 9276
+  },
+  {
+    "preset_id": 1326,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Runter geht's.",
+    "premium": "false",
+    "positive": true,
+    "id": 9277
+  },
+  {
+    "preset_id": 1326,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Lá vão vocês para baixo.",
+    "premium": "false",
+    "positive": true,
+    "id": 9278
+  },
+  {
+    "preset_id": 1326,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Lecicie w dół.",
+    "premium": "false",
+    "positive": true,
+    "id": 9279
+  },
+  {
+    "preset_id": 1326,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Вниз пошли.",
+    "premium": "false",
+    "positive": true,
+    "id": 9280
+  },
+  {
+    "preset_id": 1326,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "下去吧。",
+    "premium": "false",
+    "positive": true,
+    "id": 9281
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 326,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I love hard",
+    "premium": "false",
+    "positive": true,
+    "id": 2275
+  },
+  {
+    "preset_id": 326,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Amo intensamente",
+    "premium": "false",
+    "positive": true,
+    "id": 2276
+  },
+  {
+    "preset_id": 326,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich liebe intensiv",
+    "premium": "false",
+    "positive": true,
+    "id": 2277
+  },
+  {
+    "preset_id": 326,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Amo intensamente",
+    "premium": "false",
+    "positive": true,
+    "id": 2278
+  },
+  {
+    "preset_id": 326,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Kocham mocno",
+    "premium": "false",
+    "positive": true,
+    "id": 2279
+  },
+  {
+    "preset_id": 326,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я люблю сильно",
+    "premium": "false",
+    "positive": true,
+    "id": 2280
+  },
+  {
+    "preset_id": 326,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我爱得很深",
+    "premium": "false",
+    "positive": true,
+    "id": 2281
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1367,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You looked clueless out there.",
+    "premium": "false",
+    "positive": true,
+    "id": 9562
+  },
+  {
+    "preset_id": 1367,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Parecíais perdidos ahí fuera.",
+    "premium": "false",
+    "positive": true,
+    "id": 9563
+  },
+  {
+    "preset_id": 1367,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr saht ahnungslos aus.",
+    "premium": "false",
+    "positive": true,
+    "id": 9564
+  },
+  {
+    "preset_id": 1367,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Pareciam perdidos em campo.",
+    "premium": "false",
+    "positive": true,
+    "id": 9565
+  },
+  {
+    "preset_id": 1367,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Wyglądaliście na zagubionych na boisku.",
+    "premium": "false",
+    "positive": true,
+    "id": 9566
+  },
+  {
+    "preset_id": 1367,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Выглядели потерянными на поле.",
+    "premium": "false",
+    "positive": true,
+    "id": 9567
+  },
+  {
+    "preset_id": 1367,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们在场上看起来很迷茫。",
+    "premium": "false",
+    "positive": true,
+    "id": 9568
+  }
+]

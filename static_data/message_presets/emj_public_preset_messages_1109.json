@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1109,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Sleep well",
+    "premium": "false",
+    "positive": true,
+    "id": 7756
+  },
+  {
+    "preset_id": 1109,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Que descanses",
+    "premium": "false",
+    "positive": true,
+    "id": 7757
+  },
+  {
+    "preset_id": 1109,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Schlaf gut",
+    "premium": "false",
+    "positive": true,
+    "id": 7758
+  },
+  {
+    "preset_id": 1109,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Dorme bem",
+    "premium": "false",
+    "positive": true,
+    "id": 7759
+  },
+  {
+    "preset_id": 1109,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Śpij dobrze",
+    "premium": "false",
+    "positive": true,
+    "id": 7760
+  },
+  {
+    "preset_id": 1109,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Спи спокойно",
+    "premium": "false",
+    "positive": true,
+    "id": 7761
+  },
+  {
+    "preset_id": 1109,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "好好睡",
+    "premium": "false",
+    "positive": true,
+    "id": 7762
+  }
+]

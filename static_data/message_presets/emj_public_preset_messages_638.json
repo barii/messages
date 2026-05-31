@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 638,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Stay out of my business",
+    "premium": "false",
+    "positive": true,
+    "id": 4459
+  },
+  {
+    "preset_id": 638,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "No te metas en mis asuntos",
+    "premium": "false",
+    "positive": true,
+    "id": 4460
+  },
+  {
+    "preset_id": 638,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Halt dich aus meinen Angelegenheiten raus",
+    "premium": "false",
+    "positive": true,
+    "id": 4461
+  },
+  {
+    "preset_id": 638,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Não te metas na minha vida",
+    "premium": "false",
+    "positive": true,
+    "id": 4462
+  },
+  {
+    "preset_id": 638,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Nie wtrącaj się w moje sprawy",
+    "premium": "false",
+    "positive": true,
+    "id": 4463
+  },
+  {
+    "preset_id": 638,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Не лезь в мои дела",
+    "premium": "false",
+    "positive": true,
+    "id": 4464
+  },
+  {
+    "preset_id": 638,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "别管我的事",
+    "premium": "false",
+    "positive": true,
+    "id": 4465
+  }
+]

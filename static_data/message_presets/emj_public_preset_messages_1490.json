@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1490,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Our keeper barely had a save to make.",
+    "premium": "false",
+    "positive": true,
+    "id": 10423
+  },
+  {
+    "preset_id": 1490,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Nuestro portero apenas tuvo que hacer una parada.",
+    "premium": "false",
+    "positive": true,
+    "id": 10424
+  },
+  {
+    "preset_id": 1490,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Unser Torwart hatte kaum etwas zu halten.",
+    "premium": "false",
+    "positive": true,
+    "id": 10425
+  },
+  {
+    "preset_id": 1490,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "O nosso guarda-redes mal teve defesas para fazer.",
+    "premium": "false",
+    "positive": true,
+    "id": 10426
+  },
+  {
+    "preset_id": 1490,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Nasz bramkarz ledwo miał coś do bronienia.",
+    "premium": "false",
+    "positive": true,
+    "id": 10427
+  },
+  {
+    "preset_id": 1490,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Нашему вратарю едва пришлось ловить.",
+    "premium": "false",
+    "positive": true,
+    "id": 10428
+  },
+  {
+    "preset_id": 1490,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们门将几乎没扑救机会。",
+    "premium": "false",
+    "positive": true,
+    "id": 10429
+  }
+]

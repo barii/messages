@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1053,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "There's someone here I can't stop thinking about",
+    "premium": "false",
+    "positive": true,
+    "id": 7364
+  },
+  {
+    "preset_id": 1053,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Hay alguien aquí en quien no puedo dejar de pensar",
+    "premium": "false",
+    "positive": true,
+    "id": 7365
+  },
+  {
+    "preset_id": 1053,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Hier ist jemand, an den ich nicht aufhören kann zu denken",
+    "premium": "false",
+    "positive": true,
+    "id": 7366
+  },
+  {
+    "preset_id": 1053,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Há alguém aqui em quem não consigo parar de pensar",
+    "premium": "false",
+    "positive": true,
+    "id": 7367
+  },
+  {
+    "preset_id": 1053,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Jest tu ktoś, o kim nie mogę przestać myśleć",
+    "premium": "false",
+    "positive": true,
+    "id": 7368
+  },
+  {
+    "preset_id": 1053,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Здесь есть кто-то, о ком я не могу перестать думать",
+    "premium": "false",
+    "positive": true,
+    "id": 7369
+  },
+  {
+    "preset_id": 1053,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "这里有个让我无法不想的人",
+    "premium": "false",
+    "positive": true,
+    "id": 7370
+  }
+]

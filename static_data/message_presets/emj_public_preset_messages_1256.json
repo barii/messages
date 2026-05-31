@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1256,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You can't win here.",
+    "premium": "false",
+    "positive": true,
+    "id": 8785
+  },
+  {
+    "preset_id": 1256,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "No podéis ganar aquí.",
+    "premium": "false",
+    "positive": true,
+    "id": 8786
+  },
+  {
+    "preset_id": 1256,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Hier könnt ihr nicht gewinnen.",
+    "premium": "false",
+    "positive": true,
+    "id": 8787
+  },
+  {
+    "preset_id": 1256,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Não conseguem ganhar aqui.",
+    "premium": "false",
+    "positive": true,
+    "id": 8788
+  },
+  {
+    "preset_id": 1256,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Tutaj nie wygracie.",
+    "premium": "false",
+    "positive": true,
+    "id": 8789
+  },
+  {
+    "preset_id": 1256,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Здесь вы не выиграете.",
+    "premium": "false",
+    "positive": true,
+    "id": 8790
+  },
+  {
+    "preset_id": 1256,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们在这里赢不了。",
+    "premium": "false",
+    "positive": true,
+    "id": 8791
+  }
+]

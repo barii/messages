@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1454,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Champions in waiting.",
+    "premium": "true",
+    "positive": true,
+    "id": 10171
+  },
+  {
+    "preset_id": 1454,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Campeones en espera.",
+    "premium": "true",
+    "positive": true,
+    "id": 10172
+  },
+  {
+    "preset_id": 1454,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Champions in Wartestellung.",
+    "premium": "true",
+    "positive": true,
+    "id": 10173
+  },
+  {
+    "preset_id": 1454,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Campeões em espera.",
+    "premium": "true",
+    "positive": true,
+    "id": 10174
+  },
+  {
+    "preset_id": 1454,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Mistrzowie w oczekiwaniu.",
+    "premium": "true",
+    "positive": true,
+    "id": 10175
+  },
+  {
+    "preset_id": 1454,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Чемпионы в ожидании.",
+    "premium": "true",
+    "positive": true,
+    "id": 10176
+  },
+  {
+    "preset_id": 1454,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "准冠军。",
+    "premium": "true",
+    "positive": true,
+    "id": 10177
+  }
+]

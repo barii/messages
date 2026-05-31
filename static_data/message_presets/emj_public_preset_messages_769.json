@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 769,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Dead",
+    "premium": "false",
+    "positive": true,
+    "id": 5376
+  },
+  {
+    "preset_id": 769,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Muerto",
+    "premium": "false",
+    "positive": true,
+    "id": 5377
+  },
+  {
+    "preset_id": 769,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Tot",
+    "premium": "false",
+    "positive": true,
+    "id": 5378
+  },
+  {
+    "preset_id": 769,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Morto",
+    "premium": "false",
+    "positive": true,
+    "id": 5379
+  },
+  {
+    "preset_id": 769,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Martwy",
+    "premium": "false",
+    "positive": true,
+    "id": 5380
+  },
+  {
+    "preset_id": 769,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Мёртв",
+    "premium": "false",
+    "positive": true,
+    "id": 5381
+  },
+  {
+    "preset_id": 769,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "死了",
+    "premium": "false",
+    "positive": true,
+    "id": 5382
+  }
+]

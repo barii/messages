@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 68,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "That isn't it",
+    "premium": "false",
+    "positive": false,
+    "id": 469
+  },
+  {
+    "preset_id": 68,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "No es eso",
+    "premium": "false",
+    "positive": false,
+    "id": 470
+  },
+  {
+    "preset_id": 68,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Das ist es nicht",
+    "premium": "false",
+    "positive": false,
+    "id": 471
+  },
+  {
+    "preset_id": 68,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Não é isso",
+    "premium": "false",
+    "positive": false,
+    "id": 472
+  },
+  {
+    "preset_id": 68,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "To nie to",
+    "premium": "false",
+    "positive": false,
+    "id": 473
+  },
+  {
+    "preset_id": 68,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Это не то",
+    "premium": "false",
+    "positive": false,
+    "id": 474
+  },
+  {
+    "preset_id": 68,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "不是这样",
+    "premium": "false",
+    "positive": false,
+    "id": 475
+  }
+]

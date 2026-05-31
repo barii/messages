@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 986,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You're dismissive when people share things",
+    "premium": "false",
+    "positive": true,
+    "id": 6895
+  },
+  {
+    "preset_id": 986,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Eres desdeñoso cuando la gente comparte cosas",
+    "premium": "false",
+    "positive": true,
+    "id": 6896
+  },
+  {
+    "preset_id": 986,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du bist abweisend, wenn Menschen Dinge teilen",
+    "premium": "false",
+    "positive": true,
+    "id": 6897
+  },
+  {
+    "preset_id": 986,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "És dispensativo quando as pessoas partilham coisas",
+    "premium": "false",
+    "positive": true,
+    "id": 6898
+  },
+  {
+    "preset_id": 986,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Lekceważysz ludzi, gdy dzielą się rzeczami",
+    "premium": "false",
+    "positive": true,
+    "id": 6899
+  },
+  {
+    "preset_id": 986,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты пренебрежителен, когда люди делятся",
+    "premium": "false",
+    "positive": true,
+    "id": 6900
+  },
+  {
+    "preset_id": 986,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "当人们分享时你显得轻蔑",
+    "premium": "false",
+    "positive": true,
+    "id": 6901
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1564,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Have a word.",
+    "premium": "false",
+    "positive": true,
+    "id": 10941
+  },
+  {
+    "preset_id": 1564,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Echaos una pensada.",
+    "premium": "false",
+    "positive": true,
+    "id": 10942
+  },
+  {
+    "preset_id": 1564,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Denkt mal nach.",
+    "premium": "false",
+    "positive": true,
+    "id": 10943
+  },
+  {
+    "preset_id": 1564,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Tem juízo.",
+    "premium": "false",
+    "positive": true,
+    "id": 10944
+  },
+  {
+    "preset_id": 1564,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Pomyślcie nad sobą.",
+    "premium": "false",
+    "positive": true,
+    "id": 10945
+  },
+  {
+    "preset_id": 1564,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Подумайте о себе.",
+    "premium": "false",
+    "positive": true,
+    "id": 10946
+  },
+  {
+    "preset_id": 1564,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "好好想想自己。",
+    "premium": "false",
+    "positive": true,
+    "id": 10947
+  }
+]

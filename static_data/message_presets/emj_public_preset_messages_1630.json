@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1630,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Weird flex but ok.",
+    "premium": "true",
+    "positive": true,
+    "id": 11403
+  },
+  {
+    "preset_id": 1630,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Weird flex but ok.",
+    "premium": "true",
+    "positive": true,
+    "id": 11404
+  },
+  {
+    "preset_id": 1630,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Weird flex but ok.",
+    "premium": "true",
+    "positive": true,
+    "id": 11405
+  },
+  {
+    "preset_id": 1630,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Weird flex but ok.",
+    "premium": "true",
+    "positive": true,
+    "id": 11406
+  },
+  {
+    "preset_id": 1630,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Weird flex but ok.",
+    "premium": "true",
+    "positive": true,
+    "id": 11407
+  },
+  {
+    "preset_id": 1630,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Weird flex but ok.",
+    "premium": "true",
+    "positive": true,
+    "id": 11408
+  },
+  {
+    "preset_id": 1630,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "Weird flex but ok.",
+    "premium": "true",
+    "positive": true,
+    "id": 11409
+  }
+]

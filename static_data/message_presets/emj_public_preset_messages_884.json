@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 884,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I think you might be the one",
+    "premium": "false",
+    "positive": true,
+    "id": 6181
+  },
+  {
+    "preset_id": 884,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Creo que podrías ser el indicado",
+    "premium": "false",
+    "positive": true,
+    "id": 6182
+  },
+  {
+    "preset_id": 884,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich glaube, du könntest der Richtige sein",
+    "premium": "false",
+    "positive": true,
+    "id": 6183
+  },
+  {
+    "preset_id": 884,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Acho que podes ser o tal",
+    "premium": "false",
+    "positive": true,
+    "id": 6184
+  },
+  {
+    "preset_id": 884,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Myślę, że możesz być tym jedynym",
+    "premium": "false",
+    "positive": true,
+    "id": 6185
+  },
+  {
+    "preset_id": 884,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Думаю, ты можешь быть тем самым",
+    "premium": "false",
+    "positive": true,
+    "id": 6186
+  },
+  {
+    "preset_id": 884,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我觉得你可能是那个对的人",
+    "premium": "false",
+    "positive": true,
+    "id": 6187
+  }
+]

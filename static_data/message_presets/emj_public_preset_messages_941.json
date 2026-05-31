@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 941,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Take what you need and leave the rest",
+    "premium": "false",
+    "positive": true,
+    "id": 6580
+  },
+  {
+    "preset_id": 941,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Toma lo que necesites y deja el resto",
+    "premium": "false",
+    "positive": true,
+    "id": 6581
+  },
+  {
+    "preset_id": 941,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Nimm, was du brauchst, und lass den Rest",
+    "premium": "false",
+    "positive": true,
+    "id": 6582
+  },
+  {
+    "preset_id": 941,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Tira o que precisas e deixa o resto",
+    "premium": "false",
+    "positive": true,
+    "id": 6583
+  },
+  {
+    "preset_id": 941,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Weź to, czego potrzebujesz, a resztę zostaw",
+    "premium": "false",
+    "positive": true,
+    "id": 6584
+  },
+  {
+    "preset_id": 941,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Возьми то, что нужно, остальное оставь",
+    "premium": "false",
+    "positive": true,
+    "id": 6585
+  },
+  {
+    "preset_id": 941,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "拿你需要的,留下其余的",
+    "premium": "false",
+    "positive": true,
+    "id": 6586
+  }
+]

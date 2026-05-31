@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1468,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Training session for us.",
+    "premium": "true",
+    "positive": true,
+    "id": 10269
+  },
+  {
+    "preset_id": 1468,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Sesión de entrenamiento para nosotros.",
+    "premium": "true",
+    "positive": true,
+    "id": 10270
+  },
+  {
+    "preset_id": 1468,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Trainingseinheit für uns.",
+    "premium": "true",
+    "positive": true,
+    "id": 10271
+  },
+  {
+    "preset_id": 1468,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Sessão de treino para nós.",
+    "premium": "true",
+    "positive": true,
+    "id": 10272
+  },
+  {
+    "preset_id": 1468,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Sesja treningowa dla nas.",
+    "premium": "true",
+    "positive": true,
+    "id": 10273
+  },
+  {
+    "preset_id": 1468,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Тренировка для нас.",
+    "premium": "true",
+    "positive": true,
+    "id": 10274
+  },
+  {
+    "preset_id": 1468,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "对我们来说就是训练课。",
+    "premium": "true",
+    "positive": true,
+    "id": 10275
+  }
+]

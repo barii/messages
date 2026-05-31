@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 982,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You can be really selfish sometimes",
+    "premium": "false",
+    "positive": true,
+    "id": 6867
+  },
+  {
+    "preset_id": 982,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "A veces puedes ser muy egoísta",
+    "premium": "false",
+    "positive": true,
+    "id": 6868
+  },
+  {
+    "preset_id": 982,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du kannst manchmal sehr egoistisch sein",
+    "premium": "false",
+    "positive": true,
+    "id": 6869
+  },
+  {
+    "preset_id": 982,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Consegues ser muito egoísta às vezes",
+    "premium": "false",
+    "positive": true,
+    "id": 6870
+  },
+  {
+    "preset_id": 982,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Możesz być czasem bardzo samolubny",
+    "premium": "false",
+    "positive": true,
+    "id": 6871
+  },
+  {
+    "preset_id": 982,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Иногда ты можешь быть очень эгоистичным",
+    "premium": "false",
+    "positive": true,
+    "id": 6872
+  },
+  {
+    "preset_id": 982,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你有时真的很自私",
+    "premium": "false",
+    "positive": true,
+    "id": 6873
+  }
+]

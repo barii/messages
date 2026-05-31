@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 906,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "If only you knew it was me",
+    "premium": "false",
+    "positive": true,
+    "id": 6335
+  },
+  {
+    "preset_id": 906,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Si supieras que era yo",
+    "premium": "false",
+    "positive": true,
+    "id": 6336
+  },
+  {
+    "preset_id": 906,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Wenn du nur wüsstest, dass ich es war",
+    "premium": "false",
+    "positive": true,
+    "id": 6337
+  },
+  {
+    "preset_id": 906,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Se soubesses que era eu",
+    "premium": "false",
+    "positive": true,
+    "id": 6338
+  },
+  {
+    "preset_id": 906,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Gdybyś tylko wiedział, że to ja",
+    "premium": "false",
+    "positive": true,
+    "id": 6339
+  },
+  {
+    "preset_id": 906,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Если бы ты только знал, что это я",
+    "premium": "false",
+    "positive": true,
+    "id": 6340
+  },
+  {
+    "preset_id": 906,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "如果你知道是我",
+    "premium": "false",
+    "positive": true,
+    "id": 6341
+  }
+]

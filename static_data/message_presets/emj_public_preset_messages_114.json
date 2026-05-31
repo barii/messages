@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 114,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Be honest, how are you?",
+    "premium": "false",
+    "positive": true,
+    "id": 791
+  },
+  {
+    "preset_id": 114,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "Sé sincero, ¿cómo estás?",
+    "premium": "false",
+    "positive": true,
+    "id": 792
+  },
+  {
+    "preset_id": 114,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Sei ehrlich, wie geht's dir?",
+    "premium": "false",
+    "positive": true,
+    "id": 793
+  },
+  {
+    "preset_id": 114,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Sê honesto, como estás?",
+    "premium": "false",
+    "positive": true,
+    "id": 794
+  },
+  {
+    "preset_id": 114,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Bądź szczery, jak się masz?",
+    "premium": "false",
+    "positive": true,
+    "id": 795
+  },
+  {
+    "preset_id": 114,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Скажи честно, как ты?",
+    "premium": "false",
+    "positive": true,
+    "id": 796
+  },
+  {
+    "preset_id": 114,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "说实话,你怎么样?",
+    "premium": "false",
+    "positive": true,
+    "id": 797
+  }
+]

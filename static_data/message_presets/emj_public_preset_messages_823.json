@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 823,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Your secret is safe with me",
+    "premium": "false",
+    "positive": true,
+    "id": 5754
+  },
+  {
+    "preset_id": 823,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Tu secreto está a salvo conmigo",
+    "premium": "false",
+    "positive": true,
+    "id": 5755
+  },
+  {
+    "preset_id": 823,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Dein Geheimnis ist bei mir sicher",
+    "premium": "false",
+    "positive": true,
+    "id": 5756
+  },
+  {
+    "preset_id": 823,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "O teu segredo está seguro comigo",
+    "premium": "false",
+    "positive": true,
+    "id": 5757
+  },
+  {
+    "preset_id": 823,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Twój sekret jest bezpieczny ze mną",
+    "premium": "false",
+    "positive": true,
+    "id": 5758
+  },
+  {
+    "preset_id": 823,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Твой секрет в безопасности со мной",
+    "premium": "false",
+    "positive": true,
+    "id": 5759
+  },
+  {
+    "preset_id": 823,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "你的秘密我会保密",
+    "premium": "false",
+    "positive": true,
+    "id": 5760
+  }
+]

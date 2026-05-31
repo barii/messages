@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1470,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Could've had 10.",
+    "premium": "false",
+    "positive": true,
+    "id": 10283
+  },
+  {
+    "preset_id": 1470,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Podríamos haber marcado 10.",
+    "premium": "false",
+    "positive": true,
+    "id": 10284
+  },
+  {
+    "preset_id": 1470,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Hätten 10 machen können.",
+    "premium": "false",
+    "positive": true,
+    "id": 10285
+  },
+  {
+    "preset_id": 1470,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Podíamos ter feito 10.",
+    "premium": "false",
+    "positive": true,
+    "id": 10286
+  },
+  {
+    "preset_id": 1470,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Mogliśmy mieć 10.",
+    "premium": "false",
+    "positive": true,
+    "id": 10287
+  },
+  {
+    "preset_id": 1470,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Могли наколотить 10.",
+    "premium": "false",
+    "positive": true,
+    "id": 10288
+  },
+  {
+    "preset_id": 1470,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们本可以进10个。",
+    "premium": "false",
+    "positive": true,
+    "id": 10289
+  }
+]

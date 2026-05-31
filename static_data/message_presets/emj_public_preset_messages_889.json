@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 889,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I've been wanting to say this for a while",
+    "premium": "false",
+    "positive": true,
+    "id": 6216
+  },
+  {
+    "preset_id": 889,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "He querido decir esto desde hace tiempo",
+    "premium": "false",
+    "positive": true,
+    "id": 6217
+  },
+  {
+    "preset_id": 889,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich wollte das schon eine Weile sagen",
+    "premium": "false",
+    "positive": true,
+    "id": 6218
+  },
+  {
+    "preset_id": 889,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Tenho querido dizer isto há um tempo",
+    "premium": "false",
+    "positive": true,
+    "id": 6219
+  },
+  {
+    "preset_id": 889,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Chciałem to powiedzieć od dłuższego czasu",
+    "premium": "false",
+    "positive": true,
+    "id": 6220
+  },
+  {
+    "preset_id": 889,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Я хотел сказать это давно",
+    "premium": "false",
+    "positive": true,
+    "id": 6221
+  },
+  {
+    "preset_id": 889,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我想说这个有一段时间了",
+    "premium": "false",
+    "positive": true,
+    "id": 6222
+  }
+]

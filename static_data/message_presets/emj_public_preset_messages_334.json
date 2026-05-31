@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 334,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm a man",
+    "premium": "false",
+    "positive": true,
+    "id": 2331
+  },
+  {
+    "preset_id": 334,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Soy un hombre",
+    "premium": "false",
+    "positive": true,
+    "id": 2332
+  },
+  {
+    "preset_id": 334,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin ein Mann",
+    "premium": "false",
+    "positive": true,
+    "id": 2333
+  },
+  {
+    "preset_id": 334,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Sou um homem",
+    "premium": "false",
+    "positive": true,
+    "id": 2334
+  },
+  {
+    "preset_id": 334,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem mężczyzną",
+    "premium": "false",
+    "positive": true,
+    "id": 2335
+  },
+  {
+    "preset_id": 334,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я мужчина",
+    "premium": "false",
+    "positive": true,
+    "id": 2336
+  },
+  {
+    "preset_id": 334,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我是男人",
+    "premium": "false",
+    "positive": true,
+    "id": 2337
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1041,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "That meeting could have been an email",
+    "premium": "false",
+    "positive": true,
+    "id": 7280
+  },
+  {
+    "preset_id": 1041,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Esa reunión podría haber sido un correo",
+    "premium": "false",
+    "positive": true,
+    "id": 7281
+  },
+  {
+    "preset_id": 1041,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Dieses Meeting hätte eine E-Mail sein können",
+    "premium": "false",
+    "positive": true,
+    "id": 7282
+  },
+  {
+    "preset_id": 1041,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Aquela reunião podia ter sido um email",
+    "premium": "false",
+    "positive": true,
+    "id": 7283
+  },
+  {
+    "preset_id": 1041,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "To spotkanie mogło być mailem",
+    "premium": "false",
+    "positive": true,
+    "id": 7284
+  },
+  {
+    "preset_id": 1041,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Эта встреча могла бы быть письмом",
+    "premium": "false",
+    "positive": true,
+    "id": 7285
+  },
+  {
+    "preset_id": 1041,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "那个会议本可以是一封邮件",
+    "premium": "false",
+    "positive": true,
+    "id": 7286
+  }
+]

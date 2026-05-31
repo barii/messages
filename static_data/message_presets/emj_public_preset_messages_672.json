@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 672,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "You're not as funny as you think",
+    "premium": "false",
+    "positive": true,
+    "id": 4697
+  },
+  {
+    "preset_id": 672,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "No eres tan gracioso como crees",
+    "premium": "false",
+    "positive": true,
+    "id": 4698
+  },
+  {
+    "preset_id": 672,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Du bist nicht so lustig, wie du denkst",
+    "premium": "false",
+    "positive": true,
+    "id": 4699
+  },
+  {
+    "preset_id": 672,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Não és tão engraçado como pensas",
+    "premium": "false",
+    "positive": true,
+    "id": 4700
+  },
+  {
+    "preset_id": 672,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Nie jesteś tak zabawny, jak myślisz",
+    "premium": "false",
+    "positive": true,
+    "id": 4701
+  },
+  {
+    "preset_id": 672,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Ты не такой смешной, как думаешь",
+    "premium": "false",
+    "positive": true,
+    "id": 4702
+  },
+  {
+    "preset_id": 672,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "你没有自己想的那么好笑",
+    "premium": "false",
+    "positive": true,
+    "id": 4703
+  }
+]

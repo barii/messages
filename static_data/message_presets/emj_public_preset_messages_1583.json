@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1583,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Win something then talk.",
+    "premium": "false",
+    "positive": true,
+    "id": 11074
+  },
+  {
+    "preset_id": 1583,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Ganad algo y entonces hablad.",
+    "premium": "false",
+    "positive": true,
+    "id": 11075
+  },
+  {
+    "preset_id": 1583,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Gewinnt etwas und dann redet.",
+    "premium": "false",
+    "positive": true,
+    "id": 11076
+  },
+  {
+    "preset_id": 1583,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Ganhem algo e depois falem.",
+    "premium": "false",
+    "positive": true,
+    "id": 11077
+  },
+  {
+    "preset_id": 1583,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Wygrajcie coś i wtedy mówcie.",
+    "premium": "false",
+    "positive": true,
+    "id": 11078
+  },
+  {
+    "preset_id": 1583,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Сначала что-то выиграйте, потом говорите.",
+    "premium": "false",
+    "positive": true,
+    "id": 11079
+  },
+  {
+    "preset_id": 1583,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "先赢点东西再说。",
+    "premium": "false",
+    "positive": true,
+    "id": 11080
+  }
+]

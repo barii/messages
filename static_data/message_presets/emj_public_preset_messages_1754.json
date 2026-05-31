@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1754,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Get off the field!",
+    "premium": "false",
+    "positive": true,
+    "id": 12271
+  },
+  {
+    "preset_id": 1754,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Get off the field!",
+    "premium": "false",
+    "positive": true,
+    "id": 12272
+  },
+  {
+    "preset_id": 1754,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Get off the field!",
+    "premium": "false",
+    "positive": true,
+    "id": 12273
+  },
+  {
+    "preset_id": 1754,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Get off the field!",
+    "premium": "false",
+    "positive": true,
+    "id": 12274
+  },
+  {
+    "preset_id": 1754,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Get off the field!",
+    "premium": "false",
+    "positive": true,
+    "id": 12275
+  },
+  {
+    "preset_id": 1754,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Get off the field!",
+    "premium": "false",
+    "positive": true,
+    "id": 12276
+  },
+  {
+    "preset_id": 1754,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Get off the field!",
+    "premium": "false",
+    "positive": true,
+    "id": 12277
+  }
+]

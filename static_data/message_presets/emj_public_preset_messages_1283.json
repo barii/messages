@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1283,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You're not looking too good right now.",
+    "premium": "false",
+    "positive": true,
+    "id": 8974
+  },
+  {
+    "preset_id": 1283,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "No os veis muy bien ahora mismo.",
+    "premium": "false",
+    "positive": true,
+    "id": 8975
+  },
+  {
+    "preset_id": 1283,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr seht gerade nicht besonders gut aus.",
+    "premium": "false",
+    "positive": true,
+    "id": 8976
+  },
+  {
+    "preset_id": 1283,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Não estão com bom ar neste momento.",
+    "premium": "false",
+    "positive": true,
+    "id": 8977
+  },
+  {
+    "preset_id": 1283,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Nie wyglądacie teraz zbyt dobrze.",
+    "premium": "false",
+    "positive": true,
+    "id": 8978
+  },
+  {
+    "preset_id": 1283,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Вы сейчас выглядите неважно.",
+    "premium": "false",
+    "positive": true,
+    "id": 8979
+  },
+  {
+    "preset_id": 1283,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们现在看起来不太好。",
+    "premium": "false",
+    "positive": true,
+    "id": 8980
+  }
+]

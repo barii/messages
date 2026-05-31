@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 993,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You never really change",
+    "premium": "false",
+    "positive": false,
+    "id": 6944
+  },
+  {
+    "preset_id": 993,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Nunca cambias realmente",
+    "premium": "false",
+    "positive": false,
+    "id": 6945
+  },
+  {
+    "preset_id": 993,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du veränderst dich nie wirklich",
+    "premium": "false",
+    "positive": false,
+    "id": 6946
+  },
+  {
+    "preset_id": 993,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Nunca mudas mesmo",
+    "premium": "false",
+    "positive": false,
+    "id": 6947
+  },
+  {
+    "preset_id": 993,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Nigdy się tak naprawdę nie zmieniasz",
+    "premium": "false",
+    "positive": false,
+    "id": 6948
+  },
+  {
+    "preset_id": 993,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты никогда по-настоящему не меняешься",
+    "premium": "false",
+    "positive": false,
+    "id": 6949
+  },
+  {
+    "preset_id": 993,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你从未真正改变",
+    "premium": "false",
+    "positive": false,
+    "id": 6950
+  }
+]

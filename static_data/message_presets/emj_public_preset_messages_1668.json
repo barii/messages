@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1668,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Still bitter about it then.",
+    "premium": "true",
+    "positive": true,
+    "id": 11669
+  },
+  {
+    "preset_id": 1668,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Aún resentidos, ya veo.",
+    "premium": "true",
+    "positive": true,
+    "id": 11670
+  },
+  {
+    "preset_id": 1668,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Immer noch verbittert deswegen, sehe ich.",
+    "premium": "true",
+    "positive": true,
+    "id": 11671
+  },
+  {
+    "preset_id": 1668,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Ainda amargos com isso, vejo.",
+    "premium": "true",
+    "positive": true,
+    "id": 11672
+  },
+  {
+    "preset_id": 1668,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Wciąż gorzcy, widzę.",
+    "premium": "true",
+    "positive": true,
+    "id": 11673
+  },
+  {
+    "preset_id": 1668,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Всё ещё обижены, я вижу.",
+    "premium": "true",
+    "positive": true,
+    "id": 11674
+  },
+  {
+    "preset_id": 1668,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "看来还在生闷气。",
+    "premium": "true",
+    "positive": true,
+    "id": 11675
+  }
+]

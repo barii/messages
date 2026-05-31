@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 148,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you alone?",
+    "premium": "false",
+    "positive": true,
+    "id": 1029
+  },
+  {
+    "preset_id": 148,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Estás solo?",
+    "premium": "false",
+    "positive": true,
+    "id": 1030
+  },
+  {
+    "preset_id": 148,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du alleine?",
+    "premium": "false",
+    "positive": true,
+    "id": 1031
+  },
+  {
+    "preset_id": 148,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás sozinho?",
+    "premium": "false",
+    "positive": true,
+    "id": 1032
+  },
+  {
+    "preset_id": 148,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jesteś sam?",
+    "premium": "false",
+    "positive": true,
+    "id": 1033
+  },
+  {
+    "preset_id": 148,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты один?",
+    "premium": "false",
+    "positive": true,
+    "id": 1034
+  },
+  {
+    "preset_id": 148,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你一个人吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1035
+  }
+]

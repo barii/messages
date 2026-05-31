@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 851,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I've never felt this way before",
+    "premium": "false",
+    "positive": true,
+    "id": 5950
+  },
+  {
+    "preset_id": 851,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Nunca antes me había sentido así",
+    "premium": "false",
+    "positive": true,
+    "id": 5951
+  },
+  {
+    "preset_id": 851,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich habe mich noch nie so gefühlt",
+    "premium": "false",
+    "positive": true,
+    "id": 5952
+  },
+  {
+    "preset_id": 851,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Nunca me senti assim antes",
+    "premium": "false",
+    "positive": true,
+    "id": 5953
+  },
+  {
+    "preset_id": 851,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Nigdy wcześniej tak się nie czułem",
+    "premium": "false",
+    "positive": true,
+    "id": 5954
+  },
+  {
+    "preset_id": 851,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Я никогда так не чувствовал раньше",
+    "premium": "false",
+    "positive": true,
+    "id": 5955
+  },
+  {
+    "preset_id": 851,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我从未有过这种感觉",
+    "premium": "false",
+    "positive": true,
+    "id": 5956
+  }
+]

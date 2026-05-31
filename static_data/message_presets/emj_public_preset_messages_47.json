@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 47,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're appreciated",
+    "premium": "false",
+    "positive": true,
+    "id": 322
+  },
+  {
+    "preset_id": 47,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres apreciado",
+    "premium": "false",
+    "positive": true,
+    "id": 323
+  },
+  {
+    "preset_id": 47,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du wirst geschätzt",
+    "premium": "false",
+    "positive": true,
+    "id": 324
+  },
+  {
+    "preset_id": 47,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És apreciado",
+    "premium": "false",
+    "positive": true,
+    "id": 325
+  },
+  {
+    "preset_id": 47,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś doceniany",
+    "premium": "false",
+    "positive": true,
+    "id": 326
+  },
+  {
+    "preset_id": 47,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты ценен",
+    "premium": "false",
+    "positive": true,
+    "id": 327
+  },
+  {
+    "preset_id": 47,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你被珍视着",
+    "premium": "false",
+    "positive": true,
+    "id": 328
+  }
+]

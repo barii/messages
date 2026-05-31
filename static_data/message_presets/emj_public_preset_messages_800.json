@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 800,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "You're too much",
+    "premium": "false",
+    "positive": true,
+    "id": 5593
+  },
+  {
+    "preset_id": 800,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Eres demasiado",
+    "premium": "false",
+    "positive": true,
+    "id": 5594
+  },
+  {
+    "preset_id": 800,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Du bist zu viel",
+    "premium": "false",
+    "positive": true,
+    "id": 5595
+  },
+  {
+    "preset_id": 800,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "És demasiado",
+    "premium": "false",
+    "positive": true,
+    "id": 5596
+  },
+  {
+    "preset_id": 800,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Jesteś przesadny",
+    "premium": "false",
+    "positive": true,
+    "id": 5597
+  },
+  {
+    "preset_id": 800,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Ты слишком",
+    "premium": "false",
+    "positive": true,
+    "id": 5598
+  },
+  {
+    "preset_id": 800,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "你太过分了",
+    "premium": "false",
+    "positive": true,
+    "id": 5599
+  }
+]

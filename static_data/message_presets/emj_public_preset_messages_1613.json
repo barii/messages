@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1613,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Touch grass.",
+    "premium": "false",
+    "positive": true,
+    "id": 11284
+  },
+  {
+    "preset_id": 1613,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Touch grass.",
+    "premium": "false",
+    "positive": true,
+    "id": 11285
+  },
+  {
+    "preset_id": 1613,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Touch grass.",
+    "premium": "false",
+    "positive": true,
+    "id": 11286
+  },
+  {
+    "preset_id": 1613,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Touch grass.",
+    "premium": "false",
+    "positive": true,
+    "id": 11287
+  },
+  {
+    "preset_id": 1613,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Touch grass.",
+    "premium": "false",
+    "positive": true,
+    "id": 11288
+  },
+  {
+    "preset_id": 1613,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Touch grass.",
+    "premium": "false",
+    "positive": true,
+    "id": 11289
+  },
+  {
+    "preset_id": 1613,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "Touch grass.",
+    "premium": "false",
+    "positive": true,
+    "id": 11290
+  }
+]

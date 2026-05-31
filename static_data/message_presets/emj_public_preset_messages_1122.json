@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1122,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Yo",
+    "premium": "false",
+    "positive": true,
+    "id": 7847
+  },
+  {
+    "preset_id": 1122,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Yo",
+    "premium": "false",
+    "positive": true,
+    "id": 7848
+  },
+  {
+    "preset_id": 1122,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Yo",
+    "premium": "false",
+    "positive": true,
+    "id": 7849
+  },
+  {
+    "preset_id": 1122,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Yo",
+    "premium": "false",
+    "positive": true,
+    "id": 7850
+  },
+  {
+    "preset_id": 1122,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Yo",
+    "premium": "false",
+    "positive": true,
+    "id": 7851
+  },
+  {
+    "preset_id": 1122,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Yo",
+    "premium": "false",
+    "positive": true,
+    "id": 7852
+  },
+  {
+    "preset_id": 1122,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "Yo",
+    "premium": "false",
+    "positive": true,
+    "id": 7853
+  }
+]

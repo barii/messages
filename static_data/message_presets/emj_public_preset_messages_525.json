@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 525,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "That's a bit personal",
+    "premium": "false",
+    "positive": true,
+    "id": 3668
+  },
+  {
+    "preset_id": 525,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Es un poco personal",
+    "premium": "false",
+    "positive": true,
+    "id": 3669
+  },
+  {
+    "preset_id": 525,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Das ist etwas persönlich",
+    "premium": "false",
+    "positive": true,
+    "id": 3670
+  },
+  {
+    "preset_id": 525,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Isso é um bocado pessoal",
+    "premium": "false",
+    "positive": true,
+    "id": 3671
+  },
+  {
+    "preset_id": 525,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "To trochę osobiste",
+    "premium": "false",
+    "positive": true,
+    "id": 3672
+  },
+  {
+    "preset_id": 525,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Это немного личное",
+    "premium": "false",
+    "positive": true,
+    "id": 3673
+  },
+  {
+    "preset_id": 525,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "这有点私人",
+    "premium": "false",
+    "positive": true,
+    "id": 3674
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1280,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Will never see the success that we have seen.",
+    "premium": "false",
+    "positive": true,
+    "id": 8953
+  },
+  {
+    "preset_id": 1280,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Nunca veréis el éxito que nosotros hemos visto.",
+    "premium": "false",
+    "positive": true,
+    "id": 8954
+  },
+  {
+    "preset_id": 1280,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Werdet nie den Erfolg sehen, den wir gesehen haben.",
+    "premium": "false",
+    "positive": true,
+    "id": 8955
+  },
+  {
+    "preset_id": 1280,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Nunca vão ver o sucesso que nós vimos.",
+    "premium": "false",
+    "positive": true,
+    "id": 8956
+  },
+  {
+    "preset_id": 1280,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Nigdy nie zobaczycie sukcesu, jaki my widzieliśmy.",
+    "premium": "false",
+    "positive": true,
+    "id": 8957
+  },
+  {
+    "preset_id": 1280,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Никогда не увидите успеха, который видели мы.",
+    "premium": "false",
+    "positive": true,
+    "id": 8958
+  },
+  {
+    "preset_id": 1280,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "永远看不到我们见过的成功。",
+    "premium": "false",
+    "positive": true,
+    "id": 8959
+  }
+]

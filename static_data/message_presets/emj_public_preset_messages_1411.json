@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1411,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "The greatest team the world has ever seen.",
+    "premium": "false",
+    "positive": true,
+    "id": 9870
+  },
+  {
+    "preset_id": 1411,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "El mejor equipo que el mundo haya visto jamás.",
+    "premium": "false",
+    "positive": true,
+    "id": 9871
+  },
+  {
+    "preset_id": 1411,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Die größte Mannschaft, die die Welt je gesehen hat.",
+    "premium": "false",
+    "positive": true,
+    "id": 9872
+  },
+  {
+    "preset_id": 1411,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "A maior equipa que o mundo já viu.",
+    "premium": "false",
+    "positive": true,
+    "id": 9873
+  },
+  {
+    "preset_id": 1411,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Największa drużyna, jaką świat kiedykolwiek widział.",
+    "premium": "false",
+    "positive": true,
+    "id": 9874
+  },
+  {
+    "preset_id": 1411,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Величайшая команда, которую видел мир.",
+    "premium": "false",
+    "positive": true,
+    "id": 9875
+  },
+  {
+    "preset_id": 1411,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "世界见过的最伟大的球队。",
+    "premium": "false",
+    "positive": true,
+    "id": 9876
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 4,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're so thoughtful",
+    "premium": "false",
+    "positive": true,
+    "id": 21
+  },
+  {
+    "preset_id": 4,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres muy considerado",
+    "premium": "false",
+    "positive": true,
+    "id": 22
+  },
+  {
+    "preset_id": 4,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist so rücksichtsvoll",
+    "premium": "false",
+    "positive": true,
+    "id": 23
+  },
+  {
+    "preset_id": 4,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És tão atencioso",
+    "premium": "false",
+    "positive": true,
+    "id": 24
+  },
+  {
+    "preset_id": 4,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś bardzo troskliwy",
+    "premium": "false",
+    "positive": true,
+    "id": 25
+  },
+  {
+    "preset_id": 4,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты такой внимательный",
+    "premium": "false",
+    "positive": true,
+    "id": 26
+  },
+  {
+    "preset_id": 4,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你很贴心",
+    "premium": "false",
+    "positive": true,
+    "id": 27
+  }
+]

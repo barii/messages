@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1521,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Name one team better than us.",
+    "premium": "false",
+    "positive": true,
+    "id": 10640
+  },
+  {
+    "preset_id": 1521,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Nombrad un equipo mejor que el nuestro.",
+    "premium": "false",
+    "positive": true,
+    "id": 10641
+  },
+  {
+    "preset_id": 1521,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Nennt eine Mannschaft, die besser ist als wir.",
+    "premium": "false",
+    "positive": true,
+    "id": 10642
+  },
+  {
+    "preset_id": 1521,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Nomeiem uma equipa melhor que nós.",
+    "premium": "false",
+    "positive": true,
+    "id": 10643
+  },
+  {
+    "preset_id": 1521,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Wymień jakąkolwiek drużynę lepszą od nas.",
+    "premium": "false",
+    "positive": true,
+    "id": 10644
+  },
+  {
+    "preset_id": 1521,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Назовите хоть одну команду лучше нас.",
+    "premium": "false",
+    "positive": true,
+    "id": 10645
+  },
+  {
+    "preset_id": 1521,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "说出一支比我们更好的队。",
+    "premium": "false",
+    "positive": true,
+    "id": 10646
+  }
+]

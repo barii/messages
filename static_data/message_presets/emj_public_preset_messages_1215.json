@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1215,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "Do you have a name or can I call you mine?",
+    "premium": "false",
+    "positive": true,
+    "id": 8498
+  },
+  {
+    "preset_id": 1215,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "¿Tienes nombre o puedo llamarte mío?",
+    "premium": "false",
+    "positive": true,
+    "id": 8499
+  },
+  {
+    "preset_id": 1215,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Hast du einen Namen oder kann ich dich meinen nennen?",
+    "premium": "false",
+    "positive": true,
+    "id": 8500
+  },
+  {
+    "preset_id": 1215,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "Tens um nome ou posso chamar-te meu?",
+    "premium": "false",
+    "positive": true,
+    "id": 8501
+  },
+  {
+    "preset_id": 1215,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Masz imię czy mogę nazywać cię swoim?",
+    "premium": "false",
+    "positive": true,
+    "id": 8502
+  },
+  {
+    "preset_id": 1215,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "У тебя есть имя или я могу называть тебя моим?",
+    "premium": "false",
+    "positive": true,
+    "id": 8503
+  },
+  {
+    "preset_id": 1215,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "你有名字吗?还是我可以叫你我的?",
+    "premium": "false",
+    "positive": true,
+    "id": 8504
+  }
+]

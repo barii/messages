@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1389,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Park football out there.",
+    "premium": "false",
+    "positive": true,
+    "id": 9716
+  },
+  {
+    "preset_id": 1389,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Fútbol de parque ahí fuera.",
+    "premium": "false",
+    "positive": true,
+    "id": 9717
+  },
+  {
+    "preset_id": 1389,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Bolzplatzfußball.",
+    "premium": "false",
+    "positive": true,
+    "id": 9718
+  },
+  {
+    "preset_id": 1389,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Futebol de pelada.",
+    "premium": "false",
+    "positive": true,
+    "id": 9719
+  },
+  {
+    "preset_id": 1389,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Piłka osiedlowa na boisku.",
+    "premium": "false",
+    "positive": true,
+    "id": 9720
+  },
+  {
+    "preset_id": 1389,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Дворовой футбол на поле.",
+    "premium": "false",
+    "positive": true,
+    "id": 9721
+  },
+  {
+    "preset_id": 1389,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "公园足球罢了。",
+    "premium": "false",
+    "positive": true,
+    "id": 9722
+  }
+]

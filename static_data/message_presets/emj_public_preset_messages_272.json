@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 272,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "I'm younger than you",
+    "premium": "false",
+    "positive": true,
+    "id": 1897
+  },
+  {
+    "preset_id": 272,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Soy menor que tú",
+    "premium": "false",
+    "positive": true,
+    "id": 1898
+  },
+  {
+    "preset_id": 272,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Ich bin jünger als du",
+    "premium": "false",
+    "positive": true,
+    "id": 1899
+  },
+  {
+    "preset_id": 272,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Sou mais novo que tu",
+    "premium": "false",
+    "positive": true,
+    "id": 1900
+  },
+  {
+    "preset_id": 272,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Jestem od ciebie młodszy",
+    "premium": "false",
+    "positive": true,
+    "id": 1901
+  },
+  {
+    "preset_id": 272,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Я младше тебя",
+    "premium": "false",
+    "positive": true,
+    "id": 1902
+  },
+  {
+    "preset_id": 272,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我比你小",
+    "premium": "false",
+    "positive": true,
+    "id": 1903
+  }
+]

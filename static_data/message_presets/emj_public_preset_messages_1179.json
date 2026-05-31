@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1179,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Happy Birthday",
+    "premium": "false",
+    "positive": true,
+    "id": 8246
+  },
+  {
+    "preset_id": 1179,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Feliz Cumpleaños",
+    "premium": "false",
+    "positive": true,
+    "id": 8247
+  },
+  {
+    "preset_id": 1179,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Alles Gute zum Geburtstag",
+    "premium": "false",
+    "positive": true,
+    "id": 8248
+  },
+  {
+    "preset_id": 1179,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Parabéns",
+    "premium": "false",
+    "positive": true,
+    "id": 8249
+  },
+  {
+    "preset_id": 1179,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Wszystkiego najlepszego",
+    "premium": "false",
+    "positive": true,
+    "id": 8250
+  },
+  {
+    "preset_id": 1179,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "С днём рождения",
+    "premium": "false",
+    "positive": true,
+    "id": 8251
+  },
+  {
+    "preset_id": 1179,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "生日快乐",
+    "premium": "false",
+    "positive": true,
+    "id": 8252
+  }
+]

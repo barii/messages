@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 127,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you sad?",
+    "premium": "false",
+    "positive": true,
+    "id": 882
+  },
+  {
+    "preset_id": 127,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Estás triste?",
+    "premium": "false",
+    "positive": true,
+    "id": 883
+  },
+  {
+    "preset_id": 127,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du traurig?",
+    "premium": "false",
+    "positive": true,
+    "id": 884
+  },
+  {
+    "preset_id": 127,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás triste?",
+    "premium": "false",
+    "positive": true,
+    "id": 885
+  },
+  {
+    "preset_id": 127,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jesteś smutny?",
+    "premium": "false",
+    "positive": true,
+    "id": 886
+  },
+  {
+    "preset_id": 127,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты грустишь?",
+    "premium": "false",
+    "positive": true,
+    "id": 887
+  },
+  {
+    "preset_id": 127,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你难过吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 888
+  }
+]

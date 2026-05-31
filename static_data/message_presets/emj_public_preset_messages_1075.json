@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1075,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "I don't love being at this company anymore",
+    "premium": "false",
+    "positive": true,
+    "id": 7518
+  },
+  {
+    "preset_id": 1075,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Ya no me encanta estar en esta empresa",
+    "premium": "false",
+    "positive": true,
+    "id": 7519
+  },
+  {
+    "preset_id": 1075,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Ich liebe es nicht mehr, in diesem Unternehmen zu sein",
+    "premium": "false",
+    "positive": true,
+    "id": 7520
+  },
+  {
+    "preset_id": 1075,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Já não adoro estar nesta empresa",
+    "premium": "false",
+    "positive": true,
+    "id": 7521
+  },
+  {
+    "preset_id": 1075,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Już nie uwielbiam pracować w tej firmie",
+    "premium": "false",
+    "positive": true,
+    "id": 7522
+  },
+  {
+    "preset_id": 1075,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Мне больше не нравится работать в этой компании",
+    "premium": "false",
+    "positive": true,
+    "id": 7523
+  },
+  {
+    "preset_id": 1075,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "我不再喜欢在这家公司了",
+    "premium": "false",
+    "positive": true,
+    "id": 7524
+  }
+]

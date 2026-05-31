@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 538,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "In a meeting",
+    "premium": "false",
+    "positive": true,
+    "id": 3759
+  },
+  {
+    "preset_id": 538,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "En una reunión",
+    "premium": "false",
+    "positive": true,
+    "id": 3760
+  },
+  {
+    "preset_id": 538,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "In einem Meeting",
+    "premium": "false",
+    "positive": true,
+    "id": 3761
+  },
+  {
+    "preset_id": 538,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Numa reunião",
+    "premium": "false",
+    "positive": true,
+    "id": 3762
+  },
+  {
+    "preset_id": 538,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Jestem na spotkaniu",
+    "premium": "false",
+    "positive": true,
+    "id": 3763
+  },
+  {
+    "preset_id": 538,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "На встрече",
+    "premium": "false",
+    "positive": true,
+    "id": 3764
+  },
+  {
+    "preset_id": 538,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "在开会",
+    "premium": "false",
+    "positive": true,
+    "id": 3765
+  }
+]

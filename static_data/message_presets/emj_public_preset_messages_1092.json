@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1092,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Coffee on me",
+    "premium": "false",
+    "positive": true,
+    "id": 7637
+  },
+  {
+    "preset_id": 1092,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "El café va por mí",
+    "premium": "false",
+    "positive": true,
+    "id": 7638
+  },
+  {
+    "preset_id": 1092,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Kaffee geht auf mich",
+    "premium": "false",
+    "positive": true,
+    "id": 7639
+  },
+  {
+    "preset_id": 1092,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "O café é por minha conta",
+    "premium": "false",
+    "positive": true,
+    "id": 7640
+  },
+  {
+    "preset_id": 1092,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Kawa na mój koszt",
+    "premium": "false",
+    "positive": true,
+    "id": 7641
+  },
+  {
+    "preset_id": 1092,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Кофе с меня",
+    "premium": "false",
+    "positive": true,
+    "id": 7642
+  },
+  {
+    "preset_id": 1092,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "咖啡我请",
+    "premium": "false",
+    "positive": true,
+    "id": 7643
+  }
+]

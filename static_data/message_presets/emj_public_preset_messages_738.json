@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 738,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "This is incredible",
+    "premium": "false",
+    "positive": true,
+    "id": 5159
+  },
+  {
+    "preset_id": 738,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Es maravilloso",
+    "premium": "false",
+    "positive": true,
+    "id": 5160
+  },
+  {
+    "preset_id": 738,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Das ist großartig",
+    "premium": "false",
+    "positive": true,
+    "id": 5161
+  },
+  {
+    "preset_id": 738,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Isto é fantástico",
+    "premium": "false",
+    "positive": true,
+    "id": 5162
+  },
+  {
+    "preset_id": 738,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "To niewiarygodne",
+    "premium": "false",
+    "positive": true,
+    "id": 5163
+  },
+  {
+    "preset_id": 738,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Это невероятно",
+    "premium": "false",
+    "positive": true,
+    "id": 5164
+  },
+  {
+    "preset_id": 738,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "太不可思议了",
+    "premium": "false",
+    "positive": true,
+    "id": 5165
+  }
+]

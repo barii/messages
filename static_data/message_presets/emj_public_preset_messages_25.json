@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 25,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "Your hair always looks good",
+    "premium": "true",
+    "positive": true,
+    "id": 168
+  },
+  {
+    "preset_id": 25,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Tu pelo siempre se ve bien",
+    "premium": "true",
+    "positive": true,
+    "id": 169
+  },
+  {
+    "preset_id": 25,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Deine Haare sehen immer gut aus",
+    "premium": "true",
+    "positive": true,
+    "id": 170
+  },
+  {
+    "preset_id": 25,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "O teu cabelo está sempre bem",
+    "premium": "true",
+    "positive": true,
+    "id": 171
+  },
+  {
+    "preset_id": 25,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Twoje włosy zawsze wyglądają dobrze",
+    "premium": "true",
+    "positive": true,
+    "id": 172
+  },
+  {
+    "preset_id": 25,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Твои волосы всегда хорошо выглядят",
+    "premium": "true",
+    "positive": true,
+    "id": 173
+  },
+  {
+    "preset_id": 25,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你的头发总是看起来很好",
+    "premium": "true",
+    "positive": true,
+    "id": 174
+  }
+]

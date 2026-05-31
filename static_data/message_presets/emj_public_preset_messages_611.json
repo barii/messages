@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 611,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I disagree with that",
+    "premium": "false",
+    "positive": true,
+    "id": 4270
+  },
+  {
+    "preset_id": 611,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "No estoy de acuerdo con eso",
+    "premium": "false",
+    "positive": true,
+    "id": 4271
+  },
+  {
+    "preset_id": 611,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ich bin damit nicht einverstanden",
+    "premium": "false",
+    "positive": true,
+    "id": 4272
+  },
+  {
+    "preset_id": 611,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Discordo disso",
+    "premium": "false",
+    "positive": true,
+    "id": 4273
+  },
+  {
+    "preset_id": 611,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Nie zgadzam się z tym",
+    "premium": "false",
+    "positive": true,
+    "id": 4274
+  },
+  {
+    "preset_id": 611,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Я не согласен с этим",
+    "premium": "false",
+    "positive": true,
+    "id": 4275
+  },
+  {
+    "preset_id": 611,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我不同意",
+    "premium": "false",
+    "positive": true,
+    "id": 4276
+  }
+]

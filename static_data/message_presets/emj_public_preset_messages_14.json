@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 14,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're so funny",
+    "premium": "false",
+    "positive": true,
+    "id": 91
+  },
+  {
+    "preset_id": 14,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres muy gracioso",
+    "premium": "false",
+    "positive": true,
+    "id": 92
+  },
+  {
+    "preset_id": 14,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist so lustig",
+    "premium": "false",
+    "positive": true,
+    "id": 93
+  },
+  {
+    "preset_id": 14,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És tão engraçado",
+    "premium": "false",
+    "positive": true,
+    "id": 94
+  },
+  {
+    "preset_id": 14,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś taki zabawny",
+    "premium": "false",
+    "positive": true,
+    "id": 95
+  },
+  {
+    "preset_id": 14,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты такой смешной",
+    "premium": "false",
+    "positive": true,
+    "id": 96
+  },
+  {
+    "preset_id": 14,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你太搞笑了",
+    "premium": "false",
+    "positive": true,
+    "id": 97
+  }
+]

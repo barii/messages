@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 445,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Sounds great",
+    "premium": "false",
+    "positive": true,
+    "id": 3108
+  },
+  {
+    "preset_id": 445,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Suena genial",
+    "premium": "false",
+    "positive": true,
+    "id": 3109
+  },
+  {
+    "preset_id": 445,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Klingt super",
+    "premium": "false",
+    "positive": true,
+    "id": 3110
+  },
+  {
+    "preset_id": 445,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Soa ótimo",
+    "premium": "false",
+    "positive": true,
+    "id": 3111
+  },
+  {
+    "preset_id": 445,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Brzmi świetnie",
+    "premium": "false",
+    "positive": true,
+    "id": 3112
+  },
+  {
+    "preset_id": 445,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Звучит отлично",
+    "premium": "false",
+    "positive": true,
+    "id": 3113
+  },
+  {
+    "preset_id": 445,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "听起来很棒",
+    "premium": "false",
+    "positive": true,
+    "id": 3114
+  }
+]

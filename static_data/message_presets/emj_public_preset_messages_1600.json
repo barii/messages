@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1600,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Long season.",
+    "premium": "false",
+    "positive": true,
+    "id": 11193
+  },
+  {
+    "preset_id": 1600,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Larga temporada.",
+    "premium": "false",
+    "positive": true,
+    "id": 11194
+  },
+  {
+    "preset_id": 1600,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Lange Saison.",
+    "premium": "false",
+    "positive": true,
+    "id": 11195
+  },
+  {
+    "preset_id": 1600,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Longa época.",
+    "premium": "false",
+    "positive": true,
+    "id": 11196
+  },
+  {
+    "preset_id": 1600,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Długi sezon.",
+    "premium": "false",
+    "positive": true,
+    "id": 11197
+  },
+  {
+    "preset_id": 1600,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Долгий сезон.",
+    "premium": "false",
+    "positive": true,
+    "id": 11198
+  },
+  {
+    "preset_id": 1600,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "漫长赛季。",
+    "premium": "false",
+    "positive": true,
+    "id": 11199
+  }
+]

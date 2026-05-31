@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 816,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "That was awful, do it again",
+    "premium": "false",
+    "positive": true,
+    "id": 5705
+  },
+  {
+    "preset_id": 816,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Fue horrible, hazlo otra vez",
+    "premium": "false",
+    "positive": true,
+    "id": 5706
+  },
+  {
+    "preset_id": 816,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Das war schrecklich, mach das nochmal",
+    "premium": "false",
+    "positive": true,
+    "id": 5707
+  },
+  {
+    "preset_id": 816,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Foi horrível, fá-lo outra vez",
+    "premium": "false",
+    "positive": true,
+    "id": 5708
+  },
+  {
+    "preset_id": 816,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "To było okropne, zrób to jeszcze raz",
+    "premium": "false",
+    "positive": true,
+    "id": 5709
+  },
+  {
+    "preset_id": 816,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Это было ужасно, сделай это снова",
+    "premium": "false",
+    "positive": true,
+    "id": 5710
+  },
+  {
+    "preset_id": 816,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "太糟糕了,再来一次",
+    "premium": "false",
+    "positive": true,
+    "id": 5711
+  }
+]

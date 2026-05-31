@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 506,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Surviving",
+    "premium": "false",
+    "positive": true,
+    "id": 3535
+  },
+  {
+    "preset_id": 506,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Sobreviviendo",
+    "premium": "false",
+    "positive": true,
+    "id": 3536
+  },
+  {
+    "preset_id": 506,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Überlebe",
+    "premium": "false",
+    "positive": true,
+    "id": 3537
+  },
+  {
+    "preset_id": 506,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "A sobreviver",
+    "premium": "false",
+    "positive": true,
+    "id": 3538
+  },
+  {
+    "preset_id": 506,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Przeżywam",
+    "premium": "false",
+    "positive": true,
+    "id": 3539
+  },
+  {
+    "preset_id": 506,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Выживаю",
+    "premium": "false",
+    "positive": true,
+    "id": 3540
+  },
+  {
+    "preset_id": 506,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "生存",
+    "premium": "false",
+    "positive": true,
+    "id": 3541
+  }
+]

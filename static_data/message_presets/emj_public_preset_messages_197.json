@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 197,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Want to guess who this is?",
+    "premium": "false",
+    "positive": true,
+    "id": 1372
+  },
+  {
+    "preset_id": 197,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Quieres adivinar quién es?",
+    "premium": "false",
+    "positive": true,
+    "id": 1373
+  },
+  {
+    "preset_id": 197,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Willst du raten, wer das ist?",
+    "premium": "false",
+    "positive": true,
+    "id": 1374
+  },
+  {
+    "preset_id": 197,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Queres adivinhar quem é?",
+    "premium": "false",
+    "positive": true,
+    "id": 1375
+  },
+  {
+    "preset_id": 197,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Chcesz zgadnąć, kto to?",
+    "premium": "false",
+    "positive": true,
+    "id": 1376
+  },
+  {
+    "preset_id": 197,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Хочешь угадать, кто это?",
+    "premium": "false",
+    "positive": true,
+    "id": 1377
+  },
+  {
+    "preset_id": 197,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "想猜猜这是谁吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1378
+  }
+]

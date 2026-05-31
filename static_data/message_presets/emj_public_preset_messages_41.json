@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 41,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "I admire you so much",
+    "premium": "true",
+    "positive": true,
+    "id": 280
+  },
+  {
+    "preset_id": 41,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Te admiro muchísimo",
+    "premium": "true",
+    "positive": true,
+    "id": 281
+  },
+  {
+    "preset_id": 41,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Ich bewundere dich so sehr",
+    "premium": "true",
+    "positive": true,
+    "id": 282
+  },
+  {
+    "preset_id": 41,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Admiro-te imenso",
+    "premium": "true",
+    "positive": true,
+    "id": 283
+  },
+  {
+    "preset_id": 41,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Podziwiam cię ogromnie",
+    "premium": "true",
+    "positive": true,
+    "id": 284
+  },
+  {
+    "preset_id": 41,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Я тобой так восхищаюсь",
+    "premium": "true",
+    "positive": true,
+    "id": 285
+  },
+  {
+    "preset_id": 41,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "我非常欣赏你",
+    "premium": "true",
+    "positive": true,
+    "id": 286
+  }
+]

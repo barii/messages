@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1036,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "The Sunday scaries are real",
+    "premium": "false",
+    "positive": true,
+    "id": 7245
+  },
+  {
+    "preset_id": 1036,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "El bajón del domingo es real",
+    "premium": "false",
+    "positive": true,
+    "id": 7246
+  },
+  {
+    "preset_id": 1036,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Die Sonntagsangst ist real",
+    "premium": "false",
+    "positive": true,
+    "id": 7247
+  },
+  {
+    "preset_id": 1036,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Os medos de domingo são reais",
+    "premium": "false",
+    "positive": true,
+    "id": 7248
+  },
+  {
+    "preset_id": 1036,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Niedzielne lęki są prawdziwe",
+    "premium": "false",
+    "positive": true,
+    "id": 7249
+  },
+  {
+    "preset_id": 1036,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Воскресные тревоги реальны",
+    "premium": "false",
+    "positive": true,
+    "id": 7250
+  },
+  {
+    "preset_id": 1036,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "周日恐惧症是真的",
+    "premium": "false",
+    "positive": true,
+    "id": 7251
+  }
+]

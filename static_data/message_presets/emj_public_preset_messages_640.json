@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 640,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "I don't accept your apology",
+    "premium": "false",
+    "positive": true,
+    "id": 4473
+  },
+  {
+    "preset_id": 640,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "No acepto tu disculpa",
+    "premium": "false",
+    "positive": true,
+    "id": 4474
+  },
+  {
+    "preset_id": 640,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Ich nehme deine Entschuldigung nicht an",
+    "premium": "false",
+    "positive": true,
+    "id": 4475
+  },
+  {
+    "preset_id": 640,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Não aceito o teu pedido de desculpas",
+    "premium": "false",
+    "positive": true,
+    "id": 4476
+  },
+  {
+    "preset_id": 640,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Nie przyjmuję twoich przeprosin",
+    "premium": "false",
+    "positive": true,
+    "id": 4477
+  },
+  {
+    "preset_id": 640,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Я не принимаю твои извинения",
+    "premium": "false",
+    "positive": true,
+    "id": 4478
+  },
+  {
+    "preset_id": 640,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "我不接受你的道歉",
+    "premium": "false",
+    "positive": true,
+    "id": 4479
+  }
+]

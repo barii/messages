@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 988,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You can be passive aggressive",
+    "premium": "false",
+    "positive": false,
+    "id": 6909
+  },
+  {
+    "preset_id": 988,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Puedes ser pasivo-agresivo",
+    "premium": "false",
+    "positive": false,
+    "id": 6910
+  },
+  {
+    "preset_id": 988,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du kannst passiv-aggressiv sein",
+    "premium": "false",
+    "positive": false,
+    "id": 6911
+  },
+  {
+    "preset_id": 988,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Consegues ser passivo-agressivo",
+    "premium": "false",
+    "positive": false,
+    "id": 6912
+  },
+  {
+    "preset_id": 988,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Możesz być pasywno-agresywny",
+    "premium": "false",
+    "positive": false,
+    "id": 6913
+  },
+  {
+    "preset_id": 988,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты можешь быть пассивно-агрессивным",
+    "premium": "false",
+    "positive": false,
+    "id": 6914
+  },
+  {
+    "preset_id": 988,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你可能会被动攻击",
+    "premium": "false",
+    "positive": false,
+    "id": 6915
+  }
+]

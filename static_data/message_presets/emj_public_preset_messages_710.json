@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 710,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "That was my fault",
+    "premium": "false",
+    "positive": true,
+    "id": 4963
+  },
+  {
+    "preset_id": 710,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Fue mi culpa",
+    "premium": "false",
+    "positive": true,
+    "id": 4964
+  },
+  {
+    "preset_id": 710,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Das war mein Fehler",
+    "premium": "false",
+    "positive": true,
+    "id": 4965
+  },
+  {
+    "preset_id": 710,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "A culpa foi minha",
+    "premium": "false",
+    "positive": true,
+    "id": 4966
+  },
+  {
+    "preset_id": 710,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "To była moja wina",
+    "premium": "false",
+    "positive": true,
+    "id": 4967
+  },
+  {
+    "preset_id": 710,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Это была моя вина",
+    "premium": "false",
+    "positive": true,
+    "id": 4968
+  },
+  {
+    "preset_id": 710,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "是我的错",
+    "premium": "false",
+    "positive": true,
+    "id": 4969
+  }
+]

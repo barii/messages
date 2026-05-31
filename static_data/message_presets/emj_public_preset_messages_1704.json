@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1704,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Is your bat made of rubber?",
+    "premium": "true",
+    "positive": true,
+    "id": 11921
+  },
+  {
+    "preset_id": 1704,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Is your bat made of rubber?",
+    "premium": "true",
+    "positive": true,
+    "id": 11922
+  },
+  {
+    "preset_id": 1704,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Is your bat made of rubber?",
+    "premium": "true",
+    "positive": true,
+    "id": 11923
+  },
+  {
+    "preset_id": 1704,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Is your bat made of rubber?",
+    "premium": "true",
+    "positive": true,
+    "id": 11924
+  },
+  {
+    "preset_id": 1704,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Is your bat made of rubber?",
+    "premium": "true",
+    "positive": true,
+    "id": 11925
+  },
+  {
+    "preset_id": 1704,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Is your bat made of rubber?",
+    "premium": "true",
+    "positive": true,
+    "id": 11926
+  },
+  {
+    "preset_id": 1704,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Is your bat made of rubber?",
+    "premium": "true",
+    "positive": true,
+    "id": 11927
+  }
+]

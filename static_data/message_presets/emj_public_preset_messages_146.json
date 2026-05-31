@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 146,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you at work?",
+    "premium": "false",
+    "positive": true,
+    "id": 1015
+  },
+  {
+    "preset_id": 146,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Estás en el trabajo?",
+    "premium": "false",
+    "positive": true,
+    "id": 1016
+  },
+  {
+    "preset_id": 146,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du auf der Arbeit?",
+    "premium": "false",
+    "positive": true,
+    "id": 1017
+  },
+  {
+    "preset_id": 146,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás no trabalho?",
+    "premium": "false",
+    "positive": true,
+    "id": 1018
+  },
+  {
+    "preset_id": 146,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jesteś w pracy?",
+    "premium": "false",
+    "positive": true,
+    "id": 1019
+  },
+  {
+    "preset_id": 146,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты на работе?",
+    "premium": "false",
+    "positive": true,
+    "id": 1020
+  },
+  {
+    "preset_id": 146,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你在上班吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1021
+  }
+]

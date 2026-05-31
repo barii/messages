@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 777,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Genuinely lol",
+    "premium": "false",
+    "positive": true,
+    "id": 5432
+  },
+  {
+    "preset_id": 777,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "De verdad jaja",
+    "premium": "false",
+    "positive": true,
+    "id": 5433
+  },
+  {
+    "preset_id": 777,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Echt lol",
+    "premium": "false",
+    "positive": true,
+    "id": 5434
+  },
+  {
+    "preset_id": 777,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "A sério kkk",
+    "premium": "false",
+    "positive": true,
+    "id": 5435
+  },
+  {
+    "preset_id": 777,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Naprawdę xd",
+    "premium": "false",
+    "positive": true,
+    "id": 5436
+  },
+  {
+    "preset_id": 777,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Реально лол",
+    "premium": "false",
+    "positive": true,
+    "id": 5437
+  },
+  {
+    "preset_id": 777,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "真的笑了",
+    "premium": "false",
+    "positive": true,
+    "id": 5438
+  }
+]

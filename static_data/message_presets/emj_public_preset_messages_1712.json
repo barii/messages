@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1712,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "De-fense! De-fense!",
+    "premium": "false",
+    "positive": true,
+    "id": 11977
+  },
+  {
+    "preset_id": 1712,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "De-fense! De-fense!",
+    "premium": "false",
+    "positive": true,
+    "id": 11978
+  },
+  {
+    "preset_id": 1712,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "De-fense! De-fense!",
+    "premium": "false",
+    "positive": true,
+    "id": 11979
+  },
+  {
+    "preset_id": 1712,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "De-fense! De-fense!",
+    "premium": "false",
+    "positive": true,
+    "id": 11980
+  },
+  {
+    "preset_id": 1712,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "De-fense! De-fense!",
+    "premium": "false",
+    "positive": true,
+    "id": 11981
+  },
+  {
+    "preset_id": 1712,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "De-fense! De-fense!",
+    "premium": "false",
+    "positive": true,
+    "id": 11982
+  },
+  {
+    "preset_id": 1712,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "De-fense! De-fense!",
+    "premium": "false",
+    "positive": true,
+    "id": 11983
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 928,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Get some sleep",
+    "premium": "false",
+    "positive": true,
+    "id": 6489
+  },
+  {
+    "preset_id": 928,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Duerme un poco",
+    "premium": "false",
+    "positive": true,
+    "id": 6490
+  },
+  {
+    "preset_id": 928,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Schlaf etwas",
+    "premium": "false",
+    "positive": true,
+    "id": 6491
+  },
+  {
+    "preset_id": 928,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Dorme um pouco",
+    "premium": "false",
+    "positive": true,
+    "id": 6492
+  },
+  {
+    "preset_id": 928,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Prześpij się",
+    "premium": "false",
+    "positive": true,
+    "id": 6493
+  },
+  {
+    "preset_id": 928,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Поспи",
+    "premium": "false",
+    "positive": true,
+    "id": 6494
+  },
+  {
+    "preset_id": 928,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "睡一觉",
+    "premium": "false",
+    "positive": true,
+    "id": 6495
+  }
+]

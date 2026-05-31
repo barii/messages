@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1581,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Your team has problems too.",
+    "premium": "false",
+    "positive": true,
+    "id": 11060
+  },
+  {
+    "preset_id": 1581,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Vuestro equipo también tiene problemas.",
+    "premium": "false",
+    "positive": true,
+    "id": 11061
+  },
+  {
+    "preset_id": 1581,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Eure Mannschaft hat auch Probleme.",
+    "premium": "false",
+    "positive": true,
+    "id": 11062
+  },
+  {
+    "preset_id": 1581,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "A vossa equipa também tem problemas.",
+    "premium": "false",
+    "positive": true,
+    "id": 11063
+  },
+  {
+    "preset_id": 1581,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Wasza drużyna też ma problemy.",
+    "premium": "false",
+    "positive": true,
+    "id": 11064
+  },
+  {
+    "preset_id": 1581,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "У вашей команды тоже проблемы.",
+    "premium": "false",
+    "positive": true,
+    "id": 11065
+  },
+  {
+    "preset_id": 1581,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们队也有问题。",
+    "premium": "false",
+    "positive": true,
+    "id": 11066
+  }
+]

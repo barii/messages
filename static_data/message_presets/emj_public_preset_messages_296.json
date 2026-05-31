@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 296,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm stressed out",
+    "premium": "false",
+    "positive": true,
+    "id": 2065
+  },
+  {
+    "preset_id": 296,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Estoy muy estresado",
+    "premium": "false",
+    "positive": true,
+    "id": 2066
+  },
+  {
+    "preset_id": 296,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin gestresst",
+    "premium": "false",
+    "positive": true,
+    "id": 2067
+  },
+  {
+    "preset_id": 296,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Estou muito stressado",
+    "premium": "false",
+    "positive": true,
+    "id": 2068
+  },
+  {
+    "preset_id": 296,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem bardzo zestresowany",
+    "premium": "false",
+    "positive": true,
+    "id": 2069
+  },
+  {
+    "preset_id": 296,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я очень в стрессе",
+    "premium": "false",
+    "positive": true,
+    "id": 2070
+  },
+  {
+    "preset_id": 296,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我压力很大",
+    "premium": "false",
+    "positive": true,
+    "id": 2071
+  }
+]

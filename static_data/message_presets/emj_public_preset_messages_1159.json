@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1159,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "New year, new me",
+    "premium": "false",
+    "positive": true,
+    "id": 8106
+  },
+  {
+    "preset_id": 1159,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Año nuevo, yo nuevo",
+    "premium": "false",
+    "positive": true,
+    "id": 8107
+  },
+  {
+    "preset_id": 1159,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Neues Jahr, neues Ich",
+    "premium": "false",
+    "positive": true,
+    "id": 8108
+  },
+  {
+    "preset_id": 1159,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Ano novo, eu novo",
+    "premium": "false",
+    "positive": true,
+    "id": 8109
+  },
+  {
+    "preset_id": 1159,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Nowy rok, nowy ja",
+    "premium": "false",
+    "positive": true,
+    "id": 8110
+  },
+  {
+    "preset_id": 1159,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "Новый год, новый я",
+    "premium": "false",
+    "positive": true,
+    "id": 8111
+  },
+  {
+    "preset_id": 1159,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "新年新我",
+    "premium": "false",
+    "positive": true,
+    "id": 8112
+  }
+]

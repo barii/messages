@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 266,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We haven't known each other long",
+    "premium": "false",
+    "positive": true,
+    "id": 1855
+  },
+  {
+    "preset_id": 266,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "No nos conocemos desde hace mucho",
+    "premium": "false",
+    "positive": true,
+    "id": 1856
+  },
+  {
+    "preset_id": 266,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir kennen uns noch nicht lange",
+    "premium": "false",
+    "positive": true,
+    "id": 1857
+  },
+  {
+    "preset_id": 266,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Não nos conhecemos há muito",
+    "premium": "false",
+    "positive": true,
+    "id": 1858
+  },
+  {
+    "preset_id": 266,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Nie znamy się długo",
+    "premium": "false",
+    "positive": true,
+    "id": 1859
+  },
+  {
+    "preset_id": 266,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы знакомы недолго",
+    "premium": "false",
+    "positive": true,
+    "id": 1860
+  },
+  {
+    "preset_id": 266,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们认识不久",
+    "premium": "false",
+    "positive": true,
+    "id": 1861
+  }
+]

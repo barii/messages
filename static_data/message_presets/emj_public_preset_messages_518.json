@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 518,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Overwhelmed",
+    "premium": "false",
+    "positive": true,
+    "id": 3619
+  },
+  {
+    "preset_id": 518,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Agobiado",
+    "premium": "false",
+    "positive": true,
+    "id": 3620
+  },
+  {
+    "preset_id": 518,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Überfordert",
+    "premium": "false",
+    "positive": true,
+    "id": 3621
+  },
+  {
+    "preset_id": 518,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Sobrecarregado",
+    "premium": "false",
+    "positive": true,
+    "id": 3622
+  },
+  {
+    "preset_id": 518,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Przytłoczony",
+    "premium": "false",
+    "positive": true,
+    "id": 3623
+  },
+  {
+    "preset_id": 518,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Перегружен",
+    "premium": "false",
+    "positive": true,
+    "id": 3624
+  },
+  {
+    "preset_id": 518,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "不知所措",
+    "premium": "false",
+    "positive": true,
+    "id": 3625
+  }
+]

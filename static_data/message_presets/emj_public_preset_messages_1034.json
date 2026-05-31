@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1034,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "I need a nap",
+    "premium": "false",
+    "positive": true,
+    "id": 7231
+  },
+  {
+    "preset_id": 1034,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Necesito una siesta",
+    "premium": "false",
+    "positive": true,
+    "id": 7232
+  },
+  {
+    "preset_id": 1034,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Ich brauche ein Nickerchen",
+    "premium": "false",
+    "positive": true,
+    "id": 7233
+  },
+  {
+    "preset_id": 1034,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Preciso de uma sesta",
+    "premium": "false",
+    "positive": true,
+    "id": 7234
+  },
+  {
+    "preset_id": 1034,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Potrzebuję drzemki",
+    "premium": "false",
+    "positive": true,
+    "id": 7235
+  },
+  {
+    "preset_id": 1034,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Мне нужно поспать",
+    "premium": "false",
+    "positive": true,
+    "id": 7236
+  },
+  {
+    "preset_id": 1034,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "我需要一个午睡",
+    "premium": "false",
+    "positive": true,
+    "id": 7237
+  }
+]

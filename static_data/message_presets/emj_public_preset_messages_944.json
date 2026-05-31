@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 944,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Set some boundaries",
+    "premium": "false",
+    "positive": true,
+    "id": 6601
+  },
+  {
+    "preset_id": 944,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Pon límites",
+    "premium": "false",
+    "positive": true,
+    "id": 6602
+  },
+  {
+    "preset_id": 944,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Setz dir Grenzen",
+    "premium": "false",
+    "positive": true,
+    "id": 6603
+  },
+  {
+    "preset_id": 944,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Define alguns limites",
+    "premium": "false",
+    "positive": true,
+    "id": 6604
+  },
+  {
+    "preset_id": 944,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Ustaw sobie granice",
+    "premium": "false",
+    "positive": true,
+    "id": 6605
+  },
+  {
+    "preset_id": 944,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Установи границы",
+    "premium": "false",
+    "positive": true,
+    "id": 6606
+  },
+  {
+    "preset_id": 944,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "设定一些界限",
+    "premium": "false",
+    "positive": true,
+    "id": 6607
+  }
+]

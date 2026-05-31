@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 883,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "We have something special",
+    "premium": "false",
+    "positive": true,
+    "id": 6174
+  },
+  {
+    "preset_id": 883,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Tenemos algo especial",
+    "premium": "false",
+    "positive": true,
+    "id": 6175
+  },
+  {
+    "preset_id": 883,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Wir haben etwas Besonderes",
+    "premium": "false",
+    "positive": true,
+    "id": 6176
+  },
+  {
+    "preset_id": 883,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Temos algo especial",
+    "premium": "false",
+    "positive": true,
+    "id": 6177
+  },
+  {
+    "preset_id": 883,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Mamy coś wyjątkowego",
+    "premium": "false",
+    "positive": true,
+    "id": 6178
+  },
+  {
+    "preset_id": 883,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "У нас есть что-то особенное",
+    "premium": "false",
+    "positive": true,
+    "id": 6179
+  },
+  {
+    "preset_id": 883,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我们有特别的东西",
+    "premium": "false",
+    "positive": true,
+    "id": 6180
+  }
+]

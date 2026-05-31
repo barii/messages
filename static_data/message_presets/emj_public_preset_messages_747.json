@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 747,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Legendary",
+    "premium": "false",
+    "positive": true,
+    "id": 5222
+  },
+  {
+    "preset_id": 747,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Legendario",
+    "premium": "false",
+    "positive": true,
+    "id": 5223
+  },
+  {
+    "preset_id": 747,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Legendär",
+    "premium": "false",
+    "positive": true,
+    "id": 5224
+  },
+  {
+    "preset_id": 747,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Lendário",
+    "premium": "false",
+    "positive": true,
+    "id": 5225
+  },
+  {
+    "preset_id": 747,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Legendarnie",
+    "premium": "false",
+    "positive": true,
+    "id": 5226
+  },
+  {
+    "preset_id": 747,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Легендарно",
+    "premium": "false",
+    "positive": true,
+    "id": 5227
+  },
+  {
+    "preset_id": 747,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "传奇",
+    "premium": "false",
+    "positive": true,
+    "id": 5228
+  }
+]

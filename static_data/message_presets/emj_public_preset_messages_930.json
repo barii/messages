@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 930,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Take a walk",
+    "premium": "false",
+    "positive": true,
+    "id": 6503
+  },
+  {
+    "preset_id": 930,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Sal a caminar",
+    "premium": "false",
+    "positive": true,
+    "id": 6504
+  },
+  {
+    "preset_id": 930,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Geh spazieren",
+    "premium": "false",
+    "positive": true,
+    "id": 6505
+  },
+  {
+    "preset_id": 930,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Vai dar uma volta",
+    "premium": "false",
+    "positive": true,
+    "id": 6506
+  },
+  {
+    "preset_id": 930,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Idź na spacer",
+    "premium": "false",
+    "positive": true,
+    "id": 6507
+  },
+  {
+    "preset_id": 930,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Прогуляйся",
+    "premium": "false",
+    "positive": true,
+    "id": 6508
+  },
+  {
+    "preset_id": 930,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "去散步",
+    "premium": "false",
+    "positive": true,
+    "id": 6509
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1055,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Worst boss ever",
+    "premium": "false",
+    "positive": true,
+    "id": 7378
+  },
+  {
+    "preset_id": 1055,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "El peor jefe del mundo",
+    "premium": "false",
+    "positive": true,
+    "id": 7379
+  },
+  {
+    "preset_id": 1055,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Schlimmster Chef aller Zeiten",
+    "premium": "false",
+    "positive": true,
+    "id": 7380
+  },
+  {
+    "preset_id": 1055,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Pior chefe de sempre",
+    "premium": "false",
+    "positive": true,
+    "id": 7381
+  },
+  {
+    "preset_id": 1055,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Najgorszy szef",
+    "premium": "false",
+    "positive": true,
+    "id": 7382
+  },
+  {
+    "preset_id": 1055,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Худший босс",
+    "premium": "false",
+    "positive": true,
+    "id": 7383
+  },
+  {
+    "preset_id": 1055,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "最糟的老板",
+    "premium": "false",
+    "positive": true,
+    "id": 7384
+  }
+]

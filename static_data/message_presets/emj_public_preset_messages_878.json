@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 878,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "Want to grab a drink sometime?",
+    "premium": "false",
+    "positive": true,
+    "id": 6139
+  },
+  {
+    "preset_id": 878,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "¿Quieres tomar algo algún día?",
+    "premium": "false",
+    "positive": true,
+    "id": 6140
+  },
+  {
+    "preset_id": 878,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Wollen wir mal was trinken gehen?",
+    "premium": "false",
+    "positive": true,
+    "id": 6141
+  },
+  {
+    "preset_id": 878,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Queres ir beber algo qualquer dia?",
+    "premium": "false",
+    "positive": true,
+    "id": 6142
+  },
+  {
+    "preset_id": 878,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Może wybierzemy się na drinka kiedyś?",
+    "premium": "false",
+    "positive": true,
+    "id": 6143
+  },
+  {
+    "preset_id": 878,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Хочешь выпить как-нибудь?",
+    "premium": "false",
+    "positive": true,
+    "id": 6144
+  },
+  {
+    "preset_id": 878,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "改天想一起喝一杯吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 6145
+  }
+]

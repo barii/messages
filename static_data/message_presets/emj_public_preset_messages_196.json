@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 196,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Any idea who I am?",
+    "premium": "false",
+    "positive": true,
+    "id": 1365
+  },
+  {
+    "preset_id": 196,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Alguna idea de quién soy?",
+    "premium": "false",
+    "positive": true,
+    "id": 1366
+  },
+  {
+    "preset_id": 196,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Hast du eine Ahnung, wer ich bin?",
+    "premium": "false",
+    "positive": true,
+    "id": 1367
+  },
+  {
+    "preset_id": 196,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Alguma ideia de quem sou?",
+    "premium": "false",
+    "positive": true,
+    "id": 1368
+  },
+  {
+    "preset_id": 196,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Masz pojęcie, kim jestem?",
+    "premium": "false",
+    "positive": true,
+    "id": 1369
+  },
+  {
+    "preset_id": 196,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Догадываешься, кто я?",
+    "premium": "false",
+    "positive": true,
+    "id": 1370
+  },
+  {
+    "preset_id": 196,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "猜猜我是谁?",
+    "premium": "false",
+    "positive": true,
+    "id": 1371
+  }
+]

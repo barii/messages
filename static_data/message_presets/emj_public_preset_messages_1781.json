@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1781,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Maybe you should try baseball!",
+    "premium": "false",
+    "positive": true,
+    "id": 12460
+  },
+  {
+    "preset_id": 1781,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Maybe you should try baseball!",
+    "premium": "false",
+    "positive": true,
+    "id": 12461
+  },
+  {
+    "preset_id": 1781,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Maybe you should try baseball!",
+    "premium": "false",
+    "positive": true,
+    "id": 12462
+  },
+  {
+    "preset_id": 1781,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Maybe you should try baseball!",
+    "premium": "false",
+    "positive": true,
+    "id": 12463
+  },
+  {
+    "preset_id": 1781,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Maybe you should try baseball!",
+    "premium": "false",
+    "positive": true,
+    "id": 12464
+  },
+  {
+    "preset_id": 1781,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Maybe you should try baseball!",
+    "premium": "false",
+    "positive": true,
+    "id": 12465
+  },
+  {
+    "preset_id": 1781,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Maybe you should try baseball!",
+    "premium": "false",
+    "positive": true,
+    "id": 12466
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 604,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I'll do better",
+    "premium": "false",
+    "positive": true,
+    "id": 4221
+  },
+  {
+    "preset_id": 604,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Lo haré mejor",
+    "premium": "false",
+    "positive": true,
+    "id": 4222
+  },
+  {
+    "preset_id": 604,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ich werde es besser machen",
+    "premium": "false",
+    "positive": true,
+    "id": 4223
+  },
+  {
+    "preset_id": 604,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Vou fazer melhor",
+    "premium": "false",
+    "positive": true,
+    "id": 4224
+  },
+  {
+    "preset_id": 604,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Będę robił lepiej",
+    "premium": "false",
+    "positive": true,
+    "id": 4225
+  },
+  {
+    "preset_id": 604,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Я буду делать лучше",
+    "premium": "false",
+    "positive": true,
+    "id": 4226
+  },
+  {
+    "preset_id": 604,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我会做得更好",
+    "premium": "false",
+    "positive": true,
+    "id": 4227
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 200,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Want me to reveal myself?",
+    "premium": "false",
+    "positive": true,
+    "id": 1393
+  },
+  {
+    "preset_id": 200,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Quieres que me revele?",
+    "premium": "false",
+    "positive": true,
+    "id": 1394
+  },
+  {
+    "preset_id": 200,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Soll ich mich zu erkennen geben?",
+    "premium": "false",
+    "positive": true,
+    "id": 1395
+  },
+  {
+    "preset_id": 200,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Queres que me revele?",
+    "premium": "false",
+    "positive": true,
+    "id": 1396
+  },
+  {
+    "preset_id": 200,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Chcesz, żebym się ujawnił?",
+    "premium": "false",
+    "positive": true,
+    "id": 1397
+  },
+  {
+    "preset_id": 200,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Хочешь, чтобы я раскрылся?",
+    "premium": "false",
+    "positive": true,
+    "id": 1398
+  },
+  {
+    "preset_id": 200,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "想让我揭晓吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1399
+  }
+]

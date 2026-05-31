@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 692,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "That means a lot",
+    "premium": "false",
+    "positive": true,
+    "id": 4837
+  },
+  {
+    "preset_id": 692,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Significa mucho",
+    "premium": "false",
+    "positive": true,
+    "id": 4838
+  },
+  {
+    "preset_id": 692,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Das bedeutet mir viel",
+    "premium": "false",
+    "positive": true,
+    "id": 4839
+  },
+  {
+    "preset_id": 692,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Significa muito",
+    "premium": "false",
+    "positive": true,
+    "id": 4840
+  },
+  {
+    "preset_id": 692,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "To wiele znaczy",
+    "premium": "false",
+    "positive": true,
+    "id": 4841
+  },
+  {
+    "preset_id": 692,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Это много значит",
+    "premium": "false",
+    "positive": true,
+    "id": 4842
+  },
+  {
+    "preset_id": 692,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "意义重大",
+    "premium": "false",
+    "positive": true,
+    "id": 4843
+  }
+]

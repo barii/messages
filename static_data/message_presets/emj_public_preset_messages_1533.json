@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1533,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You're all talk and no action.",
+    "premium": "false",
+    "positive": true,
+    "id": 10724
+  },
+  {
+    "preset_id": 1533,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Sois todo palabras y nada de acción.",
+    "premium": "false",
+    "positive": true,
+    "id": 10725
+  },
+  {
+    "preset_id": 1533,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ihr seid nur Gerede und keine Taten.",
+    "premium": "false",
+    "positive": true,
+    "id": 10726
+  },
+  {
+    "preset_id": 1533,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "São só conversa e nada de acção.",
+    "premium": "false",
+    "positive": true,
+    "id": 10727
+  },
+  {
+    "preset_id": 1533,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Tylko gadanie i żadnej akcji.",
+    "premium": "false",
+    "positive": true,
+    "id": 10728
+  },
+  {
+    "preset_id": 1533,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Только разговоры и никаких действий.",
+    "premium": "false",
+    "positive": true,
+    "id": 10729
+  },
+  {
+    "preset_id": 1533,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "只会说不会做。",
+    "premium": "false",
+    "positive": true,
+    "id": 10730
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 592,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I'm playing",
+    "premium": "false",
+    "positive": true,
+    "id": 4137
+  },
+  {
+    "preset_id": 592,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Estoy jugando",
+    "premium": "false",
+    "positive": true,
+    "id": 4138
+  },
+  {
+    "preset_id": 592,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ich spiele",
+    "premium": "false",
+    "positive": true,
+    "id": 4139
+  },
+  {
+    "preset_id": 592,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Estou a gozar",
+    "premium": "false",
+    "positive": true,
+    "id": 4140
+  },
+  {
+    "preset_id": 592,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Żartuję sobie",
+    "premium": "false",
+    "positive": true,
+    "id": 4141
+  },
+  {
+    "preset_id": 592,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Я играю",
+    "premium": "false",
+    "positive": true,
+    "id": 4142
+  },
+  {
+    "preset_id": 592,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我在玩",
+    "premium": "false",
+    "positive": true,
+    "id": 4143
+  }
+]

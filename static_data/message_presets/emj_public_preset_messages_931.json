@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 931,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Go for a walk, clear your head",
+    "premium": "true",
+    "positive": true,
+    "id": 6510
+  },
+  {
+    "preset_id": 931,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Sal a caminar, despeja la cabeza",
+    "premium": "true",
+    "positive": true,
+    "id": 6511
+  },
+  {
+    "preset_id": 931,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Geh spazieren, kläre den Kopf",
+    "premium": "true",
+    "positive": true,
+    "id": 6512
+  },
+  {
+    "preset_id": 931,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Vai dar uma volta, limpa a cabeça",
+    "premium": "true",
+    "positive": true,
+    "id": 6513
+  },
+  {
+    "preset_id": 931,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Idź na spacer, oczyść głowę",
+    "premium": "true",
+    "positive": true,
+    "id": 6514
+  },
+  {
+    "preset_id": 931,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Прогуляйся, проветри голову",
+    "premium": "true",
+    "positive": true,
+    "id": 6515
+  },
+  {
+    "preset_id": 931,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "去散步,清醒一下头脑",
+    "premium": "true",
+    "positive": true,
+    "id": 6516
+  }
+]

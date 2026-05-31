@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 699,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Of course",
+    "premium": "false",
+    "positive": true,
+    "id": 4886
+  },
+  {
+    "preset_id": 699,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Por supuesto",
+    "premium": "false",
+    "positive": true,
+    "id": 4887
+  },
+  {
+    "preset_id": 699,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Klar doch",
+    "premium": "false",
+    "positive": true,
+    "id": 4888
+  },
+  {
+    "preset_id": 699,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Claro",
+    "premium": "false",
+    "positive": true,
+    "id": 4889
+  },
+  {
+    "preset_id": 699,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Oczywiście",
+    "premium": "false",
+    "positive": true,
+    "id": 4890
+  },
+  {
+    "preset_id": 699,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Конечно",
+    "premium": "false",
+    "positive": true,
+    "id": 4891
+  },
+  {
+    "preset_id": 699,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "当然",
+    "premium": "false",
+    "positive": true,
+    "id": 4892
+  }
+]

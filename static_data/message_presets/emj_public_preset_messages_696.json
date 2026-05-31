@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 696,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "You're the best",
+    "premium": "false",
+    "positive": true,
+    "id": 4865
+  },
+  {
+    "preset_id": 696,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Eres el mejor",
+    "premium": "false",
+    "positive": true,
+    "id": 4866
+  },
+  {
+    "preset_id": 696,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Du bist die Beste",
+    "premium": "false",
+    "positive": true,
+    "id": 4867
+  },
+  {
+    "preset_id": 696,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "És o maior",
+    "premium": "false",
+    "positive": true,
+    "id": 4868
+  },
+  {
+    "preset_id": 696,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Jesteś najlepszy",
+    "premium": "false",
+    "positive": true,
+    "id": 4869
+  },
+  {
+    "preset_id": 696,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Ты лучший",
+    "premium": "false",
+    "positive": true,
+    "id": 4870
+  },
+  {
+    "preset_id": 696,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "你最棒了",
+    "premium": "false",
+    "positive": true,
+    "id": 4871
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1500,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We ate.",
+    "premium": "false",
+    "positive": true,
+    "id": 10493
+  },
+  {
+    "preset_id": 1500,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "We ate.",
+    "premium": "false",
+    "positive": true,
+    "id": 10494
+  },
+  {
+    "preset_id": 1500,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "We ate.",
+    "premium": "false",
+    "positive": true,
+    "id": 10495
+  },
+  {
+    "preset_id": 1500,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "We ate.",
+    "premium": "false",
+    "positive": true,
+    "id": 10496
+  },
+  {
+    "preset_id": 1500,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "We ate.",
+    "premium": "false",
+    "positive": true,
+    "id": 10497
+  },
+  {
+    "preset_id": 1500,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "We ate.",
+    "premium": "false",
+    "positive": true,
+    "id": 10498
+  },
+  {
+    "preset_id": 1500,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "We ate.",
+    "premium": "false",
+    "positive": true,
+    "id": 10499
+  }
+]

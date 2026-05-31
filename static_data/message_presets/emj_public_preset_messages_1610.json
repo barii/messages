@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1610,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Even on a bad day we beat you.",
+    "premium": "false",
+    "positive": true,
+    "id": 11263
+  },
+  {
+    "preset_id": 1610,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Hasta en un mal día os ganamos.",
+    "premium": "false",
+    "positive": true,
+    "id": 11264
+  },
+  {
+    "preset_id": 1610,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Selbst an einem schlechten Tag schlagen wir euch.",
+    "premium": "false",
+    "positive": true,
+    "id": 11265
+  },
+  {
+    "preset_id": 1610,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Mesmo num dia mau ganhámos-vos.",
+    "premium": "false",
+    "positive": true,
+    "id": 11266
+  },
+  {
+    "preset_id": 1610,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Nawet w słabym dniu wygraliśmy z wami.",
+    "premium": "false",
+    "positive": true,
+    "id": 11267
+  },
+  {
+    "preset_id": 1610,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Даже в плохой день мы обыграем вас.",
+    "premium": "false",
+    "positive": true,
+    "id": 11268
+  },
+  {
+    "preset_id": 1610,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "即使状态差我们也能赢你们。",
+    "premium": "false",
+    "positive": true,
+    "id": 11269
+  }
+]

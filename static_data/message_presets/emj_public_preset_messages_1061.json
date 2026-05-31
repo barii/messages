@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1061,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "We need to talk about the workload",
+    "premium": "false",
+    "positive": true,
+    "id": 7420
+  },
+  {
+    "preset_id": 1061,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Tenemos que hablar de la carga de trabajo",
+    "premium": "false",
+    "positive": true,
+    "id": 7421
+  },
+  {
+    "preset_id": 1061,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Wir müssen über die Arbeitsbelastung reden",
+    "premium": "false",
+    "positive": true,
+    "id": 7422
+  },
+  {
+    "preset_id": 1061,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Temos de falar sobre a carga de trabalho",
+    "premium": "false",
+    "positive": true,
+    "id": 7423
+  },
+  {
+    "preset_id": 1061,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Musimy pogadać o obciążeniu pracą",
+    "premium": "false",
+    "positive": true,
+    "id": 7424
+  },
+  {
+    "preset_id": 1061,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Нам нужно поговорить о нагрузке",
+    "premium": "false",
+    "positive": true,
+    "id": 7425
+  },
+  {
+    "preset_id": 1061,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "我们需要谈谈工作量",
+    "premium": "false",
+    "positive": true,
+    "id": 7426
+  }
+]

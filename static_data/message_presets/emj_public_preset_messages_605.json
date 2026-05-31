@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 605,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Thank you for telling me",
+    "premium": "false",
+    "positive": true,
+    "id": 4228
+  },
+  {
+    "preset_id": 605,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Gracias por decírmelo",
+    "premium": "false",
+    "positive": true,
+    "id": 4229
+  },
+  {
+    "preset_id": 605,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Danke, dass du es mir sagst",
+    "premium": "false",
+    "positive": true,
+    "id": 4230
+  },
+  {
+    "preset_id": 605,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Obrigado por me dizeres",
+    "premium": "false",
+    "positive": true,
+    "id": 4231
+  },
+  {
+    "preset_id": 605,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Dzięki, że mi to powiedziałeś",
+    "premium": "false",
+    "positive": true,
+    "id": 4232
+  },
+  {
+    "preset_id": 605,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Спасибо, что сказал мне",
+    "premium": "false",
+    "positive": true,
+    "id": 4233
+  },
+  {
+    "preset_id": 605,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "谢谢你告诉我",
+    "premium": "false",
+    "positive": true,
+    "id": 4234
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1666,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You sound mad.",
+    "premium": "true",
+    "positive": true,
+    "id": 11655
+  },
+  {
+    "preset_id": 1666,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Sonáis enfadados.",
+    "premium": "true",
+    "positive": true,
+    "id": 11656
+  },
+  {
+    "preset_id": 1666,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ihr klingt sauer.",
+    "premium": "true",
+    "positive": true,
+    "id": 11657
+  },
+  {
+    "preset_id": 1666,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Parecem zangados.",
+    "premium": "true",
+    "positive": true,
+    "id": 11658
+  },
+  {
+    "preset_id": 1666,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Brzmicie wściekle.",
+    "premium": "true",
+    "positive": true,
+    "id": 11659
+  },
+  {
+    "preset_id": 1666,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Звучите злыми.",
+    "premium": "true",
+    "positive": true,
+    "id": 11660
+  },
+  {
+    "preset_id": 1666,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们听起来很生气。",
+    "premium": "true",
+    "positive": true,
+    "id": 11661
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1113,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Bye",
+    "premium": "false",
+    "positive": true,
+    "id": 7784
+  },
+  {
+    "preset_id": 1113,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Chau",
+    "premium": "false",
+    "positive": true,
+    "id": 7785
+  },
+  {
+    "preset_id": 1113,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Tschüss",
+    "premium": "false",
+    "positive": true,
+    "id": 7786
+  },
+  {
+    "preset_id": 1113,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Adeus",
+    "premium": "false",
+    "positive": true,
+    "id": 7787
+  },
+  {
+    "preset_id": 1113,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Pa",
+    "premium": "false",
+    "positive": true,
+    "id": 7788
+  },
+  {
+    "preset_id": 1113,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Пока",
+    "premium": "false",
+    "positive": true,
+    "id": 7789
+  },
+  {
+    "preset_id": 1113,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "拜拜",
+    "premium": "false",
+    "positive": true,
+    "id": 7790
+  }
+]

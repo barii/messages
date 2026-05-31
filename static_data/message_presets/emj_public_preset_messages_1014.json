@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1014,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "I care about you, that's why I'm telling you this",
+    "premium": "true",
+    "positive": true,
+    "id": 7091
+  },
+  {
+    "preset_id": 1014,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Me importas, por eso te lo digo",
+    "premium": "true",
+    "positive": true,
+    "id": 7092
+  },
+  {
+    "preset_id": 1014,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Mir liegt etwas an dir, deshalb sage ich dir das",
+    "premium": "true",
+    "positive": true,
+    "id": 7093
+  },
+  {
+    "preset_id": 1014,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Importo-me contigo, por isso te estou a dizer",
+    "premium": "true",
+    "positive": true,
+    "id": 7094
+  },
+  {
+    "preset_id": 1014,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Zależy mi na tobie, dlatego ci to mówię",
+    "premium": "true",
+    "positive": true,
+    "id": 7095
+  },
+  {
+    "preset_id": 1014,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Мне не всё равно, поэтому я тебе это говорю",
+    "premium": "true",
+    "positive": true,
+    "id": 7096
+  },
+  {
+    "preset_id": 1014,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "我在乎你,所以我才告诉你这些",
+    "premium": "true",
+    "positive": true,
+    "id": 7097
+  }
+]

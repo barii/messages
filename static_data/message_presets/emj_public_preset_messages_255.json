@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 255,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We met at a wedding",
+    "premium": "false",
+    "positive": true,
+    "id": 1778
+  },
+  {
+    "preset_id": 255,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Nos conocimos en una boda",
+    "premium": "false",
+    "positive": true,
+    "id": 1779
+  },
+  {
+    "preset_id": 255,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir haben uns auf einer Hochzeit kennengelernt",
+    "premium": "false",
+    "positive": true,
+    "id": 1780
+  },
+  {
+    "preset_id": 255,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Conhecemo-nos num casamento",
+    "premium": "false",
+    "positive": true,
+    "id": 1781
+  },
+  {
+    "preset_id": 255,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Poznaliśmy się na ślubie",
+    "premium": "false",
+    "positive": true,
+    "id": 1782
+  },
+  {
+    "preset_id": 255,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы познакомились на свадьбе",
+    "premium": "false",
+    "positive": true,
+    "id": 1783
+  },
+  {
+    "preset_id": 255,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们在婚礼上认识",
+    "premium": "false",
+    "positive": true,
+    "id": 1784
+  }
+]

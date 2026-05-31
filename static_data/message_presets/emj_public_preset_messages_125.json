@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 125,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you lonely?",
+    "premium": "false",
+    "positive": true,
+    "id": 868
+  },
+  {
+    "preset_id": 125,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Te sientes solo?",
+    "premium": "false",
+    "positive": true,
+    "id": 869
+  },
+  {
+    "preset_id": 125,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Fühlst du dich einsam?",
+    "premium": "false",
+    "positive": true,
+    "id": 870
+  },
+  {
+    "preset_id": 125,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Sentes-te sozinho?",
+    "premium": "false",
+    "positive": true,
+    "id": 871
+  },
+  {
+    "preset_id": 125,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Czujesz się samotny?",
+    "premium": "false",
+    "positive": true,
+    "id": 872
+  },
+  {
+    "preset_id": 125,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты одинок?",
+    "premium": "false",
+    "positive": true,
+    "id": 873
+  },
+  {
+    "preset_id": 125,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你感到孤单吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 874
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1266,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Losers!",
+    "premium": "false",
+    "positive": true,
+    "id": 8855
+  },
+  {
+    "preset_id": 1266,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "¡Perdedores!",
+    "premium": "false",
+    "positive": true,
+    "id": 8856
+  },
+  {
+    "preset_id": 1266,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Verlierer!",
+    "premium": "false",
+    "positive": true,
+    "id": 8857
+  },
+  {
+    "preset_id": 1266,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Falhados!",
+    "premium": "false",
+    "positive": true,
+    "id": 8858
+  },
+  {
+    "preset_id": 1266,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Przegrani!",
+    "premium": "false",
+    "positive": true,
+    "id": 8859
+  },
+  {
+    "preset_id": 1266,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Неудачники!",
+    "premium": "false",
+    "positive": true,
+    "id": 8860
+  },
+  {
+    "preset_id": 1266,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "失败者!",
+    "premium": "false",
+    "positive": true,
+    "id": 8861
+  }
+]

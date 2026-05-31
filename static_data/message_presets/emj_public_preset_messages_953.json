@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 953,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Stop putting it off",
+    "premium": "false",
+    "positive": true,
+    "id": 6664
+  },
+  {
+    "preset_id": 953,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Deja de aplazarlo",
+    "premium": "false",
+    "positive": true,
+    "id": 6665
+  },
+  {
+    "preset_id": 953,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Hör auf, es aufzuschieben",
+    "premium": "false",
+    "positive": true,
+    "id": 6666
+  },
+  {
+    "preset_id": 953,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Para de adiar",
+    "premium": "false",
+    "positive": true,
+    "id": 6667
+  },
+  {
+    "preset_id": 953,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Przestań to odkładać",
+    "premium": "false",
+    "positive": true,
+    "id": 6668
+  },
+  {
+    "preset_id": 953,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Перестань откладывать",
+    "premium": "false",
+    "positive": true,
+    "id": 6669
+  },
+  {
+    "preset_id": 953,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "别再拖延",
+    "premium": "false",
+    "positive": true,
+    "id": 6670
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 195,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Do you know who this is?",
+    "premium": "false",
+    "positive": true,
+    "id": 1358
+  },
+  {
+    "preset_id": 195,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Sabes quién soy?",
+    "premium": "false",
+    "positive": true,
+    "id": 1359
+  },
+  {
+    "preset_id": 195,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Weißt du, wer das ist?",
+    "premium": "false",
+    "positive": true,
+    "id": 1360
+  },
+  {
+    "preset_id": 195,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Sabes quem é?",
+    "premium": "false",
+    "positive": true,
+    "id": 1361
+  },
+  {
+    "preset_id": 195,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Wiesz, kto to?",
+    "premium": "false",
+    "positive": true,
+    "id": 1362
+  },
+  {
+    "preset_id": 195,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты знаешь, кто это?",
+    "premium": "false",
+    "positive": true,
+    "id": 1363
+  },
+  {
+    "preset_id": 195,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你知道这是谁吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1364
+  }
+]

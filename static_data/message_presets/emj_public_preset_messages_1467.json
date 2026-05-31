@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1467,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We didn't even get out of second gear.",
+    "premium": "false",
+    "positive": true,
+    "id": 10262
+  },
+  {
+    "preset_id": 1467,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Ni siquiera salimos de segunda marcha.",
+    "premium": "false",
+    "positive": true,
+    "id": 10263
+  },
+  {
+    "preset_id": 1467,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir sind nicht mal aus dem zweiten Gang gekommen.",
+    "premium": "false",
+    "positive": true,
+    "id": 10264
+  },
+  {
+    "preset_id": 1467,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Nem saímos da segunda velocidade.",
+    "premium": "false",
+    "positive": true,
+    "id": 10265
+  },
+  {
+    "preset_id": 1467,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Nie wyszliśmy nawet z drugiego biegu.",
+    "premium": "false",
+    "positive": true,
+    "id": 10266
+  },
+  {
+    "preset_id": 1467,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Даже не вышли со второй передачи.",
+    "premium": "false",
+    "positive": true,
+    "id": 10267
+  },
+  {
+    "preset_id": 1467,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们连二档都没出。",
+    "premium": "false",
+    "positive": true,
+    "id": 10268
+  }
+]

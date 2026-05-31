@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 571,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Pretty much",
+    "premium": "false",
+    "positive": true,
+    "id": 3990
+  },
+  {
+    "preset_id": 571,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Más o menos",
+    "premium": "false",
+    "positive": true,
+    "id": 3991
+  },
+  {
+    "preset_id": 571,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "So ziemlich",
+    "premium": "false",
+    "positive": true,
+    "id": 3992
+  },
+  {
+    "preset_id": 571,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Mais ou menos",
+    "premium": "false",
+    "positive": true,
+    "id": 3993
+  },
+  {
+    "preset_id": 571,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Mniej więcej",
+    "premium": "false",
+    "positive": true,
+    "id": 3994
+  },
+  {
+    "preset_id": 571,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Более-менее",
+    "premium": "false",
+    "positive": true,
+    "id": 3995
+  },
+  {
+    "preset_id": 571,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "差不多",
+    "premium": "false",
+    "positive": true,
+    "id": 3996
+  }
+]

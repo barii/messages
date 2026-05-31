@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 216,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Do we go to university together?",
+    "premium": "false",
+    "positive": true,
+    "id": 1505
+  },
+  {
+    "preset_id": 216,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Vamos a la universidad juntos?",
+    "premium": "false",
+    "positive": true,
+    "id": 1506
+  },
+  {
+    "preset_id": 216,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Studieren wir zusammen?",
+    "premium": "false",
+    "positive": true,
+    "id": 1507
+  },
+  {
+    "preset_id": 216,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Andamos na universidade juntos?",
+    "premium": "false",
+    "positive": true,
+    "id": 1508
+  },
+  {
+    "preset_id": 216,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Studiujemy razem?",
+    "premium": "false",
+    "positive": true,
+    "id": 1509
+  },
+  {
+    "preset_id": 216,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Мы учимся в универе вместе?",
+    "premium": "false",
+    "positive": true,
+    "id": 1510
+  },
+  {
+    "preset_id": 216,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我们一起上大学吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1511
+  }
+]

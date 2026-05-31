@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 661,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Fascinating",
+    "premium": "false",
+    "positive": true,
+    "id": 4620
+  },
+  {
+    "preset_id": 661,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Fascinante",
+    "premium": "false",
+    "positive": true,
+    "id": 4621
+  },
+  {
+    "preset_id": 661,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Faszinierend",
+    "premium": "false",
+    "positive": true,
+    "id": 4622
+  },
+  {
+    "preset_id": 661,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Fascinante",
+    "premium": "false",
+    "positive": true,
+    "id": 4623
+  },
+  {
+    "preset_id": 661,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Fascynujące",
+    "premium": "false",
+    "positive": true,
+    "id": 4624
+  },
+  {
+    "preset_id": 661,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Захватывающе",
+    "premium": "false",
+    "positive": true,
+    "id": 4625
+  },
+  {
+    "preset_id": 661,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "迷人",
+    "premium": "false",
+    "positive": true,
+    "id": 4626
+  }
+]

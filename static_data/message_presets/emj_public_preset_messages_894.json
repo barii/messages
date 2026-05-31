@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 894,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I'm not in a place to date right now",
+    "premium": "false",
+    "positive": true,
+    "id": 6251
+  },
+  {
+    "preset_id": 894,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "No estoy en condiciones de salir con nadie ahora",
+    "premium": "false",
+    "positive": true,
+    "id": 6252
+  },
+  {
+    "preset_id": 894,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich bin gerade nicht in der Lage zu daten",
+    "premium": "false",
+    "positive": true,
+    "id": 6253
+  },
+  {
+    "preset_id": 894,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Não estou num sítio para namorar agora",
+    "premium": "false",
+    "positive": true,
+    "id": 6254
+  },
+  {
+    "preset_id": 894,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Nie jestem teraz gotowy na randkowanie",
+    "premium": "false",
+    "positive": true,
+    "id": 6255
+  },
+  {
+    "preset_id": 894,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Я не готов сейчас встречаться",
+    "premium": "false",
+    "positive": true,
+    "id": 6256
+  },
+  {
+    "preset_id": 894,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我现在不在恋爱的状态",
+    "premium": "false",
+    "positive": true,
+    "id": 6257
+  }
+]

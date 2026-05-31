@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1304,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Give over.",
+    "premium": "false",
+    "positive": true,
+    "id": 9121
+  },
+  {
+    "preset_id": 1304,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Por favor.",
+    "premium": "false",
+    "positive": true,
+    "id": 9122
+  },
+  {
+    "preset_id": 1304,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Lasst es gut sein.",
+    "premium": "false",
+    "positive": true,
+    "id": 9123
+  },
+  {
+    "preset_id": 1304,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Tem lá calma.",
+    "premium": "false",
+    "positive": true,
+    "id": 9124
+  },
+  {
+    "preset_id": 1304,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Dajcie spokój.",
+    "premium": "false",
+    "positive": true,
+    "id": 9125
+  },
+  {
+    "preset_id": 1304,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Бросьте.",
+    "premium": "false",
+    "positive": true,
+    "id": 9126
+  },
+  {
+    "preset_id": 1304,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "饶了我吧。",
+    "premium": "false",
+    "positive": true,
+    "id": 9127
+  }
+]

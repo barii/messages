@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1186,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Happy Friday",
+    "premium": "false",
+    "positive": true,
+    "id": 8295
+  },
+  {
+    "preset_id": 1186,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Feliz Viernes",
+    "premium": "false",
+    "positive": true,
+    "id": 8296
+  },
+  {
+    "preset_id": 1186,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Frohen Freitag",
+    "premium": "false",
+    "positive": true,
+    "id": 8297
+  },
+  {
+    "preset_id": 1186,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Feliz Sexta",
+    "premium": "false",
+    "positive": true,
+    "id": 8298
+  },
+  {
+    "preset_id": 1186,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Wesołego piątku",
+    "premium": "false",
+    "positive": true,
+    "id": 8299
+  },
+  {
+    "preset_id": 1186,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "Счастливой пятницы",
+    "premium": "false",
+    "positive": true,
+    "id": 8300
+  },
+  {
+    "preset_id": 1186,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "周五快乐",
+    "premium": "false",
+    "positive": true,
+    "id": 8301
+  }
+]

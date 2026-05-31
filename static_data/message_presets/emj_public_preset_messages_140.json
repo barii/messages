@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 140,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you happy to hear from me?",
+    "premium": "false",
+    "positive": true,
+    "id": 973
+  },
+  {
+    "preset_id": 140,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Te alegra saber de mí?",
+    "premium": "false",
+    "positive": true,
+    "id": 974
+  },
+  {
+    "preset_id": 140,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Freust du dich, von mir zu hören?",
+    "premium": "false",
+    "positive": true,
+    "id": 975
+  },
+  {
+    "preset_id": 140,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás feliz por teres notícias minhas?",
+    "premium": "false",
+    "positive": true,
+    "id": 976
+  },
+  {
+    "preset_id": 140,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Cieszysz się, że piszę do ciebie?",
+    "premium": "false",
+    "positive": true,
+    "id": 977
+  },
+  {
+    "preset_id": 140,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты рад слышать меня?",
+    "premium": "false",
+    "positive": true,
+    "id": 978
+  },
+  {
+    "preset_id": 140,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你听到我消息开心吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 979
+  }
+]

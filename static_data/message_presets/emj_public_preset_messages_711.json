@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 711,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I owe you an apology",
+    "premium": "false",
+    "positive": true,
+    "id": 4970
+  },
+  {
+    "preset_id": 711,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Te debo una disculpa",
+    "premium": "false",
+    "positive": true,
+    "id": 4971
+  },
+  {
+    "preset_id": 711,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Ich schulde dir eine Entschuldigung",
+    "premium": "false",
+    "positive": true,
+    "id": 4972
+  },
+  {
+    "preset_id": 711,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Devo-te um pedido de desculpas",
+    "premium": "false",
+    "positive": true,
+    "id": 4973
+  },
+  {
+    "preset_id": 711,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Jestem ci winien przeprosiny",
+    "premium": "false",
+    "positive": true,
+    "id": 4974
+  },
+  {
+    "preset_id": 711,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Я должен тебе извинения",
+    "premium": "false",
+    "positive": true,
+    "id": 4975
+  },
+  {
+    "preset_id": 711,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我欠你一个道歉",
+    "premium": "false",
+    "positive": true,
+    "id": 4976
+  }
+]

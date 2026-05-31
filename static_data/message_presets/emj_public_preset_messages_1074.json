@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1074,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "I love being at this company",
+    "premium": "false",
+    "positive": true,
+    "id": 7511
+  },
+  {
+    "preset_id": 1074,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Me encanta estar en esta empresa",
+    "premium": "false",
+    "positive": true,
+    "id": 7512
+  },
+  {
+    "preset_id": 1074,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Ich liebe es, in diesem Unternehmen zu sein",
+    "premium": "false",
+    "positive": true,
+    "id": 7513
+  },
+  {
+    "preset_id": 1074,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Adoro estar nesta empresa",
+    "premium": "false",
+    "positive": true,
+    "id": 7514
+  },
+  {
+    "preset_id": 1074,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Uwielbiam pracować w tej firmie",
+    "premium": "false",
+    "positive": true,
+    "id": 7515
+  },
+  {
+    "preset_id": 1074,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Мне нравится работать в этой компании",
+    "premium": "false",
+    "positive": true,
+    "id": 7516
+  },
+  {
+    "preset_id": 1074,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "我喜欢在这家公司",
+    "premium": "false",
+    "positive": true,
+    "id": 7517
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1508,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We've got the trophies, you've got the excuses.",
+    "premium": "true",
+    "positive": true,
+    "id": 10549
+  },
+  {
+    "preset_id": 1508,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Nosotros tenemos los trofeos, vosotros las excusas.",
+    "premium": "true",
+    "positive": true,
+    "id": 10550
+  },
+  {
+    "preset_id": 1508,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir haben die Pokale, ihr habt die Ausreden.",
+    "premium": "true",
+    "positive": true,
+    "id": 10551
+  },
+  {
+    "preset_id": 1508,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Nós temos os troféus, vocês têm as desculpas.",
+    "premium": "true",
+    "positive": true,
+    "id": 10552
+  },
+  {
+    "preset_id": 1508,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "My mamy trofea, wy macie wymówki.",
+    "premium": "true",
+    "positive": true,
+    "id": 10553
+  },
+  {
+    "preset_id": 1508,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "У нас трофеи, у вас оправдания.",
+    "premium": "true",
+    "positive": true,
+    "id": 10554
+  },
+  {
+    "preset_id": 1508,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们有奖杯,你们有借口。",
+    "premium": "true",
+    "positive": true,
+    "id": 10555
+  }
+]

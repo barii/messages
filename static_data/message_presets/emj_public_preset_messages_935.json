@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 935,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Get out of your head",
+    "premium": "false",
+    "positive": true,
+    "id": 6538
+  },
+  {
+    "preset_id": 935,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Sal de tu cabeza",
+    "premium": "false",
+    "positive": true,
+    "id": 6539
+  },
+  {
+    "preset_id": 935,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Komm aus deinem Kopf raus",
+    "premium": "false",
+    "positive": true,
+    "id": 6540
+  },
+  {
+    "preset_id": 935,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Sai da tua cabeça",
+    "premium": "false",
+    "positive": true,
+    "id": 6541
+  },
+  {
+    "preset_id": 935,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Wyjdź ze swojej głowy",
+    "premium": "false",
+    "positive": true,
+    "id": 6542
+  },
+  {
+    "preset_id": 935,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Выйди из своей головы",
+    "premium": "false",
+    "positive": true,
+    "id": 6543
+  },
+  {
+    "preset_id": 935,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "走出你的脑袋",
+    "premium": "false",
+    "positive": true,
+    "id": 6544
+  }
+]

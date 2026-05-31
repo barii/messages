@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 902,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I had hoped you felt that way",
+    "premium": "false",
+    "positive": true,
+    "id": 6307
+  },
+  {
+    "preset_id": 902,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Esperaba que sintieras eso",
+    "premium": "false",
+    "positive": true,
+    "id": 6308
+  },
+  {
+    "preset_id": 902,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich hatte gehofft, dass du so empfindest",
+    "premium": "false",
+    "positive": true,
+    "id": 6309
+  },
+  {
+    "preset_id": 902,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Tinha esperança que sentisses isso",
+    "premium": "false",
+    "positive": true,
+    "id": 6310
+  },
+  {
+    "preset_id": 902,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Miałem nadzieję, że tak się czujesz",
+    "premium": "false",
+    "positive": true,
+    "id": 6311
+  },
+  {
+    "preset_id": 902,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Я надеялся, что ты так чувствуешь",
+    "premium": "false",
+    "positive": true,
+    "id": 6312
+  },
+  {
+    "preset_id": 902,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我希望你有这种感觉",
+    "premium": "false",
+    "positive": true,
+    "id": 6313
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 755,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Don't give up",
+    "premium": "false",
+    "positive": true,
+    "id": 5278
+  },
+  {
+    "preset_id": 755,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "No te rindas",
+    "premium": "false",
+    "positive": true,
+    "id": 5279
+  },
+  {
+    "preset_id": 755,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Gib nicht auf",
+    "premium": "false",
+    "positive": true,
+    "id": 5280
+  },
+  {
+    "preset_id": 755,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Não desistas",
+    "premium": "false",
+    "positive": true,
+    "id": 5281
+  },
+  {
+    "preset_id": 755,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Nie poddawaj się",
+    "premium": "false",
+    "positive": true,
+    "id": 5282
+  },
+  {
+    "preset_id": 755,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Не сдавайся",
+    "premium": "false",
+    "positive": true,
+    "id": 5283
+  },
+  {
+    "preset_id": 755,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "别放弃",
+    "premium": "false",
+    "positive": true,
+    "id": 5284
+  }
+]

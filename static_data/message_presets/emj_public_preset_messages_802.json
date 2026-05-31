@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 802,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Flattery will get you everywhere",
+    "premium": "false",
+    "positive": true,
+    "id": 5607
+  },
+  {
+    "preset_id": 802,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Halagar te llevará a todas partes",
+    "premium": "false",
+    "positive": true,
+    "id": 5608
+  },
+  {
+    "preset_id": 802,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Schmeicheleien bringen dich überall hin",
+    "premium": "false",
+    "positive": true,
+    "id": 5609
+  },
+  {
+    "preset_id": 802,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Os elogios vão levar-te longe",
+    "premium": "false",
+    "positive": true,
+    "id": 5610
+  },
+  {
+    "preset_id": 802,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Pochlebstwa zaprowadzą cię wszędzie",
+    "premium": "false",
+    "positive": true,
+    "id": 5611
+  },
+  {
+    "preset_id": 802,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Лесть тебя далеко заведёт",
+    "premium": "false",
+    "positive": true,
+    "id": 5612
+  },
+  {
+    "preset_id": 802,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "甜言蜜语会让你走得很远",
+    "premium": "false",
+    "positive": true,
+    "id": 5613
+  }
+]

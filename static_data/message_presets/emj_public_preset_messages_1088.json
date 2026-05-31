@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1088,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "This place I swear",
+    "premium": "false",
+    "positive": true,
+    "id": 7609
+  },
+  {
+    "preset_id": 1088,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Este lugar, te lo juro",
+    "premium": "false",
+    "positive": true,
+    "id": 7610
+  },
+  {
+    "preset_id": 1088,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Dieser Ort, ich schwöre",
+    "premium": "false",
+    "positive": true,
+    "id": 7611
+  },
+  {
+    "preset_id": 1088,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Este sítio, juro",
+    "premium": "false",
+    "positive": true,
+    "id": 7612
+  },
+  {
+    "preset_id": 1088,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "To miejsce przysięgam",
+    "premium": "false",
+    "positive": true,
+    "id": 7613
+  },
+  {
+    "preset_id": 1088,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Это место, клянусь",
+    "premium": "false",
+    "positive": true,
+    "id": 7614
+  },
+  {
+    "preset_id": 1088,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "这地方,我发誓",
+    "premium": "false",
+    "positive": true,
+    "id": 7615
+  }
+]

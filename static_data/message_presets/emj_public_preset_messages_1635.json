@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1635,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "This is sad.",
+    "premium": "false",
+    "positive": true,
+    "id": 11438
+  },
+  {
+    "preset_id": 1635,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Esto es triste.",
+    "premium": "false",
+    "positive": true,
+    "id": 11439
+  },
+  {
+    "preset_id": 1635,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Das ist traurig.",
+    "premium": "false",
+    "positive": true,
+    "id": 11440
+  },
+  {
+    "preset_id": 1635,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Isto é triste.",
+    "premium": "false",
+    "positive": true,
+    "id": 11441
+  },
+  {
+    "preset_id": 1635,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "To jest smutne.",
+    "premium": "false",
+    "positive": true,
+    "id": 11442
+  },
+  {
+    "preset_id": 1635,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Это печально.",
+    "premium": "false",
+    "positive": true,
+    "id": 11443
+  },
+  {
+    "preset_id": 1635,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "这真可悲。",
+    "premium": "false",
+    "positive": true,
+    "id": 11444
+  }
+]

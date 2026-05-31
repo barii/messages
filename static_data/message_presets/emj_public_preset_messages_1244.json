@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1244,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Laughable effort today.",
+    "premium": "false",
+    "positive": true,
+    "id": 8701
+  },
+  {
+    "preset_id": 1244,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Esfuerzo risible hoy.",
+    "premium": "false",
+    "positive": true,
+    "id": 8702
+  },
+  {
+    "preset_id": 1244,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Lächerlicher Einsatz heute.",
+    "premium": "false",
+    "positive": true,
+    "id": 8703
+  },
+  {
+    "preset_id": 1244,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Esforço risível hoje.",
+    "premium": "false",
+    "positive": true,
+    "id": 8704
+  },
+  {
+    "preset_id": 1244,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Śmieszny wysiłek dzisiaj.",
+    "premium": "false",
+    "positive": true,
+    "id": 8705
+  },
+  {
+    "preset_id": 1244,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Жалкие усилия сегодня.",
+    "premium": "false",
+    "positive": true,
+    "id": 8706
+  },
+  {
+    "preset_id": 1244,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "今天这表现真可笑。",
+    "premium": "false",
+    "positive": true,
+    "id": 8707
+  }
+]

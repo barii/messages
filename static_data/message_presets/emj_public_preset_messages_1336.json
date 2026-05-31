@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1336,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Your defenders were ball watching all game.",
+    "premium": "true",
+    "positive": true,
+    "id": 9345
+  },
+  {
+    "preset_id": 1336,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Vuestros defensas miraban la pelota todo el partido.",
+    "premium": "true",
+    "positive": true,
+    "id": 9346
+  },
+  {
+    "preset_id": 1336,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Eure Verteidiger haben das ganze Spiel den Ball angeguckt.",
+    "premium": "true",
+    "positive": true,
+    "id": 9347
+  },
+  {
+    "preset_id": 1336,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Os vossos defesas estavam a ver passar a bola o jogo inteiro.",
+    "premium": "true",
+    "positive": true,
+    "id": 9348
+  },
+  {
+    "preset_id": 1336,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Wasi obrońcy patrzyli na piłkę przez cały mecz.",
+    "premium": "true",
+    "positive": true,
+    "id": 9349
+  },
+  {
+    "preset_id": 1336,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Ваши защитники весь матч смотрели на мяч.",
+    "premium": "true",
+    "positive": true,
+    "id": 9350
+  },
+  {
+    "preset_id": 1336,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们的后卫整场比赛都在看球。",
+    "premium": "true",
+    "positive": true,
+    "id": 9351
+  }
+]

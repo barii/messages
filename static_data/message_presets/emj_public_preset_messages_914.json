@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 914,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Have faith in yourself",
+    "premium": "false",
+    "positive": true,
+    "id": 6391
+  },
+  {
+    "preset_id": 914,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Ten fe en ti mismo",
+    "premium": "false",
+    "positive": true,
+    "id": 6392
+  },
+  {
+    "preset_id": 914,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Hab Glauben an dich",
+    "premium": "false",
+    "positive": true,
+    "id": 6393
+  },
+  {
+    "preset_id": 914,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Tem fé em ti",
+    "premium": "false",
+    "positive": true,
+    "id": 6394
+  },
+  {
+    "preset_id": 914,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Miej wiarę w siebie",
+    "premium": "false",
+    "positive": true,
+    "id": 6395
+  },
+  {
+    "preset_id": 914,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Верь в себя",
+    "premium": "false",
+    "positive": true,
+    "id": 6396
+  },
+  {
+    "preset_id": 914,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "对自己有信心",
+    "premium": "false",
+    "positive": true,
+    "id": 6397
+  }
+]

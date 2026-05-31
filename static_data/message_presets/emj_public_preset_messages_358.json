@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 358,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm mixed race",
+    "premium": "false",
+    "positive": true,
+    "id": 2499
+  },
+  {
+    "preset_id": 358,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Soy de raza mixta",
+    "premium": "false",
+    "positive": true,
+    "id": 2500
+  },
+  {
+    "preset_id": 358,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin gemischter Abstammung",
+    "premium": "false",
+    "positive": true,
+    "id": 2501
+  },
+  {
+    "preset_id": 358,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Sou de raça mista",
+    "premium": "false",
+    "positive": true,
+    "id": 2502
+  },
+  {
+    "preset_id": 358,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem rasy mieszanej",
+    "premium": "false",
+    "positive": true,
+    "id": 2503
+  },
+  {
+    "preset_id": 358,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я смешанной расы",
+    "premium": "false",
+    "positive": true,
+    "id": 2504
+  },
+  {
+    "preset_id": 358,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我是混血",
+    "premium": "false",
+    "positive": true,
+    "id": 2505
+  }
+]

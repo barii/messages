@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1131,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Hope you're good",
+    "premium": "false",
+    "positive": true,
+    "id": 7910
+  },
+  {
+    "preset_id": 1131,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Espero que estés bien",
+    "premium": "false",
+    "positive": true,
+    "id": 7911
+  },
+  {
+    "preset_id": 1131,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Hoffe, dir geht's gut",
+    "premium": "false",
+    "positive": true,
+    "id": 7912
+  },
+  {
+    "preset_id": 1131,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Espero que estejas bem",
+    "premium": "false",
+    "positive": true,
+    "id": 7913
+  },
+  {
+    "preset_id": 1131,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Mam nadzieję, że wszystko ok",
+    "premium": "false",
+    "positive": true,
+    "id": 7914
+  },
+  {
+    "preset_id": 1131,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Надеюсь, у тебя всё ок",
+    "premium": "false",
+    "positive": true,
+    "id": 7915
+  },
+  {
+    "preset_id": 1131,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "希望你过得好",
+    "premium": "false",
+    "positive": true,
+    "id": 7916
+  }
+]

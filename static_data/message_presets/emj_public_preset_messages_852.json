@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 852,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "There's something about you",
+    "premium": "false",
+    "positive": true,
+    "id": 5957
+  },
+  {
+    "preset_id": 852,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Hay algo en ti",
+    "premium": "false",
+    "positive": true,
+    "id": 5958
+  },
+  {
+    "preset_id": 852,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Es gibt etwas an dir",
+    "premium": "false",
+    "positive": true,
+    "id": 5959
+  },
+  {
+    "preset_id": 852,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Há algo em ti",
+    "premium": "false",
+    "positive": true,
+    "id": 5960
+  },
+  {
+    "preset_id": 852,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Coś w tobie jest",
+    "premium": "false",
+    "positive": true,
+    "id": 5961
+  },
+  {
+    "preset_id": 852,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "В тебе что-то есть",
+    "premium": "false",
+    "positive": true,
+    "id": 5962
+  },
+  {
+    "preset_id": 852,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你有种特别的东西",
+    "premium": "false",
+    "positive": true,
+    "id": 5963
+  }
+]

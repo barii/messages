@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1182,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Hope your birthday is everything you want it to be",
+    "premium": "false",
+    "positive": true,
+    "id": 8267
+  },
+  {
+    "preset_id": 1182,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Espero que tu cumpleaños sea todo lo que quieres que sea",
+    "premium": "false",
+    "positive": true,
+    "id": 8268
+  },
+  {
+    "preset_id": 1182,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Hoffe, dein Geburtstag ist alles, was du dir wünschst",
+    "premium": "false",
+    "positive": true,
+    "id": 8269
+  },
+  {
+    "preset_id": 1182,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Espero que o teu aniversário seja tudo o que queres",
+    "premium": "false",
+    "positive": true,
+    "id": 8270
+  },
+  {
+    "preset_id": 1182,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Mam nadzieję, że twoje urodziny są wszystkim, czego chcesz",
+    "premium": "false",
+    "positive": true,
+    "id": 8271
+  },
+  {
+    "preset_id": 1182,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "Надеюсь, твой день рождения будет всем, что ты хочешь",
+    "premium": "false",
+    "positive": true,
+    "id": 8272
+  },
+  {
+    "preset_id": 1182,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "希望你的生日是你想要的一切",
+    "premium": "false",
+    "positive": true,
+    "id": 8273
+  }
+]

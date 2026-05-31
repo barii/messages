@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 24,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You have great hair",
+    "premium": "false",
+    "positive": true,
+    "id": 161
+  },
+  {
+    "preset_id": 24,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Tienes un pelo precioso",
+    "premium": "false",
+    "positive": true,
+    "id": 162
+  },
+  {
+    "preset_id": 24,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du hast tolle Haare",
+    "premium": "false",
+    "positive": true,
+    "id": 163
+  },
+  {
+    "preset_id": 24,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Tens um cabelo lindo",
+    "premium": "false",
+    "positive": true,
+    "id": 164
+  },
+  {
+    "preset_id": 24,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Masz świetne włosy",
+    "premium": "false",
+    "positive": true,
+    "id": 165
+  },
+  {
+    "preset_id": 24,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "У тебя отличные волосы",
+    "premium": "false",
+    "positive": true,
+    "id": 166
+  },
+  {
+    "preset_id": 24,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你有一头漂亮的头发",
+    "premium": "false",
+    "positive": true,
+    "id": 167
+  }
+]

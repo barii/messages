@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1473,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We owned that game.",
+    "premium": "false",
+    "positive": true,
+    "id": 10304
+  },
+  {
+    "preset_id": 1473,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Hemos dominado ese partido.",
+    "premium": "false",
+    "positive": true,
+    "id": 10305
+  },
+  {
+    "preset_id": 1473,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir haben das Spiel beherrscht.",
+    "premium": "false",
+    "positive": true,
+    "id": 10306
+  },
+  {
+    "preset_id": 1473,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Dominámos aquele jogo.",
+    "premium": "false",
+    "positive": true,
+    "id": 10307
+  },
+  {
+    "preset_id": 1473,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Dominowaliśmy w tym meczu.",
+    "premium": "false",
+    "positive": true,
+    "id": 10308
+  },
+  {
+    "preset_id": 1473,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Мы доминировали в матче.",
+    "premium": "false",
+    "positive": true,
+    "id": 10309
+  },
+  {
+    "preset_id": 1473,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们主导了那场比赛。",
+    "premium": "false",
+    "positive": true,
+    "id": 10310
+  }
+]

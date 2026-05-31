@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1181,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Wishing you the best birthday",
+    "premium": "false",
+    "positive": true,
+    "id": 8260
+  },
+  {
+    "preset_id": 1181,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Te deseo el mejor cumpleaños",
+    "premium": "false",
+    "positive": true,
+    "id": 8261
+  },
+  {
+    "preset_id": 1181,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Wünsche dir den besten Geburtstag",
+    "premium": "false",
+    "positive": true,
+    "id": 8262
+  },
+  {
+    "preset_id": 1181,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Desejo-te o melhor aniversário",
+    "premium": "false",
+    "positive": true,
+    "id": 8263
+  },
+  {
+    "preset_id": 1181,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Życzę najlepszych urodzin",
+    "premium": "false",
+    "positive": true,
+    "id": 8264
+  },
+  {
+    "preset_id": 1181,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "Желаю тебе лучшего дня рождения",
+    "premium": "false",
+    "positive": true,
+    "id": 8265
+  },
+  {
+    "preset_id": 1181,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "祝你最棒的生日",
+    "premium": "false",
+    "positive": true,
+    "id": 8266
+  }
+]

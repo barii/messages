@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 120,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Have you slept?",
+    "premium": "false",
+    "positive": true,
+    "id": 833
+  },
+  {
+    "preset_id": 120,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Has dormido?",
+    "premium": "false",
+    "positive": true,
+    "id": 834
+  },
+  {
+    "preset_id": 120,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Hast du geschlafen?",
+    "premium": "false",
+    "positive": true,
+    "id": 835
+  },
+  {
+    "preset_id": 120,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Dormiste?",
+    "premium": "false",
+    "positive": true,
+    "id": 836
+  },
+  {
+    "preset_id": 120,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Spałeś?",
+    "premium": "false",
+    "positive": true,
+    "id": 837
+  },
+  {
+    "preset_id": 120,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты спал?",
+    "premium": "false",
+    "positive": true,
+    "id": 838
+  },
+  {
+    "preset_id": 120,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你睡了吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 839
+  }
+]

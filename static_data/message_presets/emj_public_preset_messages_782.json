@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 782,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Facts",
+    "premium": "false",
+    "positive": true,
+    "id": 5467
+  },
+  {
+    "preset_id": 782,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Datos",
+    "premium": "false",
+    "positive": true,
+    "id": 5468
+  },
+  {
+    "preset_id": 782,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Fakten",
+    "premium": "false",
+    "positive": true,
+    "id": 5469
+  },
+  {
+    "preset_id": 782,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Factos",
+    "premium": "false",
+    "positive": true,
+    "id": 5470
+  },
+  {
+    "preset_id": 782,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Fakty",
+    "premium": "false",
+    "positive": true,
+    "id": 5471
+  },
+  {
+    "preset_id": 782,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Факты",
+    "premium": "false",
+    "positive": true,
+    "id": 5472
+  },
+  {
+    "preset_id": 782,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "事实",
+    "premium": "false",
+    "positive": true,
+    "id": 5473
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 706,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I'm sorry",
+    "premium": "false",
+    "positive": true,
+    "id": 4935
+  },
+  {
+    "preset_id": 706,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Lo siento",
+    "premium": "false",
+    "positive": true,
+    "id": 4936
+  },
+  {
+    "preset_id": 706,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Es tut mir leid",
+    "premium": "false",
+    "positive": true,
+    "id": 4937
+  },
+  {
+    "preset_id": 706,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Desculpa",
+    "premium": "false",
+    "positive": true,
+    "id": 4938
+  },
+  {
+    "preset_id": 706,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Przepraszam",
+    "premium": "false",
+    "positive": true,
+    "id": 4939
+  },
+  {
+    "preset_id": 706,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Прости",
+    "premium": "false",
+    "positive": true,
+    "id": 4940
+  },
+  {
+    "preset_id": 706,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "对不起",
+    "premium": "false",
+    "positive": true,
+    "id": 4941
+  }
+]

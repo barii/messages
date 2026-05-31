@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 772,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Not me laughing at this",
+    "premium": "false",
+    "positive": true,
+    "id": 5397
+  },
+  {
+    "preset_id": 772,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Yo no me estoy riendo de esto",
+    "premium": "false",
+    "positive": true,
+    "id": 5398
+  },
+  {
+    "preset_id": 772,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Nicht ich, der darüber lacht",
+    "premium": "false",
+    "positive": true,
+    "id": 5399
+  },
+  {
+    "preset_id": 772,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Não sou eu a rir-me disto",
+    "premium": "false",
+    "positive": true,
+    "id": 5400
+  },
+  {
+    "preset_id": 772,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Nie ja śmiejąc się z tego",
+    "premium": "false",
+    "positive": true,
+    "id": 5401
+  },
+  {
+    "preset_id": 772,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Не я смеюсь над этим",
+    "premium": "false",
+    "positive": true,
+    "id": 5402
+  },
+  {
+    "preset_id": 772,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "不是我在笑这个",
+    "premium": "false",
+    "positive": true,
+    "id": 5403
+  }
+]

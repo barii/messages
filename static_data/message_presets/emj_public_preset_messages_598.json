@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 598,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I'm not sure how to respond to that",
+    "premium": "false",
+    "positive": true,
+    "id": 4179
+  },
+  {
+    "preset_id": 598,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "No sé cómo responder a eso",
+    "premium": "false",
+    "positive": true,
+    "id": 4180
+  },
+  {
+    "preset_id": 598,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ich weiß nicht, wie ich darauf antworten soll",
+    "premium": "false",
+    "positive": true,
+    "id": 4181
+  },
+  {
+    "preset_id": 598,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Não sei como responder a isso",
+    "premium": "false",
+    "positive": true,
+    "id": 4182
+  },
+  {
+    "preset_id": 598,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Nie wiem, jak na to odpowiedzieć",
+    "premium": "false",
+    "positive": true,
+    "id": 4183
+  },
+  {
+    "preset_id": 598,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Не знаю, как на это ответить",
+    "premium": "false",
+    "positive": true,
+    "id": 4184
+  },
+  {
+    "preset_id": 598,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我不知道该怎么回答",
+    "premium": "false",
+    "positive": true,
+    "id": 4185
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 647,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "You need to chill",
+    "premium": "false",
+    "positive": true,
+    "id": 4522
+  },
+  {
+    "preset_id": 647,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Tranquilízate",
+    "premium": "false",
+    "positive": true,
+    "id": 4523
+  },
+  {
+    "preset_id": 647,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Du musst dich beruhigen",
+    "premium": "false",
+    "positive": true,
+    "id": 4524
+  },
+  {
+    "preset_id": 647,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Tens de acalmar",
+    "premium": "false",
+    "positive": true,
+    "id": 4525
+  },
+  {
+    "preset_id": 647,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Musisz się uspokoić",
+    "premium": "false",
+    "positive": true,
+    "id": 4526
+  },
+  {
+    "preset_id": 647,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Тебе нужно успокоиться",
+    "premium": "false",
+    "positive": true,
+    "id": 4527
+  },
+  {
+    "preset_id": 647,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "你需要冷静",
+    "premium": "false",
+    "positive": true,
+    "id": 4528
+  }
+]

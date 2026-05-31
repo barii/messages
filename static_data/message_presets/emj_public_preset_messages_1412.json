@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1412,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Too easy for us.",
+    "premium": "false",
+    "positive": true,
+    "id": 9877
+  },
+  {
+    "preset_id": 1412,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Demasiado fácil para nosotros.",
+    "premium": "false",
+    "positive": true,
+    "id": 9878
+  },
+  {
+    "preset_id": 1412,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Zu leicht für uns.",
+    "premium": "false",
+    "positive": true,
+    "id": 9879
+  },
+  {
+    "preset_id": 1412,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Demasiado fácil para nós.",
+    "premium": "false",
+    "positive": true,
+    "id": 9880
+  },
+  {
+    "preset_id": 1412,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Za łatwo dla nas.",
+    "premium": "false",
+    "positive": true,
+    "id": 9881
+  },
+  {
+    "preset_id": 1412,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Слишком легко для нас.",
+    "premium": "false",
+    "positive": true,
+    "id": 9882
+  },
+  {
+    "preset_id": 1412,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "对我们来说太简单了。",
+    "premium": "false",
+    "positive": true,
+    "id": 9883
+  }
+]

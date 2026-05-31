@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1192,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Thank you, you too",
+    "premium": "false",
+    "positive": true,
+    "id": 8337
+  },
+  {
+    "preset_id": 1192,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Gracias, igualmente",
+    "premium": "false",
+    "positive": true,
+    "id": 8338
+  },
+  {
+    "preset_id": 1192,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Danke, dir auch",
+    "premium": "false",
+    "positive": true,
+    "id": 8339
+  },
+  {
+    "preset_id": 1192,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Obrigado, para ti também",
+    "premium": "false",
+    "positive": true,
+    "id": 8340
+  },
+  {
+    "preset_id": 1192,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Dzięki, ty też",
+    "premium": "false",
+    "positive": true,
+    "id": 8341
+  },
+  {
+    "preset_id": 1192,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "Спасибо, и тебе",
+    "premium": "false",
+    "positive": true,
+    "id": 8342
+  },
+  {
+    "preset_id": 1192,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "谢谢,你也是",
+    "premium": "false",
+    "positive": true,
+    "id": 8343
+  }
+]

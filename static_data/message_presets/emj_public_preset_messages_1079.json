@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1079,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Whoever made coffee, thank you",
+    "premium": "false",
+    "positive": true,
+    "id": 7546
+  },
+  {
+    "preset_id": 1079,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Quien sea que hizo el café, gracias",
+    "premium": "false",
+    "positive": true,
+    "id": 7547
+  },
+  {
+    "preset_id": 1079,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Wer Kaffee gemacht hat, danke",
+    "premium": "false",
+    "positive": true,
+    "id": 7548
+  },
+  {
+    "preset_id": 1079,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Quem quer que tenha feito o café, obrigado",
+    "premium": "false",
+    "positive": true,
+    "id": 7549
+  },
+  {
+    "preset_id": 1079,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Kto zrobił kawę, dziękuję",
+    "premium": "false",
+    "positive": true,
+    "id": 7550
+  },
+  {
+    "preset_id": 1079,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Кто бы ни сделал кофе - спасибо",
+    "premium": "false",
+    "positive": true,
+    "id": 7551
+  },
+  {
+    "preset_id": 1079,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "不管是谁泡的咖啡,谢谢",
+    "premium": "false",
+    "positive": true,
+    "id": 7552
+  }
+]

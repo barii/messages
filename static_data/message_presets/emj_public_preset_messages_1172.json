@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1172,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Happy Holidays",
+    "premium": "false",
+    "positive": true,
+    "id": 8197
+  },
+  {
+    "preset_id": 1172,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Felices Fiestas",
+    "premium": "false",
+    "positive": true,
+    "id": 8198
+  },
+  {
+    "preset_id": 1172,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Frohe Feiertage",
+    "premium": "false",
+    "positive": true,
+    "id": 8199
+  },
+  {
+    "preset_id": 1172,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Boas Festas",
+    "premium": "false",
+    "positive": true,
+    "id": 8200
+  },
+  {
+    "preset_id": 1172,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Wesołych Świąt",
+    "premium": "false",
+    "positive": true,
+    "id": 8201
+  },
+  {
+    "preset_id": 1172,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "С праздниками",
+    "premium": "false",
+    "positive": true,
+    "id": 8202
+  },
+  {
+    "preset_id": 1172,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "节日快乐",
+    "premium": "false",
+    "positive": true,
+    "id": 8203
+  }
+]

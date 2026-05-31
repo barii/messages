@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1397,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You're rubbish.",
+    "premium": "false",
+    "positive": true,
+    "id": 9772
+  },
+  {
+    "preset_id": 1397,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Sois basura.",
+    "premium": "false",
+    "positive": true,
+    "id": 9773
+  },
+  {
+    "preset_id": 1397,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr seid mies.",
+    "premium": "false",
+    "positive": true,
+    "id": 9774
+  },
+  {
+    "preset_id": 1397,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "São fracos.",
+    "premium": "false",
+    "positive": true,
+    "id": 9775
+  },
+  {
+    "preset_id": 1397,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Jesteście do bani.",
+    "premium": "false",
+    "positive": true,
+    "id": 9776
+  },
+  {
+    "preset_id": 1397,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Вы отстой.",
+    "premium": "false",
+    "positive": true,
+    "id": 9777
+  },
+  {
+    "preset_id": 1397,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们太垃圾了。",
+    "premium": "false",
+    "positive": true,
+    "id": 9778
+  }
+]

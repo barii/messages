@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 882,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "Want to come over?",
+    "premium": "false",
+    "positive": true,
+    "id": 6167
+  },
+  {
+    "preset_id": 882,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "¿Quieres venir a casa?",
+    "premium": "false",
+    "positive": true,
+    "id": 6168
+  },
+  {
+    "preset_id": 882,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Willst du vorbeikommen?",
+    "premium": "false",
+    "positive": true,
+    "id": 6169
+  },
+  {
+    "preset_id": 882,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Queres vir cá?",
+    "premium": "false",
+    "positive": true,
+    "id": 6170
+  },
+  {
+    "preset_id": 882,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Chcesz wpaść?",
+    "premium": "false",
+    "positive": true,
+    "id": 6171
+  },
+  {
+    "preset_id": 882,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Хочешь зайти?",
+    "premium": "false",
+    "positive": true,
+    "id": 6172
+  },
+  {
+    "preset_id": 882,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "想过来吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 6173
+  }
+]

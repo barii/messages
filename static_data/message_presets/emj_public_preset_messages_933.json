@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 933,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Feelings aren't facts",
+    "premium": "true",
+    "positive": true,
+    "id": 6524
+  },
+  {
+    "preset_id": 933,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Los sentimientos no son hechos",
+    "premium": "true",
+    "positive": true,
+    "id": 6525
+  },
+  {
+    "preset_id": 933,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Gefühle sind keine Fakten",
+    "premium": "true",
+    "positive": true,
+    "id": 6526
+  },
+  {
+    "preset_id": 933,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Sentimentos não são factos",
+    "premium": "true",
+    "positive": true,
+    "id": 6527
+  },
+  {
+    "preset_id": 933,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Uczucia to nie fakty",
+    "premium": "true",
+    "positive": true,
+    "id": 6528
+  },
+  {
+    "preset_id": 933,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Чувства - это не факты",
+    "premium": "true",
+    "positive": true,
+    "id": 6529
+  },
+  {
+    "preset_id": 933,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "感觉不是事实",
+    "premium": "true",
+    "positive": true,
+    "id": 6530
+  }
+]

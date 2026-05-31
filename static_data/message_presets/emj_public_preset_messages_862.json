@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 862,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You're so handsome",
+    "premium": "false",
+    "positive": true,
+    "id": 6027
+  },
+  {
+    "preset_id": 862,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Eres muy guapo",
+    "premium": "false",
+    "positive": true,
+    "id": 6028
+  },
+  {
+    "preset_id": 862,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Du bist so hübsch",
+    "premium": "false",
+    "positive": true,
+    "id": 6029
+  },
+  {
+    "preset_id": 862,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "És tão bonito",
+    "premium": "false",
+    "positive": true,
+    "id": 6030
+  },
+  {
+    "preset_id": 862,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Jesteś taki przystojny",
+    "premium": "false",
+    "positive": true,
+    "id": 6031
+  },
+  {
+    "preset_id": 862,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты такой симпатичный",
+    "premium": "false",
+    "positive": true,
+    "id": 6032
+  },
+  {
+    "preset_id": 862,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你太帅了",
+    "premium": "false",
+    "positive": true,
+    "id": 6033
+  }
+]

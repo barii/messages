@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1768,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Go home, you're done!",
+    "premium": "false",
+    "positive": true,
+    "id": 12369
+  },
+  {
+    "preset_id": 1768,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Go home, you're done!",
+    "premium": "false",
+    "positive": true,
+    "id": 12370
+  },
+  {
+    "preset_id": 1768,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Go home, you're done!",
+    "premium": "false",
+    "positive": true,
+    "id": 12371
+  },
+  {
+    "preset_id": 1768,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Go home, you're done!",
+    "premium": "false",
+    "positive": true,
+    "id": 12372
+  },
+  {
+    "preset_id": 1768,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Go home, you're done!",
+    "premium": "false",
+    "positive": true,
+    "id": 12373
+  },
+  {
+    "preset_id": 1768,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Go home, you're done!",
+    "premium": "false",
+    "positive": true,
+    "id": 12374
+  },
+  {
+    "preset_id": 1768,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Go home, you're done!",
+    "premium": "false",
+    "positive": true,
+    "id": 12375
+  }
+]

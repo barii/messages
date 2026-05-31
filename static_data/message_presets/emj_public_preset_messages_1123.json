@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1123,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Sup",
+    "premium": "false",
+    "positive": true,
+    "id": 7854
+  },
+  {
+    "preset_id": 1123,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Sup",
+    "premium": "false",
+    "positive": true,
+    "id": 7855
+  },
+  {
+    "preset_id": 1123,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Sup",
+    "premium": "false",
+    "positive": true,
+    "id": 7856
+  },
+  {
+    "preset_id": 1123,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Sup",
+    "premium": "false",
+    "positive": true,
+    "id": 7857
+  },
+  {
+    "preset_id": 1123,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Sup",
+    "premium": "false",
+    "positive": true,
+    "id": 7858
+  },
+  {
+    "preset_id": 1123,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Sup",
+    "premium": "false",
+    "positive": true,
+    "id": 7859
+  },
+  {
+    "preset_id": 1123,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "Sup",
+    "premium": "false",
+    "positive": true,
+    "id": 7860
+  }
+]

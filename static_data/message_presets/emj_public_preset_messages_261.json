@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 261,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We used to date",
+    "premium": "true",
+    "positive": true,
+    "id": 1820
+  },
+  {
+    "preset_id": 261,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Salíamos juntos antes",
+    "premium": "true",
+    "positive": true,
+    "id": 1821
+  },
+  {
+    "preset_id": 261,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir haben uns früher gedatet",
+    "premium": "true",
+    "positive": true,
+    "id": 1822
+  },
+  {
+    "preset_id": 261,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Já namorámos",
+    "premium": "true",
+    "positive": true,
+    "id": 1823
+  },
+  {
+    "preset_id": 261,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Kiedyś się umawialiśmy",
+    "premium": "true",
+    "positive": true,
+    "id": 1824
+  },
+  {
+    "preset_id": 261,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы раньше встречались",
+    "premium": "true",
+    "positive": true,
+    "id": 1825
+  },
+  {
+    "preset_id": 261,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们以前约会过",
+    "premium": "true",
+    "positive": true,
+    "id": 1826
+  }
+]

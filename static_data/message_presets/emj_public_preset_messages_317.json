@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 317,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm an open book",
+    "premium": "true",
+    "positive": true,
+    "id": 2212
+  },
+  {
+    "preset_id": 317,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Soy un libro abierto",
+    "premium": "true",
+    "positive": true,
+    "id": 2213
+  },
+  {
+    "preset_id": 317,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin ein offenes Buch",
+    "premium": "true",
+    "positive": true,
+    "id": 2214
+  },
+  {
+    "preset_id": 317,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Sou um livro aberto",
+    "premium": "true",
+    "positive": true,
+    "id": 2215
+  },
+  {
+    "preset_id": 317,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem otwartą księgą",
+    "premium": "true",
+    "positive": true,
+    "id": 2216
+  },
+  {
+    "preset_id": 317,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я открытая книга",
+    "premium": "true",
+    "positive": true,
+    "id": 2217
+  },
+  {
+    "preset_id": 317,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我是个开放的人",
+    "premium": "true",
+    "positive": true,
+    "id": 2218
+  }
+]

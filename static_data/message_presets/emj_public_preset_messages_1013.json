@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1013,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "I love you but you can be a lot",
+    "premium": "false",
+    "positive": true,
+    "id": 7084
+  },
+  {
+    "preset_id": 1013,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Te quiero pero puedes ser demasiado",
+    "premium": "false",
+    "positive": true,
+    "id": 7085
+  },
+  {
+    "preset_id": 1013,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Ich liebe dich, aber du kannst zu viel sein",
+    "premium": "false",
+    "positive": true,
+    "id": 7086
+  },
+  {
+    "preset_id": 1013,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Adoro-te mas consegues ser demais",
+    "premium": "false",
+    "positive": true,
+    "id": 7087
+  },
+  {
+    "preset_id": 1013,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Kocham cię, ale potrafisz być przesadny",
+    "premium": "false",
+    "positive": true,
+    "id": 7088
+  },
+  {
+    "preset_id": 1013,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Я тебя люблю, но ты можешь быть слишком",
+    "premium": "false",
+    "positive": true,
+    "id": 7089
+  },
+  {
+    "preset_id": 1013,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "我爱你但你可能让人受不了",
+    "premium": "false",
+    "positive": true,
+    "id": 7090
+  }
+]

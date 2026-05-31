@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1589,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Where was this energy at full time.",
+    "premium": "true",
+    "positive": true,
+    "id": 11116
+  },
+  {
+    "preset_id": 1589,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "¿Dónde estaba esta energía al final del partido?",
+    "premium": "true",
+    "positive": true,
+    "id": 11117
+  },
+  {
+    "preset_id": 1589,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Wo war diese Energie zum Schlusspfiff?",
+    "premium": "true",
+    "positive": true,
+    "id": 11118
+  },
+  {
+    "preset_id": 1589,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Onde estava esta energia ao final do jogo?",
+    "premium": "true",
+    "positive": true,
+    "id": 11119
+  },
+  {
+    "preset_id": 1589,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Gdzie była ta energia na koniec meczu?",
+    "premium": "true",
+    "positive": true,
+    "id": 11120
+  },
+  {
+    "preset_id": 1589,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Где была эта энергия в конце матча?",
+    "premium": "true",
+    "positive": true,
+    "id": 11121
+  },
+  {
+    "preset_id": 1589,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "全场结束时这股劲哪去了?",
+    "premium": "true",
+    "positive": true,
+    "id": 11122
+  }
+]

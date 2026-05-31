@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1595,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Always the ref's fault.",
+    "premium": "true",
+    "positive": true,
+    "id": 11158
+  },
+  {
+    "preset_id": 1595,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Siempre la culpa del árbitro.",
+    "premium": "true",
+    "positive": true,
+    "id": 11159
+  },
+  {
+    "preset_id": 1595,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Immer ist der Schiri schuld.",
+    "premium": "true",
+    "positive": true,
+    "id": 11160
+  },
+  {
+    "preset_id": 1595,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Sempre a culpa do árbitro.",
+    "premium": "true",
+    "positive": true,
+    "id": 11161
+  },
+  {
+    "preset_id": 1595,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Zawsze wina sędziego.",
+    "premium": "true",
+    "positive": true,
+    "id": 11162
+  },
+  {
+    "preset_id": 1595,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Всегда вина судьи.",
+    "premium": "true",
+    "positive": true,
+    "id": 11163
+  },
+  {
+    "preset_id": 1595,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "总是怪裁判。",
+    "premium": "true",
+    "positive": true,
+    "id": 11164
+  }
+]

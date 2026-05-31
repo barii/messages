@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 305,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm in my feelings",
+    "premium": "false",
+    "positive": true,
+    "id": 2128
+  },
+  {
+    "preset_id": 305,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Estoy en mis sentimientos",
+    "premium": "false",
+    "positive": true,
+    "id": 2129
+  },
+  {
+    "preset_id": 305,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin in meinen Gefühlen",
+    "premium": "false",
+    "positive": true,
+    "id": 2130
+  },
+  {
+    "preset_id": 305,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Estou nos meus sentimentos",
+    "premium": "false",
+    "positive": true,
+    "id": 2131
+  },
+  {
+    "preset_id": 305,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem w swoich uczuciach",
+    "premium": "false",
+    "positive": true,
+    "id": 2132
+  },
+  {
+    "preset_id": 305,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я в своих чувствах",
+    "premium": "false",
+    "positive": true,
+    "id": 2133
+  },
+  {
+    "preset_id": 305,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我陷在自己的情绪里",
+    "premium": "false",
+    "positive": true,
+    "id": 2134
+  }
+]

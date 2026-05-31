@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1429,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "You're not even on the same level as us.",
+    "premium": "false",
+    "positive": true,
+    "id": 9996
+  },
+  {
+    "preset_id": 1429,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Ni siquiera estáis al mismo nivel que nosotros.",
+    "premium": "false",
+    "positive": true,
+    "id": 9997
+  },
+  {
+    "preset_id": 1429,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Ihr seid nicht einmal auf unserem Niveau.",
+    "premium": "false",
+    "positive": true,
+    "id": 9998
+  },
+  {
+    "preset_id": 1429,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Nem sequer estão ao nosso nível.",
+    "premium": "false",
+    "positive": true,
+    "id": 9999
+  },
+  {
+    "preset_id": 1429,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Nie jesteście nawet na tym samym poziomie co my.",
+    "premium": "false",
+    "positive": true,
+    "id": 10000
+  },
+  {
+    "preset_id": 1429,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Вы даже не на нашем уровне.",
+    "premium": "false",
+    "positive": true,
+    "id": 10001
+  },
+  {
+    "preset_id": 1429,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "你们根本不在我们的水平。",
+    "premium": "false",
+    "positive": true,
+    "id": 10002
+  }
+]

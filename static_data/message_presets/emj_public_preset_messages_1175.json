@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1175,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Happy Diwali",
+    "premium": "false",
+    "positive": true,
+    "id": 8218
+  },
+  {
+    "preset_id": 1175,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Feliz Diwali",
+    "premium": "false",
+    "positive": true,
+    "id": 8219
+  },
+  {
+    "preset_id": 1175,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Frohes Diwali",
+    "premium": "false",
+    "positive": true,
+    "id": 8220
+  },
+  {
+    "preset_id": 1175,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Feliz Diwali",
+    "premium": "false",
+    "positive": true,
+    "id": 8221
+  },
+  {
+    "preset_id": 1175,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Wesołej Diwali",
+    "premium": "false",
+    "positive": true,
+    "id": 8222
+  },
+  {
+    "preset_id": 1175,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "С Дивали",
+    "premium": "false",
+    "positive": true,
+    "id": 8223
+  },
+  {
+    "preset_id": 1175,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "排灯节快乐",
+    "premium": "false",
+    "positive": true,
+    "id": 8224
+  }
+]

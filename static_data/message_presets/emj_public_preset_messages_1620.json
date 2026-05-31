@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1620,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You need a girlfriend.",
+    "premium": "false",
+    "positive": true,
+    "id": 11333
+  },
+  {
+    "preset_id": 1620,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Necesitáis una novia.",
+    "premium": "false",
+    "positive": true,
+    "id": 11334
+  },
+  {
+    "preset_id": 1620,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ihr braucht eine Freundin.",
+    "premium": "false",
+    "positive": true,
+    "id": 11335
+  },
+  {
+    "preset_id": 1620,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Precisam de uma namorada.",
+    "premium": "false",
+    "positive": true,
+    "id": 11336
+  },
+  {
+    "preset_id": 1620,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Potrzebujecie dziewczyny.",
+    "premium": "false",
+    "positive": true,
+    "id": 11337
+  },
+  {
+    "preset_id": 1620,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Вам нужна девушка.",
+    "premium": "false",
+    "positive": true,
+    "id": 11338
+  },
+  {
+    "preset_id": 1620,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们需要个女朋友。",
+    "premium": "false",
+    "positive": true,
+    "id": 11339
+  }
+]

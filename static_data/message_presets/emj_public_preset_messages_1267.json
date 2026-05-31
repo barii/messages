@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1267,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Own goal…. hooray!",
+    "premium": "false",
+    "positive": true,
+    "id": 8862
+  },
+  {
+    "preset_id": 1267,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Gol en propia puerta…. ¡hurra!",
+    "premium": "false",
+    "positive": true,
+    "id": 8863
+  },
+  {
+    "preset_id": 1267,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Eigentor… hurra!",
+    "premium": "false",
+    "positive": true,
+    "id": 8864
+  },
+  {
+    "preset_id": 1267,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Auto-golo… viva!",
+    "premium": "false",
+    "positive": true,
+    "id": 8865
+  },
+  {
+    "preset_id": 1267,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Gol samobójczy… hura!",
+    "premium": "false",
+    "positive": true,
+    "id": 8866
+  },
+  {
+    "preset_id": 1267,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Автогол… ура!",
+    "premium": "false",
+    "positive": true,
+    "id": 8867
+  },
+  {
+    "preset_id": 1267,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "乌龙球…好棒啊!",
+    "premium": "false",
+    "positive": true,
+    "id": 8868
+  }
+]

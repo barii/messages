@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1020,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "This office would fall apart without you",
+    "premium": "false",
+    "positive": true,
+    "id": 7133
+  },
+  {
+    "preset_id": 1020,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Esta oficina se vendría abajo sin ti",
+    "premium": "false",
+    "positive": true,
+    "id": 7134
+  },
+  {
+    "preset_id": 1020,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Dieses Büro würde ohne dich auseinanderfallen",
+    "premium": "false",
+    "positive": true,
+    "id": 7135
+  },
+  {
+    "preset_id": 1020,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Este escritório ia abaixo sem ti",
+    "premium": "false",
+    "positive": true,
+    "id": 7136
+  },
+  {
+    "preset_id": 1020,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "To biuro by się rozpadło bez ciebie",
+    "premium": "false",
+    "positive": true,
+    "id": 7137
+  },
+  {
+    "preset_id": 1020,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Этот офис развалился бы без тебя",
+    "premium": "false",
+    "positive": true,
+    "id": 7138
+  },
+  {
+    "preset_id": 1020,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "没有你这个办公室会崩溃",
+    "premium": "false",
+    "positive": true,
+    "id": 7139
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 593,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Was just joking",
+    "premium": "false",
+    "positive": true,
+    "id": 4144
+  },
+  {
+    "preset_id": 593,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Solo bromeaba",
+    "premium": "false",
+    "positive": true,
+    "id": 4145
+  },
+  {
+    "preset_id": 593,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "War nur ein Scherz",
+    "premium": "false",
+    "positive": true,
+    "id": 4146
+  },
+  {
+    "preset_id": 593,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Estava só a brincar",
+    "premium": "false",
+    "positive": true,
+    "id": 4147
+  },
+  {
+    "preset_id": 593,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Tylko żartowałem",
+    "premium": "false",
+    "positive": true,
+    "id": 4148
+  },
+  {
+    "preset_id": 593,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Просто шутил",
+    "premium": "false",
+    "positive": true,
+    "id": 4149
+  },
+  {
+    "preset_id": 593,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "刚才开玩笑",
+    "premium": "false",
+    "positive": true,
+    "id": 4150
+  }
+]

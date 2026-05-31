@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 923,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Take a break",
+    "premium": "false",
+    "positive": true,
+    "id": 6454
+  },
+  {
+    "preset_id": 923,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Tómate un descanso",
+    "premium": "false",
+    "positive": true,
+    "id": 6455
+  },
+  {
+    "preset_id": 923,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Mach eine Pause",
+    "premium": "false",
+    "positive": true,
+    "id": 6456
+  },
+  {
+    "preset_id": 923,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Faz uma pausa",
+    "premium": "false",
+    "positive": true,
+    "id": 6457
+  },
+  {
+    "preset_id": 923,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Zrób sobie przerwę",
+    "premium": "false",
+    "positive": true,
+    "id": 6458
+  },
+  {
+    "preset_id": 923,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Сделай перерыв",
+    "premium": "false",
+    "positive": true,
+    "id": 6459
+  },
+  {
+    "preset_id": 923,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "休息一下",
+    "premium": "false",
+    "positive": true,
+    "id": 6460
+  }
+]

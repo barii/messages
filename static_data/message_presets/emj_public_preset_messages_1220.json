@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1220,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "Manifesting a date with you",
+    "premium": "true",
+    "positive": true,
+    "id": 8533
+  },
+  {
+    "preset_id": 1220,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "Manifestando una cita contigo",
+    "premium": "true",
+    "positive": true,
+    "id": 8534
+  },
+  {
+    "preset_id": 1220,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Manifestiere ein Date mit dir",
+    "premium": "true",
+    "positive": true,
+    "id": 8535
+  },
+  {
+    "preset_id": 1220,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "A manifestar um encontro contigo",
+    "premium": "true",
+    "positive": true,
+    "id": 8536
+  },
+  {
+    "preset_id": 1220,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Manifestuję randkę z tobą",
+    "premium": "true",
+    "positive": true,
+    "id": 8537
+  },
+  {
+    "preset_id": 1220,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Манифестирую свидание с тобой",
+    "premium": "true",
+    "positive": true,
+    "id": 8538
+  },
+  {
+    "preset_id": 1220,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "我在显化和你的一次约会",
+    "premium": "true",
+    "positive": true,
+    "id": 8539
+  }
+]

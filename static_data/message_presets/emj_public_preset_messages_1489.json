@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1489,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Our bench is better than your team.",
+    "premium": "false",
+    "positive": true,
+    "id": 10416
+  },
+  {
+    "preset_id": 1489,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Nuestro banquillo es mejor que vuestro equipo.",
+    "premium": "false",
+    "positive": true,
+    "id": 10417
+  },
+  {
+    "preset_id": 1489,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Unsere Bank ist besser als eure Mannschaft.",
+    "premium": "false",
+    "positive": true,
+    "id": 10418
+  },
+  {
+    "preset_id": 1489,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "O nosso banco é melhor que a vossa equipa.",
+    "premium": "false",
+    "positive": true,
+    "id": 10419
+  },
+  {
+    "preset_id": 1489,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Nasza ławka jest lepsza niż wasza drużyna.",
+    "premium": "false",
+    "positive": true,
+    "id": 10420
+  },
+  {
+    "preset_id": 1489,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Наша скамейка лучше вашей команды.",
+    "premium": "false",
+    "positive": true,
+    "id": 10421
+  },
+  {
+    "preset_id": 1489,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们的替补比你们的首发还好。",
+    "premium": "false",
+    "positive": true,
+    "id": 10422
+  }
+]

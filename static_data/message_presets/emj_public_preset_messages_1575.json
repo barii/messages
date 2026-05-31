@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1575,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Look at your own league position.",
+    "premium": "false",
+    "positive": true,
+    "id": 11018
+  },
+  {
+    "preset_id": 1575,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Mirad vuestra propia posición en la liga.",
+    "premium": "false",
+    "positive": true,
+    "id": 11019
+  },
+  {
+    "preset_id": 1575,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Schaut auf eure eigene Tabellenposition.",
+    "premium": "false",
+    "positive": true,
+    "id": 11020
+  },
+  {
+    "preset_id": 1575,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Olha a vossa posição na liga.",
+    "premium": "false",
+    "positive": true,
+    "id": 11021
+  },
+  {
+    "preset_id": 1575,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Spójrzcie na własną pozycję w lidze.",
+    "premium": "false",
+    "positive": true,
+    "id": 11022
+  },
+  {
+    "preset_id": 1575,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Посмотрите на свою позицию в лиге.",
+    "premium": "false",
+    "positive": true,
+    "id": 11023
+  },
+  {
+    "preset_id": 1575,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "看看你们自己的联赛排名。",
+    "premium": "false",
+    "positive": true,
+    "id": 11024
+  }
+]

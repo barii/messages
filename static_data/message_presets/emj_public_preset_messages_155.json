@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 155,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you a morning person?",
+    "premium": "false",
+    "positive": true,
+    "id": 1078
+  },
+  {
+    "preset_id": 155,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Eres una persona madrugadora?",
+    "premium": "false",
+    "positive": true,
+    "id": 1079
+  },
+  {
+    "preset_id": 155,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du ein Morgenmensch?",
+    "premium": "false",
+    "positive": true,
+    "id": 1080
+  },
+  {
+    "preset_id": 155,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "És uma pessoa matinal?",
+    "premium": "false",
+    "positive": true,
+    "id": 1081
+  },
+  {
+    "preset_id": 155,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jesteś rannym ptaszkiem?",
+    "premium": "false",
+    "positive": true,
+    "id": 1082
+  },
+  {
+    "preset_id": 155,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты жаворонок?",
+    "premium": "false",
+    "positive": true,
+    "id": 1083
+  },
+  {
+    "preset_id": 155,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你是早起的人吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1084
+  }
+]

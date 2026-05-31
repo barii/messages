@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 328,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I forgive too easily",
+    "premium": "false",
+    "positive": true,
+    "id": 2289
+  },
+  {
+    "preset_id": 328,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Perdono demasiado fácil",
+    "premium": "false",
+    "positive": true,
+    "id": 2290
+  },
+  {
+    "preset_id": 328,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich vergebe zu leicht",
+    "premium": "false",
+    "positive": true,
+    "id": 2291
+  },
+  {
+    "preset_id": 328,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Perdoo demasiado facilmente",
+    "premium": "false",
+    "positive": true,
+    "id": 2292
+  },
+  {
+    "preset_id": 328,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Wybaczam zbyt łatwo",
+    "premium": "false",
+    "positive": true,
+    "id": 2293
+  },
+  {
+    "preset_id": 328,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я слишком легко прощаю",
+    "premium": "false",
+    "positive": true,
+    "id": 2294
+  },
+  {
+    "preset_id": 328,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我太容易原谅",
+    "premium": "false",
+    "positive": true,
+    "id": 2295
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 678,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "I'm done with this",
+    "premium": "false",
+    "positive": true,
+    "id": 4739
+  },
+  {
+    "preset_id": 678,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Ya basta",
+    "premium": "false",
+    "positive": true,
+    "id": 4740
+  },
+  {
+    "preset_id": 678,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Ich bin damit fertig",
+    "premium": "false",
+    "positive": true,
+    "id": 4741
+  },
+  {
+    "preset_id": 678,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Já chega",
+    "premium": "false",
+    "positive": true,
+    "id": 4742
+  },
+  {
+    "preset_id": 678,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Skończyłem z tym",
+    "premium": "false",
+    "positive": true,
+    "id": 4743
+  },
+  {
+    "preset_id": 678,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Я с этим закончил",
+    "premium": "false",
+    "positive": true,
+    "id": 4744
+  },
+  {
+    "preset_id": 678,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "我受够了",
+    "premium": "false",
+    "positive": true,
+    "id": 4745
+  }
+]

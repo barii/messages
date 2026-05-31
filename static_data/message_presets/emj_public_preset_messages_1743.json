@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1743,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Time for a sub—you're done!",
+    "premium": "false",
+    "positive": true,
+    "id": 12194
+  },
+  {
+    "preset_id": 1743,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Time for a sub—you're done!",
+    "premium": "false",
+    "positive": true,
+    "id": 12195
+  },
+  {
+    "preset_id": 1743,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Time for a sub—you're done!",
+    "premium": "false",
+    "positive": true,
+    "id": 12196
+  },
+  {
+    "preset_id": 1743,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Time for a sub—you're done!",
+    "premium": "false",
+    "positive": true,
+    "id": 12197
+  },
+  {
+    "preset_id": 1743,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Time for a sub—you're done!",
+    "premium": "false",
+    "positive": true,
+    "id": 12198
+  },
+  {
+    "preset_id": 1743,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Time for a sub—you're done!",
+    "premium": "false",
+    "positive": true,
+    "id": 12199
+  },
+  {
+    "preset_id": 1743,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Time for a sub—you're done!",
+    "premium": "false",
+    "positive": true,
+    "id": 12200
+  }
+]

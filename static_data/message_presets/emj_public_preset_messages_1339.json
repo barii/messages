@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1339,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Your strikers couldn't score in an empty net.",
+    "premium": "true",
+    "positive": true,
+    "id": 9366
+  },
+  {
+    "preset_id": 1339,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Vuestros delanteros no marcarían ni en una portería vacía.",
+    "premium": "true",
+    "positive": true,
+    "id": 9367
+  },
+  {
+    "preset_id": 1339,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Eure Stürmer würden nicht mal in ein leeres Tor treffen.",
+    "premium": "true",
+    "positive": true,
+    "id": 9368
+  },
+  {
+    "preset_id": 1339,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Os vossos avançados não marcavam nem numa baliza vazia.",
+    "premium": "true",
+    "positive": true,
+    "id": 9369
+  },
+  {
+    "preset_id": 1339,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Wasi napastnicy nie strzeliliby gola do pustej bramki.",
+    "premium": "true",
+    "positive": true,
+    "id": 9370
+  },
+  {
+    "preset_id": 1339,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Ваши нападающие не забили бы в пустые ворота.",
+    "premium": "true",
+    "positive": true,
+    "id": 9371
+  },
+  {
+    "preset_id": 1339,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们的前锋对着空门都进不了球。",
+    "premium": "true",
+    "positive": true,
+    "id": 9372
+  }
+]

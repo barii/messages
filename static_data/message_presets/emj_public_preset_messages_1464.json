@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1464,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We walked it.",
+    "premium": "false",
+    "positive": true,
+    "id": 10241
+  },
+  {
+    "preset_id": 1464,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Hemos paseado.",
+    "premium": "false",
+    "positive": true,
+    "id": 10242
+  },
+  {
+    "preset_id": 1464,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir sind drüber spaziert.",
+    "premium": "false",
+    "positive": true,
+    "id": 10243
+  },
+  {
+    "preset_id": 1464,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Foi um passeio.",
+    "premium": "false",
+    "positive": true,
+    "id": 10244
+  },
+  {
+    "preset_id": 1464,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Przeszliśmy spacerkiem.",
+    "premium": "false",
+    "positive": true,
+    "id": 10245
+  },
+  {
+    "preset_id": 1464,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Мы прошлись.",
+    "premium": "false",
+    "positive": true,
+    "id": 10246
+  },
+  {
+    "preset_id": 1464,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们走着就赢了。",
+    "premium": "false",
+    "positive": true,
+    "id": 10247
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1112,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Goodbye",
+    "premium": "false",
+    "positive": true,
+    "id": 7777
+  },
+  {
+    "preset_id": 1112,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Adiós",
+    "premium": "false",
+    "positive": true,
+    "id": 7778
+  },
+  {
+    "preset_id": 1112,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Tschüss",
+    "premium": "false",
+    "positive": true,
+    "id": 7779
+  },
+  {
+    "preset_id": 1112,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Adeus",
+    "premium": "false",
+    "positive": true,
+    "id": 7780
+  },
+  {
+    "preset_id": 1112,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Do widzenia",
+    "premium": "false",
+    "positive": true,
+    "id": 7781
+  },
+  {
+    "preset_id": 1112,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "До свидания",
+    "premium": "false",
+    "positive": true,
+    "id": 7782
+  },
+  {
+    "preset_id": 1112,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "再见",
+    "premium": "false",
+    "positive": true,
+    "id": 7783
+  }
+]

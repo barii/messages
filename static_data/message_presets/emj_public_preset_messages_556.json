@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 556,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "That sucks",
+    "premium": "false",
+    "positive": true,
+    "id": 3885
+  },
+  {
+    "preset_id": 556,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Eso apesta",
+    "premium": "false",
+    "positive": true,
+    "id": 3886
+  },
+  {
+    "preset_id": 556,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Das ist mies",
+    "premium": "false",
+    "positive": true,
+    "id": 3887
+  },
+  {
+    "preset_id": 556,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Isso é mau",
+    "premium": "false",
+    "positive": true,
+    "id": 3888
+  },
+  {
+    "preset_id": 556,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "To słabe",
+    "premium": "false",
+    "positive": true,
+    "id": 3889
+  },
+  {
+    "preset_id": 556,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Это отстой",
+    "premium": "false",
+    "positive": true,
+    "id": 3890
+  },
+  {
+    "preset_id": 556,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "那太糟了",
+    "premium": "false",
+    "positive": true,
+    "id": 3891
+  }
+]

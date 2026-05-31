@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 650,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Stop being dramatic",
+    "premium": "false",
+    "positive": true,
+    "id": 4543
+  },
+  {
+    "preset_id": 650,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Deja de ser tan dramático",
+    "premium": "false",
+    "positive": true,
+    "id": 4544
+  },
+  {
+    "preset_id": 650,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Hör auf, ein Drama zu machen",
+    "premium": "false",
+    "positive": true,
+    "id": 4545
+  },
+  {
+    "preset_id": 650,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Para de ser dramático",
+    "premium": "false",
+    "positive": true,
+    "id": 4546
+  },
+  {
+    "preset_id": 650,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Przestań robić dramat",
+    "premium": "false",
+    "positive": true,
+    "id": 4547
+  },
+  {
+    "preset_id": 650,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Перестань делать драму",
+    "premium": "false",
+    "positive": true,
+    "id": 4548
+  },
+  {
+    "preset_id": 650,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "别再闹剧了",
+    "premium": "false",
+    "positive": true,
+    "id": 4549
+  }
+]

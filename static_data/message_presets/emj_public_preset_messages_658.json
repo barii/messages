@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 658,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Sure thing champ",
+    "premium": "false",
+    "positive": true,
+    "id": 4599
+  },
+  {
+    "preset_id": 658,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Claro, campeón",
+    "premium": "false",
+    "positive": true,
+    "id": 4600
+  },
+  {
+    "preset_id": 658,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Klar, Champion",
+    "premium": "false",
+    "positive": true,
+    "id": 4601
+  },
+  {
+    "preset_id": 658,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Claro, campeão",
+    "premium": "false",
+    "positive": true,
+    "id": 4602
+  },
+  {
+    "preset_id": 658,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Pewnie mistrzu",
+    "premium": "false",
+    "positive": true,
+    "id": 4603
+  },
+  {
+    "preset_id": 658,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Конечно, чемпион",
+    "premium": "false",
+    "positive": true,
+    "id": 4604
+  },
+  {
+    "preset_id": 658,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "好吧,冠军",
+    "premium": "false",
+    "positive": true,
+    "id": 4605
+  }
+]

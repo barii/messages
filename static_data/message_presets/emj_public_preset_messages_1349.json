@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1349,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Your gaffer is gone.",
+    "premium": "true",
+    "positive": true,
+    "id": 9436
+  },
+  {
+    "preset_id": 1349,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Vuestro míster está acabado.",
+    "premium": "true",
+    "positive": true,
+    "id": 9437
+  },
+  {
+    "preset_id": 1349,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Euer Trainer ist weg.",
+    "premium": "true",
+    "positive": true,
+    "id": 9438
+  },
+  {
+    "preset_id": 1349,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "O vosso treinador está acabado.",
+    "premium": "true",
+    "positive": true,
+    "id": 9439
+  },
+  {
+    "preset_id": 1349,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Wasz trener jest skończony.",
+    "premium": "true",
+    "positive": true,
+    "id": 9440
+  },
+  {
+    "preset_id": 1349,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Ваш тренер всё.",
+    "premium": "true",
+    "positive": true,
+    "id": 9441
+  },
+  {
+    "preset_id": 1349,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们的教练完了。",
+    "premium": "true",
+    "positive": true,
+    "id": 9442
+  }
+]

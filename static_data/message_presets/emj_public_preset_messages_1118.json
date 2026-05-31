@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1118,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Catch you later",
+    "premium": "false",
+    "positive": true,
+    "id": 7819
+  },
+  {
+    "preset_id": 1118,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Te veo luego",
+    "premium": "false",
+    "positive": true,
+    "id": 7820
+  },
+  {
+    "preset_id": 1118,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Bis später",
+    "premium": "false",
+    "positive": true,
+    "id": 7821
+  },
+  {
+    "preset_id": 1118,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Falamos depois",
+    "premium": "false",
+    "positive": true,
+    "id": 7822
+  },
+  {
+    "preset_id": 1118,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Pisz",
+    "premium": "false",
+    "positive": true,
+    "id": 7823
+  },
+  {
+    "preset_id": 1118,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Увидимся",
+    "premium": "false",
+    "positive": true,
+    "id": 7824
+  },
+  {
+    "preset_id": 1118,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "回头见",
+    "premium": "false",
+    "positive": true,
+    "id": 7825
+  }
+]

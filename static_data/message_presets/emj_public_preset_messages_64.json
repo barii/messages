@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 64,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "You're so annoying",
+    "premium": "false",
+    "positive": false,
+    "id": 441
+  },
+  {
+    "preset_id": 64,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Eres muy molesto",
+    "premium": "false",
+    "positive": false,
+    "id": 442
+  },
+  {
+    "preset_id": 64,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Du bist so nervig",
+    "premium": "false",
+    "positive": false,
+    "id": 443
+  },
+  {
+    "preset_id": 64,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "És tão chato",
+    "premium": "false",
+    "positive": false,
+    "id": 444
+  },
+  {
+    "preset_id": 64,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Jesteś taki irytujący",
+    "premium": "false",
+    "positive": false,
+    "id": 445
+  },
+  {
+    "preset_id": 64,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Ты такой раздражающий",
+    "premium": "false",
+    "positive": false,
+    "id": 446
+  },
+  {
+    "preset_id": 64,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "你太烦人了",
+    "premium": "false",
+    "positive": false,
+    "id": 447
+  }
+]

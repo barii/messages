@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 595,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I didn't mean it like that",
+    "premium": "false",
+    "positive": true,
+    "id": 4158
+  },
+  {
+    "preset_id": 595,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "No quería decirlo así",
+    "premium": "false",
+    "positive": true,
+    "id": 4159
+  },
+  {
+    "preset_id": 595,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "So meinte ich das nicht",
+    "premium": "false",
+    "positive": true,
+    "id": 4160
+  },
+  {
+    "preset_id": 595,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Não quis dizer assim",
+    "premium": "false",
+    "positive": true,
+    "id": 4161
+  },
+  {
+    "preset_id": 595,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Nie miałem tego na myśli tak",
+    "premium": "false",
+    "positive": true,
+    "id": 4162
+  },
+  {
+    "preset_id": 595,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Я не это имел в виду",
+    "premium": "false",
+    "positive": true,
+    "id": 4163
+  },
+  {
+    "preset_id": 595,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我不是那个意思",
+    "premium": "false",
+    "positive": true,
+    "id": 4164
+  }
+]

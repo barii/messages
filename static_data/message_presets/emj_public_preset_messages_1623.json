@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1623,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Rent free.",
+    "premium": "false",
+    "positive": true,
+    "id": 11354
+  },
+  {
+    "preset_id": 1623,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Rent free.",
+    "premium": "false",
+    "positive": true,
+    "id": 11355
+  },
+  {
+    "preset_id": 1623,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Rent free.",
+    "premium": "false",
+    "positive": true,
+    "id": 11356
+  },
+  {
+    "preset_id": 1623,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Rent free.",
+    "premium": "false",
+    "positive": true,
+    "id": 11357
+  },
+  {
+    "preset_id": 1623,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Rent free.",
+    "premium": "false",
+    "positive": true,
+    "id": 11358
+  },
+  {
+    "preset_id": 1623,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Rent free.",
+    "premium": "false",
+    "positive": true,
+    "id": 11359
+  },
+  {
+    "preset_id": 1623,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "Rent free.",
+    "premium": "false",
+    "positive": true,
+    "id": 11360
+  }
+]

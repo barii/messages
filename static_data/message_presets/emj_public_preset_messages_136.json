@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 136,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Do you miss me?",
+    "premium": "false",
+    "positive": true,
+    "id": 945
+  },
+  {
+    "preset_id": 136,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Me extrañas?",
+    "premium": "false",
+    "positive": true,
+    "id": 946
+  },
+  {
+    "preset_id": 136,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Vermisst du mich?",
+    "premium": "false",
+    "positive": true,
+    "id": 947
+  },
+  {
+    "preset_id": 136,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Tens saudades minhas?",
+    "premium": "false",
+    "positive": true,
+    "id": 948
+  },
+  {
+    "preset_id": 136,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Tęsknisz za mną?",
+    "premium": "false",
+    "positive": true,
+    "id": 949
+  },
+  {
+    "preset_id": 136,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты скучаешь по мне?",
+    "premium": "false",
+    "positive": true,
+    "id": 950
+  },
+  {
+    "preset_id": 136,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你想我吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 951
+  }
+]

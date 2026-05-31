@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 987,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You play victim too often",
+    "premium": "false",
+    "positive": false,
+    "id": 6902
+  },
+  {
+    "preset_id": 987,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Te haces la víctima demasiado a menudo",
+    "premium": "false",
+    "positive": false,
+    "id": 6903
+  },
+  {
+    "preset_id": 987,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du spielst zu oft das Opfer",
+    "premium": "false",
+    "positive": false,
+    "id": 6904
+  },
+  {
+    "preset_id": 987,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Fazes-te de vítima demasiadas vezes",
+    "premium": "false",
+    "positive": false,
+    "id": 6905
+  },
+  {
+    "preset_id": 987,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Za często odgrywasz ofiarę",
+    "premium": "false",
+    "positive": false,
+    "id": 6906
+  },
+  {
+    "preset_id": 987,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты слишком часто разыгрываешь жертву",
+    "premium": "false",
+    "positive": false,
+    "id": 6907
+  },
+  {
+    "preset_id": 987,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你太常扮演受害者",
+    "premium": "false",
+    "positive": false,
+    "id": 6908
+  }
+]

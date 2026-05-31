@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1370,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You couldn't get a kick.",
+    "premium": "true",
+    "positive": true,
+    "id": 9583
+  },
+  {
+    "preset_id": 1370,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "No habéis podido ni tocar la pelota.",
+    "premium": "true",
+    "positive": true,
+    "id": 9584
+  },
+  {
+    "preset_id": 1370,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr habt den Ball nicht zu fassen bekommen.",
+    "premium": "true",
+    "positive": true,
+    "id": 9585
+  },
+  {
+    "preset_id": 1370,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Não conseguiram tocar na bola.",
+    "premium": "true",
+    "positive": true,
+    "id": 9586
+  },
+  {
+    "preset_id": 1370,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Nie mogliście dotknąć piłki.",
+    "premium": "true",
+    "positive": true,
+    "id": 9587
+  },
+  {
+    "preset_id": 1370,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Не могли коснуться мяча.",
+    "premium": "true",
+    "positive": true,
+    "id": 9588
+  },
+  {
+    "preset_id": 1370,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们连球都碰不到。",
+    "premium": "true",
+    "positive": true,
+    "id": 9589
+  }
+]

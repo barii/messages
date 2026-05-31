@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1059,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Our manager actually listens",
+    "premium": "false",
+    "positive": true,
+    "id": 7406
+  },
+  {
+    "preset_id": 1059,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Nuestro gerente realmente escucha",
+    "premium": "false",
+    "positive": true,
+    "id": 7407
+  },
+  {
+    "preset_id": 1059,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Unser Manager hört wirklich zu",
+    "premium": "false",
+    "positive": true,
+    "id": 7408
+  },
+  {
+    "preset_id": 1059,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "O nosso gerente realmente ouve",
+    "premium": "false",
+    "positive": true,
+    "id": 7409
+  },
+  {
+    "preset_id": 1059,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Nasz menedżer naprawdę słucha",
+    "premium": "false",
+    "positive": true,
+    "id": 7410
+  },
+  {
+    "preset_id": 1059,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Наш менеджер действительно слушает",
+    "premium": "false",
+    "positive": true,
+    "id": 7411
+  },
+  {
+    "preset_id": 1059,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "我们的经理真的在听",
+    "premium": "false",
+    "positive": true,
+    "id": 7412
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1077,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Who keeps leaving the kitchen a mess?",
+    "premium": "false",
+    "positive": true,
+    "id": 7532
+  },
+  {
+    "preset_id": 1077,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "¿Quién deja la cocina así de sucia?",
+    "premium": "false",
+    "positive": true,
+    "id": 7533
+  },
+  {
+    "preset_id": 1077,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Wer hinterlässt die Küche immer so unordentlich?",
+    "premium": "false",
+    "positive": true,
+    "id": 7534
+  },
+  {
+    "preset_id": 1077,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Quem deixa a cozinha sempre uma confusão?",
+    "premium": "false",
+    "positive": true,
+    "id": 7535
+  },
+  {
+    "preset_id": 1077,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Kto ciągle zostawia bałagan w kuchni?",
+    "premium": "false",
+    "positive": true,
+    "id": 7536
+  },
+  {
+    "preset_id": 1077,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Кто постоянно оставляет беспорядок на кухне?",
+    "premium": "false",
+    "positive": true,
+    "id": 7537
+  },
+  {
+    "preset_id": 1077,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "是谁一直把厨房弄得一团糟?",
+    "premium": "false",
+    "positive": true,
+    "id": 7538
+  }
+]

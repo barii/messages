@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1106,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Have a good evening",
+    "premium": "false",
+    "positive": true,
+    "id": 7735
+  },
+  {
+    "preset_id": 1106,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Que tengas una buena tarde",
+    "premium": "false",
+    "positive": true,
+    "id": 7736
+  },
+  {
+    "preset_id": 1106,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Hab einen schönen Abend",
+    "premium": "false",
+    "positive": true,
+    "id": 7737
+  },
+  {
+    "preset_id": 1106,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Tem uma boa noite",
+    "premium": "false",
+    "positive": true,
+    "id": 7738
+  },
+  {
+    "preset_id": 1106,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Miłego wieczoru",
+    "premium": "false",
+    "positive": true,
+    "id": 7739
+  },
+  {
+    "preset_id": 1106,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Хорошего вечера",
+    "premium": "false",
+    "positive": true,
+    "id": 7740
+  },
+  {
+    "preset_id": 1106,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "祝你今晚愉快",
+    "premium": "false",
+    "positive": true,
+    "id": 7741
+  }
+]

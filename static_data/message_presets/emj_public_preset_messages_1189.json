@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1189,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Hope your week is going well",
+    "premium": "false",
+    "positive": true,
+    "id": 8316
+  },
+  {
+    "preset_id": 1189,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Espero que tu semana esté yendo bien",
+    "premium": "false",
+    "positive": true,
+    "id": 8317
+  },
+  {
+    "preset_id": 1189,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Hoffe, deine Woche läuft gut",
+    "premium": "false",
+    "positive": true,
+    "id": 8318
+  },
+  {
+    "preset_id": 1189,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Espero que a tua semana esteja a correr bem",
+    "premium": "false",
+    "positive": true,
+    "id": 8319
+  },
+  {
+    "preset_id": 1189,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Mam nadzieję, że twój tydzień idzie dobrze",
+    "premium": "false",
+    "positive": true,
+    "id": 8320
+  },
+  {
+    "preset_id": 1189,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "Надеюсь, твоя неделя идёт хорошо",
+    "premium": "false",
+    "positive": true,
+    "id": 8321
+  },
+  {
+    "preset_id": 1189,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "希望你这周过得好",
+    "premium": "false",
+    "positive": true,
+    "id": 8322
+  }
+]

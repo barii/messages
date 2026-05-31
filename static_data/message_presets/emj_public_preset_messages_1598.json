@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1598,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Always someone else's fault.",
+    "premium": "false",
+    "positive": true,
+    "id": 11179
+  },
+  {
+    "preset_id": 1598,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Siempre es culpa de otro.",
+    "premium": "false",
+    "positive": true,
+    "id": 11180
+  },
+  {
+    "preset_id": 1598,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Immer ist jemand anderes schuld.",
+    "premium": "false",
+    "positive": true,
+    "id": 11181
+  },
+  {
+    "preset_id": 1598,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "É sempre culpa de outro.",
+    "premium": "false",
+    "positive": true,
+    "id": 11182
+  },
+  {
+    "preset_id": 1598,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Zawsze ktoś inny winny.",
+    "premium": "false",
+    "positive": true,
+    "id": 11183
+  },
+  {
+    "preset_id": 1598,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Всегда кто-то другой виноват.",
+    "premium": "false",
+    "positive": true,
+    "id": 11184
+  },
+  {
+    "preset_id": 1598,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "总是别人的错。",
+    "premium": "false",
+    "positive": true,
+    "id": 11185
+  }
+]

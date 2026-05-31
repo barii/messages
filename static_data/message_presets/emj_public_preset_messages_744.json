@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 744,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Living for this",
+    "premium": "false",
+    "positive": true,
+    "id": 5201
+  },
+  {
+    "preset_id": 744,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Vivo por esto",
+    "premium": "false",
+    "positive": true,
+    "id": 5202
+  },
+  {
+    "preset_id": 744,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Lebe dafür",
+    "premium": "false",
+    "positive": true,
+    "id": 5203
+  },
+  {
+    "preset_id": 744,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Vivo para isto",
+    "premium": "false",
+    "positive": true,
+    "id": 5204
+  },
+  {
+    "preset_id": 744,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Żyję dla tego",
+    "premium": "false",
+    "positive": true,
+    "id": 5205
+  },
+  {
+    "preset_id": 744,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Живу этим",
+    "premium": "false",
+    "positive": true,
+    "id": 5206
+  },
+  {
+    "preset_id": 744,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "为这个而活",
+    "premium": "false",
+    "positive": true,
+    "id": 5207
+  }
+]

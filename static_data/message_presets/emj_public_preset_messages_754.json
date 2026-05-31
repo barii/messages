@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 754,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Keep it up",
+    "premium": "false",
+    "positive": true,
+    "id": 5271
+  },
+  {
+    "preset_id": 754,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Sigue así",
+    "premium": "false",
+    "positive": true,
+    "id": 5272
+  },
+  {
+    "preset_id": 754,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Bleib dran",
+    "premium": "false",
+    "positive": true,
+    "id": 5273
+  },
+  {
+    "preset_id": 754,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Continua assim",
+    "premium": "false",
+    "positive": true,
+    "id": 5274
+  },
+  {
+    "preset_id": 754,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Tak dalej",
+    "premium": "false",
+    "positive": true,
+    "id": 5275
+  },
+  {
+    "preset_id": 754,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Так держать",
+    "premium": "false",
+    "positive": true,
+    "id": 5276
+  },
+  {
+    "preset_id": 754,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "保持下去",
+    "premium": "false",
+    "positive": true,
+    "id": 5277
+  }
+]

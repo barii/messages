@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1587,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You weren't saying that at the weekend.",
+    "premium": "true",
+    "positive": true,
+    "id": 11102
+  },
+  {
+    "preset_id": 1587,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "No decíais eso el fin de semana.",
+    "premium": "true",
+    "positive": true,
+    "id": 11103
+  },
+  {
+    "preset_id": 1587,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Am Wochenende habt ihr das nicht gesagt.",
+    "premium": "true",
+    "positive": true,
+    "id": 11104
+  },
+  {
+    "preset_id": 1587,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Não diziam isso no fim-de-semana.",
+    "premium": "true",
+    "positive": true,
+    "id": 11105
+  },
+  {
+    "preset_id": 1587,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Nie mówiliście tego w weekend.",
+    "premium": "true",
+    "positive": true,
+    "id": 11106
+  },
+  {
+    "preset_id": 1587,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Вы этого не говорили на выходных.",
+    "premium": "true",
+    "positive": true,
+    "id": 11107
+  },
+  {
+    "preset_id": 1587,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "周末你们可不是这么说的。",
+    "premium": "true",
+    "positive": true,
+    "id": 11108
+  }
+]

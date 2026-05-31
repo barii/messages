@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 134,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Have I done something wrong?",
+    "premium": "false",
+    "positive": true,
+    "id": 931
+  },
+  {
+    "preset_id": 134,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿He hecho algo mal?",
+    "premium": "false",
+    "positive": true,
+    "id": 932
+  },
+  {
+    "preset_id": 134,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Habe ich etwas falsch gemacht?",
+    "premium": "false",
+    "positive": true,
+    "id": 933
+  },
+  {
+    "preset_id": 134,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Fiz alguma coisa de errado?",
+    "premium": "false",
+    "positive": true,
+    "id": 934
+  },
+  {
+    "preset_id": 134,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Czy zrobiłem coś nie tak?",
+    "premium": "false",
+    "positive": true,
+    "id": 935
+  },
+  {
+    "preset_id": 134,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Я что-то сделал не так?",
+    "premium": "false",
+    "positive": true,
+    "id": 936
+  },
+  {
+    "preset_id": 134,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我做错什么了吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 937
+  }
+]

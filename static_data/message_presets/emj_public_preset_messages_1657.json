@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1657,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Aww.",
+    "premium": "false",
+    "positive": true,
+    "id": 11592
+  },
+  {
+    "preset_id": 1657,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Aww.",
+    "premium": "false",
+    "positive": true,
+    "id": 11593
+  },
+  {
+    "preset_id": 1657,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Aww.",
+    "premium": "false",
+    "positive": true,
+    "id": 11594
+  },
+  {
+    "preset_id": 1657,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Awww.",
+    "premium": "false",
+    "positive": true,
+    "id": 11595
+  },
+  {
+    "preset_id": 1657,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Aww.",
+    "premium": "false",
+    "positive": true,
+    "id": 11596
+  },
+  {
+    "preset_id": 1657,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Ааа.",
+    "premium": "false",
+    "positive": true,
+    "id": 11597
+  },
+  {
+    "preset_id": 1657,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "啊。",
+    "premium": "false",
+    "positive": true,
+    "id": 11598
+  }
+]

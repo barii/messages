@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 516,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Exhausted",
+    "premium": "false",
+    "positive": true,
+    "id": 3605
+  },
+  {
+    "preset_id": 516,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Agotado",
+    "premium": "false",
+    "positive": true,
+    "id": 3606
+  },
+  {
+    "preset_id": 516,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Erschöpft",
+    "premium": "false",
+    "positive": true,
+    "id": 3607
+  },
+  {
+    "preset_id": 516,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Exausto",
+    "premium": "false",
+    "positive": true,
+    "id": 3608
+  },
+  {
+    "preset_id": 516,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Wyczerpany",
+    "premium": "false",
+    "positive": true,
+    "id": 3609
+  },
+  {
+    "preset_id": 516,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Изнурён",
+    "premium": "false",
+    "positive": true,
+    "id": 3610
+  },
+  {
+    "preset_id": 516,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "筋疲力尽",
+    "premium": "false",
+    "positive": true,
+    "id": 3611
+  }
+]

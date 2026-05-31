@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1452,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We're flying.",
+    "premium": "false",
+    "positive": true,
+    "id": 10157
+  },
+  {
+    "preset_id": 1452,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Estamos volando.",
+    "premium": "false",
+    "positive": true,
+    "id": 10158
+  },
+  {
+    "preset_id": 1452,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir fliegen.",
+    "premium": "false",
+    "positive": true,
+    "id": 10159
+  },
+  {
+    "preset_id": 1452,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Estamos a voar.",
+    "premium": "false",
+    "positive": true,
+    "id": 10160
+  },
+  {
+    "preset_id": 1452,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Lecimy.",
+    "premium": "false",
+    "positive": true,
+    "id": 10161
+  },
+  {
+    "preset_id": 1452,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Мы летим.",
+    "premium": "false",
+    "positive": true,
+    "id": 10162
+  },
+  {
+    "preset_id": 1452,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们在飞。",
+    "premium": "false",
+    "positive": true,
+    "id": 10163
+  }
+]

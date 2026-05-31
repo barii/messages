@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1732,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "You play like my grandma!",
+    "premium": "true",
+    "positive": true,
+    "id": 12117
+  },
+  {
+    "preset_id": 1732,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "You play like my grandma!",
+    "premium": "true",
+    "positive": true,
+    "id": 12118
+  },
+  {
+    "preset_id": 1732,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "You play like my grandma!",
+    "premium": "true",
+    "positive": true,
+    "id": 12119
+  },
+  {
+    "preset_id": 1732,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "You play like my grandma!",
+    "premium": "true",
+    "positive": true,
+    "id": 12120
+  },
+  {
+    "preset_id": 1732,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "You play like my grandma!",
+    "premium": "true",
+    "positive": true,
+    "id": 12121
+  },
+  {
+    "preset_id": 1732,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "You play like my grandma!",
+    "premium": "true",
+    "positive": true,
+    "id": 12122
+  },
+  {
+    "preset_id": 1732,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "You play like my grandma!",
+    "premium": "true",
+    "positive": true,
+    "id": 12123
+  }
+]

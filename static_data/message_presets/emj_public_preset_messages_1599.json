@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1599,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Always a reason isn't it.",
+    "premium": "false",
+    "positive": true,
+    "id": 11186
+  },
+  {
+    "preset_id": 1599,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Siempre hay una razón, ¿no?",
+    "premium": "false",
+    "positive": true,
+    "id": 11187
+  },
+  {
+    "preset_id": 1599,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Es gibt immer einen Grund, oder?",
+    "premium": "false",
+    "positive": true,
+    "id": 11188
+  },
+  {
+    "preset_id": 1599,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Há sempre uma razão, não é?",
+    "premium": "false",
+    "positive": true,
+    "id": 11189
+  },
+  {
+    "preset_id": 1599,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Zawsze jest jakiś powód, prawda?",
+    "premium": "false",
+    "positive": true,
+    "id": 11190
+  },
+  {
+    "preset_id": 1599,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Всегда есть причина, не так ли.",
+    "premium": "false",
+    "positive": true,
+    "id": 11191
+  },
+  {
+    "preset_id": 1599,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "总有理由,对吧。",
+    "premium": "false",
+    "positive": true,
+    "id": 11192
+  }
+]

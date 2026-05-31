@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 743,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Love this",
+    "premium": "false",
+    "positive": true,
+    "id": 5194
+  },
+  {
+    "preset_id": 743,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Me encanta esto",
+    "premium": "false",
+    "positive": true,
+    "id": 5195
+  },
+  {
+    "preset_id": 743,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Liebe das",
+    "premium": "false",
+    "positive": true,
+    "id": 5196
+  },
+  {
+    "preset_id": 743,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Adoro isto",
+    "premium": "false",
+    "positive": true,
+    "id": 5197
+  },
+  {
+    "preset_id": 743,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Uwielbiam to",
+    "premium": "false",
+    "positive": true,
+    "id": 5198
+  },
+  {
+    "preset_id": 743,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Обожаю это",
+    "premium": "false",
+    "positive": true,
+    "id": 5199
+  },
+  {
+    "preset_id": 743,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "爱了",
+    "premium": "false",
+    "positive": true,
+    "id": 5200
+  }
+]

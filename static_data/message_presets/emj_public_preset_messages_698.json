@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 698,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Anytime",
+    "premium": "false",
+    "positive": true,
+    "id": 4879
+  },
+  {
+    "preset_id": 698,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Cuando quieras",
+    "premium": "false",
+    "positive": true,
+    "id": 4880
+  },
+  {
+    "preset_id": 698,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Jederzeit",
+    "premium": "false",
+    "positive": true,
+    "id": 4881
+  },
+  {
+    "preset_id": 698,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Sempre que precisares",
+    "premium": "false",
+    "positive": true,
+    "id": 4882
+  },
+  {
+    "preset_id": 698,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Zawsze",
+    "premium": "false",
+    "positive": true,
+    "id": 4883
+  },
+  {
+    "preset_id": 698,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "В любое время",
+    "premium": "false",
+    "positive": true,
+    "id": 4884
+  },
+  {
+    "preset_id": 698,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "随时",
+    "premium": "false",
+    "positive": true,
+    "id": 4885
+  }
+]

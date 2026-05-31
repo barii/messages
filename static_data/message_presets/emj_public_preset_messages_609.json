@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 609,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Point taken",
+    "premium": "false",
+    "positive": true,
+    "id": 4256
+  },
+  {
+    "preset_id": 609,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Punto tomado",
+    "premium": "false",
+    "positive": true,
+    "id": 4257
+  },
+  {
+    "preset_id": 609,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Punkt verstanden",
+    "premium": "false",
+    "positive": true,
+    "id": 4258
+  },
+  {
+    "preset_id": 609,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Ponto aceite",
+    "premium": "false",
+    "positive": true,
+    "id": 4259
+  },
+  {
+    "preset_id": 609,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Punkt przyjęty",
+    "premium": "false",
+    "positive": true,
+    "id": 4260
+  },
+  {
+    "preset_id": 609,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Понял точку",
+    "premium": "false",
+    "positive": true,
+    "id": 4261
+  },
+  {
+    "preset_id": 609,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "明白了",
+    "premium": "false",
+    "positive": true,
+    "id": 4262
+  }
+]

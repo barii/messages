@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 82,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "Touch grass please",
+    "premium": "true",
+    "positive": false,
+    "id": 567
+  },
+  {
+    "preset_id": 82,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Toca pasto, por favor",
+    "premium": "true",
+    "positive": false,
+    "id": 568
+  },
+  {
+    "preset_id": 82,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Geh mal an die frische Luft",
+    "premium": "true",
+    "positive": false,
+    "id": 569
+  },
+  {
+    "preset_id": 82,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Toca relva, por favor",
+    "premium": "true",
+    "positive": false,
+    "id": 570
+  },
+  {
+    "preset_id": 82,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Dotknij trawy, proszę",
+    "premium": "true",
+    "positive": false,
+    "id": 571
+  },
+  {
+    "preset_id": 82,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Дотронься до травы, пожалуйста",
+    "premium": "true",
+    "positive": false,
+    "id": 572
+  },
+  {
+    "preset_id": 82,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "请去摸摸草",
+    "premium": "true",
+    "positive": false,
+    "id": 573
+  }
+]

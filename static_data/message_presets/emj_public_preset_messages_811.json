@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 811,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Why are you like this in the best way",
+    "premium": "false",
+    "positive": true,
+    "id": 5670
+  },
+  {
+    "preset_id": 811,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "¿Por qué eres así, pero en el buen sentido?",
+    "premium": "false",
+    "positive": true,
+    "id": 5671
+  },
+  {
+    "preset_id": 811,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Warum bist du so im besten Sinne?",
+    "premium": "false",
+    "positive": true,
+    "id": 5672
+  },
+  {
+    "preset_id": 811,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Porque és assim, mas do bom?",
+    "premium": "false",
+    "positive": true,
+    "id": 5673
+  },
+  {
+    "preset_id": 811,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Dlaczego jesteś taki w najlepszy sposób?",
+    "premium": "false",
+    "positive": true,
+    "id": 5674
+  },
+  {
+    "preset_id": 811,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Почему ты такой в хорошем смысле?",
+    "premium": "false",
+    "positive": true,
+    "id": 5675
+  },
+  {
+    "preset_id": 811,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "你为什么这么好的方式?",
+    "premium": "false",
+    "positive": true,
+    "id": 5676
+  }
+]

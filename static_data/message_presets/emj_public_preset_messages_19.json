@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 19,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're creative",
+    "premium": "false",
+    "positive": true,
+    "id": 126
+  },
+  {
+    "preset_id": 19,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres creativo",
+    "premium": "false",
+    "positive": true,
+    "id": 127
+  },
+  {
+    "preset_id": 19,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist kreativ",
+    "premium": "false",
+    "positive": true,
+    "id": 128
+  },
+  {
+    "preset_id": 19,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És criativo",
+    "premium": "false",
+    "positive": true,
+    "id": 129
+  },
+  {
+    "preset_id": 19,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś kreatywny",
+    "premium": "false",
+    "positive": true,
+    "id": 130
+  },
+  {
+    "preset_id": 19,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты творческий",
+    "premium": "false",
+    "positive": true,
+    "id": 131
+  },
+  {
+    "preset_id": 19,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你有创造力",
+    "premium": "false",
+    "positive": true,
+    "id": 132
+  }
+]

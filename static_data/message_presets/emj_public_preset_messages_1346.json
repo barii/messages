@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1346,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Your manager looked lost.",
+    "premium": "true",
+    "positive": true,
+    "id": 9415
+  },
+  {
+    "preset_id": 1346,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Vuestro entrenador parecía perdido.",
+    "premium": "true",
+    "positive": true,
+    "id": 9416
+  },
+  {
+    "preset_id": 1346,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Euer Trainer sah verloren aus.",
+    "premium": "true",
+    "positive": true,
+    "id": 9417
+  },
+  {
+    "preset_id": 1346,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "O vosso treinador parecia perdido.",
+    "premium": "true",
+    "positive": true,
+    "id": 9418
+  },
+  {
+    "preset_id": 1346,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Wasz trener wyglądał na zagubionego.",
+    "premium": "true",
+    "positive": true,
+    "id": 9419
+  },
+  {
+    "preset_id": 1346,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Ваш тренер выглядел потерянным.",
+    "premium": "true",
+    "positive": true,
+    "id": 9420
+  },
+  {
+    "preset_id": 1346,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们教练看起来很迷茫。",
+    "premium": "true",
+    "positive": true,
+    "id": 9421
+  }
+]

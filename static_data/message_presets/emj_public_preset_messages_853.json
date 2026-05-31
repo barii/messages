@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 853,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You're different and I like that",
+    "premium": "false",
+    "positive": true,
+    "id": 5964
+  },
+  {
+    "preset_id": 853,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Eres diferente y me gusta",
+    "premium": "false",
+    "positive": true,
+    "id": 5965
+  },
+  {
+    "preset_id": 853,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Du bist anders und das mag ich",
+    "premium": "false",
+    "positive": true,
+    "id": 5966
+  },
+  {
+    "preset_id": 853,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "És diferente e gosto disso",
+    "premium": "false",
+    "positive": true,
+    "id": 5967
+  },
+  {
+    "preset_id": 853,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Jesteś inny i to mi się podoba",
+    "premium": "false",
+    "positive": true,
+    "id": 5968
+  },
+  {
+    "preset_id": 853,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты другой и мне это нравится",
+    "premium": "false",
+    "positive": true,
+    "id": 5969
+  },
+  {
+    "preset_id": 853,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你不一样,我喜欢这点",
+    "premium": "false",
+    "positive": true,
+    "id": 5970
+  }
+]

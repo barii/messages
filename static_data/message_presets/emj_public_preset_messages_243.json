@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 243,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We work together",
+    "premium": "false",
+    "positive": true,
+    "id": 1694
+  },
+  {
+    "preset_id": 243,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Trabajamos juntos",
+    "premium": "false",
+    "positive": true,
+    "id": 1695
+  },
+  {
+    "preset_id": 243,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir arbeiten zusammen",
+    "premium": "false",
+    "positive": true,
+    "id": 1696
+  },
+  {
+    "preset_id": 243,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Trabalhamos juntos",
+    "premium": "false",
+    "positive": true,
+    "id": 1697
+  },
+  {
+    "preset_id": 243,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Pracujemy razem",
+    "premium": "false",
+    "positive": true,
+    "id": 1698
+  },
+  {
+    "preset_id": 243,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы работаем вместе",
+    "premium": "false",
+    "positive": true,
+    "id": 1699
+  },
+  {
+    "preset_id": 243,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们一起工作",
+    "premium": "false",
+    "positive": true,
+    "id": 1700
+  }
+]

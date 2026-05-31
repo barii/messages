@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1615,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Go for a walk.",
+    "premium": "true",
+    "positive": true,
+    "id": 11298
+  },
+  {
+    "preset_id": 1615,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Id a dar un paseo.",
+    "premium": "true",
+    "positive": true,
+    "id": 11299
+  },
+  {
+    "preset_id": 1615,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Geht spazieren.",
+    "premium": "true",
+    "positive": true,
+    "id": 11300
+  },
+  {
+    "preset_id": 1615,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Vão dar uma volta.",
+    "premium": "true",
+    "positive": true,
+    "id": 11301
+  },
+  {
+    "preset_id": 1615,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Idźcie na spacer.",
+    "premium": "true",
+    "positive": true,
+    "id": 11302
+  },
+  {
+    "preset_id": 1615,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Сходите прогуляйтесь.",
+    "premium": "true",
+    "positive": true,
+    "id": 11303
+  },
+  {
+    "preset_id": 1615,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "去散散步。",
+    "premium": "true",
+    "positive": true,
+    "id": 11304
+  }
+]

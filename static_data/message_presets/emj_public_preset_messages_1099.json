@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1099,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Hi there",
+    "premium": "false",
+    "positive": true,
+    "id": 7686
+  },
+  {
+    "preset_id": 1099,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Hola, ¿qué tal?",
+    "premium": "false",
+    "positive": true,
+    "id": 7687
+  },
+  {
+    "preset_id": 1099,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Hi du",
+    "premium": "false",
+    "positive": true,
+    "id": 7688
+  },
+  {
+    "preset_id": 1099,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Olá",
+    "premium": "false",
+    "positive": true,
+    "id": 7689
+  },
+  {
+    "preset_id": 1099,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Cześć",
+    "premium": "false",
+    "positive": true,
+    "id": 7690
+  },
+  {
+    "preset_id": 1099,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Привет",
+    "premium": "false",
+    "positive": true,
+    "id": 7691
+  },
+  {
+    "preset_id": 1099,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "嗨你好",
+    "premium": "false",
+    "positive": true,
+    "id": 7692
+  }
+]

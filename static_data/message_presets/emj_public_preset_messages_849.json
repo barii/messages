@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 849,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You make my heart happy",
+    "premium": "false",
+    "positive": true,
+    "id": 5936
+  },
+  {
+    "preset_id": 849,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Haces feliz mi corazón",
+    "premium": "false",
+    "positive": true,
+    "id": 5937
+  },
+  {
+    "preset_id": 849,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Du machst mein Herz glücklich",
+    "premium": "false",
+    "positive": true,
+    "id": 5938
+  },
+  {
+    "preset_id": 849,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Tornas o meu coração feliz",
+    "premium": "false",
+    "positive": true,
+    "id": 5939
+  },
+  {
+    "preset_id": 849,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Sprawiasz, że moje serce jest szczęśliwe",
+    "premium": "false",
+    "positive": true,
+    "id": 5940
+  },
+  {
+    "preset_id": 849,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты делаешь моё сердце счастливым",
+    "premium": "false",
+    "positive": true,
+    "id": 5941
+  },
+  {
+    "preset_id": 849,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你让我的心快乐",
+    "premium": "false",
+    "positive": true,
+    "id": 5942
+  }
+]

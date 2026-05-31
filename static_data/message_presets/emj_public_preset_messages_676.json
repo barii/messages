@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 676,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "I see right through you",
+    "premium": "false",
+    "positive": true,
+    "id": 4725
+  },
+  {
+    "preset_id": 676,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Te veo claro como el agua",
+    "premium": "false",
+    "positive": true,
+    "id": 4726
+  },
+  {
+    "preset_id": 676,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Ich sehe direkt durch dich hindurch",
+    "premium": "false",
+    "positive": true,
+    "id": 4727
+  },
+  {
+    "preset_id": 676,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Vejo-te por dentro",
+    "premium": "false",
+    "positive": true,
+    "id": 4728
+  },
+  {
+    "preset_id": 676,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Widzę cię na wylot",
+    "premium": "false",
+    "positive": true,
+    "id": 4729
+  },
+  {
+    "preset_id": 676,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Я вижу тебя насквозь",
+    "premium": "false",
+    "positive": true,
+    "id": 4730
+  },
+  {
+    "preset_id": 676,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "我看穿你了",
+    "premium": "false",
+    "positive": true,
+    "id": 4731
+  }
+]

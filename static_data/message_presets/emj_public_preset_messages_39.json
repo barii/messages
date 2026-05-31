@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 39,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You inspire me",
+    "premium": "true",
+    "positive": true,
+    "id": 266
+  },
+  {
+    "preset_id": 39,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Me inspiras",
+    "premium": "true",
+    "positive": true,
+    "id": 267
+  },
+  {
+    "preset_id": 39,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du inspirierst mich",
+    "premium": "true",
+    "positive": true,
+    "id": 268
+  },
+  {
+    "preset_id": 39,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Inspiras-me",
+    "premium": "true",
+    "positive": true,
+    "id": 269
+  },
+  {
+    "preset_id": 39,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Inspirujesz mnie",
+    "premium": "true",
+    "positive": true,
+    "id": 270
+  },
+  {
+    "preset_id": 39,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты вдохновляешь меня",
+    "premium": "true",
+    "positive": true,
+    "id": 271
+  },
+  {
+    "preset_id": 39,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你激励着我",
+    "premium": "true",
+    "positive": true,
+    "id": 272
+  }
+]

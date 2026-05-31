@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1200,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "Are you a magician because every time I look at you, everyone else disappears?",
+    "premium": "true",
+    "positive": true,
+    "id": 8393
+  },
+  {
+    "preset_id": 1200,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "¿Eres mago? Porque cada vez que te miro, los demás desaparecen",
+    "premium": "true",
+    "positive": true,
+    "id": 8394
+  },
+  {
+    "preset_id": 1200,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Bist du ein Magier? Denn jedes Mal, wenn ich dich anschaue, verschwinden alle anderen",
+    "premium": "true",
+    "positive": true,
+    "id": 8395
+  },
+  {
+    "preset_id": 1200,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "És mágico? Porque sempre que olho para ti, todos os outros desaparecem",
+    "premium": "true",
+    "positive": true,
+    "id": 8396
+  },
+  {
+    "preset_id": 1200,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Jesteś magikiem? Bo za każdym razem, gdy na ciebie patrzę, wszyscy inni znikają",
+    "premium": "true",
+    "positive": true,
+    "id": 8397
+  },
+  {
+    "preset_id": 1200,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Ты волшебник? Потому что каждый раз, когда я смотрю на тебя, все остальные исчезают",
+    "premium": "true",
+    "positive": true,
+    "id": 8398
+  },
+  {
+    "preset_id": 1200,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "你是魔法师吗?因为每次我看你时,其他人都消失了",
+    "premium": "true",
+    "positive": true,
+    "id": 8399
+  }
+]

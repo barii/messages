@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 208,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Did we meet online?",
+    "premium": "false",
+    "positive": true,
+    "id": 1449
+  },
+  {
+    "preset_id": 208,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Nos conocimos online?",
+    "premium": "false",
+    "positive": true,
+    "id": 1450
+  },
+  {
+    "preset_id": 208,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Haben wir uns online kennengelernt?",
+    "premium": "false",
+    "positive": true,
+    "id": 1451
+  },
+  {
+    "preset_id": 208,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Conhecemo-nos online?",
+    "premium": "false",
+    "positive": true,
+    "id": 1452
+  },
+  {
+    "preset_id": 208,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Poznaliśmy się online?",
+    "premium": "false",
+    "positive": true,
+    "id": 1453
+  },
+  {
+    "preset_id": 208,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Мы познакомились онлайн?",
+    "premium": "false",
+    "positive": true,
+    "id": 1454
+  },
+  {
+    "preset_id": 208,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我们是网上认识的吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1455
+  }
+]

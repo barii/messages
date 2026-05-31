@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 965,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Believe people the first time they show you who they are",
+    "premium": "true",
+    "positive": true,
+    "id": 6748
+  },
+  {
+    "preset_id": 965,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Cree a la gente la primera vez que te muestra quiénes son",
+    "premium": "true",
+    "positive": true,
+    "id": 6749
+  },
+  {
+    "preset_id": 965,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Glaube Menschen das erste Mal, wenn sie dir zeigen, wer sie sind",
+    "premium": "true",
+    "positive": true,
+    "id": 6750
+  },
+  {
+    "preset_id": 965,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Acredita nas pessoas da primeira vez que te mostram quem são",
+    "premium": "true",
+    "positive": true,
+    "id": 6751
+  },
+  {
+    "preset_id": 965,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Wierz ludziom za pierwszym razem, gdy pokazują ci, kim są",
+    "premium": "true",
+    "positive": true,
+    "id": 6752
+  },
+  {
+    "preset_id": 965,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Верь людям с первого раза, когда они показывают, кто они",
+    "premium": "true",
+    "positive": true,
+    "id": 6753
+  },
+  {
+    "preset_id": 965,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "第一次别人告诉你他们是谁时就相信",
+    "premium": "true",
+    "positive": true,
+    "id": 6754
+  }
+]

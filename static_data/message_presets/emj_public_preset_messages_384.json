@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 384,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm always reading something",
+    "premium": "true",
+    "positive": true,
+    "id": 2681
+  },
+  {
+    "preset_id": 384,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Siempre estoy leyendo algo",
+    "premium": "true",
+    "positive": true,
+    "id": 2682
+  },
+  {
+    "preset_id": 384,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich lese immer etwas",
+    "premium": "true",
+    "positive": true,
+    "id": 2683
+  },
+  {
+    "preset_id": 384,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Estou sempre a ler alguma coisa",
+    "premium": "true",
+    "positive": true,
+    "id": 2684
+  },
+  {
+    "preset_id": 384,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Zawsze coś czytam",
+    "premium": "true",
+    "positive": true,
+    "id": 2685
+  },
+  {
+    "preset_id": 384,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я всегда что-то читаю",
+    "premium": "true",
+    "positive": true,
+    "id": 2686
+  },
+  {
+    "preset_id": 384,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我总在读什么",
+    "premium": "true",
+    "positive": true,
+    "id": 2687
+  }
+]

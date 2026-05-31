@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1447,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Top of the league, where we belong.",
+    "premium": "true",
+    "positive": true,
+    "id": 10122
+  },
+  {
+    "preset_id": 1447,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Líderes de la liga, donde pertenecemos.",
+    "premium": "true",
+    "positive": true,
+    "id": 10123
+  },
+  {
+    "preset_id": 1447,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Tabellenführer, wo wir hingehören.",
+    "premium": "true",
+    "positive": true,
+    "id": 10124
+  },
+  {
+    "preset_id": 1447,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Topo da liga, onde pertencemos.",
+    "premium": "true",
+    "positive": true,
+    "id": 10125
+  },
+  {
+    "preset_id": 1447,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Lider ligi, tam gdzie nasze miejsce.",
+    "premium": "true",
+    "positive": true,
+    "id": 10126
+  },
+  {
+    "preset_id": 1447,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Лидеры таблицы, где нам и место.",
+    "premium": "true",
+    "positive": true,
+    "id": 10127
+  },
+  {
+    "preset_id": 1447,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "联赛榜首,我们的位置。",
+    "premium": "true",
+    "positive": true,
+    "id": 10128
+  }
+]

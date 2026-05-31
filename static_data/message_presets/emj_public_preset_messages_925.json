@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 925,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Go outside",
+    "premium": "false",
+    "positive": true,
+    "id": 6468
+  },
+  {
+    "preset_id": 925,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Sal afuera",
+    "premium": "false",
+    "positive": true,
+    "id": 6469
+  },
+  {
+    "preset_id": 925,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Geh nach draußen",
+    "premium": "false",
+    "positive": true,
+    "id": 6470
+  },
+  {
+    "preset_id": 925,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Sai à rua",
+    "premium": "false",
+    "positive": true,
+    "id": 6471
+  },
+  {
+    "preset_id": 925,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Wyjdź na zewnątrz",
+    "premium": "false",
+    "positive": true,
+    "id": 6472
+  },
+  {
+    "preset_id": 925,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Выйди на улицу",
+    "premium": "false",
+    "positive": true,
+    "id": 6473
+  },
+  {
+    "preset_id": 925,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "出去走走",
+    "premium": "false",
+    "positive": true,
+    "id": 6474
+  }
+]

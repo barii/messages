@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 580,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "You wish you were me",
+    "premium": "true",
+    "positive": true,
+    "id": 4053
+  },
+  {
+    "preset_id": 580,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Quisieras ser yo",
+    "premium": "true",
+    "positive": true,
+    "id": 4054
+  },
+  {
+    "preset_id": 580,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Du wünschst, du wärst ich",
+    "premium": "true",
+    "positive": true,
+    "id": 4055
+  },
+  {
+    "preset_id": 580,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Quem me dera ser tu",
+    "premium": "true",
+    "positive": true,
+    "id": 4056
+  },
+  {
+    "preset_id": 580,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Chciałbyś być mną",
+    "premium": "true",
+    "positive": true,
+    "id": 4057
+  },
+  {
+    "preset_id": 580,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Ты бы хотел быть мной",
+    "premium": "true",
+    "positive": true,
+    "id": 4058
+  },
+  {
+    "preset_id": 580,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "你希望你是我",
+    "premium": "true",
+    "positive": true,
+    "id": 4059
+  }
+]

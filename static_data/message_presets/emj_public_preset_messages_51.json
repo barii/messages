@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 51,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "I'm so lucky to know you",
+    "premium": "true",
+    "positive": true,
+    "id": 350
+  },
+  {
+    "preset_id": 51,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Tengo mucha suerte de conocerte",
+    "premium": "true",
+    "positive": true,
+    "id": 351
+  },
+  {
+    "preset_id": 51,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Ich habe so viel Glück, dich zu kennen",
+    "premium": "true",
+    "positive": true,
+    "id": 352
+  },
+  {
+    "preset_id": 51,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Tenho tanta sorte em conhecer-te",
+    "premium": "true",
+    "positive": true,
+    "id": 353
+  },
+  {
+    "preset_id": 51,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Mam tyle szczęścia, że cię znam",
+    "premium": "true",
+    "positive": true,
+    "id": 354
+  },
+  {
+    "preset_id": 51,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Мне так повезло знать тебя",
+    "premium": "true",
+    "positive": true,
+    "id": 355
+  },
+  {
+    "preset_id": 51,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "我很幸运能认识你",
+    "premium": "true",
+    "positive": true,
+    "id": 356
+  }
+]

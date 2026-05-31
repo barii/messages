@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 390,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I love being in nature",
+    "premium": "false",
+    "positive": true,
+    "id": 2723
+  },
+  {
+    "preset_id": 390,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Me encanta estar en la naturaleza",
+    "premium": "false",
+    "positive": true,
+    "id": 2724
+  },
+  {
+    "preset_id": 390,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich liebe es, in der Natur zu sein",
+    "premium": "false",
+    "positive": true,
+    "id": 2725
+  },
+  {
+    "preset_id": 390,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Adoro estar na natureza",
+    "premium": "false",
+    "positive": true,
+    "id": 2726
+  },
+  {
+    "preset_id": 390,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Uwielbiam być w naturze",
+    "premium": "false",
+    "positive": true,
+    "id": 2727
+  },
+  {
+    "preset_id": 390,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я люблю быть на природе",
+    "premium": "false",
+    "positive": true,
+    "id": 2728
+  },
+  {
+    "preset_id": 390,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我喜欢在大自然里",
+    "premium": "false",
+    "positive": true,
+    "id": 2729
+  }
+]

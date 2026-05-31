@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1632,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Imagine supporting your team.",
+    "premium": "false",
+    "positive": true,
+    "id": 11417
+  },
+  {
+    "preset_id": 1632,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Imaginad apoyar a vuestro equipo.",
+    "premium": "false",
+    "positive": true,
+    "id": 11418
+  },
+  {
+    "preset_id": 1632,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Stellt euch vor, eure Mannschaft zu unterstützen.",
+    "premium": "false",
+    "positive": true,
+    "id": 11419
+  },
+  {
+    "preset_id": 1632,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Imaginem apoiar a vossa equipa.",
+    "premium": "false",
+    "positive": true,
+    "id": 11420
+  },
+  {
+    "preset_id": 1632,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Wyobraźcie sobie, że kibicujecie swojej drużynie.",
+    "premium": "false",
+    "positive": true,
+    "id": 11421
+  },
+  {
+    "preset_id": 1632,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Представьте поддерживать свою команду.",
+    "premium": "false",
+    "positive": true,
+    "id": 11422
+  },
+  {
+    "preset_id": 1632,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "想象一下支持你们的球队。",
+    "premium": "false",
+    "positive": true,
+    "id": 11423
+  }
+]

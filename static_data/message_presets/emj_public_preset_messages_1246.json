@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1246,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Relegation looms.",
+    "premium": "false",
+    "positive": true,
+    "id": 8715
+  },
+  {
+    "preset_id": 1246,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "El descenso se acerca.",
+    "premium": "false",
+    "positive": true,
+    "id": 8716
+  },
+  {
+    "preset_id": 1246,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Der Abstieg droht.",
+    "premium": "false",
+    "positive": true,
+    "id": 8717
+  },
+  {
+    "preset_id": 1246,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "A descida aproxima-se.",
+    "premium": "false",
+    "positive": true,
+    "id": 8718
+  },
+  {
+    "preset_id": 1246,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Spadek się zbliża.",
+    "premium": "false",
+    "positive": true,
+    "id": 8719
+  },
+  {
+    "preset_id": 1246,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Вылет приближается.",
+    "premium": "false",
+    "positive": true,
+    "id": 8720
+  },
+  {
+    "preset_id": 1246,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "降级在即。",
+    "premium": "false",
+    "positive": true,
+    "id": 8721
+  }
+]

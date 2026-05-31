@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 844,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I have fallen for you",
+    "premium": "false",
+    "positive": true,
+    "id": 5901
+  },
+  {
+    "preset_id": 844,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Me he enamorado de ti",
+    "premium": "false",
+    "positive": true,
+    "id": 5902
+  },
+  {
+    "preset_id": 844,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich habe mich in dich verliebt",
+    "premium": "false",
+    "positive": true,
+    "id": 5903
+  },
+  {
+    "preset_id": 844,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Apaixonei-me por ti",
+    "premium": "false",
+    "positive": true,
+    "id": 5904
+  },
+  {
+    "preset_id": 844,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Zakochałem się w tobie",
+    "premium": "false",
+    "positive": true,
+    "id": 5905
+  },
+  {
+    "preset_id": 844,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Я влюбился в тебя",
+    "premium": "false",
+    "positive": true,
+    "id": 5906
+  },
+  {
+    "preset_id": 844,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我已经爱上你了",
+    "premium": "false",
+    "positive": true,
+    "id": 5907
+  }
+]

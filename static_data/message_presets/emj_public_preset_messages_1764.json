@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1764,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Are you guys even trying?",
+    "premium": "false",
+    "positive": true,
+    "id": 12341
+  },
+  {
+    "preset_id": 1764,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Are you guys even trying?",
+    "premium": "false",
+    "positive": true,
+    "id": 12342
+  },
+  {
+    "preset_id": 1764,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Are you guys even trying?",
+    "premium": "false",
+    "positive": true,
+    "id": 12343
+  },
+  {
+    "preset_id": 1764,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Are you guys even trying?",
+    "premium": "false",
+    "positive": true,
+    "id": 12344
+  },
+  {
+    "preset_id": 1764,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Are you guys even trying?",
+    "premium": "false",
+    "positive": true,
+    "id": 12345
+  },
+  {
+    "preset_id": 1764,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Are you guys even trying?",
+    "premium": "false",
+    "positive": true,
+    "id": 12346
+  },
+  {
+    "preset_id": 1764,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Are you guys even trying?",
+    "premium": "false",
+    "positive": true,
+    "id": 12347
+  }
+]

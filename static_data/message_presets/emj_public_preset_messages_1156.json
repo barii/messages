@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1156,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Hope this message makes you smile",
+    "premium": "false",
+    "positive": true,
+    "id": 8085
+  },
+  {
+    "preset_id": 1156,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Espero que este mensaje te saque una sonrisa",
+    "premium": "false",
+    "positive": true,
+    "id": 8086
+  },
+  {
+    "preset_id": 1156,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Hoffe, diese Nachricht zaubert dir ein Lächeln ins Gesicht",
+    "premium": "false",
+    "positive": true,
+    "id": 8087
+  },
+  {
+    "preset_id": 1156,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Espero que esta mensagem te faça sorrir",
+    "premium": "false",
+    "positive": true,
+    "id": 8088
+  },
+  {
+    "preset_id": 1156,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Mam nadzieję, że ta wiadomość cię uśmiechnie",
+    "premium": "false",
+    "positive": true,
+    "id": 8089
+  },
+  {
+    "preset_id": 1156,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Надеюсь, это сообщение заставит тебя улыбнуться",
+    "premium": "false",
+    "positive": true,
+    "id": 8090
+  },
+  {
+    "preset_id": 1156,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "希望这条消息能让你微笑",
+    "premium": "false",
+    "positive": true,
+    "id": 8091
+  }
+]

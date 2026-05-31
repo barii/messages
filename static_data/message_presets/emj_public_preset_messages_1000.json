@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1000,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You're bad at communicating",
+    "premium": "false",
+    "positive": true,
+    "id": 6993
+  },
+  {
+    "preset_id": 1000,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Eres malo comunicándote",
+    "premium": "false",
+    "positive": true,
+    "id": 6994
+  },
+  {
+    "preset_id": 1000,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du bist schlecht in der Kommunikation",
+    "premium": "false",
+    "positive": true,
+    "id": 6995
+  },
+  {
+    "preset_id": 1000,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "És mau a comunicar",
+    "premium": "false",
+    "positive": true,
+    "id": 6996
+  },
+  {
+    "preset_id": 1000,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Jesteś słaby w komunikacji",
+    "premium": "false",
+    "positive": true,
+    "id": 6997
+  },
+  {
+    "preset_id": 1000,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты плох в коммуникации",
+    "premium": "false",
+    "positive": true,
+    "id": 6998
+  },
+  {
+    "preset_id": 1000,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你不擅长沟通",
+    "premium": "false",
+    "positive": true,
+    "id": 6999
+  }
+]

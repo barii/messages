@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1450,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Check the table.",
+    "premium": "false",
+    "positive": true,
+    "id": 10143
+  },
+  {
+    "preset_id": 1450,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Mira la clasificación.",
+    "premium": "false",
+    "positive": true,
+    "id": 10144
+  },
+  {
+    "preset_id": 1450,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Checkt die Tabelle.",
+    "premium": "false",
+    "positive": true,
+    "id": 10145
+  },
+  {
+    "preset_id": 1450,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Vejam a tabela.",
+    "premium": "false",
+    "positive": true,
+    "id": 10146
+  },
+  {
+    "preset_id": 1450,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Sprawdź tabelę.",
+    "premium": "false",
+    "positive": true,
+    "id": 10147
+  },
+  {
+    "preset_id": 1450,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Проверь таблицу.",
+    "premium": "false",
+    "positive": true,
+    "id": 10148
+  },
+  {
+    "preset_id": 1450,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "查查积分榜。",
+    "premium": "false",
+    "positive": true,
+    "id": 10149
+  }
+]

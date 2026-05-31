@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 990,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You always have to be right",
+    "premium": "false",
+    "positive": true,
+    "id": 6923
+  },
+  {
+    "preset_id": 990,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Siempre tienes que tener la razón",
+    "premium": "false",
+    "positive": true,
+    "id": 6924
+  },
+  {
+    "preset_id": 990,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du musst immer recht haben",
+    "premium": "false",
+    "positive": true,
+    "id": 6925
+  },
+  {
+    "preset_id": 990,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Tens sempre de ter razão",
+    "premium": "false",
+    "positive": true,
+    "id": 6926
+  },
+  {
+    "preset_id": 990,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Zawsze musisz mieć rację",
+    "premium": "false",
+    "positive": true,
+    "id": 6927
+  },
+  {
+    "preset_id": 990,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты всегда должен быть прав",
+    "premium": "false",
+    "positive": true,
+    "id": 6928
+  },
+  {
+    "preset_id": 990,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你总是必须正确",
+    "premium": "false",
+    "positive": true,
+    "id": 6929
+  }
+]

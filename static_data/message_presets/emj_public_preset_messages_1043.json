@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1043,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Why was that meeting two hours?",
+    "premium": "false",
+    "positive": true,
+    "id": 7294
+  },
+  {
+    "preset_id": 1043,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "¿Por qué duró dos horas esa reunión?",
+    "premium": "false",
+    "positive": true,
+    "id": 7295
+  },
+  {
+    "preset_id": 1043,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Warum hat dieses Meeting zwei Stunden gedauert?",
+    "premium": "false",
+    "positive": true,
+    "id": 7296
+  },
+  {
+    "preset_id": 1043,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Porque é que aquela reunião durou duas horas?",
+    "premium": "false",
+    "positive": true,
+    "id": 7297
+  },
+  {
+    "preset_id": 1043,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Dlaczego to spotkanie trwało dwie godziny?",
+    "premium": "false",
+    "positive": true,
+    "id": 7298
+  },
+  {
+    "preset_id": 1043,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Почему эта встреча длилась два часа?",
+    "premium": "false",
+    "positive": true,
+    "id": 7299
+  },
+  {
+    "preset_id": 1043,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "为什么那个会议持续了两个小时?",
+    "premium": "false",
+    "positive": true,
+    "id": 7300
+  }
+]

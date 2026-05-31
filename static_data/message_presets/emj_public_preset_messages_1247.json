@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1247,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "That was a spectacular display of failure.",
+    "premium": "false",
+    "positive": true,
+    "id": 8722
+  },
+  {
+    "preset_id": 1247,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Eso fue un espectacular despliegue de fracaso.",
+    "premium": "false",
+    "positive": true,
+    "id": 8723
+  },
+  {
+    "preset_id": 1247,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Das war eine spektakuläre Vorstellung des Versagens.",
+    "premium": "false",
+    "positive": true,
+    "id": 8724
+  },
+  {
+    "preset_id": 1247,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Foi um espectacular espectáculo de fracasso.",
+    "premium": "false",
+    "positive": true,
+    "id": 8725
+  },
+  {
+    "preset_id": 1247,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "To był spektakularny pokaz porażki.",
+    "premium": "false",
+    "positive": true,
+    "id": 8726
+  },
+  {
+    "preset_id": 1247,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Это был зрелищный показ провала.",
+    "premium": "false",
+    "positive": true,
+    "id": 8727
+  },
+  {
+    "preset_id": 1247,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "那真是一场精彩的失败秀。",
+    "premium": "false",
+    "positive": true,
+    "id": 8728
+  }
+]

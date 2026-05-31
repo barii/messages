@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1482,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "No competition.",
+    "premium": "false",
+    "positive": true,
+    "id": 10367
+  },
+  {
+    "preset_id": 1482,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Sin competencia.",
+    "premium": "false",
+    "positive": true,
+    "id": 10368
+  },
+  {
+    "preset_id": 1482,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Kein Wettbewerb.",
+    "premium": "false",
+    "positive": true,
+    "id": 10369
+  },
+  {
+    "preset_id": 1482,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Sem competição.",
+    "premium": "false",
+    "positive": true,
+    "id": 10370
+  },
+  {
+    "preset_id": 1482,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Bez konkurencji.",
+    "premium": "false",
+    "positive": true,
+    "id": 10371
+  },
+  {
+    "preset_id": 1482,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Никакой конкуренции.",
+    "premium": "false",
+    "positive": true,
+    "id": 10372
+  },
+  {
+    "preset_id": 1482,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "毫无对手。",
+    "premium": "false",
+    "positive": true,
+    "id": 10373
+  }
+]

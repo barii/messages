@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 257,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "I'm family",
+    "premium": "false",
+    "positive": true,
+    "id": 1792
+  },
+  {
+    "preset_id": 257,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Soy familia",
+    "premium": "false",
+    "positive": true,
+    "id": 1793
+  },
+  {
+    "preset_id": 257,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Ich bin Familie",
+    "premium": "false",
+    "positive": true,
+    "id": 1794
+  },
+  {
+    "preset_id": 257,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Sou família",
+    "premium": "false",
+    "positive": true,
+    "id": 1795
+  },
+  {
+    "preset_id": 257,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Jestem rodziną",
+    "premium": "false",
+    "positive": true,
+    "id": 1796
+  },
+  {
+    "preset_id": 257,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Я семья",
+    "premium": "false",
+    "positive": true,
+    "id": 1797
+  },
+  {
+    "preset_id": 257,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我是家人",
+    "premium": "false",
+    "positive": true,
+    "id": 1798
+  }
+]

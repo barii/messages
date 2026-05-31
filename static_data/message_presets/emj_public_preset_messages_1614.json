@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1614,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Go outside.",
+    "premium": "false",
+    "positive": true,
+    "id": 11291
+  },
+  {
+    "preset_id": 1614,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Salid a la calle.",
+    "premium": "false",
+    "positive": true,
+    "id": 11292
+  },
+  {
+    "preset_id": 1614,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Geht raus.",
+    "premium": "false",
+    "positive": true,
+    "id": 11293
+  },
+  {
+    "preset_id": 1614,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Saiam à rua.",
+    "premium": "false",
+    "positive": true,
+    "id": 11294
+  },
+  {
+    "preset_id": 1614,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Wyjdźcie na zewnątrz.",
+    "premium": "false",
+    "positive": true,
+    "id": 11295
+  },
+  {
+    "preset_id": 1614,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Выйдите на улицу.",
+    "premium": "false",
+    "positive": true,
+    "id": 11296
+  },
+  {
+    "preset_id": 1614,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "出门走走吧。",
+    "premium": "false",
+    "positive": true,
+    "id": 11297
+  }
+]

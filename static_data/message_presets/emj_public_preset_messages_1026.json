@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1026,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Your presentation was incredible",
+    "premium": "false",
+    "positive": true,
+    "id": 7175
+  },
+  {
+    "preset_id": 1026,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Tu presentación fue increíble",
+    "premium": "false",
+    "positive": true,
+    "id": 7176
+  },
+  {
+    "preset_id": 1026,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Deine Präsentation war unglaublich",
+    "premium": "false",
+    "positive": true,
+    "id": 7177
+  },
+  {
+    "preset_id": 1026,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "A tua apresentação foi incrível",
+    "premium": "false",
+    "positive": true,
+    "id": 7178
+  },
+  {
+    "preset_id": 1026,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Twoja prezentacja była niesamowita",
+    "premium": "false",
+    "positive": true,
+    "id": 7179
+  },
+  {
+    "preset_id": 1026,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Твоя презентация была невероятной",
+    "premium": "false",
+    "positive": true,
+    "id": 7180
+  },
+  {
+    "preset_id": 1026,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "你的演讲太棒了",
+    "premium": "false",
+    "positive": true,
+    "id": 7181
+  }
+]

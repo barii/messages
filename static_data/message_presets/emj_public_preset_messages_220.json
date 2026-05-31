@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 220,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Why have you been distant?",
+    "premium": "false",
+    "positive": true,
+    "id": 1533
+  },
+  {
+    "preset_id": 220,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Por qué has estado distante?",
+    "premium": "false",
+    "positive": true,
+    "id": 1534
+  },
+  {
+    "preset_id": 220,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Warum bist du so distanziert?",
+    "premium": "false",
+    "positive": true,
+    "id": 1535
+  },
+  {
+    "preset_id": 220,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Porque tens estado distante?",
+    "premium": "false",
+    "positive": true,
+    "id": 1536
+  },
+  {
+    "preset_id": 220,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Dlaczego jesteś taki odległy?",
+    "premium": "false",
+    "positive": true,
+    "id": 1537
+  },
+  {
+    "preset_id": 220,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Почему ты так отдалился?",
+    "premium": "false",
+    "positive": true,
+    "id": 1538
+  },
+  {
+    "preset_id": 220,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你为什么变得疏远?",
+    "premium": "false",
+    "positive": true,
+    "id": 1539
+  }
+]

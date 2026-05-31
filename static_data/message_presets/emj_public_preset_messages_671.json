@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 671,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Live your life",
+    "premium": "false",
+    "positive": true,
+    "id": 4690
+  },
+  {
+    "preset_id": 671,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Vive tu vida",
+    "premium": "false",
+    "positive": true,
+    "id": 4691
+  },
+  {
+    "preset_id": 671,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Lebe dein Leben",
+    "premium": "false",
+    "positive": true,
+    "id": 4692
+  },
+  {
+    "preset_id": 671,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Vive a tua vida",
+    "premium": "false",
+    "positive": true,
+    "id": 4693
+  },
+  {
+    "preset_id": 671,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Żyj swoim życiem",
+    "premium": "false",
+    "positive": true,
+    "id": 4694
+  },
+  {
+    "preset_id": 671,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Живи своей жизнью",
+    "premium": "false",
+    "positive": true,
+    "id": 4695
+  },
+  {
+    "preset_id": 671,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "过你的生活",
+    "premium": "false",
+    "positive": true,
+    "id": 4696
+  }
+]

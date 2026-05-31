@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 124,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you tired?",
+    "premium": "false",
+    "positive": true,
+    "id": 861
+  },
+  {
+    "preset_id": 124,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Estás cansado?",
+    "premium": "false",
+    "positive": true,
+    "id": 862
+  },
+  {
+    "preset_id": 124,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du müde?",
+    "premium": "false",
+    "positive": true,
+    "id": 863
+  },
+  {
+    "preset_id": 124,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás cansado?",
+    "premium": "false",
+    "positive": true,
+    "id": 864
+  },
+  {
+    "preset_id": 124,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jesteś zmęczony?",
+    "premium": "false",
+    "positive": true,
+    "id": 865
+  },
+  {
+    "preset_id": 124,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты устал?",
+    "premium": "false",
+    "positive": true,
+    "id": 866
+  },
+  {
+    "preset_id": 124,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你累吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 867
+  }
+]

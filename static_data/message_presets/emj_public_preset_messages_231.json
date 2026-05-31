@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 231,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "Hot",
+    "premium": "false",
+    "positive": true,
+    "id": 1610
+  },
+  {
+    "preset_id": 231,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Caliente",
+    "premium": "false",
+    "positive": true,
+    "id": 1611
+  },
+  {
+    "preset_id": 231,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Heiß",
+    "premium": "false",
+    "positive": true,
+    "id": 1612
+  },
+  {
+    "preset_id": 231,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Quente",
+    "premium": "false",
+    "positive": true,
+    "id": 1613
+  },
+  {
+    "preset_id": 231,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Gorąco",
+    "premium": "false",
+    "positive": true,
+    "id": 1614
+  },
+  {
+    "preset_id": 231,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Горячо",
+    "premium": "false",
+    "positive": true,
+    "id": 1615
+  },
+  {
+    "preset_id": 231,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "热",
+    "premium": "false",
+    "positive": true,
+    "id": 1616
+  }
+]

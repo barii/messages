@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1420,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Perfect baseball.",
+    "premium": "true",
+    "positive": true,
+    "id": 9933
+  },
+  {
+    "preset_id": 1420,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Perfect baseball.",
+    "premium": "true",
+    "positive": true,
+    "id": 9934
+  },
+  {
+    "preset_id": 1420,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Perfect baseball.",
+    "premium": "true",
+    "positive": true,
+    "id": 9935
+  },
+  {
+    "preset_id": 1420,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Perfect baseball.",
+    "premium": "true",
+    "positive": true,
+    "id": 9936
+  },
+  {
+    "preset_id": 1420,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Perfect baseball.",
+    "premium": "true",
+    "positive": true,
+    "id": 9937
+  },
+  {
+    "preset_id": 1420,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Perfect baseball.",
+    "premium": "true",
+    "positive": true,
+    "id": 9938
+  },
+  {
+    "preset_id": 1420,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "Perfect baseball.",
+    "premium": "true",
+    "positive": true,
+    "id": 9939
+  }
+]

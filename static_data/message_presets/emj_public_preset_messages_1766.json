@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1766,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "All hype, no substance!",
+    "premium": "false",
+    "positive": true,
+    "id": 12355
+  },
+  {
+    "preset_id": 1766,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "All hype, no substance!",
+    "premium": "false",
+    "positive": true,
+    "id": 12356
+  },
+  {
+    "preset_id": 1766,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "All hype, no substance!",
+    "premium": "false",
+    "positive": true,
+    "id": 12357
+  },
+  {
+    "preset_id": 1766,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "All hype, no substance!",
+    "premium": "false",
+    "positive": true,
+    "id": 12358
+  },
+  {
+    "preset_id": 1766,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "All hype, no substance!",
+    "premium": "false",
+    "positive": true,
+    "id": 12359
+  },
+  {
+    "preset_id": 1766,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "All hype, no substance!",
+    "premium": "false",
+    "positive": true,
+    "id": 12360
+  },
+  {
+    "preset_id": 1766,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "All hype, no substance!",
+    "premium": "false",
+    "positive": true,
+    "id": 12361
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1644,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Sacked in the morning.",
+    "premium": "true",
+    "positive": true,
+    "id": 11501
+  },
+  {
+    "preset_id": 1644,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Despedido por la mañana.",
+    "premium": "true",
+    "positive": true,
+    "id": 11502
+  },
+  {
+    "preset_id": 1644,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Morgen entlassen.",
+    "premium": "true",
+    "positive": true,
+    "id": 11503
+  },
+  {
+    "preset_id": 1644,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Despedido de manhã.",
+    "premium": "true",
+    "positive": true,
+    "id": 11504
+  },
+  {
+    "preset_id": 1644,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Zwolniony rano.",
+    "premium": "true",
+    "positive": true,
+    "id": 11505
+  },
+  {
+    "preset_id": 1644,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Уволен утром.",
+    "premium": "true",
+    "positive": true,
+    "id": 11506
+  },
+  {
+    "preset_id": 1644,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "明早就被解雇。",
+    "premium": "true",
+    "positive": true,
+    "id": 11507
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 561,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "We move",
+    "premium": "false",
+    "positive": true,
+    "id": 3920
+  },
+  {
+    "preset_id": 561,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Seguimos",
+    "premium": "false",
+    "positive": true,
+    "id": 3921
+  },
+  {
+    "preset_id": 561,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Wir machen weiter",
+    "premium": "false",
+    "positive": true,
+    "id": 3922
+  },
+  {
+    "preset_id": 561,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Seguimos em frente",
+    "premium": "false",
+    "positive": true,
+    "id": 3923
+  },
+  {
+    "preset_id": 561,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Idziemy dalej",
+    "premium": "false",
+    "positive": true,
+    "id": 3924
+  },
+  {
+    "preset_id": 561,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Идём дальше",
+    "premium": "false",
+    "positive": true,
+    "id": 3925
+  },
+  {
+    "preset_id": 561,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我们继续",
+    "premium": "false",
+    "positive": true,
+    "id": 3926
+  }
+]

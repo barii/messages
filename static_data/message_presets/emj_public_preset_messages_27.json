@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 27,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You have the best laugh",
+    "premium": "true",
+    "positive": true,
+    "id": 182
+  },
+  {
+    "preset_id": 27,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Tienes la mejor risa",
+    "premium": "true",
+    "positive": true,
+    "id": 183
+  },
+  {
+    "preset_id": 27,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du hast das beste Lachen",
+    "premium": "true",
+    "positive": true,
+    "id": 184
+  },
+  {
+    "preset_id": 27,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Tens o melhor riso",
+    "premium": "true",
+    "positive": true,
+    "id": 185
+  },
+  {
+    "preset_id": 27,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Masz najlepszy śmiech",
+    "premium": "true",
+    "positive": true,
+    "id": 186
+  },
+  {
+    "preset_id": 27,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "У тебя лучший смех",
+    "premium": "true",
+    "positive": true,
+    "id": 187
+  },
+  {
+    "preset_id": 27,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你的笑声最好听",
+    "premium": "true",
+    "positive": true,
+    "id": 188
+  }
+]

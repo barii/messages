@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 717,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "It's fine, really",
+    "premium": "false",
+    "positive": true,
+    "id": 5012
+  },
+  {
+    "preset_id": 717,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "No pasa nada, en serio",
+    "premium": "false",
+    "positive": true,
+    "id": 5013
+  },
+  {
+    "preset_id": 717,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Es ist okay, wirklich",
+    "premium": "false",
+    "positive": true,
+    "id": 5014
+  },
+  {
+    "preset_id": 717,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Está tudo bem, a sério",
+    "premium": "false",
+    "positive": true,
+    "id": 5015
+  },
+  {
+    "preset_id": 717,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Naprawdę nic się nie stało",
+    "premium": "false",
+    "positive": true,
+    "id": 5016
+  },
+  {
+    "preset_id": 717,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Всё нормально, правда",
+    "premium": "false",
+    "positive": true,
+    "id": 5017
+  },
+  {
+    "preset_id": 717,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "真的没事",
+    "premium": "false",
+    "positive": true,
+    "id": 5018
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 992,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You make the same mistakes over and over",
+    "premium": "false",
+    "positive": false,
+    "id": 6937
+  },
+  {
+    "preset_id": 992,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Cometes los mismos errores una y otra vez",
+    "premium": "false",
+    "positive": false,
+    "id": 6938
+  },
+  {
+    "preset_id": 992,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du machst die gleichen Fehler immer wieder",
+    "premium": "false",
+    "positive": false,
+    "id": 6939
+  },
+  {
+    "preset_id": 992,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Cometes os mesmos erros vezes sem conta",
+    "premium": "false",
+    "positive": false,
+    "id": 6940
+  },
+  {
+    "preset_id": 992,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Popełniasz te same błędy w kółko",
+    "premium": "false",
+    "positive": false,
+    "id": 6941
+  },
+  {
+    "preset_id": 992,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты совершаешь одни и те же ошибки снова и снова",
+    "premium": "false",
+    "positive": false,
+    "id": 6942
+  },
+  {
+    "preset_id": 992,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你一遍又一遍地犯同样的错误",
+    "premium": "false",
+    "positive": false,
+    "id": 6943
+  }
+]

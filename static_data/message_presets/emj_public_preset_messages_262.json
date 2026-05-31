@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 262,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We hooked up once",
+    "premium": "true",
+    "positive": true,
+    "id": 1827
+  },
+  {
+    "preset_id": 262,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Nos liamos una vez",
+    "premium": "true",
+    "positive": true,
+    "id": 1828
+  },
+  {
+    "preset_id": 262,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir haben uns mal angemacht",
+    "premium": "true",
+    "positive": true,
+    "id": 1829
+  },
+  {
+    "preset_id": 262,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Curtimos uma vez",
+    "premium": "true",
+    "positive": true,
+    "id": 1830
+  },
+  {
+    "preset_id": 262,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Raz się zhakowaliśmy",
+    "premium": "true",
+    "positive": true,
+    "id": 1831
+  },
+  {
+    "preset_id": 262,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "У нас была интрижка однажды",
+    "premium": "true",
+    "positive": true,
+    "id": 1832
+  },
+  {
+    "preset_id": 262,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们有过一次",
+    "premium": "true",
+    "positive": true,
+    "id": 1833
+  }
+]

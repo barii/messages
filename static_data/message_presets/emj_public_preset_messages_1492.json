@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1492,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Best fans in the country.",
+    "premium": "false",
+    "positive": true,
+    "id": 10437
+  },
+  {
+    "preset_id": 1492,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Los mejores aficionados del país.",
+    "premium": "false",
+    "positive": true,
+    "id": 10438
+  },
+  {
+    "preset_id": 1492,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Beste Fans des Landes.",
+    "premium": "false",
+    "positive": true,
+    "id": 10439
+  },
+  {
+    "preset_id": 1492,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Os melhores adeptos do país.",
+    "premium": "false",
+    "positive": true,
+    "id": 10440
+  },
+  {
+    "preset_id": 1492,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Najlepsi kibice w kraju.",
+    "premium": "false",
+    "positive": true,
+    "id": 10441
+  },
+  {
+    "preset_id": 1492,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Лучшие фанаты в стране.",
+    "premium": "false",
+    "positive": true,
+    "id": 10442
+  },
+  {
+    "preset_id": 1492,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "全国最棒的球迷。",
+    "premium": "false",
+    "positive": true,
+    "id": 10443
+  }
+]

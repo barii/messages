@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 77,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "Cringe",
+    "premium": "false",
+    "positive": false,
+    "id": 532
+  },
+  {
+    "preset_id": 77,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Cringe",
+    "premium": "false",
+    "positive": false,
+    "id": 533
+  },
+  {
+    "preset_id": 77,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Cringe",
+    "premium": "false",
+    "positive": false,
+    "id": 534
+  },
+  {
+    "preset_id": 77,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Cringe",
+    "premium": "false",
+    "positive": false,
+    "id": 535
+  },
+  {
+    "preset_id": 77,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Cringe",
+    "premium": "false",
+    "positive": false,
+    "id": 536
+  },
+  {
+    "preset_id": 77,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Кринж",
+    "premium": "false",
+    "positive": false,
+    "id": 537
+  },
+  {
+    "preset_id": 77,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "尴尬",
+    "premium": "false",
+    "positive": false,
+    "id": 538
+  }
+]

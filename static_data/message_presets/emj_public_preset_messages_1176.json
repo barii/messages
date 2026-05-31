@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1176,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Eid Mubarak",
+    "premium": "false",
+    "positive": true,
+    "id": 8225
+  },
+  {
+    "preset_id": 1176,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Eid Mubarak",
+    "premium": "false",
+    "positive": true,
+    "id": 8226
+  },
+  {
+    "preset_id": 1176,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Eid Mubarak",
+    "premium": "false",
+    "positive": true,
+    "id": 8227
+  },
+  {
+    "preset_id": 1176,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Eid Mubarak",
+    "premium": "false",
+    "positive": true,
+    "id": 8228
+  },
+  {
+    "preset_id": 1176,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Eid Mubarak",
+    "premium": "false",
+    "positive": true,
+    "id": 8229
+  },
+  {
+    "preset_id": 1176,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "Ид Мубарак",
+    "premium": "false",
+    "positive": true,
+    "id": 8230
+  },
+  {
+    "preset_id": 1176,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "开斋节快乐",
+    "premium": "false",
+    "positive": true,
+    "id": 8231
+  }
+]

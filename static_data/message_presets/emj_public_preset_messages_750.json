@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 750,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Periodt",
+    "premium": "false",
+    "positive": true,
+    "id": 5243
+  },
+  {
+    "preset_id": 750,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Periodt",
+    "premium": "false",
+    "positive": true,
+    "id": 5244
+  },
+  {
+    "preset_id": 750,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Periodt",
+    "premium": "false",
+    "positive": true,
+    "id": 5245
+  },
+  {
+    "preset_id": 750,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Periodt",
+    "premium": "false",
+    "positive": true,
+    "id": 5246
+  },
+  {
+    "preset_id": 750,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Periodt",
+    "premium": "false",
+    "positive": true,
+    "id": 5247
+  },
+  {
+    "preset_id": 750,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Periodt",
+    "premium": "false",
+    "positive": true,
+    "id": 5248
+  },
+  {
+    "preset_id": 750,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "Periodt",
+    "premium": "false",
+    "positive": true,
+    "id": 5249
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 478,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "No way",
+    "premium": "false",
+    "positive": true,
+    "id": 3339
+  },
+  {
+    "preset_id": 478,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Ni de broma",
+    "premium": "false",
+    "positive": true,
+    "id": 3340
+  },
+  {
+    "preset_id": 478,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Auf keinen Fall",
+    "premium": "false",
+    "positive": true,
+    "id": 3341
+  },
+  {
+    "preset_id": 478,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "De maneira nenhuma",
+    "premium": "false",
+    "positive": true,
+    "id": 3342
+  },
+  {
+    "preset_id": 478,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Nie ma mowy",
+    "premium": "false",
+    "positive": true,
+    "id": 3343
+  },
+  {
+    "preset_id": 478,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Ни за что",
+    "premium": "false",
+    "positive": true,
+    "id": 3344
+  },
+  {
+    "preset_id": 478,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "不可能",
+    "premium": "false",
+    "positive": true,
+    "id": 3345
+  }
+]

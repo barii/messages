@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 528,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I'll tell you later",
+    "premium": "false",
+    "positive": true,
+    "id": 3689
+  },
+  {
+    "preset_id": 528,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Te cuento luego",
+    "premium": "false",
+    "positive": true,
+    "id": 3690
+  },
+  {
+    "preset_id": 528,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Erzähle ich dir später",
+    "premium": "false",
+    "positive": true,
+    "id": 3691
+  },
+  {
+    "preset_id": 528,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Conto-te depois",
+    "premium": "false",
+    "positive": true,
+    "id": 3692
+  },
+  {
+    "preset_id": 528,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Powiem ci później",
+    "premium": "false",
+    "positive": true,
+    "id": 3693
+  },
+  {
+    "preset_id": 528,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Скажу позже",
+    "premium": "false",
+    "positive": true,
+    "id": 3694
+  },
+  {
+    "preset_id": 528,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "晚点告诉你",
+    "premium": "false",
+    "positive": true,
+    "id": 3695
+  }
+]

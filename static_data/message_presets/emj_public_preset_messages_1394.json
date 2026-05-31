@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1394,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Stay humble, you haven't won anything.",
+    "premium": "true",
+    "positive": true,
+    "id": 9751
+  },
+  {
+    "preset_id": 1394,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Sed humildes, no habéis ganado nada.",
+    "premium": "true",
+    "positive": true,
+    "id": 9752
+  },
+  {
+    "preset_id": 1394,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Bleibt bescheiden, ihr habt nichts gewonnen.",
+    "premium": "true",
+    "positive": true,
+    "id": 9753
+  },
+  {
+    "preset_id": 1394,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Tenham humildade, não ganharam nada.",
+    "premium": "true",
+    "positive": true,
+    "id": 9754
+  },
+  {
+    "preset_id": 1394,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Bądźcie pokorni, nic nie wygraliście.",
+    "premium": "true",
+    "positive": true,
+    "id": 9755
+  },
+  {
+    "preset_id": 1394,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Будьте скромнее, вы ничего не выиграли.",
+    "premium": "true",
+    "positive": true,
+    "id": 9756
+  },
+  {
+    "preset_id": 1394,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "谦虚点,你们什么都没赢过。",
+    "premium": "true",
+    "positive": true,
+    "id": 9757
+  }
+]

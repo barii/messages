@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1621,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Have a day off.",
+    "premium": "false",
+    "positive": true,
+    "id": 11340
+  },
+  {
+    "preset_id": 1621,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Tomaos un día libre.",
+    "premium": "false",
+    "positive": true,
+    "id": 11341
+  },
+  {
+    "preset_id": 1621,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Nehmt euch einen Tag frei.",
+    "premium": "false",
+    "positive": true,
+    "id": 11342
+  },
+  {
+    "preset_id": 1621,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Tirem um dia de folga.",
+    "premium": "false",
+    "positive": true,
+    "id": 11343
+  },
+  {
+    "preset_id": 1621,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Weźcie dzień wolny.",
+    "premium": "false",
+    "positive": true,
+    "id": 11344
+  },
+  {
+    "preset_id": 1621,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Возьмите выходной.",
+    "premium": "false",
+    "positive": true,
+    "id": 11345
+  },
+  {
+    "preset_id": 1621,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "歇一天吧。",
+    "premium": "false",
+    "positive": true,
+    "id": 11346
+  }
+]

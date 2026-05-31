@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 938,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Give people the benefit of the doubt",
+    "premium": "false",
+    "positive": true,
+    "id": 6559
+  },
+  {
+    "preset_id": 938,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Dales el beneficio de la duda",
+    "premium": "false",
+    "positive": true,
+    "id": 6560
+  },
+  {
+    "preset_id": 938,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Gib Menschen den Vorteil des Zweifels",
+    "premium": "false",
+    "positive": true,
+    "id": 6561
+  },
+  {
+    "preset_id": 938,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Dá às pessoas o benefício da dúvida",
+    "premium": "false",
+    "positive": true,
+    "id": 6562
+  },
+  {
+    "preset_id": 938,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Daj ludziom kredyt zaufania",
+    "premium": "false",
+    "positive": true,
+    "id": 6563
+  },
+  {
+    "preset_id": 938,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Дай людям презумпцию невиновности",
+    "premium": "false",
+    "positive": true,
+    "id": 6564
+  },
+  {
+    "preset_id": 938,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "给人们怀疑的权利",
+    "premium": "false",
+    "positive": true,
+    "id": 6565
+  }
+]

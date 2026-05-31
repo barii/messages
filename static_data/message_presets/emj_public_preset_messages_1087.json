@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1087,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "You're not alone in that",
+    "premium": "false",
+    "positive": true,
+    "id": 7602
+  },
+  {
+    "preset_id": 1087,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "No estás solo en eso",
+    "premium": "false",
+    "positive": true,
+    "id": 7603
+  },
+  {
+    "preset_id": 1087,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Du bist damit nicht allein",
+    "premium": "false",
+    "positive": true,
+    "id": 7604
+  },
+  {
+    "preset_id": 1087,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Não estás sozinho nisso",
+    "premium": "false",
+    "positive": true,
+    "id": 7605
+  },
+  {
+    "preset_id": 1087,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Nie jesteś sam w tym",
+    "premium": "false",
+    "positive": true,
+    "id": 7606
+  },
+  {
+    "preset_id": 1087,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Ты в этом не один",
+    "premium": "false",
+    "positive": true,
+    "id": 7607
+  },
+  {
+    "preset_id": 1087,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "你不是一个人在这种感觉",
+    "premium": "false",
+    "positive": true,
+    "id": 7608
+  }
+]

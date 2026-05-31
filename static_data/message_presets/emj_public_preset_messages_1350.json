@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1350,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Your manager's lost the dressing room.",
+    "premium": "true",
+    "positive": true,
+    "id": 9443
+  },
+  {
+    "preset_id": 1350,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Vuestro entrenador ha perdido el vestuario.",
+    "premium": "true",
+    "positive": true,
+    "id": 9444
+  },
+  {
+    "preset_id": 1350,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Euer Trainer hat die Kabine verloren.",
+    "premium": "true",
+    "positive": true,
+    "id": 9445
+  },
+  {
+    "preset_id": 1350,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "O vosso treinador perdeu o balneário.",
+    "premium": "true",
+    "positive": true,
+    "id": 9446
+  },
+  {
+    "preset_id": 1350,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Wasz trener stracił szatnię.",
+    "premium": "true",
+    "positive": true,
+    "id": 9447
+  },
+  {
+    "preset_id": 1350,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Ваш тренер потерял раздевалку.",
+    "premium": "true",
+    "positive": true,
+    "id": 9448
+  },
+  {
+    "preset_id": 1350,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们教练失去了更衣室。",
+    "premium": "true",
+    "positive": true,
+    "id": 9449
+  }
+]

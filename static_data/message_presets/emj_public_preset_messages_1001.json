@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1001,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You go quiet when things get hard",
+    "premium": "false",
+    "positive": true,
+    "id": 7000
+  },
+  {
+    "preset_id": 1001,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Te quedas callado cuando las cosas se ponen difíciles",
+    "premium": "false",
+    "positive": true,
+    "id": 7001
+  },
+  {
+    "preset_id": 1001,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du wirst still, wenn Dinge schwierig werden",
+    "premium": "false",
+    "positive": true,
+    "id": 7002
+  },
+  {
+    "preset_id": 1001,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Ficas calado quando as coisas ficam difíceis",
+    "premium": "false",
+    "positive": true,
+    "id": 7003
+  },
+  {
+    "preset_id": 1001,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Milczysz, gdy sprawy stają się trudne",
+    "premium": "false",
+    "positive": true,
+    "id": 7004
+  },
+  {
+    "preset_id": 1001,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты замыкаешься, когда становится трудно",
+    "premium": "false",
+    "positive": true,
+    "id": 7005
+  },
+  {
+    "preset_id": 1001,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "事情艰难时你会沉默",
+    "premium": "false",
+    "positive": true,
+    "id": 7006
+  }
+]

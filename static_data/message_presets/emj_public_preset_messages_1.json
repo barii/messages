@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're an amazing person",
+    "premium": "false",
+    "positive": true,
+    "id": 0
+  },
+  {
+    "preset_id": 1,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres una persona increíble",
+    "premium": "false",
+    "positive": true,
+    "id": 1
+  },
+  {
+    "preset_id": 1,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist ein toller Mensch",
+    "premium": "false",
+    "positive": true,
+    "id": 2
+  },
+  {
+    "preset_id": 1,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És uma pessoa incrível",
+    "premium": "false",
+    "positive": true,
+    "id": 3
+  },
+  {
+    "preset_id": 1,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś niesamowitą osobą",
+    "premium": "false",
+    "positive": true,
+    "id": 4
+  },
+  {
+    "preset_id": 1,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты потрясающий человек",
+    "premium": "false",
+    "positive": true,
+    "id": 5
+  },
+  {
+    "preset_id": 1,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你是个很棒的人",
+    "premium": "false",
+    "positive": true,
+    "id": 6
+  }
+]

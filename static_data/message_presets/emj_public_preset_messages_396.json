@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 396,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm a dog person",
+    "premium": "false",
+    "positive": true,
+    "id": 2765
+  },
+  {
+    "preset_id": 396,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Soy más de perros",
+    "premium": "false",
+    "positive": true,
+    "id": 2766
+  },
+  {
+    "preset_id": 396,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin ein Hundemensch",
+    "premium": "false",
+    "positive": true,
+    "id": 2767
+  },
+  {
+    "preset_id": 396,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Sou pessoa de cão",
+    "premium": "false",
+    "positive": true,
+    "id": 2768
+  },
+  {
+    "preset_id": 396,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem osobą od psów",
+    "premium": "false",
+    "positive": true,
+    "id": 2769
+  },
+  {
+    "preset_id": 396,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я люблю собак",
+    "premium": "false",
+    "positive": true,
+    "id": 2770
+  },
+  {
+    "preset_id": 396,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我是狗派",
+    "premium": "false",
+    "positive": true,
+    "id": 2771
+  }
+]

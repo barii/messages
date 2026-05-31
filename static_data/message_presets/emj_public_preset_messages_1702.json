@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1702,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Hey pitcher, how's your ERA?",
+    "premium": "false",
+    "positive": true,
+    "id": 11907
+  },
+  {
+    "preset_id": 1702,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Hey pitcher, how's your ERA?",
+    "premium": "false",
+    "positive": true,
+    "id": 11908
+  },
+  {
+    "preset_id": 1702,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Hey pitcher, how's your ERA?",
+    "premium": "false",
+    "positive": true,
+    "id": 11909
+  },
+  {
+    "preset_id": 1702,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Hey pitcher, how's your ERA?",
+    "premium": "false",
+    "positive": true,
+    "id": 11910
+  },
+  {
+    "preset_id": 1702,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Hey pitcher, how's your ERA?",
+    "premium": "false",
+    "positive": true,
+    "id": 11911
+  },
+  {
+    "preset_id": 1702,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Hey pitcher, how's your ERA?",
+    "premium": "false",
+    "positive": true,
+    "id": 11912
+  },
+  {
+    "preset_id": 1702,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Hey pitcher, how's your ERA?",
+    "premium": "false",
+    "positive": true,
+    "id": 11913
+  }
+]

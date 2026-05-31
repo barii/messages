@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 586,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Cold",
+    "premium": "false",
+    "positive": true,
+    "id": 4095
+  },
+  {
+    "preset_id": 586,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Frío",
+    "premium": "false",
+    "positive": true,
+    "id": 4096
+  },
+  {
+    "preset_id": 586,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Kalt",
+    "premium": "false",
+    "positive": true,
+    "id": 4097
+  },
+  {
+    "preset_id": 586,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Frio",
+    "premium": "false",
+    "positive": true,
+    "id": 4098
+  },
+  {
+    "preset_id": 586,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Zimno",
+    "premium": "false",
+    "positive": true,
+    "id": 4099
+  },
+  {
+    "preset_id": 586,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Холодно",
+    "premium": "false",
+    "positive": true,
+    "id": 4100
+  },
+  {
+    "preset_id": 586,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "冷",
+    "premium": "false",
+    "positive": true,
+    "id": 4101
+  }
+]

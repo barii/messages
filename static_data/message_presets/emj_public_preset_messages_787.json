@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 787,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Totally agree",
+    "premium": "false",
+    "positive": true,
+    "id": 5502
+  },
+  {
+    "preset_id": 787,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Estoy totalmente de acuerdo",
+    "premium": "false",
+    "positive": true,
+    "id": 5503
+  },
+  {
+    "preset_id": 787,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Stimme komplett zu",
+    "premium": "false",
+    "positive": true,
+    "id": 5504
+  },
+  {
+    "preset_id": 787,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Concordo plenamente",
+    "premium": "false",
+    "positive": true,
+    "id": 5505
+  },
+  {
+    "preset_id": 787,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Całkowicie zgadzam",
+    "premium": "false",
+    "positive": true,
+    "id": 5506
+  },
+  {
+    "preset_id": 787,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Целиком согласен",
+    "premium": "false",
+    "positive": true,
+    "id": 5507
+  },
+  {
+    "preset_id": 787,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "完全同意",
+    "premium": "false",
+    "positive": true,
+    "id": 5508
+  }
+]

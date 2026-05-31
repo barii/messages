@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 667,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Whatever",
+    "premium": "false",
+    "positive": true,
+    "id": 4662
+  },
+  {
+    "preset_id": 667,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Lo que sea",
+    "premium": "false",
+    "positive": true,
+    "id": 4663
+  },
+  {
+    "preset_id": 667,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Was auch immer",
+    "premium": "false",
+    "positive": true,
+    "id": 4664
+  },
+  {
+    "preset_id": 667,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Tanto faz",
+    "premium": "false",
+    "positive": true,
+    "id": 4665
+  },
+  {
+    "preset_id": 667,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Wszystko jedno",
+    "premium": "false",
+    "positive": true,
+    "id": 4666
+  },
+  {
+    "preset_id": 667,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Как угодно",
+    "premium": "false",
+    "positive": true,
+    "id": 4667
+  },
+  {
+    "preset_id": 667,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "随便",
+    "premium": "false",
+    "positive": true,
+    "id": 4668
+  }
+]

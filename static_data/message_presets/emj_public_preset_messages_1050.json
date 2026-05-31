@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1050,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Wrap it up please",
+    "premium": "false",
+    "positive": true,
+    "id": 7343
+  },
+  {
+    "preset_id": 1050,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Termina ya, por favor",
+    "premium": "false",
+    "positive": true,
+    "id": 7344
+  },
+  {
+    "preset_id": 1050,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Mach Schluss bitte",
+    "premium": "false",
+    "positive": true,
+    "id": 7345
+  },
+  {
+    "preset_id": 1050,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Acaba lá com isso, por favor",
+    "premium": "false",
+    "positive": true,
+    "id": 7346
+  },
+  {
+    "preset_id": 1050,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Skończ już proszę",
+    "premium": "false",
+    "positive": true,
+    "id": 7347
+  },
+  {
+    "preset_id": 1050,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Заканчивай уже, пожалуйста",
+    "premium": "false",
+    "positive": true,
+    "id": 7348
+  },
+  {
+    "preset_id": 1050,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "请快结束吧",
+    "premium": "false",
+    "positive": true,
+    "id": 7349
+  }
+]

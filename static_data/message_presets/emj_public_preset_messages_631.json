@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 631,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Nobody asked",
+    "premium": "false",
+    "positive": true,
+    "id": 4410
+  },
+  {
+    "preset_id": 631,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Nadie preguntó",
+    "premium": "false",
+    "positive": true,
+    "id": 4411
+  },
+  {
+    "preset_id": 631,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Niemand hat gefragt",
+    "premium": "false",
+    "positive": true,
+    "id": 4412
+  },
+  {
+    "preset_id": 631,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Ninguém perguntou",
+    "premium": "false",
+    "positive": true,
+    "id": 4413
+  },
+  {
+    "preset_id": 631,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Nikt nie pytał",
+    "premium": "false",
+    "positive": true,
+    "id": 4414
+  },
+  {
+    "preset_id": 631,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Никто не спрашивал",
+    "premium": "false",
+    "positive": true,
+    "id": 4415
+  },
+  {
+    "preset_id": 631,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "没人问",
+    "premium": "false",
+    "positive": true,
+    "id": 4416
+  }
+]

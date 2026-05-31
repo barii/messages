@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1245,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Pathetic performance today.",
+    "premium": "false",
+    "positive": true,
+    "id": 8708
+  },
+  {
+    "preset_id": 1245,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Actuación patética hoy.",
+    "premium": "false",
+    "positive": true,
+    "id": 8709
+  },
+  {
+    "preset_id": 1245,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Erbärmliche Leistung heute.",
+    "premium": "false",
+    "positive": true,
+    "id": 8710
+  },
+  {
+    "preset_id": 1245,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Actuação patética hoje.",
+    "premium": "false",
+    "positive": true,
+    "id": 8711
+  },
+  {
+    "preset_id": 1245,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Żałosny występ dzisiaj.",
+    "premium": "false",
+    "positive": true,
+    "id": 8712
+  },
+  {
+    "preset_id": 1245,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Жалкая игра сегодня.",
+    "premium": "false",
+    "positive": true,
+    "id": 8713
+  },
+  {
+    "preset_id": 1245,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "今天表现真可悲。",
+    "premium": "false",
+    "positive": true,
+    "id": 8714
+  }
+]

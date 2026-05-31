@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 265,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We have known each other for years",
+    "premium": "false",
+    "positive": true,
+    "id": 1848
+  },
+  {
+    "preset_id": 265,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Nos conocemos desde hace años",
+    "premium": "false",
+    "positive": true,
+    "id": 1849
+  },
+  {
+    "preset_id": 265,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir kennen uns seit Jahren",
+    "premium": "false",
+    "positive": true,
+    "id": 1850
+  },
+  {
+    "preset_id": 265,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Conhecemo-nos há anos",
+    "premium": "false",
+    "positive": true,
+    "id": 1851
+  },
+  {
+    "preset_id": 265,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Znamy się od lat",
+    "premium": "false",
+    "positive": true,
+    "id": 1852
+  },
+  {
+    "preset_id": 265,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы знаем друг друга много лет",
+    "premium": "false",
+    "positive": true,
+    "id": 1853
+  },
+  {
+    "preset_id": 265,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们认识好几年了",
+    "premium": "false",
+    "positive": true,
+    "id": 1854
+  }
+]

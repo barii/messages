@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 997,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "Your moods are exhausting",
+    "premium": "false",
+    "positive": false,
+    "id": 6972
+  },
+  {
+    "preset_id": 997,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Tus humores son agotadores",
+    "premium": "false",
+    "positive": false,
+    "id": 6973
+  },
+  {
+    "preset_id": 997,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Deine Stimmungen sind anstrengend",
+    "premium": "false",
+    "positive": false,
+    "id": 6974
+  },
+  {
+    "preset_id": 997,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Os teus humores são exaustivos",
+    "premium": "false",
+    "positive": false,
+    "id": 6975
+  },
+  {
+    "preset_id": 997,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Twoje nastroje są wyczerpujące",
+    "premium": "false",
+    "positive": false,
+    "id": 6976
+  },
+  {
+    "preset_id": 997,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Твои настроения изматывают",
+    "premium": "false",
+    "positive": false,
+    "id": 6977
+  },
+  {
+    "preset_id": 997,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你的情绪让人疲惫",
+    "premium": "false",
+    "positive": false,
+    "id": 6978
+  }
+]

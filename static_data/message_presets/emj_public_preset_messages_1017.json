@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1017,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "You're the best teammate",
+    "premium": "false",
+    "positive": true,
+    "id": 7112
+  },
+  {
+    "preset_id": 1017,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Eres el mejor compañero de equipo",
+    "premium": "false",
+    "positive": true,
+    "id": 7113
+  },
+  {
+    "preset_id": 1017,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Du bist der beste Teamkollege",
+    "premium": "false",
+    "positive": true,
+    "id": 7114
+  },
+  {
+    "preset_id": 1017,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "És o melhor colega de equipa",
+    "premium": "false",
+    "positive": true,
+    "id": 7115
+  },
+  {
+    "preset_id": 1017,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Jesteś najlepszym kolegą z drużyny",
+    "premium": "false",
+    "positive": true,
+    "id": 7116
+  },
+  {
+    "preset_id": 1017,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Ты лучший товарищ по команде",
+    "premium": "false",
+    "positive": true,
+    "id": 7117
+  },
+  {
+    "preset_id": 1017,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "你是最好的队友",
+    "premium": "false",
+    "positive": true,
+    "id": 7118
+  }
+]

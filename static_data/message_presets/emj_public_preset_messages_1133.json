@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1133,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Hope you had a good day",
+    "premium": "false",
+    "positive": true,
+    "id": 7924
+  },
+  {
+    "preset_id": 1133,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Espero que hayas tenido un buen día",
+    "premium": "false",
+    "positive": true,
+    "id": 7925
+  },
+  {
+    "preset_id": 1133,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Hoffe, du hattest einen guten Tag",
+    "premium": "false",
+    "positive": true,
+    "id": 7926
+  },
+  {
+    "preset_id": 1133,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Espero que tenhas tido um bom dia",
+    "premium": "false",
+    "positive": true,
+    "id": 7927
+  },
+  {
+    "preset_id": 1133,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Mam nadzieję, że miałeś dobry dzień",
+    "premium": "false",
+    "positive": true,
+    "id": 7928
+  },
+  {
+    "preset_id": 1133,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Надеюсь, у тебя был хороший день",
+    "premium": "false",
+    "positive": true,
+    "id": 7929
+  },
+  {
+    "preset_id": 1133,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "希望你今天过得好",
+    "premium": "false",
+    "positive": true,
+    "id": 7930
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1011,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You need to apologize",
+    "premium": "false",
+    "positive": true,
+    "id": 7070
+  },
+  {
+    "preset_id": 1011,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Tienes que disculparte",
+    "premium": "false",
+    "positive": true,
+    "id": 7071
+  },
+  {
+    "preset_id": 1011,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du musst dich entschuldigen",
+    "premium": "false",
+    "positive": true,
+    "id": 7072
+  },
+  {
+    "preset_id": 1011,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Tens de pedir desculpa",
+    "premium": "false",
+    "positive": true,
+    "id": 7073
+  },
+  {
+    "preset_id": 1011,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Musisz przeprosić",
+    "premium": "false",
+    "positive": true,
+    "id": 7074
+  },
+  {
+    "preset_id": 1011,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Тебе нужно извиниться",
+    "premium": "false",
+    "positive": true,
+    "id": 7075
+  },
+  {
+    "preset_id": 1011,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你需要道歉",
+    "premium": "false",
+    "positive": true,
+    "id": 7076
+  }
+]

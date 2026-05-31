@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 223,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Have I upset you?",
+    "premium": "false",
+    "positive": true,
+    "id": 1554
+  },
+  {
+    "preset_id": 223,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Te he molestado?",
+    "premium": "false",
+    "positive": true,
+    "id": 1555
+  },
+  {
+    "preset_id": 223,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Habe ich dich verärgert?",
+    "premium": "false",
+    "positive": true,
+    "id": 1556
+  },
+  {
+    "preset_id": 223,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Chateei-te?",
+    "premium": "false",
+    "positive": true,
+    "id": 1557
+  },
+  {
+    "preset_id": 223,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Czy cię zdenerwowałem?",
+    "premium": "false",
+    "positive": true,
+    "id": 1558
+  },
+  {
+    "preset_id": 223,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Я тебя обидел?",
+    "premium": "false",
+    "positive": true,
+    "id": 1559
+  },
+  {
+    "preset_id": 223,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我惹你不高兴了吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1560
+  }
+]

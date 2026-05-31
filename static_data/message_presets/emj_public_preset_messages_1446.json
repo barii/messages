@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1446,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Top of the league.",
+    "premium": "false",
+    "positive": true,
+    "id": 10115
+  },
+  {
+    "preset_id": 1446,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Líderes de la liga.",
+    "premium": "false",
+    "positive": true,
+    "id": 10116
+  },
+  {
+    "preset_id": 1446,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Tabellenführer.",
+    "premium": "false",
+    "positive": true,
+    "id": 10117
+  },
+  {
+    "preset_id": 1446,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Topo da liga.",
+    "premium": "false",
+    "positive": true,
+    "id": 10118
+  },
+  {
+    "preset_id": 1446,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Lider ligi.",
+    "premium": "false",
+    "positive": true,
+    "id": 10119
+  },
+  {
+    "preset_id": 1446,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Лидеры таблицы.",
+    "premium": "false",
+    "positive": true,
+    "id": 10120
+  },
+  {
+    "preset_id": 1446,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "联赛榜首。",
+    "premium": "false",
+    "positive": true,
+    "id": 10121
+  }
+]

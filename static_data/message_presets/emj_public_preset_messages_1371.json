@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1371,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You got bullied off the pitch.",
+    "premium": "false",
+    "positive": true,
+    "id": 9590
+  },
+  {
+    "preset_id": 1371,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Os han humillado en el campo.",
+    "premium": "false",
+    "positive": true,
+    "id": 9591
+  },
+  {
+    "preset_id": 1371,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr seid vom Platz geschossen worden.",
+    "premium": "false",
+    "positive": true,
+    "id": 9592
+  },
+  {
+    "preset_id": 1371,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Foram humilhados em campo.",
+    "premium": "false",
+    "positive": true,
+    "id": 9593
+  },
+  {
+    "preset_id": 1371,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Dostaliście baty na boisku.",
+    "premium": "false",
+    "positive": true,
+    "id": 9594
+  },
+  {
+    "preset_id": 1371,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Вас унизили на поле.",
+    "premium": "false",
+    "positive": true,
+    "id": 9595
+  },
+  {
+    "preset_id": 1371,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们在场上被欺负了。",
+    "premium": "false",
+    "positive": true,
+    "id": 9596
+  }
+]

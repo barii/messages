@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 182,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Would you ever go out with me?",
+    "premium": "false",
+    "positive": true,
+    "id": 1267
+  },
+  {
+    "preset_id": 182,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Saldrías conmigo alguna vez?",
+    "premium": "false",
+    "positive": true,
+    "id": 1268
+  },
+  {
+    "preset_id": 182,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Würdest du mit mir ausgehen?",
+    "premium": "false",
+    "positive": true,
+    "id": 1269
+  },
+  {
+    "preset_id": 182,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Sairias comigo alguma vez?",
+    "premium": "false",
+    "positive": true,
+    "id": 1270
+  },
+  {
+    "preset_id": 182,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Wybrałbyś się ze mną kiedyś?",
+    "premium": "false",
+    "positive": true,
+    "id": 1271
+  },
+  {
+    "preset_id": 182,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты когда-нибудь пошёл бы со мной?",
+    "premium": "false",
+    "positive": true,
+    "id": 1272
+  },
+  {
+    "preset_id": 182,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你愿意和我出去吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1273
+  }
+]

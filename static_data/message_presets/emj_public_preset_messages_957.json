@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 957,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Send the message",
+    "premium": "false",
+    "positive": true,
+    "id": 6692
+  },
+  {
+    "preset_id": 957,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Manda el mensaje",
+    "premium": "false",
+    "positive": true,
+    "id": 6693
+  },
+  {
+    "preset_id": 957,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Schick die Nachricht",
+    "premium": "false",
+    "positive": true,
+    "id": 6694
+  },
+  {
+    "preset_id": 957,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Manda a mensagem",
+    "premium": "false",
+    "positive": true,
+    "id": 6695
+  },
+  {
+    "preset_id": 957,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Wyślij wiadomość",
+    "premium": "false",
+    "positive": true,
+    "id": 6696
+  },
+  {
+    "preset_id": 957,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Отправь сообщение",
+    "premium": "false",
+    "positive": true,
+    "id": 6697
+  },
+  {
+    "preset_id": 957,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "发送消息",
+    "premium": "false",
+    "positive": true,
+    "id": 6698
+  }
+]

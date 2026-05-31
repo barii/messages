@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 845,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I think I love you",
+    "premium": "false",
+    "positive": true,
+    "id": 5908
+  },
+  {
+    "preset_id": 845,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Creo que te amo",
+    "premium": "false",
+    "positive": true,
+    "id": 5909
+  },
+  {
+    "preset_id": 845,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich glaube, ich liebe dich",
+    "premium": "false",
+    "positive": true,
+    "id": 5910
+  },
+  {
+    "preset_id": 845,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Acho que te amo",
+    "premium": "false",
+    "positive": true,
+    "id": 5911
+  },
+  {
+    "preset_id": 845,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Chyba cię kocham",
+    "premium": "false",
+    "positive": true,
+    "id": 5912
+  },
+  {
+    "preset_id": 845,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Думаю, я тебя люблю",
+    "premium": "false",
+    "positive": true,
+    "id": 5913
+  },
+  {
+    "preset_id": 845,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我想我爱你",
+    "premium": "false",
+    "positive": true,
+    "id": 5914
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 688,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Cheers",
+    "premium": "false",
+    "positive": true,
+    "id": 4809
+  },
+  {
+    "preset_id": 688,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Gracias",
+    "premium": "false",
+    "positive": true,
+    "id": 4810
+  },
+  {
+    "preset_id": 688,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Danke",
+    "premium": "false",
+    "positive": true,
+    "id": 4811
+  },
+  {
+    "preset_id": 688,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Obrigado",
+    "premium": "false",
+    "positive": true,
+    "id": 4812
+  },
+  {
+    "preset_id": 688,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Dzięki",
+    "premium": "false",
+    "positive": true,
+    "id": 4813
+  },
+  {
+    "preset_id": 688,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Спасибо",
+    "premium": "false",
+    "positive": true,
+    "id": 4814
+  },
+  {
+    "preset_id": 688,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "谢啦",
+    "premium": "false",
+    "positive": true,
+    "id": 4815
+  }
+]

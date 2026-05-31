@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1730,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Shoot the ball, bricklayer!",
+    "premium": "true",
+    "positive": true,
+    "id": 12103
+  },
+  {
+    "preset_id": 1730,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Shoot the ball, bricklayer!",
+    "premium": "true",
+    "positive": true,
+    "id": 12104
+  },
+  {
+    "preset_id": 1730,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Shoot the ball, bricklayer!",
+    "premium": "true",
+    "positive": true,
+    "id": 12105
+  },
+  {
+    "preset_id": 1730,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Shoot the ball, bricklayer!",
+    "premium": "true",
+    "positive": true,
+    "id": 12106
+  },
+  {
+    "preset_id": 1730,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Shoot the ball, bricklayer!",
+    "premium": "true",
+    "positive": true,
+    "id": 12107
+  },
+  {
+    "preset_id": 1730,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Shoot the ball, bricklayer!",
+    "premium": "true",
+    "positive": true,
+    "id": 12108
+  },
+  {
+    "preset_id": 1730,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Shoot the ball, bricklayer!",
+    "premium": "true",
+    "positive": true,
+    "id": 12109
+  }
+]

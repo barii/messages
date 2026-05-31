@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1707,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "You need a map to find the strike zone?",
+    "premium": "false",
+    "positive": true,
+    "id": 11942
+  },
+  {
+    "preset_id": 1707,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "You need a map to find the strike zone?",
+    "premium": "false",
+    "positive": true,
+    "id": 11943
+  },
+  {
+    "preset_id": 1707,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "You need a map to find the strike zone?",
+    "premium": "false",
+    "positive": true,
+    "id": 11944
+  },
+  {
+    "preset_id": 1707,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "You need a map to find the strike zone?",
+    "premium": "false",
+    "positive": true,
+    "id": 11945
+  },
+  {
+    "preset_id": 1707,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "You need a map to find the strike zone?",
+    "premium": "false",
+    "positive": true,
+    "id": 11946
+  },
+  {
+    "preset_id": 1707,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "You need a map to find the strike zone?",
+    "premium": "false",
+    "positive": true,
+    "id": 11947
+  },
+  {
+    "preset_id": 1707,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "You need a map to find the strike zone?",
+    "premium": "false",
+    "positive": true,
+    "id": 11948
+  }
+]

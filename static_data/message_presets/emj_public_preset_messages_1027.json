@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1027,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "You crushed that today",
+    "premium": "false",
+    "positive": true,
+    "id": 7182
+  },
+  {
+    "preset_id": 1027,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "La rompiste hoy",
+    "premium": "false",
+    "positive": true,
+    "id": 7183
+  },
+  {
+    "preset_id": 1027,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Du hast heute alles gegeben",
+    "premium": "false",
+    "positive": true,
+    "id": 7184
+  },
+  {
+    "preset_id": 1027,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Arrasaste hoje",
+    "premium": "false",
+    "positive": true,
+    "id": 7185
+  },
+  {
+    "preset_id": 1027,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Dziś rozwaliłeś",
+    "premium": "false",
+    "positive": true,
+    "id": 7186
+  },
+  {
+    "preset_id": 1027,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Ты порвал сегодня",
+    "premium": "false",
+    "positive": true,
+    "id": 7187
+  },
+  {
+    "preset_id": 1027,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "你今天太厉害了",
+    "premium": "false",
+    "positive": true,
+    "id": 7188
+  }
+]

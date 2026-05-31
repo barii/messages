@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1716,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Airball! Airball!",
+    "premium": "false",
+    "positive": true,
+    "id": 12005
+  },
+  {
+    "preset_id": 1716,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Airball! Airball!",
+    "premium": "false",
+    "positive": true,
+    "id": 12006
+  },
+  {
+    "preset_id": 1716,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Airball! Airball!",
+    "premium": "false",
+    "positive": true,
+    "id": 12007
+  },
+  {
+    "preset_id": 1716,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Airball! Airball!",
+    "premium": "false",
+    "positive": true,
+    "id": 12008
+  },
+  {
+    "preset_id": 1716,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Airball! Airball!",
+    "premium": "false",
+    "positive": true,
+    "id": 12009
+  },
+  {
+    "preset_id": 1716,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Airball! Airball!",
+    "premium": "false",
+    "positive": true,
+    "id": 12010
+  },
+  {
+    "preset_id": 1716,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Airball! Airball!",
+    "premium": "false",
+    "positive": true,
+    "id": 12011
+  }
+]

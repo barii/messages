@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1219,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "Your situationship called and quit",
+    "premium": "true",
+    "positive": true,
+    "id": 8526
+  },
+  {
+    "preset_id": 1219,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "Tu situationship llamó y renunció",
+    "premium": "true",
+    "positive": true,
+    "id": 8527
+  },
+  {
+    "preset_id": 1219,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Deine Situationship hat angerufen und gekündigt",
+    "premium": "true",
+    "positive": true,
+    "id": 8528
+  },
+  {
+    "preset_id": 1219,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "A tua situationship ligou e demitiu-se",
+    "premium": "true",
+    "positive": true,
+    "id": 8529
+  },
+  {
+    "preset_id": 1219,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Twoja situationship zadzwoniła i się zwolniła",
+    "premium": "true",
+    "positive": true,
+    "id": 8530
+  },
+  {
+    "preset_id": 1219,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Твой situationship позвонил и уволился",
+    "premium": "true",
+    "positive": true,
+    "id": 8531
+  },
+  {
+    "preset_id": 1219,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "你的situationship打来说辞职了",
+    "premium": "true",
+    "positive": true,
+    "id": 8532
+  }
+]

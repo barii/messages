@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 204,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Did we go to school together?",
+    "premium": "false",
+    "positive": true,
+    "id": 1421
+  },
+  {
+    "preset_id": 204,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Fuimos al colegio juntos?",
+    "premium": "false",
+    "positive": true,
+    "id": 1422
+  },
+  {
+    "preset_id": 204,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Waren wir zusammen in der Schule?",
+    "premium": "false",
+    "positive": true,
+    "id": 1423
+  },
+  {
+    "preset_id": 204,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Andámos na escola juntos?",
+    "premium": "false",
+    "positive": true,
+    "id": 1424
+  },
+  {
+    "preset_id": 204,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Chodziliśmy razem do szkoły?",
+    "premium": "false",
+    "positive": true,
+    "id": 1425
+  },
+  {
+    "preset_id": 204,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Мы ходили в школу вместе?",
+    "premium": "false",
+    "positive": true,
+    "id": 1426
+  },
+  {
+    "preset_id": 204,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我们一起上过学吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1427
+  }
+]

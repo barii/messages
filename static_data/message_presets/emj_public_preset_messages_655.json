@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 655,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Wow okay",
+    "premium": "false",
+    "positive": true,
+    "id": 4578
+  },
+  {
+    "preset_id": 655,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Wow, ok",
+    "premium": "false",
+    "positive": true,
+    "id": 4579
+  },
+  {
+    "preset_id": 655,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Wow ok",
+    "premium": "false",
+    "positive": true,
+    "id": 4580
+  },
+  {
+    "preset_id": 655,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Uau, ok",
+    "premium": "false",
+    "positive": true,
+    "id": 4581
+  },
+  {
+    "preset_id": 655,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Wow ok",
+    "premium": "false",
+    "positive": true,
+    "id": 4582
+  },
+  {
+    "preset_id": 655,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Вау окей",
+    "premium": "false",
+    "positive": true,
+    "id": 4583
+  },
+  {
+    "preset_id": 655,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "哇好的",
+    "premium": "false",
+    "positive": true,
+    "id": 4584
+  }
+]

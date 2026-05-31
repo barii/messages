@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1493,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Best atmosphere in the country.",
+    "premium": "false",
+    "positive": true,
+    "id": 10444
+  },
+  {
+    "preset_id": 1493,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "El mejor ambiente del país.",
+    "premium": "false",
+    "positive": true,
+    "id": 10445
+  },
+  {
+    "preset_id": 1493,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Beste Atmosphäre im Land.",
+    "premium": "false",
+    "positive": true,
+    "id": 10446
+  },
+  {
+    "preset_id": 1493,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "O melhor ambiente do país.",
+    "premium": "false",
+    "positive": true,
+    "id": 10447
+  },
+  {
+    "preset_id": 1493,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Najlepsza atmosfera w kraju.",
+    "premium": "false",
+    "positive": true,
+    "id": 10448
+  },
+  {
+    "preset_id": 1493,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Лучшая атмосфера в стране.",
+    "premium": "false",
+    "positive": true,
+    "id": 10449
+  },
+  {
+    "preset_id": 1493,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "全国最棒的气氛。",
+    "premium": "false",
+    "positive": true,
+    "id": 10450
+  }
+]

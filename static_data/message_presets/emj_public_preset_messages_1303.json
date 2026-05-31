@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1303,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Do one.",
+    "premium": "false",
+    "positive": true,
+    "id": 9114
+  },
+  {
+    "preset_id": 1303,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Andad ya.",
+    "premium": "false",
+    "positive": true,
+    "id": 9115
+  },
+  {
+    "preset_id": 1303,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Hört auf.",
+    "premium": "false",
+    "positive": true,
+    "id": 9116
+  },
+  {
+    "preset_id": 1303,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Sai daí.",
+    "premium": "false",
+    "positive": true,
+    "id": 9117
+  },
+  {
+    "preset_id": 1303,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Dajcie spokój.",
+    "premium": "false",
+    "positive": true,
+    "id": 9118
+  },
+  {
+    "preset_id": 1303,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Прекратите.",
+    "premium": "false",
+    "positive": true,
+    "id": 9119
+  },
+  {
+    "preset_id": 1303,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "得了吧。",
+    "premium": "false",
+    "positive": true,
+    "id": 9120
+  }
+]

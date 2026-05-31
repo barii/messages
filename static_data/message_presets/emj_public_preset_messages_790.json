@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 790,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Felt that",
+    "premium": "false",
+    "positive": true,
+    "id": 5523
+  },
+  {
+    "preset_id": 790,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Lo sentí",
+    "premium": "false",
+    "positive": true,
+    "id": 5524
+  },
+  {
+    "preset_id": 790,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Habe das gespürt",
+    "premium": "false",
+    "positive": true,
+    "id": 5525
+  },
+  {
+    "preset_id": 790,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Senti isso",
+    "premium": "false",
+    "positive": true,
+    "id": 5526
+  },
+  {
+    "preset_id": 790,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Poczułem to",
+    "premium": "false",
+    "positive": true,
+    "id": 5527
+  },
+  {
+    "preset_id": 790,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Прочувствовал это",
+    "premium": "false",
+    "positive": true,
+    "id": 5528
+  },
+  {
+    "preset_id": 790,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "感同身受",
+    "premium": "false",
+    "positive": true,
+    "id": 5529
+  }
+]

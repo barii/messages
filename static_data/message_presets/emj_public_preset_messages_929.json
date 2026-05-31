@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 929,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Sleep on it",
+    "premium": "false",
+    "positive": true,
+    "id": 6496
+  },
+  {
+    "preset_id": 929,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Consúltalo con la almohada",
+    "premium": "false",
+    "positive": true,
+    "id": 6497
+  },
+  {
+    "preset_id": 929,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Schlaf eine Nacht darüber",
+    "premium": "false",
+    "positive": true,
+    "id": 6498
+  },
+  {
+    "preset_id": 929,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Dorme sobre isso",
+    "premium": "false",
+    "positive": true,
+    "id": 6499
+  },
+  {
+    "preset_id": 929,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Prześpij się z tym",
+    "premium": "false",
+    "positive": true,
+    "id": 6500
+  },
+  {
+    "preset_id": 929,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Подумай об этом утром",
+    "premium": "false",
+    "positive": true,
+    "id": 6501
+  },
+  {
+    "preset_id": 929,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "睡一觉再说",
+    "premium": "false",
+    "positive": true,
+    "id": 6502
+  }
+]

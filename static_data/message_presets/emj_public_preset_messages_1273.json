@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1273,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Your manager looks defeated.",
+    "premium": "true",
+    "positive": true,
+    "id": 8904
+  },
+  {
+    "preset_id": 1273,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Vuestro entrenador parece derrotado.",
+    "premium": "true",
+    "positive": true,
+    "id": 8905
+  },
+  {
+    "preset_id": 1273,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Euer Trainer sieht geschlagen aus.",
+    "premium": "true",
+    "positive": true,
+    "id": 8906
+  },
+  {
+    "preset_id": 1273,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "O vosso treinador parece derrotado.",
+    "premium": "true",
+    "positive": true,
+    "id": 8907
+  },
+  {
+    "preset_id": 1273,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Wasz trener wygląda na pokonanego.",
+    "premium": "true",
+    "positive": true,
+    "id": 8908
+  },
+  {
+    "preset_id": 1273,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Ваш тренер выглядит побеждённым.",
+    "premium": "true",
+    "positive": true,
+    "id": 8909
+  },
+  {
+    "preset_id": 1273,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们教练看起来被击垮了。",
+    "premium": "true",
+    "positive": true,
+    "id": 8910
+  }
+]

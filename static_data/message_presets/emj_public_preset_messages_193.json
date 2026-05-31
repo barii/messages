@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 193,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Wait, what?",
+    "premium": "false",
+    "positive": true,
+    "id": 1344
+  },
+  {
+    "preset_id": 193,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "Espera, ¿qué?",
+    "premium": "false",
+    "positive": true,
+    "id": 1345
+  },
+  {
+    "preset_id": 193,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Warte, was?",
+    "premium": "false",
+    "positive": true,
+    "id": 1346
+  },
+  {
+    "preset_id": 193,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Espera, o quê?",
+    "premium": "false",
+    "positive": true,
+    "id": 1347
+  },
+  {
+    "preset_id": 193,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Czekaj, co?",
+    "premium": "false",
+    "positive": true,
+    "id": 1348
+  },
+  {
+    "preset_id": 193,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Подожди, что?",
+    "premium": "false",
+    "positive": true,
+    "id": 1349
+  },
+  {
+    "preset_id": 193,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "等等,什么?",
+    "premium": "false",
+    "positive": true,
+    "id": 1350
+  }
+]

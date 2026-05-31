@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 513,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Not great honestly",
+    "premium": "false",
+    "positive": true,
+    "id": 3584
+  },
+  {
+    "preset_id": 513,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "No muy bien, la verdad",
+    "premium": "false",
+    "positive": true,
+    "id": 3585
+  },
+  {
+    "preset_id": 513,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ehrlich gesagt nicht so gut",
+    "premium": "false",
+    "positive": true,
+    "id": 3586
+  },
+  {
+    "preset_id": 513,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Não muito bem, sinceramente",
+    "premium": "false",
+    "positive": true,
+    "id": 3587
+  },
+  {
+    "preset_id": 513,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Szczerze nie najlepiej",
+    "premium": "false",
+    "positive": true,
+    "id": 3588
+  },
+  {
+    "preset_id": 513,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Честно, не очень",
+    "premium": "false",
+    "positive": true,
+    "id": 3589
+  },
+  {
+    "preset_id": 513,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "说实话不太好",
+    "premium": "false",
+    "positive": true,
+    "id": 3590
+  }
+]

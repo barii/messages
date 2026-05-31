@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 56,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're a treasure",
+    "premium": "true",
+    "positive": true,
+    "id": 385
+  },
+  {
+    "preset_id": 56,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres un tesoro",
+    "premium": "true",
+    "positive": true,
+    "id": 386
+  },
+  {
+    "preset_id": 56,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist ein Schatz",
+    "premium": "true",
+    "positive": true,
+    "id": 387
+  },
+  {
+    "preset_id": 56,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És um tesouro",
+    "premium": "true",
+    "positive": true,
+    "id": 388
+  },
+  {
+    "preset_id": 56,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś skarbem",
+    "premium": "true",
+    "positive": true,
+    "id": 389
+  },
+  {
+    "preset_id": 56,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты сокровище",
+    "premium": "true",
+    "positive": true,
+    "id": 390
+  },
+  {
+    "preset_id": 56,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你是个宝藏",
+    "premium": "true",
+    "positive": true,
+    "id": 391
+  }
+]

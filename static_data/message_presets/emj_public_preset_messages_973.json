@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 973,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Stop making excuses",
+    "premium": "false",
+    "positive": true,
+    "id": 6804
+  },
+  {
+    "preset_id": 973,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Deja de poner excusas",
+    "premium": "false",
+    "positive": true,
+    "id": 6805
+  },
+  {
+    "preset_id": 973,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Hör auf, Ausreden zu finden",
+    "premium": "false",
+    "positive": true,
+    "id": 6806
+  },
+  {
+    "preset_id": 973,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Para de arranjar desculpas",
+    "premium": "false",
+    "positive": true,
+    "id": 6807
+  },
+  {
+    "preset_id": 973,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Przestań szukać wymówek",
+    "premium": "false",
+    "positive": true,
+    "id": 6808
+  },
+  {
+    "preset_id": 973,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Перестань искать оправдания",
+    "premium": "false",
+    "positive": true,
+    "id": 6809
+  },
+  {
+    "preset_id": 973,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "别再找借口",
+    "premium": "false",
+    "positive": true,
+    "id": 6810
+  }
+]

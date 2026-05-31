@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1665,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You've lost the plot.",
+    "premium": "false",
+    "positive": true,
+    "id": 11648
+  },
+  {
+    "preset_id": 1665,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Habéis perdido el rumbo.",
+    "premium": "false",
+    "positive": true,
+    "id": 11649
+  },
+  {
+    "preset_id": 1665,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ihr habt den Verstand verloren.",
+    "premium": "false",
+    "positive": true,
+    "id": 11650
+  },
+  {
+    "preset_id": 1665,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Perderam o juízo.",
+    "premium": "false",
+    "positive": true,
+    "id": 11651
+  },
+  {
+    "preset_id": 1665,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Straciliście rozum.",
+    "premium": "false",
+    "positive": true,
+    "id": 11652
+  },
+  {
+    "preset_id": 1665,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Вы потеряли голову.",
+    "premium": "false",
+    "positive": true,
+    "id": 11653
+  },
+  {
+    "preset_id": 1665,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们疯了。",
+    "premium": "false",
+    "positive": true,
+    "id": 11654
+  }
+]

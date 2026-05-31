@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1669,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Still mad about that I see.",
+    "premium": "true",
+    "positive": true,
+    "id": 11676
+  },
+  {
+    "preset_id": 1669,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Aún enfadados por eso, ya veo.",
+    "premium": "true",
+    "positive": true,
+    "id": 11677
+  },
+  {
+    "preset_id": 1669,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Immer noch sauer deswegen, sehe ich.",
+    "premium": "true",
+    "positive": true,
+    "id": 11678
+  },
+  {
+    "preset_id": 1669,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Ainda zangados com isso, vejo.",
+    "premium": "true",
+    "positive": true,
+    "id": 11679
+  },
+  {
+    "preset_id": 1669,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Wciąż wściekli o to, widzę.",
+    "premium": "true",
+    "positive": true,
+    "id": 11680
+  },
+  {
+    "preset_id": 1669,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Всё ещё злитесь, я вижу.",
+    "premium": "true",
+    "positive": true,
+    "id": 11681
+  },
+  {
+    "preset_id": 1669,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "看来还在生那件事的气。",
+    "premium": "true",
+    "positive": true,
+    "id": 11682
+  }
+]

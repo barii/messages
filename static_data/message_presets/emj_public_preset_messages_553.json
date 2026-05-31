@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 553,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Rough",
+    "premium": "false",
+    "positive": true,
+    "id": 3864
+  },
+  {
+    "preset_id": 553,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Duro",
+    "premium": "false",
+    "positive": true,
+    "id": 3865
+  },
+  {
+    "preset_id": 553,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Heftig",
+    "premium": "false",
+    "positive": true,
+    "id": 3866
+  },
+  {
+    "preset_id": 553,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Pesado",
+    "premium": "false",
+    "positive": true,
+    "id": 3867
+  },
+  {
+    "preset_id": 553,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Ciężkie",
+    "premium": "false",
+    "positive": true,
+    "id": 3868
+  },
+  {
+    "preset_id": 553,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Жёстко",
+    "premium": "false",
+    "positive": true,
+    "id": 3869
+  },
+  {
+    "preset_id": 553,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "残酷",
+    "premium": "false",
+    "positive": true,
+    "id": 3870
+  }
+]

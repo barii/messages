@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1291,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Tinpot.",
+    "premium": "false",
+    "positive": true,
+    "id": 9030
+  },
+  {
+    "preset_id": 1291,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Equipo de pacotilla.",
+    "premium": "false",
+    "positive": true,
+    "id": 9031
+  },
+  {
+    "preset_id": 1291,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Drittklassig.",
+    "premium": "false",
+    "positive": true,
+    "id": 9032
+  },
+  {
+    "preset_id": 1291,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Equipa rasca.",
+    "premium": "false",
+    "positive": true,
+    "id": 9033
+  },
+  {
+    "preset_id": 1291,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Klub z dna.",
+    "premium": "false",
+    "positive": true,
+    "id": 9034
+  },
+  {
+    "preset_id": 1291,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Захудалый клуб.",
+    "premium": "false",
+    "positive": true,
+    "id": 9035
+  },
+  {
+    "preset_id": 1291,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "破烂俱乐部。",
+    "premium": "false",
+    "positive": true,
+    "id": 9036
+  }
+]

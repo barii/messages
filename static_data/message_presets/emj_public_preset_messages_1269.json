@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1269,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "The worst performance ever.",
+    "premium": "false",
+    "positive": true,
+    "id": 8876
+  },
+  {
+    "preset_id": 1269,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "La peor actuación de la historia.",
+    "premium": "false",
+    "positive": true,
+    "id": 8877
+  },
+  {
+    "preset_id": 1269,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Die schlechteste Leistung aller Zeiten.",
+    "premium": "false",
+    "positive": true,
+    "id": 8878
+  },
+  {
+    "preset_id": 1269,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "A pior actuação de sempre.",
+    "premium": "false",
+    "positive": true,
+    "id": 8879
+  },
+  {
+    "preset_id": 1269,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Najgorszy występ w historii.",
+    "premium": "false",
+    "positive": true,
+    "id": 8880
+  },
+  {
+    "preset_id": 1269,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Худшая игра за всю историю.",
+    "premium": "false",
+    "positive": true,
+    "id": 8881
+  },
+  {
+    "preset_id": 1269,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "史上最烂的表现。",
+    "premium": "false",
+    "positive": true,
+    "id": 8882
+  }
+]

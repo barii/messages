@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 665,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "The audacity",
+    "premium": "true",
+    "positive": true,
+    "id": 4648
+  },
+  {
+    "preset_id": 665,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Qué cara",
+    "premium": "true",
+    "positive": true,
+    "id": 4649
+  },
+  {
+    "preset_id": 665,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Die Frechheit",
+    "premium": "true",
+    "positive": true,
+    "id": 4650
+  },
+  {
+    "preset_id": 665,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "A audácia",
+    "premium": "true",
+    "positive": true,
+    "id": 4651
+  },
+  {
+    "preset_id": 665,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Ta bezczelność",
+    "premium": "true",
+    "positive": true,
+    "id": 4652
+  },
+  {
+    "preset_id": 665,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Какая наглость",
+    "premium": "true",
+    "positive": true,
+    "id": 4653
+  },
+  {
+    "preset_id": 665,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "好大胆",
+    "premium": "true",
+    "positive": true,
+    "id": 4654
+  }
+]

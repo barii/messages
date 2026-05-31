@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 748,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Slay",
+    "premium": "false",
+    "positive": true,
+    "id": 5229
+  },
+  {
+    "preset_id": 748,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Slay",
+    "premium": "false",
+    "positive": true,
+    "id": 5230
+  },
+  {
+    "preset_id": 748,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Slay",
+    "premium": "false",
+    "positive": true,
+    "id": 5231
+  },
+  {
+    "preset_id": 748,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Slay",
+    "premium": "false",
+    "positive": true,
+    "id": 5232
+  },
+  {
+    "preset_id": 748,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Slay",
+    "premium": "false",
+    "positive": true,
+    "id": 5233
+  },
+  {
+    "preset_id": 748,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Slay",
+    "premium": "false",
+    "positive": true,
+    "id": 5234
+  },
+  {
+    "preset_id": 748,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "Slay",
+    "premium": "false",
+    "positive": true,
+    "id": 5235
+  }
+]

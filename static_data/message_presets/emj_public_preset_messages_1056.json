@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1056,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Our manager is incredible",
+    "premium": "false",
+    "positive": true,
+    "id": 7385
+  },
+  {
+    "preset_id": 1056,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Nuestro gerente es increíble",
+    "premium": "false",
+    "positive": true,
+    "id": 7386
+  },
+  {
+    "preset_id": 1056,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Unser Manager ist unglaublich",
+    "premium": "false",
+    "positive": true,
+    "id": 7387
+  },
+  {
+    "preset_id": 1056,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "O nosso gerente é incrível",
+    "premium": "false",
+    "positive": true,
+    "id": 7388
+  },
+  {
+    "preset_id": 1056,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Nasz menedżer jest niesamowity",
+    "premium": "false",
+    "positive": true,
+    "id": 7389
+  },
+  {
+    "preset_id": 1056,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Наш менеджер невероятный",
+    "premium": "false",
+    "positive": true,
+    "id": 7390
+  },
+  {
+    "preset_id": 1056,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "我们的经理很棒",
+    "premium": "false",
+    "positive": true,
+    "id": 7391
+  }
+]

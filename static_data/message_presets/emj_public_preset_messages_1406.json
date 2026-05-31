@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1406,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We are a world class team.",
+    "premium": "false",
+    "positive": true,
+    "id": 9835
+  },
+  {
+    "preset_id": 1406,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Somos un equipo de clase mundial.",
+    "premium": "false",
+    "positive": true,
+    "id": 9836
+  },
+  {
+    "preset_id": 1406,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir sind eine Weltklassemannschaft.",
+    "premium": "false",
+    "positive": true,
+    "id": 9837
+  },
+  {
+    "preset_id": 1406,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Somos uma equipa de classe mundial.",
+    "premium": "false",
+    "positive": true,
+    "id": 9838
+  },
+  {
+    "preset_id": 1406,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Jesteśmy drużyną światowej klasy.",
+    "premium": "false",
+    "positive": true,
+    "id": 9839
+  },
+  {
+    "preset_id": 1406,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Мы команда мирового класса.",
+    "premium": "false",
+    "positive": true,
+    "id": 9840
+  },
+  {
+    "preset_id": 1406,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们是世界级球队。",
+    "premium": "false",
+    "positive": true,
+    "id": 9841
+  }
+]

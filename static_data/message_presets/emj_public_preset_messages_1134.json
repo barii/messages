@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1134,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Greetings from the void",
+    "premium": "false",
+    "positive": true,
+    "id": 7931
+  },
+  {
+    "preset_id": 1134,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Saludos desde el vacío",
+    "premium": "false",
+    "positive": true,
+    "id": 7932
+  },
+  {
+    "preset_id": 1134,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Grüße aus dem Nichts",
+    "premium": "false",
+    "positive": true,
+    "id": 7933
+  },
+  {
+    "preset_id": 1134,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Saudações do vazio",
+    "premium": "false",
+    "positive": true,
+    "id": 7934
+  },
+  {
+    "preset_id": 1134,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Pozdrowienia z pustki",
+    "premium": "false",
+    "positive": true,
+    "id": 7935
+  },
+  {
+    "preset_id": 1134,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Привет из пустоты",
+    "premium": "false",
+    "positive": true,
+    "id": 7936
+  },
+  {
+    "preset_id": 1134,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "来自虚空的问候",
+    "premium": "false",
+    "positive": true,
+    "id": 7937
+  }
+]

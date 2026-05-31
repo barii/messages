@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1651,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You defended for 90 minutes that's not football.",
+    "premium": "false",
+    "positive": true,
+    "id": 11550
+  },
+  {
+    "preset_id": 1651,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Habéis defendido 90 minutos, eso no es fútbol.",
+    "premium": "false",
+    "positive": true,
+    "id": 11551
+  },
+  {
+    "preset_id": 1651,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ihr habt 90 Minuten verteidigt, das ist kein Fußball.",
+    "premium": "false",
+    "positive": true,
+    "id": 11552
+  },
+  {
+    "preset_id": 1651,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Defenderam durante 90 minutos, isso não é futebol.",
+    "premium": "false",
+    "positive": true,
+    "id": 11553
+  },
+  {
+    "preset_id": 1651,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Broniliście się przez 90 minut, to nie jest piłka nożna.",
+    "premium": "false",
+    "positive": true,
+    "id": 11554
+  },
+  {
+    "preset_id": 1651,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Вы оборонялись 90 минут, это не футбол.",
+    "premium": "false",
+    "positive": true,
+    "id": 11555
+  },
+  {
+    "preset_id": 1651,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们防守了90分钟,这不是足球。",
+    "premium": "false",
+    "positive": true,
+    "id": 11556
+  }
+]

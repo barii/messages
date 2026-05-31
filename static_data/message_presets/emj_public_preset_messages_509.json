@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 509,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Living the dream",
+    "premium": "false",
+    "positive": true,
+    "id": 3556
+  },
+  {
+    "preset_id": 509,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Viviendo el sueño",
+    "premium": "false",
+    "positive": true,
+    "id": 3557
+  },
+  {
+    "preset_id": 509,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Lebe den Traum",
+    "premium": "false",
+    "positive": true,
+    "id": 3558
+  },
+  {
+    "preset_id": 509,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "A viver o sonho",
+    "premium": "false",
+    "positive": true,
+    "id": 3559
+  },
+  {
+    "preset_id": 509,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Żyję marzeniem",
+    "premium": "false",
+    "positive": true,
+    "id": 3560
+  },
+  {
+    "preset_id": 509,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Живу мечтой",
+    "premium": "false",
+    "positive": true,
+    "id": 3561
+  },
+  {
+    "preset_id": 509,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "活在梦里",
+    "premium": "false",
+    "positive": true,
+    "id": 3562
+  }
+]

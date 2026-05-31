@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1415,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "You're no match for us.",
+    "premium": "false",
+    "positive": true,
+    "id": 9898
+  },
+  {
+    "preset_id": 1415,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "No sois rival para nosotros.",
+    "premium": "false",
+    "positive": true,
+    "id": 9899
+  },
+  {
+    "preset_id": 1415,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Ihr seid uns nicht gewachsen.",
+    "premium": "false",
+    "positive": true,
+    "id": 9900
+  },
+  {
+    "preset_id": 1415,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Não são adversários para nós.",
+    "premium": "false",
+    "positive": true,
+    "id": 9901
+  },
+  {
+    "preset_id": 1415,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Nie jesteście dla nas żadnym przeciwnikiem.",
+    "premium": "false",
+    "positive": true,
+    "id": 9902
+  },
+  {
+    "preset_id": 1415,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Вы нам не соперник.",
+    "premium": "false",
+    "positive": true,
+    "id": 9903
+  },
+  {
+    "preset_id": 1415,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "你们根本不是我们的对手。",
+    "premium": "false",
+    "positive": true,
+    "id": 9904
+  }
+]

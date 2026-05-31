@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 32,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're a force to be reckoned with",
+    "premium": "false",
+    "positive": true,
+    "id": 217
+  },
+  {
+    "preset_id": 32,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres una fuerza imparable",
+    "premium": "false",
+    "positive": true,
+    "id": 218
+  },
+  {
+    "preset_id": 32,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist eine Kraft, mit der man rechnen muss",
+    "premium": "false",
+    "positive": true,
+    "id": 219
+  },
+  {
+    "preset_id": 32,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És uma força a ter em conta",
+    "premium": "false",
+    "positive": true,
+    "id": 220
+  },
+  {
+    "preset_id": 32,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś siłą, z którą trzeba się liczyć",
+    "premium": "false",
+    "positive": true,
+    "id": 221
+  },
+  {
+    "preset_id": 32,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "С тобой нужно считаться",
+    "premium": "false",
+    "positive": true,
+    "id": 222
+  },
+  {
+    "preset_id": 32,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你是不可忽视的力量",
+    "premium": "false",
+    "positive": true,
+    "id": 223
+  }
+]

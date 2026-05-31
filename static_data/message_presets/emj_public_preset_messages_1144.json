@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1144,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "What's new?",
+    "premium": "false",
+    "positive": true,
+    "id": 8001
+  },
+  {
+    "preset_id": 1144,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "¿Qué hay de nuevo?",
+    "premium": "false",
+    "positive": true,
+    "id": 8002
+  },
+  {
+    "preset_id": 1144,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Was gibt's Neues?",
+    "premium": "false",
+    "positive": true,
+    "id": 8003
+  },
+  {
+    "preset_id": 1144,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Há novidades?",
+    "premium": "false",
+    "positive": true,
+    "id": 8004
+  },
+  {
+    "preset_id": 1144,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Co nowego?",
+    "premium": "false",
+    "positive": true,
+    "id": 8005
+  },
+  {
+    "preset_id": 1144,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Что нового?",
+    "premium": "false",
+    "positive": true,
+    "id": 8006
+  },
+  {
+    "preset_id": 1144,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "有什么新鲜事?",
+    "premium": "false",
+    "positive": true,
+    "id": 8007
+  }
+]

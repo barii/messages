@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1353,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Small club mentality.",
+    "premium": "true",
+    "positive": true,
+    "id": 9464
+  },
+  {
+    "preset_id": 1353,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Mentalidad de club pequeño.",
+    "premium": "true",
+    "positive": true,
+    "id": 9465
+  },
+  {
+    "preset_id": 1353,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Kleinvereinmentalität.",
+    "premium": "true",
+    "positive": true,
+    "id": 9466
+  },
+  {
+    "preset_id": 1353,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Mentalidade de clube pequeno.",
+    "premium": "true",
+    "positive": true,
+    "id": 9467
+  },
+  {
+    "preset_id": 1353,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Mentalność małego klubu.",
+    "premium": "true",
+    "positive": true,
+    "id": 9468
+  },
+  {
+    "preset_id": 1353,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Менталитет маленького клуба.",
+    "premium": "true",
+    "positive": true,
+    "id": 9469
+  },
+  {
+    "preset_id": 1353,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "小俱乐部心态。",
+    "premium": "true",
+    "positive": true,
+    "id": 9470
+  }
+]

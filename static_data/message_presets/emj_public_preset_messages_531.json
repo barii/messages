@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 531,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "One sec",
+    "premium": "false",
+    "positive": true,
+    "id": 3710
+  },
+  {
+    "preset_id": 531,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Un seg",
+    "premium": "false",
+    "positive": true,
+    "id": 3711
+  },
+  {
+    "preset_id": 531,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Eine Sek",
+    "premium": "false",
+    "positive": true,
+    "id": 3712
+  },
+  {
+    "preset_id": 531,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Um segundo",
+    "premium": "false",
+    "positive": true,
+    "id": 3713
+  },
+  {
+    "preset_id": 531,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Sekunda",
+    "premium": "false",
+    "positive": true,
+    "id": 3714
+  },
+  {
+    "preset_id": 531,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Секунду",
+    "premium": "false",
+    "positive": true,
+    "id": 3715
+  },
+  {
+    "preset_id": 531,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "稍等",
+    "premium": "false",
+    "positive": true,
+    "id": 3716
+  }
+]

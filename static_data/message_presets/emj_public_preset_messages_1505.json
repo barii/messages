@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1505,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We built different.",
+    "premium": "true",
+    "positive": true,
+    "id": 10528
+  },
+  {
+    "preset_id": 1505,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "We built different.",
+    "premium": "true",
+    "positive": true,
+    "id": 10529
+  },
+  {
+    "preset_id": 1505,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "We built different.",
+    "premium": "true",
+    "positive": true,
+    "id": 10530
+  },
+  {
+    "preset_id": 1505,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "We built different.",
+    "premium": "true",
+    "positive": true,
+    "id": 10531
+  },
+  {
+    "preset_id": 1505,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "We built different.",
+    "premium": "true",
+    "positive": true,
+    "id": 10532
+  },
+  {
+    "preset_id": 1505,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "We built different.",
+    "premium": "true",
+    "positive": true,
+    "id": 10533
+  },
+  {
+    "preset_id": 1505,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "We built different.",
+    "premium": "true",
+    "positive": true,
+    "id": 10534
+  }
+]

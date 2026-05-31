@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 895,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I think we should just be friends",
+    "premium": "false",
+    "positive": true,
+    "id": 6258
+  },
+  {
+    "preset_id": 895,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Creo que solo deberíamos ser amigos",
+    "premium": "false",
+    "positive": true,
+    "id": 6259
+  },
+  {
+    "preset_id": 895,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich glaube, wir sollten nur Freunde sein",
+    "premium": "false",
+    "positive": true,
+    "id": 6260
+  },
+  {
+    "preset_id": 895,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Acho que devíamos ser só amigos",
+    "premium": "false",
+    "positive": true,
+    "id": 6261
+  },
+  {
+    "preset_id": 895,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Myślę, że powinniśmy zostać przyjaciółmi",
+    "premium": "false",
+    "positive": true,
+    "id": 6262
+  },
+  {
+    "preset_id": 895,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Думаю, мы должны быть просто друзьями",
+    "premium": "false",
+    "positive": true,
+    "id": 6263
+  },
+  {
+    "preset_id": 895,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我觉得我们应该只是朋友",
+    "premium": "false",
+    "positive": true,
+    "id": 6264
+  }
+]

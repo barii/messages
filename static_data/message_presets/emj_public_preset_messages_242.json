@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 242,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We went to university together",
+    "premium": "true",
+    "positive": true,
+    "id": 1687
+  },
+  {
+    "preset_id": 242,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Fuimos a la universidad juntos",
+    "premium": "true",
+    "positive": true,
+    "id": 1688
+  },
+  {
+    "preset_id": 242,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir waren zusammen an der Uni",
+    "premium": "true",
+    "positive": true,
+    "id": 1689
+  },
+  {
+    "preset_id": 242,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Andámos na universidade juntos",
+    "premium": "true",
+    "positive": true,
+    "id": 1690
+  },
+  {
+    "preset_id": 242,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Chodziliśmy razem na studia",
+    "premium": "true",
+    "positive": true,
+    "id": 1691
+  },
+  {
+    "preset_id": 242,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы учились в университете вместе",
+    "premium": "true",
+    "positive": true,
+    "id": 1692
+  },
+  {
+    "preset_id": 242,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们一起上过大学",
+    "premium": "true",
+    "positive": true,
+    "id": 1693
+  }
+]

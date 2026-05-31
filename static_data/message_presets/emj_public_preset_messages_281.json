@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 281,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We have never actually met",
+    "premium": "false",
+    "positive": true,
+    "id": 1960
+  },
+  {
+    "preset_id": 281,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Nunca nos hemos visto en persona",
+    "premium": "false",
+    "positive": true,
+    "id": 1961
+  },
+  {
+    "preset_id": 281,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir haben uns noch nie persönlich getroffen",
+    "premium": "false",
+    "positive": true,
+    "id": 1962
+  },
+  {
+    "preset_id": 281,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Nunca nos encontrámos pessoalmente",
+    "premium": "false",
+    "positive": true,
+    "id": 1963
+  },
+  {
+    "preset_id": 281,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Nigdy się osobiście nie spotkaliśmy",
+    "premium": "false",
+    "positive": true,
+    "id": 1964
+  },
+  {
+    "preset_id": 281,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы никогда не встречались лично",
+    "premium": "false",
+    "positive": true,
+    "id": 1965
+  },
+  {
+    "preset_id": 281,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们从未真正见过面",
+    "premium": "false",
+    "positive": true,
+    "id": 1966
+  }
+]

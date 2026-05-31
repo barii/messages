@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 943,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Protect your energy",
+    "premium": "false",
+    "positive": true,
+    "id": 6594
+  },
+  {
+    "preset_id": 943,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Protege tu energía",
+    "premium": "false",
+    "positive": true,
+    "id": 6595
+  },
+  {
+    "preset_id": 943,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Schütze deine Energie",
+    "premium": "false",
+    "positive": true,
+    "id": 6596
+  },
+  {
+    "preset_id": 943,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Protege a tua energia",
+    "premium": "false",
+    "positive": true,
+    "id": 6597
+  },
+  {
+    "preset_id": 943,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Chroń swoją energię",
+    "premium": "false",
+    "positive": true,
+    "id": 6598
+  },
+  {
+    "preset_id": 943,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Защищай свою энергию",
+    "premium": "false",
+    "positive": true,
+    "id": 6599
+  },
+  {
+    "preset_id": 943,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "保护你的能量",
+    "premium": "false",
+    "positive": true,
+    "id": 6600
+  }
+]

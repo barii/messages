@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1049,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "I've read receipts on for a reason",
+    "premium": "false",
+    "positive": true,
+    "id": 7336
+  },
+  {
+    "preset_id": 1049,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Tengo las confirmaciones de lectura activadas por algo",
+    "premium": "false",
+    "positive": true,
+    "id": 7337
+  },
+  {
+    "preset_id": 1049,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Ich habe Lesebestätigungen aus einem Grund an",
+    "premium": "false",
+    "positive": true,
+    "id": 7338
+  },
+  {
+    "preset_id": 1049,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Tenho confirmações de leitura ligadas por uma razão",
+    "premium": "false",
+    "positive": true,
+    "id": 7339
+  },
+  {
+    "preset_id": 1049,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Mam włączone potwierdzenia odczytu nie bez powodu",
+    "premium": "false",
+    "positive": true,
+    "id": 7340
+  },
+  {
+    "preset_id": 1049,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "У меня уведомления о прочтении включены не просто так",
+    "premium": "false",
+    "positive": true,
+    "id": 7341
+  },
+  {
+    "preset_id": 1049,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "我开启已读回执是有原因的",
+    "premium": "false",
+    "positive": true,
+    "id": 7342
+  }
+]

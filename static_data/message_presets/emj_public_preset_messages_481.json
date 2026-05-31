@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 481,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Are you serious?",
+    "premium": "false",
+    "positive": true,
+    "id": 3360
+  },
+  {
+    "preset_id": 481,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "¿Es en serio?",
+    "premium": "false",
+    "positive": true,
+    "id": 3361
+  },
+  {
+    "preset_id": 481,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ist das dein Ernst?",
+    "premium": "false",
+    "positive": true,
+    "id": 3362
+  },
+  {
+    "preset_id": 481,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Estás a falar a sério?",
+    "premium": "false",
+    "positive": true,
+    "id": 3363
+  },
+  {
+    "preset_id": 481,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Mówisz poważnie?",
+    "premium": "false",
+    "positive": true,
+    "id": 3364
+  },
+  {
+    "preset_id": 481,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Ты серьёзно?",
+    "premium": "false",
+    "positive": true,
+    "id": 3365
+  },
+  {
+    "preset_id": 481,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "你认真的吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 3366
+  }
+]

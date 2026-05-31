@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 98,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "I'd explain but I don't have the time",
+    "premium": "false",
+    "positive": false,
+    "id": 679
+  },
+  {
+    "preset_id": 98,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Te lo explicaría pero no tengo tiempo",
+    "premium": "false",
+    "positive": false,
+    "id": 680
+  },
+  {
+    "preset_id": 98,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Ich würde es erklären, aber ich habe keine Zeit",
+    "premium": "false",
+    "positive": false,
+    "id": 681
+  },
+  {
+    "preset_id": 98,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Explicava mas não tenho tempo",
+    "premium": "false",
+    "positive": false,
+    "id": 682
+  },
+  {
+    "preset_id": 98,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Wyjaśniłbym, ale nie mam czasu",
+    "premium": "false",
+    "positive": false,
+    "id": 683
+  },
+  {
+    "preset_id": 98,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Я бы объяснил, но у меня нет времени",
+    "premium": "false",
+    "positive": false,
+    "id": 684
+  },
+  {
+    "preset_id": 98,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "我会解释但我没时间",
+    "premium": "false",
+    "positive": false,
+    "id": 685
+  }
+]

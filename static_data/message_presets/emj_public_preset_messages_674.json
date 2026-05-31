@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 674,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Strong disagree",
+    "premium": "false",
+    "positive": true,
+    "id": 4711
+  },
+  {
+    "preset_id": 674,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "En total desacuerdo",
+    "premium": "false",
+    "positive": true,
+    "id": 4712
+  },
+  {
+    "preset_id": 674,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Stimme stark nicht zu",
+    "premium": "false",
+    "positive": true,
+    "id": 4713
+  },
+  {
+    "preset_id": 674,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Discordo fortemente",
+    "premium": "false",
+    "positive": true,
+    "id": 4714
+  },
+  {
+    "preset_id": 674,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Stanowczo się nie zgadzam",
+    "premium": "false",
+    "positive": true,
+    "id": 4715
+  },
+  {
+    "preset_id": 674,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Сильно не согласен",
+    "premium": "false",
+    "positive": true,
+    "id": 4716
+  },
+  {
+    "preset_id": 674,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "强烈不同意",
+    "premium": "false",
+    "positive": true,
+    "id": 4717
+  }
+]

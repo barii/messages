@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1498,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We live rent free in your head.",
+    "premium": "true",
+    "positive": true,
+    "id": 10479
+  },
+  {
+    "preset_id": 1498,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "We live rent free in your head.",
+    "premium": "true",
+    "positive": true,
+    "id": 10480
+  },
+  {
+    "preset_id": 1498,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "We live rent free in your head.",
+    "premium": "true",
+    "positive": true,
+    "id": 10481
+  },
+  {
+    "preset_id": 1498,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "We live rent free in your head.",
+    "premium": "true",
+    "positive": true,
+    "id": 10482
+  },
+  {
+    "preset_id": 1498,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "We live rent free in your head.",
+    "premium": "true",
+    "positive": true,
+    "id": 10483
+  },
+  {
+    "preset_id": 1498,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "We live rent free in your head.",
+    "premium": "true",
+    "positive": true,
+    "id": 10484
+  },
+  {
+    "preset_id": 1498,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "We live rent free in your head.",
+    "premium": "true",
+    "positive": true,
+    "id": 10485
+  }
+]

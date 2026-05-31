@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 67,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "You're not it",
+    "premium": "false",
+    "positive": false,
+    "id": 462
+  },
+  {
+    "preset_id": 67,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "No es lo tuyo",
+    "premium": "false",
+    "positive": false,
+    "id": 463
+  },
+  {
+    "preset_id": 67,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Das ist nicht dein Ding",
+    "premium": "false",
+    "positive": false,
+    "id": 464
+  },
+  {
+    "preset_id": 67,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Não é a tua",
+    "premium": "false",
+    "positive": false,
+    "id": 465
+  },
+  {
+    "preset_id": 67,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "To nie twoja działka",
+    "premium": "false",
+    "positive": false,
+    "id": 466
+  },
+  {
+    "preset_id": 67,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Это не твоё",
+    "premium": "false",
+    "positive": false,
+    "id": 467
+  },
+  {
+    "preset_id": 67,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "这不是你的",
+    "premium": "false",
+    "positive": false,
+    "id": 468
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1202,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "If you were a vegetable you would be a cute-cumber",
+    "premium": "false",
+    "positive": true,
+    "id": 8407
+  },
+  {
+    "preset_id": 1202,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "Si fueras una verdura serías un peeeepino",
+    "premium": "false",
+    "positive": true,
+    "id": 8408
+  },
+  {
+    "preset_id": 1202,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Wenn du ein Gemüse wärst, wärst du eine Schnuckel-Gurke",
+    "premium": "false",
+    "positive": true,
+    "id": 8409
+  },
+  {
+    "preset_id": 1202,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "Se fosses um vegetal serias um pepini-lindo",
+    "premium": "false",
+    "positive": true,
+    "id": 8410
+  },
+  {
+    "preset_id": 1202,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Gdybyś był warzywem, byłbyś słodkim ogóreczkiem",
+    "premium": "false",
+    "positive": true,
+    "id": 8411
+  },
+  {
+    "preset_id": 1202,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Если бы ты был овощем, ты был бы милым огурчиком",
+    "premium": "false",
+    "positive": true,
+    "id": 8412
+  },
+  {
+    "preset_id": 1202,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "如果你是蔬菜,你就是个可爱小黄瓜",
+    "premium": "false",
+    "positive": true,
+    "id": 8413
+  }
+]

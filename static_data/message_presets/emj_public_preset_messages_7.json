@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 7,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "Your energy is contagious",
+    "premium": "false",
+    "positive": true,
+    "id": 42
+  },
+  {
+    "preset_id": 7,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Tu energía es contagiosa",
+    "premium": "false",
+    "positive": true,
+    "id": 43
+  },
+  {
+    "preset_id": 7,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Deine Energie ist ansteckend",
+    "premium": "false",
+    "positive": true,
+    "id": 44
+  },
+  {
+    "preset_id": 7,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "A tua energia é contagiante",
+    "premium": "false",
+    "positive": true,
+    "id": 45
+  },
+  {
+    "preset_id": 7,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Twoja energia jest zaraźliwa",
+    "premium": "false",
+    "positive": true,
+    "id": 46
+  },
+  {
+    "preset_id": 7,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Твоя энергия заразительна",
+    "premium": "false",
+    "positive": true,
+    "id": 47
+  },
+  {
+    "preset_id": 7,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你的能量有感染力",
+    "premium": "false",
+    "positive": true,
+    "id": 48
+  }
+]

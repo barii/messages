@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 808,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I see you",
+    "premium": "false",
+    "positive": true,
+    "id": 5649
+  },
+  {
+    "preset_id": 808,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Te veo",
+    "premium": "false",
+    "positive": true,
+    "id": 5650
+  },
+  {
+    "preset_id": 808,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Ich sehe dich",
+    "premium": "false",
+    "positive": true,
+    "id": 5651
+  },
+  {
+    "preset_id": 808,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Estou a ver-te",
+    "premium": "false",
+    "positive": true,
+    "id": 5652
+  },
+  {
+    "preset_id": 808,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Widzę cię",
+    "premium": "false",
+    "positive": true,
+    "id": 5653
+  },
+  {
+    "preset_id": 808,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Я тебя вижу",
+    "premium": "false",
+    "positive": true,
+    "id": 5654
+  },
+  {
+    "preset_id": 808,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我看到你了",
+    "premium": "false",
+    "positive": true,
+    "id": 5655
+  }
+]

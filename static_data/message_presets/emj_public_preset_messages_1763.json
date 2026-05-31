@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1763,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Is your QB on vacation?",
+    "premium": "false",
+    "positive": true,
+    "id": 12334
+  },
+  {
+    "preset_id": 1763,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Is your QB on vacation?",
+    "premium": "false",
+    "positive": true,
+    "id": 12335
+  },
+  {
+    "preset_id": 1763,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Is your QB on vacation?",
+    "premium": "false",
+    "positive": true,
+    "id": 12336
+  },
+  {
+    "preset_id": 1763,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Is your QB on vacation?",
+    "premium": "false",
+    "positive": true,
+    "id": 12337
+  },
+  {
+    "preset_id": 1763,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Is your QB on vacation?",
+    "premium": "false",
+    "positive": true,
+    "id": 12338
+  },
+  {
+    "preset_id": 1763,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Is your QB on vacation?",
+    "premium": "false",
+    "positive": true,
+    "id": 12339
+  },
+  {
+    "preset_id": 1763,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Is your QB on vacation?",
+    "premium": "false",
+    "positive": true,
+    "id": 12340
+  }
+]

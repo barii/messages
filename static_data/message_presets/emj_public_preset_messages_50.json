@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 50,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're the friend everyone wishes they had",
+    "premium": "false",
+    "positive": true,
+    "id": 343
+  },
+  {
+    "preset_id": 50,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres el amigo que todos querrían tener",
+    "premium": "false",
+    "positive": true,
+    "id": 344
+  },
+  {
+    "preset_id": 50,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist der Freund, den sich jeder wünscht",
+    "premium": "false",
+    "positive": true,
+    "id": 345
+  },
+  {
+    "preset_id": 50,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És o amigo que toda a gente desejava ter",
+    "premium": "false",
+    "positive": true,
+    "id": 346
+  },
+  {
+    "preset_id": 50,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś przyjacielem, jakiego każdy chciałby mieć",
+    "premium": "false",
+    "positive": true,
+    "id": 347
+  },
+  {
+    "preset_id": 50,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты тот друг, которого все хотели бы иметь",
+    "premium": "false",
+    "positive": true,
+    "id": 348
+  },
+  {
+    "preset_id": 50,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你是每个人都希望拥有的朋友",
+    "premium": "false",
+    "positive": true,
+    "id": 349
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 503,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Same old same old",
+    "premium": "false",
+    "positive": true,
+    "id": 3514
+  },
+  {
+    "preset_id": 503,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Lo de siempre",
+    "premium": "false",
+    "positive": true,
+    "id": 3515
+  },
+  {
+    "preset_id": 503,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Alles wie immer",
+    "premium": "false",
+    "positive": true,
+    "id": 3516
+  },
+  {
+    "preset_id": 503,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Sempre na mesma",
+    "premium": "false",
+    "positive": true,
+    "id": 3517
+  },
+  {
+    "preset_id": 503,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Jak zawsze",
+    "premium": "false",
+    "positive": true,
+    "id": 3518
+  },
+  {
+    "preset_id": 503,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Как всегда",
+    "premium": "false",
+    "positive": true,
+    "id": 3519
+  },
+  {
+    "preset_id": 503,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "老样子",
+    "premium": "false",
+    "positive": true,
+    "id": 3520
+  }
+]

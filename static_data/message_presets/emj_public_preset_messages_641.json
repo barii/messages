@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 641,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Sorry isn't enough",
+    "premium": "false",
+    "positive": true,
+    "id": 4480
+  },
+  {
+    "preset_id": 641,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Lo siento no es suficiente",
+    "premium": "false",
+    "positive": true,
+    "id": 4481
+  },
+  {
+    "preset_id": 641,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Es tut mir leid reicht nicht",
+    "premium": "false",
+    "positive": true,
+    "id": 4482
+  },
+  {
+    "preset_id": 641,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Desculpa não chega",
+    "premium": "false",
+    "positive": true,
+    "id": 4483
+  },
+  {
+    "preset_id": 641,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Sorry to za mało",
+    "premium": "false",
+    "positive": true,
+    "id": 4484
+  },
+  {
+    "preset_id": 641,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Извинений недостаточно",
+    "premium": "false",
+    "positive": true,
+    "id": 4485
+  },
+  {
+    "preset_id": 641,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "对不起不够",
+    "premium": "false",
+    "positive": true,
+    "id": 4486
+  }
+]

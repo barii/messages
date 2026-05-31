@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1693,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Easy out, easy out!",
+    "premium": "true",
+    "positive": true,
+    "id": 11844
+  },
+  {
+    "preset_id": 1693,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Easy out, easy out!",
+    "premium": "true",
+    "positive": true,
+    "id": 11845
+  },
+  {
+    "preset_id": 1693,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Easy out, easy out!",
+    "premium": "true",
+    "positive": true,
+    "id": 11846
+  },
+  {
+    "preset_id": 1693,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Easy out, easy out!",
+    "premium": "true",
+    "positive": true,
+    "id": 11847
+  },
+  {
+    "preset_id": 1693,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Easy out, easy out!",
+    "premium": "true",
+    "positive": true,
+    "id": 11848
+  },
+  {
+    "preset_id": 1693,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Easy out, easy out!",
+    "premium": "true",
+    "positive": true,
+    "id": 11849
+  },
+  {
+    "preset_id": 1693,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Easy out, easy out!",
+    "premium": "true",
+    "positive": true,
+    "id": 11850
+  }
+]

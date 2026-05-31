@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 685,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Thanks so much",
+    "premium": "false",
+    "positive": true,
+    "id": 4788
+  },
+  {
+    "preset_id": 685,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Mil gracias",
+    "premium": "false",
+    "positive": true,
+    "id": 4789
+  },
+  {
+    "preset_id": 685,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Danke vielmals",
+    "premium": "false",
+    "positive": true,
+    "id": 4790
+  },
+  {
+    "preset_id": 685,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Muito obrigado",
+    "premium": "false",
+    "positive": true,
+    "id": 4791
+  },
+  {
+    "preset_id": 685,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Wielkie dzięki",
+    "premium": "false",
+    "positive": true,
+    "id": 4792
+  },
+  {
+    "preset_id": 685,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Спасибо большое",
+    "premium": "false",
+    "positive": true,
+    "id": 4793
+  },
+  {
+    "preset_id": 685,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "万分感谢",
+    "premium": "false",
+    "positive": true,
+    "id": 4794
+  }
+]

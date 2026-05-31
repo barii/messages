@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 267,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We just met",
+    "premium": "false",
+    "positive": true,
+    "id": 1862
+  },
+  {
+    "preset_id": 267,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Acabamos de conocernos",
+    "premium": "false",
+    "positive": true,
+    "id": 1863
+  },
+  {
+    "preset_id": 267,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir haben uns gerade erst kennengelernt",
+    "premium": "false",
+    "positive": true,
+    "id": 1864
+  },
+  {
+    "preset_id": 267,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Acabámos de nos conhecer",
+    "premium": "false",
+    "positive": true,
+    "id": 1865
+  },
+  {
+    "preset_id": 267,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Dopiero się poznaliśmy",
+    "premium": "false",
+    "positive": true,
+    "id": 1866
+  },
+  {
+    "preset_id": 267,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы только что познакомились",
+    "premium": "false",
+    "positive": true,
+    "id": 1867
+  },
+  {
+    "preset_id": 267,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们刚认识",
+    "premium": "false",
+    "positive": true,
+    "id": 1868
+  }
+]

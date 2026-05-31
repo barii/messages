@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1694,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "You call that a pitch?",
+    "premium": "false",
+    "positive": true,
+    "id": 11851
+  },
+  {
+    "preset_id": 1694,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "You call that a pitch?",
+    "premium": "false",
+    "positive": true,
+    "id": 11852
+  },
+  {
+    "preset_id": 1694,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "You call that a pitch?",
+    "premium": "false",
+    "positive": true,
+    "id": 11853
+  },
+  {
+    "preset_id": 1694,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "You call that a pitch?",
+    "premium": "false",
+    "positive": true,
+    "id": 11854
+  },
+  {
+    "preset_id": 1694,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "You call that a pitch?",
+    "premium": "false",
+    "positive": true,
+    "id": 11855
+  },
+  {
+    "preset_id": 1694,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "You call that a pitch?",
+    "premium": "false",
+    "positive": true,
+    "id": 11856
+  },
+  {
+    "preset_id": 1694,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "You call that a pitch?",
+    "premium": "false",
+    "positive": true,
+    "id": 11857
+  }
+]

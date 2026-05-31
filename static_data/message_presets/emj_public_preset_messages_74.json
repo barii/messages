@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 74,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "Always so extra",
+    "premium": "false",
+    "positive": false,
+    "id": 511
+  },
+  {
+    "preset_id": 74,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Siempre tan exagerado",
+    "premium": "false",
+    "positive": false,
+    "id": 512
+  },
+  {
+    "preset_id": 74,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Immer so übertrieben",
+    "premium": "false",
+    "positive": false,
+    "id": 513
+  },
+  {
+    "preset_id": 74,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Sempre tão exagerado",
+    "premium": "false",
+    "positive": false,
+    "id": 514
+  },
+  {
+    "preset_id": 74,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Zawsze taki przesadzony",
+    "premium": "false",
+    "positive": false,
+    "id": 515
+  },
+  {
+    "preset_id": 74,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Всегда такой переигрывающий",
+    "premium": "false",
+    "positive": false,
+    "id": 516
+  },
+  {
+    "preset_id": 74,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "总是这么做戏",
+    "premium": "false",
+    "positive": false,
+    "id": 517
+  }
+]

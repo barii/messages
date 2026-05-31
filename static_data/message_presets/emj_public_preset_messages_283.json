@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 283,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "Ask me to reveal myself if you want to know",
+    "premium": "true",
+    "positive": true,
+    "id": 1974
+  },
+  {
+    "preset_id": 283,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Pídeme que me revele si quieres saber",
+    "premium": "true",
+    "positive": true,
+    "id": 1975
+  },
+  {
+    "preset_id": 283,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Bitte mich, mich zu offenbaren, wenn du es wissen willst",
+    "premium": "true",
+    "positive": true,
+    "id": 1976
+  },
+  {
+    "preset_id": 283,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Pede-me para me revelar se quiseres saber",
+    "premium": "true",
+    "positive": true,
+    "id": 1977
+  },
+  {
+    "preset_id": 283,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Poproś mnie, abym się ujawnił, jeśli chcesz wiedzieć",
+    "premium": "true",
+    "positive": true,
+    "id": 1978
+  },
+  {
+    "preset_id": 283,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Попроси меня раскрыться, если хочешь знать",
+    "premium": "true",
+    "positive": true,
+    "id": 1979
+  },
+  {
+    "preset_id": 283,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "如果你想知道就让我揭晓",
+    "premium": "true",
+    "positive": true,
+    "id": 1980
+  }
+]

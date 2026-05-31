@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1060,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "I love how our manager handles things",
+    "premium": "false",
+    "positive": true,
+    "id": 7413
+  },
+  {
+    "preset_id": 1060,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Me encanta cómo nuestro gerente maneja las cosas",
+    "premium": "false",
+    "positive": true,
+    "id": 7414
+  },
+  {
+    "preset_id": 1060,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Ich liebe, wie unser Manager Dinge handhabt",
+    "premium": "false",
+    "positive": true,
+    "id": 7415
+  },
+  {
+    "preset_id": 1060,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Adoro como o nosso gerente lida com as coisas",
+    "premium": "false",
+    "positive": true,
+    "id": 7416
+  },
+  {
+    "preset_id": 1060,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Uwielbiam, jak nasz menedżer prowadzi sprawy",
+    "premium": "false",
+    "positive": true,
+    "id": 7417
+  },
+  {
+    "preset_id": 1060,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Мне нравится, как наш менеджер ведёт дела",
+    "premium": "false",
+    "positive": true,
+    "id": 7418
+  },
+  {
+    "preset_id": 1060,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "我喜欢我们经理处理事情的方式",
+    "premium": "false",
+    "positive": true,
+    "id": 7419
+  }
+]

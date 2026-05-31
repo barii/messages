@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 971,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Start with the easiest thing",
+    "premium": "false",
+    "positive": true,
+    "id": 6790
+  },
+  {
+    "preset_id": 971,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Empieza por lo más fácil",
+    "premium": "false",
+    "positive": true,
+    "id": 6791
+  },
+  {
+    "preset_id": 971,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Beginne mit dem Einfachsten",
+    "premium": "false",
+    "positive": true,
+    "id": 6792
+  },
+  {
+    "preset_id": 971,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Começa pelo mais fácil",
+    "premium": "false",
+    "positive": true,
+    "id": 6793
+  },
+  {
+    "preset_id": 971,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Zacznij od najłatwiejszej rzeczy",
+    "premium": "false",
+    "positive": true,
+    "id": 6794
+  },
+  {
+    "preset_id": 971,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Начни с самого лёгкого",
+    "premium": "false",
+    "positive": true,
+    "id": 6795
+  },
+  {
+    "preset_id": 971,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "从最简单的开始",
+    "premium": "false",
+    "positive": true,
+    "id": 6796
+  }
+]

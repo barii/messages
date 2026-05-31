@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 40,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "I look up to you",
+    "premium": "false",
+    "positive": true,
+    "id": 273
+  },
+  {
+    "preset_id": 40,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Te admiro",
+    "premium": "false",
+    "positive": true,
+    "id": 274
+  },
+  {
+    "preset_id": 40,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Ich schaue zu dir auf",
+    "premium": "false",
+    "positive": true,
+    "id": 275
+  },
+  {
+    "preset_id": 40,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Tenho-te em grande conta",
+    "premium": "false",
+    "positive": true,
+    "id": 276
+  },
+  {
+    "preset_id": 40,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Patrzę na ciebie z podziwem",
+    "premium": "false",
+    "positive": true,
+    "id": 277
+  },
+  {
+    "preset_id": 40,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Я смотрю на тебя снизу вверх",
+    "premium": "false",
+    "positive": true,
+    "id": 278
+  },
+  {
+    "preset_id": 40,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "我仰慕你",
+    "premium": "false",
+    "positive": true,
+    "id": 279
+  }
+]

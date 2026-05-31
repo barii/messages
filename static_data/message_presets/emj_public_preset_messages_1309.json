@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1309,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You got battered.",
+    "premium": "false",
+    "positive": true,
+    "id": 9156
+  },
+  {
+    "preset_id": 1309,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Os han apaleado.",
+    "premium": "false",
+    "positive": true,
+    "id": 9157
+  },
+  {
+    "preset_id": 1309,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr seid abgezogen worden.",
+    "premium": "false",
+    "positive": true,
+    "id": 9158
+  },
+  {
+    "preset_id": 1309,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Levaram uma sova.",
+    "premium": "false",
+    "positive": true,
+    "id": 9159
+  },
+  {
+    "preset_id": 1309,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Dostaliście łomot.",
+    "premium": "false",
+    "positive": true,
+    "id": 9160
+  },
+  {
+    "preset_id": 1309,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Вас разгромили.",
+    "premium": "false",
+    "positive": true,
+    "id": 9161
+  },
+  {
+    "preset_id": 1309,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们被痛打了。",
+    "premium": "false",
+    "positive": true,
+    "id": 9162
+  }
+]

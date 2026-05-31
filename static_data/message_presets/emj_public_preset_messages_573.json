@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 573,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Kind of",
+    "premium": "false",
+    "positive": true,
+    "id": 4004
+  },
+  {
+    "preset_id": 573,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Algo así",
+    "premium": "false",
+    "positive": true,
+    "id": 4005
+  },
+  {
+    "preset_id": 573,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Irgendwie",
+    "premium": "false",
+    "positive": true,
+    "id": 4006
+  },
+  {
+    "preset_id": 573,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Tipo",
+    "premium": "false",
+    "positive": true,
+    "id": 4007
+  },
+  {
+    "preset_id": 573,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Tak jakby",
+    "premium": "false",
+    "positive": true,
+    "id": 4008
+  },
+  {
+    "preset_id": 573,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Типа",
+    "premium": "false",
+    "positive": true,
+    "id": 4009
+  },
+  {
+    "preset_id": 573,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "有点",
+    "premium": "false",
+    "positive": true,
+    "id": 4010
+  }
+]

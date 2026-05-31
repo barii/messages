@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 900,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I have liked you for a while too",
+    "premium": "false",
+    "positive": true,
+    "id": 6293
+  },
+  {
+    "preset_id": 900,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "También me gustas desde hace tiempo",
+    "premium": "false",
+    "positive": true,
+    "id": 6294
+  },
+  {
+    "preset_id": 900,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich mag dich auch schon eine Weile",
+    "premium": "false",
+    "positive": true,
+    "id": 6295
+  },
+  {
+    "preset_id": 900,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Também gosto de ti há algum tempo",
+    "premium": "false",
+    "positive": true,
+    "id": 6296
+  },
+  {
+    "preset_id": 900,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Też cię lubię od jakiegoś czasu",
+    "premium": "false",
+    "positive": true,
+    "id": 6297
+  },
+  {
+    "preset_id": 900,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты мне тоже давно нравишься",
+    "premium": "false",
+    "positive": true,
+    "id": 6298
+  },
+  {
+    "preset_id": 900,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我也喜欢你有一段时间了",
+    "premium": "false",
+    "positive": true,
+    "id": 6299
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 122,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you anxious?",
+    "premium": "false",
+    "positive": true,
+    "id": 847
+  },
+  {
+    "preset_id": 122,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Tienes ansiedad?",
+    "premium": "false",
+    "positive": true,
+    "id": 848
+  },
+  {
+    "preset_id": 122,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du ängstlich?",
+    "premium": "false",
+    "positive": true,
+    "id": 849
+  },
+  {
+    "preset_id": 122,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás ansioso?",
+    "premium": "false",
+    "positive": true,
+    "id": 850
+  },
+  {
+    "preset_id": 122,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Czujesz niepokój?",
+    "premium": "false",
+    "positive": true,
+    "id": 851
+  },
+  {
+    "preset_id": 122,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Тревожно?",
+    "premium": "false",
+    "positive": true,
+    "id": 852
+  },
+  {
+    "preset_id": 122,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你焦虑吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 853
+  }
+]

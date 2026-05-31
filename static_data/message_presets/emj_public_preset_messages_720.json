@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 720,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Aw that's so cute",
+    "premium": "false",
+    "positive": true,
+    "id": 5033
+  },
+  {
+    "preset_id": 720,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Aww qué tierno",
+    "premium": "false",
+    "positive": true,
+    "id": 5034
+  },
+  {
+    "preset_id": 720,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Aw das ist so süß",
+    "premium": "false",
+    "positive": true,
+    "id": 5035
+  },
+  {
+    "preset_id": 720,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Aww que querido",
+    "premium": "false",
+    "positive": true,
+    "id": 5036
+  },
+  {
+    "preset_id": 720,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Aww jakie to słodkie",
+    "premium": "false",
+    "positive": true,
+    "id": 5037
+  },
+  {
+    "preset_id": 720,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Аввв как мило",
+    "premium": "false",
+    "positive": true,
+    "id": 5038
+  },
+  {
+    "preset_id": 720,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "啊真可爱",
+    "premium": "false",
+    "positive": true,
+    "id": 5039
+  }
+]

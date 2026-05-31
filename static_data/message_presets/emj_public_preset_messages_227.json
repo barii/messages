@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 227,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "I'll give you three guesses",
+    "premium": "false",
+    "positive": true,
+    "id": 1582
+  },
+  {
+    "preset_id": 227,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Te doy tres oportunidades",
+    "premium": "false",
+    "positive": true,
+    "id": 1583
+  },
+  {
+    "preset_id": 227,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Ich gebe dir drei Versuche",
+    "premium": "false",
+    "positive": true,
+    "id": 1584
+  },
+  {
+    "preset_id": 227,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Dou-te três tentativas",
+    "premium": "false",
+    "positive": true,
+    "id": 1585
+  },
+  {
+    "preset_id": 227,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Dam ci trzy próby",
+    "premium": "false",
+    "positive": true,
+    "id": 1586
+  },
+  {
+    "preset_id": 227,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Я дам тебе три попытки",
+    "premium": "false",
+    "positive": true,
+    "id": 1587
+  },
+  {
+    "preset_id": 227,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我给你三次机会",
+    "premium": "false",
+    "positive": true,
+    "id": 1588
+  }
+]

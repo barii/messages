@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 670,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Do what you want",
+    "premium": "false",
+    "positive": true,
+    "id": 4683
+  },
+  {
+    "preset_id": 670,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Haz lo que quieras",
+    "premium": "false",
+    "positive": true,
+    "id": 4684
+  },
+  {
+    "preset_id": 670,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Mach was du willst",
+    "premium": "false",
+    "positive": true,
+    "id": 4685
+  },
+  {
+    "preset_id": 670,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Faz o que quiseres",
+    "premium": "false",
+    "positive": true,
+    "id": 4686
+  },
+  {
+    "preset_id": 670,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Rób, co chcesz",
+    "premium": "false",
+    "positive": true,
+    "id": 4687
+  },
+  {
+    "preset_id": 670,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Делай что хочешь",
+    "premium": "false",
+    "positive": true,
+    "id": 4688
+  },
+  {
+    "preset_id": 670,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "随你便",
+    "premium": "false",
+    "positive": true,
+    "id": 4689
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1510,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We don't just talk, we win.",
+    "premium": "false",
+    "positive": true,
+    "id": 10563
+  },
+  {
+    "preset_id": 1510,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "No solo hablamos, ganamos.",
+    "premium": "false",
+    "positive": true,
+    "id": 10564
+  },
+  {
+    "preset_id": 1510,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir reden nicht nur, wir gewinnen.",
+    "premium": "false",
+    "positive": true,
+    "id": 10565
+  },
+  {
+    "preset_id": 1510,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Não só falamos, ganhamos.",
+    "premium": "false",
+    "positive": true,
+    "id": 10566
+  },
+  {
+    "preset_id": 1510,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Nie tylko gadamy, my wygrywamy.",
+    "premium": "false",
+    "positive": true,
+    "id": 10567
+  },
+  {
+    "preset_id": 1510,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Мы не просто говорим, мы выигрываем.",
+    "premium": "false",
+    "positive": true,
+    "id": 10568
+  },
+  {
+    "preset_id": 1510,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们不只是嘴上说,我们真的赢。",
+    "premium": "false",
+    "positive": true,
+    "id": 10569
+  }
+]

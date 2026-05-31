@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 722,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "That's so sweet",
+    "premium": "false",
+    "positive": true,
+    "id": 5047
+  },
+  {
+    "preset_id": 722,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Qué dulce",
+    "premium": "false",
+    "positive": true,
+    "id": 5048
+  },
+  {
+    "preset_id": 722,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Das ist so süß",
+    "premium": "false",
+    "positive": true,
+    "id": 5049
+  },
+  {
+    "preset_id": 722,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Que querido",
+    "premium": "false",
+    "positive": true,
+    "id": 5050
+  },
+  {
+    "preset_id": 722,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "To takie słodkie",
+    "premium": "false",
+    "positive": true,
+    "id": 5051
+  },
+  {
+    "preset_id": 722,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Это так мило",
+    "premium": "false",
+    "positive": true,
+    "id": 5052
+  },
+  {
+    "preset_id": 722,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "太贴心了",
+    "premium": "false",
+    "positive": true,
+    "id": 5053
+  }
+]

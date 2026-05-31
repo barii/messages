@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 166,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Can I tell you a secret?",
+    "premium": "false",
+    "positive": true,
+    "id": 1155
+  },
+  {
+    "preset_id": 166,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Puedo contarte un secreto?",
+    "premium": "false",
+    "positive": true,
+    "id": 1156
+  },
+  {
+    "preset_id": 166,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Kann ich dir ein Geheimnis erzählen?",
+    "premium": "false",
+    "positive": true,
+    "id": 1157
+  },
+  {
+    "preset_id": 166,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Posso contar-te um segredo?",
+    "premium": "false",
+    "positive": true,
+    "id": 1158
+  },
+  {
+    "preset_id": 166,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Mogę ci zdradzić sekret?",
+    "premium": "false",
+    "positive": true,
+    "id": 1159
+  },
+  {
+    "preset_id": 166,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Можно рассказать тебе секрет?",
+    "premium": "false",
+    "positive": true,
+    "id": 1160
+  },
+  {
+    "preset_id": 166,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我能告诉你一个秘密吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1161
+  }
+]

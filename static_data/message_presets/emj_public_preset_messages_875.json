@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 875,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "Are you single?",
+    "premium": "false",
+    "positive": true,
+    "id": 6118
+  },
+  {
+    "preset_id": 875,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "¿Estás soltero?",
+    "premium": "false",
+    "positive": true,
+    "id": 6119
+  },
+  {
+    "preset_id": 875,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Bist du Single?",
+    "premium": "false",
+    "positive": true,
+    "id": 6120
+  },
+  {
+    "preset_id": 875,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Estás solteiro?",
+    "premium": "false",
+    "positive": true,
+    "id": 6121
+  },
+  {
+    "preset_id": 875,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Jesteś singlem?",
+    "premium": "false",
+    "positive": true,
+    "id": 6122
+  },
+  {
+    "preset_id": 875,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты свободен?",
+    "premium": "false",
+    "positive": true,
+    "id": 6123
+  },
+  {
+    "preset_id": 875,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你单身吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 6124
+  }
+]

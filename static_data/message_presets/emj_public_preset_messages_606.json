@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 606,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I didn't realize",
+    "premium": "false",
+    "positive": true,
+    "id": 4235
+  },
+  {
+    "preset_id": 606,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "No me había dado cuenta",
+    "premium": "false",
+    "positive": true,
+    "id": 4236
+  },
+  {
+    "preset_id": 606,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Mir war das nicht klar",
+    "premium": "false",
+    "positive": true,
+    "id": 4237
+  },
+  {
+    "preset_id": 606,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Não tinha percebido",
+    "premium": "false",
+    "positive": true,
+    "id": 4238
+  },
+  {
+    "preset_id": 606,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Nie zdawałem sobie sprawy",
+    "premium": "false",
+    "positive": true,
+    "id": 4239
+  },
+  {
+    "preset_id": 606,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Я не осознавал",
+    "premium": "false",
+    "positive": true,
+    "id": 4240
+  },
+  {
+    "preset_id": 606,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我没意识到",
+    "premium": "false",
+    "positive": true,
+    "id": 4241
+  }
+]

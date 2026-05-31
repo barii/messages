@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 139,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Did you forget about me?",
+    "premium": "false",
+    "positive": true,
+    "id": 966
+  },
+  {
+    "preset_id": 139,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Te has olvidado de mí?",
+    "premium": "false",
+    "positive": true,
+    "id": 967
+  },
+  {
+    "preset_id": 139,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Hast du mich vergessen?",
+    "premium": "false",
+    "positive": true,
+    "id": 968
+  },
+  {
+    "preset_id": 139,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Esqueceste-te de mim?",
+    "premium": "false",
+    "positive": true,
+    "id": 969
+  },
+  {
+    "preset_id": 139,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Zapomniałeś o mnie?",
+    "premium": "false",
+    "positive": true,
+    "id": 970
+  },
+  {
+    "preset_id": 139,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты забыл обо мне?",
+    "premium": "false",
+    "positive": true,
+    "id": 971
+  },
+  {
+    "preset_id": 139,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你忘了我吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 972
+  }
+]

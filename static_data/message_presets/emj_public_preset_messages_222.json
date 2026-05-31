@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 222,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are we okay?",
+    "premium": "false",
+    "positive": true,
+    "id": 1547
+  },
+  {
+    "preset_id": 222,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Estamos bien?",
+    "premium": "false",
+    "positive": true,
+    "id": 1548
+  },
+  {
+    "preset_id": 222,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Ist alles okay zwischen uns?",
+    "premium": "false",
+    "positive": true,
+    "id": 1549
+  },
+  {
+    "preset_id": 222,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estamos bem?",
+    "premium": "false",
+    "positive": true,
+    "id": 1550
+  },
+  {
+    "preset_id": 222,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Wszystko między nami w porządku?",
+    "premium": "false",
+    "positive": true,
+    "id": 1551
+  },
+  {
+    "preset_id": 222,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "У нас всё ок?",
+    "premium": "false",
+    "positive": true,
+    "id": 1552
+  },
+  {
+    "preset_id": 222,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我们之间没事吧?",
+    "premium": "false",
+    "positive": true,
+    "id": 1553
+  }
+]

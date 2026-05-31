@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1197,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Hope yours is special too",
+    "premium": "false",
+    "positive": true,
+    "id": 8372
+  },
+  {
+    "preset_id": 1197,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Espero que el tuyo sea especial también",
+    "premium": "false",
+    "positive": true,
+    "id": 8373
+  },
+  {
+    "preset_id": 1197,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Hoffe, deins ist auch besonders",
+    "premium": "false",
+    "positive": true,
+    "id": 8374
+  },
+  {
+    "preset_id": 1197,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Espero que o teu seja especial também",
+    "premium": "false",
+    "positive": true,
+    "id": 8375
+  },
+  {
+    "preset_id": 1197,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Mam nadzieję, że twoje też jest wyjątkowe",
+    "premium": "false",
+    "positive": true,
+    "id": 8376
+  },
+  {
+    "preset_id": 1197,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "Надеюсь, твой тоже особенный",
+    "premium": "false",
+    "positive": true,
+    "id": 8377
+  },
+  {
+    "preset_id": 1197,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "希望你的也很特别",
+    "premium": "false",
+    "positive": true,
+    "id": 8378
+  }
+]

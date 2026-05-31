@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1514,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "While you were talking, we were winning.",
+    "premium": "true",
+    "positive": true,
+    "id": 10591
+  },
+  {
+    "preset_id": 1514,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Mientras vosotros hablabais, nosotros ganábamos.",
+    "premium": "true",
+    "positive": true,
+    "id": 10592
+  },
+  {
+    "preset_id": 1514,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Während ihr geredet habt, haben wir gewonnen.",
+    "premium": "true",
+    "positive": true,
+    "id": 10593
+  },
+  {
+    "preset_id": 1514,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Enquanto vocês falavam, nós ganhávamos.",
+    "premium": "true",
+    "positive": true,
+    "id": 10594
+  },
+  {
+    "preset_id": 1514,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Podczas gdy wy gadaliście, my wygrywaliśmy.",
+    "premium": "true",
+    "positive": true,
+    "id": 10595
+  },
+  {
+    "preset_id": 1514,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Пока вы говорили, мы выигрывали.",
+    "premium": "true",
+    "positive": true,
+    "id": 10596
+  },
+  {
+    "preset_id": 1514,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "你们在说话的时候,我们在赢球。",
+    "premium": "true",
+    "positive": true,
+    "id": 10597
+  }
+]

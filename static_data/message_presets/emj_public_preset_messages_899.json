@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 899,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I've been waiting to hear you say that",
+    "premium": "false",
+    "positive": true,
+    "id": 6286
+  },
+  {
+    "preset_id": 899,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "He estado esperando a que dijeras eso",
+    "premium": "false",
+    "positive": true,
+    "id": 6287
+  },
+  {
+    "preset_id": 899,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich habe darauf gewartet, dass du das sagst",
+    "premium": "false",
+    "positive": true,
+    "id": 6288
+  },
+  {
+    "preset_id": 899,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Tenho estado à espera que dissesses isso",
+    "premium": "false",
+    "positive": true,
+    "id": 6289
+  },
+  {
+    "preset_id": 899,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Czekałem, aż to powiesz",
+    "premium": "false",
+    "positive": true,
+    "id": 6290
+  },
+  {
+    "preset_id": 899,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Я ждал, когда ты это скажешь",
+    "premium": "false",
+    "positive": true,
+    "id": 6291
+  },
+  {
+    "preset_id": 899,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我一直在等你说这个",
+    "premium": "false",
+    "positive": true,
+    "id": 6292
+  }
+]

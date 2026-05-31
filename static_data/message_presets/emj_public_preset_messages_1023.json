@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1023,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "You deserve a raise honestly",
+    "premium": "true",
+    "positive": true,
+    "id": 7154
+  },
+  {
+    "preset_id": 1023,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Te mereces un aumento, en serio",
+    "premium": "true",
+    "positive": true,
+    "id": 7155
+  },
+  {
+    "preset_id": 1023,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Du verdienst ehrlich eine Gehaltserhöhung",
+    "premium": "true",
+    "positive": true,
+    "id": 7156
+  },
+  {
+    "preset_id": 1023,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Mereces um aumento, a sério",
+    "premium": "true",
+    "positive": true,
+    "id": 7157
+  },
+  {
+    "preset_id": 1023,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Naprawdę zasługujesz na podwyżkę",
+    "premium": "true",
+    "positive": true,
+    "id": 7158
+  },
+  {
+    "preset_id": 1023,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Ты заслуживаешь повышение, честно",
+    "premium": "true",
+    "positive": true,
+    "id": 7159
+  },
+  {
+    "preset_id": 1023,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "说实话你应该加薪",
+    "premium": "true",
+    "positive": true,
+    "id": 7160
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 968,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Make a list, it will help",
+    "premium": "false",
+    "positive": true,
+    "id": 6769
+  },
+  {
+    "preset_id": 968,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Haz una lista, te ayudará",
+    "premium": "false",
+    "positive": true,
+    "id": 6770
+  },
+  {
+    "preset_id": 968,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Mach eine Liste, das hilft",
+    "premium": "false",
+    "positive": true,
+    "id": 6771
+  },
+  {
+    "preset_id": 968,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Faz uma lista, vai ajudar",
+    "premium": "false",
+    "positive": true,
+    "id": 6772
+  },
+  {
+    "preset_id": 968,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Zrób listę, to pomoże",
+    "premium": "false",
+    "positive": true,
+    "id": 6773
+  },
+  {
+    "preset_id": 968,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Составь список, это поможет",
+    "premium": "false",
+    "positive": true,
+    "id": 6774
+  },
+  {
+    "preset_id": 968,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "列个清单,会有帮助",
+    "premium": "false",
+    "positive": true,
+    "id": 6775
+  }
+]

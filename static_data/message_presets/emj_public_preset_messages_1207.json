@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1207,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "Are you a campfire because you're hot and I want some s'mores?",
+    "premium": "true",
+    "positive": true,
+    "id": 8442
+  },
+  {
+    "preset_id": 1207,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "¿Eres una fogata? Porque estás caliente y quiero acercarme",
+    "premium": "true",
+    "positive": true,
+    "id": 8443
+  },
+  {
+    "preset_id": 1207,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Bist du ein Lagerfeuer? Denn du bist heiß und ich will näher ran",
+    "premium": "true",
+    "positive": true,
+    "id": 8444
+  },
+  {
+    "preset_id": 1207,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "És uma fogueira? Porque és quente e quero chegar perto",
+    "premium": "true",
+    "positive": true,
+    "id": 8445
+  },
+  {
+    "preset_id": 1207,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Jesteś ogniskiem? Bo jesteś gorący i chcę się zbliżyć",
+    "premium": "true",
+    "positive": true,
+    "id": 8446
+  },
+  {
+    "preset_id": 1207,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Ты костёр? Потому что ты горячий и я хочу быть рядом",
+    "premium": "true",
+    "positive": true,
+    "id": 8447
+  },
+  {
+    "preset_id": 1207,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "你是篝火吗?因为你很热,我想靠近",
+    "premium": "true",
+    "positive": true,
+    "id": 8448
+  }
+]

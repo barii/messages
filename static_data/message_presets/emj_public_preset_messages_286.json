@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 286,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "Not telling you yet",
+    "premium": "false",
+    "positive": true,
+    "id": 1995
+  },
+  {
+    "preset_id": 286,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Todavía no te lo voy a decir",
+    "premium": "false",
+    "positive": true,
+    "id": 1996
+  },
+  {
+    "preset_id": 286,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Ich sage es dir noch nicht",
+    "premium": "false",
+    "positive": true,
+    "id": 1997
+  },
+  {
+    "preset_id": 286,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Ainda não te vou dizer",
+    "premium": "false",
+    "positive": true,
+    "id": 1998
+  },
+  {
+    "preset_id": 286,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Jeszcze ci nie powiem",
+    "premium": "false",
+    "positive": true,
+    "id": 1999
+  },
+  {
+    "preset_id": 286,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Пока не скажу",
+    "premium": "false",
+    "positive": true,
+    "id": 2000
+  },
+  {
+    "preset_id": 286,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "现在还不告诉你",
+    "premium": "false",
+    "positive": true,
+    "id": 2001
+  }
+]

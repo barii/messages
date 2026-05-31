@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1652,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Your bus is bigger than your stadium.",
+    "premium": "true",
+    "positive": true,
+    "id": 11557
+  },
+  {
+    "preset_id": 1652,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Vuestro autobús es más grande que vuestro estadio.",
+    "premium": "true",
+    "positive": true,
+    "id": 11558
+  },
+  {
+    "preset_id": 1652,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Euer Bus ist größer als euer Stadion.",
+    "premium": "true",
+    "positive": true,
+    "id": 11559
+  },
+  {
+    "preset_id": 1652,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "O vosso autocarro é maior que o vosso estádio.",
+    "premium": "true",
+    "positive": true,
+    "id": 11560
+  },
+  {
+    "preset_id": 1652,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Wasz autobus jest większy niż wasz stadion.",
+    "premium": "true",
+    "positive": true,
+    "id": 11561
+  },
+  {
+    "preset_id": 1652,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Ваш автобус больше вашего стадиона.",
+    "premium": "true",
+    "positive": true,
+    "id": 11562
+  },
+  {
+    "preset_id": 1652,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们的大巴比球场还大。",
+    "premium": "true",
+    "positive": true,
+    "id": 11563
+  }
+]

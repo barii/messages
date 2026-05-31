@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1047,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Did you see that email?",
+    "premium": "false",
+    "positive": true,
+    "id": 7322
+  },
+  {
+    "preset_id": 1047,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "¿Has visto ese correo?",
+    "premium": "false",
+    "positive": true,
+    "id": 7323
+  },
+  {
+    "preset_id": 1047,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Hast du diese E-Mail gesehen?",
+    "premium": "false",
+    "positive": true,
+    "id": 7324
+  },
+  {
+    "preset_id": 1047,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Viste aquele email?",
+    "premium": "false",
+    "positive": true,
+    "id": 7325
+  },
+  {
+    "preset_id": 1047,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Widziałeś tego maila?",
+    "premium": "false",
+    "positive": true,
+    "id": 7326
+  },
+  {
+    "preset_id": 1047,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Ты видел это письмо?",
+    "premium": "false",
+    "positive": true,
+    "id": 7327
+  },
+  {
+    "preset_id": 1047,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "你看到那封邮件了吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 7328
+  }
+]

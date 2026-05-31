@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 614,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "That's your perspective, not mine",
+    "premium": "true",
+    "positive": true,
+    "id": 4291
+  },
+  {
+    "preset_id": 614,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Esa es tu perspectiva, no la mía",
+    "premium": "true",
+    "positive": true,
+    "id": 4292
+  },
+  {
+    "preset_id": 614,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Das ist deine Perspektive, nicht meine",
+    "premium": "true",
+    "positive": true,
+    "id": 4293
+  },
+  {
+    "preset_id": 614,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Essa é a tua perspetiva, não a minha",
+    "premium": "true",
+    "positive": true,
+    "id": 4294
+  },
+  {
+    "preset_id": 614,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "To twoja perspektywa, nie moja",
+    "premium": "true",
+    "positive": true,
+    "id": 4295
+  },
+  {
+    "preset_id": 614,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Это твоя перспектива, не моя",
+    "premium": "true",
+    "positive": true,
+    "id": 4296
+  },
+  {
+    "preset_id": 614,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "那是你的视角,不是我的",
+    "premium": "true",
+    "positive": true,
+    "id": 4297
+  }
+]

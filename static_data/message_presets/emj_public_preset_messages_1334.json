@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1334,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Your keeper let in a worldie of a daisycutter.",
+    "premium": "false",
+    "positive": true,
+    "id": 9331
+  },
+  {
+    "preset_id": 1334,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Vuestro portero ha encajado un golazo rastrero.",
+    "premium": "false",
+    "positive": true,
+    "id": 9332
+  },
+  {
+    "preset_id": 1334,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Euer Torwart hat einen Aufsetzer reingelassen.",
+    "premium": "false",
+    "positive": true,
+    "id": 9333
+  },
+  {
+    "preset_id": 1334,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "O vosso guarda-redes sofreu um golo rasteiro.",
+    "premium": "false",
+    "positive": true,
+    "id": 9334
+  },
+  {
+    "preset_id": 1334,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Wasz bramkarz wpuścił prostą piłkę.",
+    "premium": "false",
+    "positive": true,
+    "id": 9335
+  },
+  {
+    "preset_id": 1334,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Ваш вратарь пропустил простой удар.",
+    "premium": "false",
+    "positive": true,
+    "id": 9336
+  },
+  {
+    "preset_id": 1334,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们门将放进了个软绵绵的球。",
+    "premium": "false",
+    "positive": true,
+    "id": 9337
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 980,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "I expected more from you",
+    "premium": "false",
+    "positive": true,
+    "id": 6853
+  },
+  {
+    "preset_id": 980,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Esperaba más de ti",
+    "premium": "false",
+    "positive": true,
+    "id": 6854
+  },
+  {
+    "preset_id": 980,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Ich habe mehr von dir erwartet",
+    "premium": "false",
+    "positive": true,
+    "id": 6855
+  },
+  {
+    "preset_id": 980,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Esperava mais de ti",
+    "premium": "false",
+    "positive": true,
+    "id": 6856
+  },
+  {
+    "preset_id": 980,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Oczekiwałem od ciebie więcej",
+    "premium": "false",
+    "positive": true,
+    "id": 6857
+  },
+  {
+    "preset_id": 980,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Я ожидал от тебя большего",
+    "premium": "false",
+    "positive": true,
+    "id": 6858
+  },
+  {
+    "preset_id": 980,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "我对你期望更多",
+    "premium": "false",
+    "positive": true,
+    "id": 6859
+  }
+]

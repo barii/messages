@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1559,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Whatever you say.",
+    "premium": "false",
+    "positive": true,
+    "id": 10906
+  },
+  {
+    "preset_id": 1559,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Lo que vosotros digáis.",
+    "premium": "false",
+    "positive": true,
+    "id": 10907
+  },
+  {
+    "preset_id": 1559,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Wenn ihr das sagt.",
+    "premium": "false",
+    "positive": true,
+    "id": 10908
+  },
+  {
+    "preset_id": 1559,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "O que tu disseres.",
+    "premium": "false",
+    "positive": true,
+    "id": 10909
+  },
+  {
+    "preset_id": 1559,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Cokolwiek powiecie.",
+    "premium": "false",
+    "positive": true,
+    "id": 10910
+  },
+  {
+    "preset_id": 1559,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Как скажете.",
+    "premium": "false",
+    "positive": true,
+    "id": 10911
+  },
+  {
+    "preset_id": 1559,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "随你们怎么说。",
+    "premium": "false",
+    "positive": true,
+    "id": 10912
+  }
+]

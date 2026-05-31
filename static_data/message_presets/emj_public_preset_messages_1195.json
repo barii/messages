@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1195,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Wishing you the same",
+    "premium": "false",
+    "positive": true,
+    "id": 8358
+  },
+  {
+    "preset_id": 1195,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Te deseo lo mismo",
+    "premium": "false",
+    "positive": true,
+    "id": 8359
+  },
+  {
+    "preset_id": 1195,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Wünsche dir dasselbe",
+    "premium": "false",
+    "positive": true,
+    "id": 8360
+  },
+  {
+    "preset_id": 1195,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Desejo-te o mesmo",
+    "premium": "false",
+    "positive": true,
+    "id": 8361
+  },
+  {
+    "preset_id": 1195,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Życzę tego samego",
+    "premium": "false",
+    "positive": true,
+    "id": 8362
+  },
+  {
+    "preset_id": 1195,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "Желаю того же",
+    "premium": "false",
+    "positive": true,
+    "id": 8363
+  },
+  {
+    "preset_id": 1195,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "祝你同样的",
+    "premium": "false",
+    "positive": true,
+    "id": 8364
+  }
+]

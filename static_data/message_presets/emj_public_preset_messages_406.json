@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 406,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I love a good voice note",
+    "premium": "false",
+    "positive": true,
+    "id": 2835
+  },
+  {
+    "preset_id": 406,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Me encanta un buen audio",
+    "premium": "false",
+    "positive": true,
+    "id": 2836
+  },
+  {
+    "preset_id": 406,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich liebe eine gute Sprachnachricht",
+    "premium": "false",
+    "positive": true,
+    "id": 2837
+  },
+  {
+    "preset_id": 406,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Adoro um bom áudio",
+    "premium": "false",
+    "positive": true,
+    "id": 2838
+  },
+  {
+    "preset_id": 406,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Uwielbiam dobre wiadomości głosowe",
+    "premium": "false",
+    "positive": true,
+    "id": 2839
+  },
+  {
+    "preset_id": 406,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я люблю хорошие голосовые сообщения",
+    "premium": "false",
+    "positive": true,
+    "id": 2840
+  },
+  {
+    "preset_id": 406,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我喜欢好的语音消息",
+    "premium": "false",
+    "positive": true,
+    "id": 2841
+  }
+]

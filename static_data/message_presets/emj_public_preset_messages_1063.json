@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1063,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "We need a team night out",
+    "premium": "false",
+    "positive": true,
+    "id": 7434
+  },
+  {
+    "preset_id": 1063,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Necesitamos una salida del equipo",
+    "premium": "false",
+    "positive": true,
+    "id": 7435
+  },
+  {
+    "preset_id": 1063,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Wir brauchen einen Team-Abend",
+    "premium": "false",
+    "positive": true,
+    "id": 7436
+  },
+  {
+    "preset_id": 1063,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Precisamos de uma noite de equipa",
+    "premium": "false",
+    "positive": true,
+    "id": 7437
+  },
+  {
+    "preset_id": 1063,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Potrzebujemy wieczoru z zespołem",
+    "premium": "false",
+    "positive": true,
+    "id": 7438
+  },
+  {
+    "preset_id": 1063,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Нам нужен командный вечер",
+    "premium": "false",
+    "positive": true,
+    "id": 7439
+  },
+  {
+    "preset_id": 1063,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "我们需要一个团队之夜",
+    "premium": "false",
+    "positive": true,
+    "id": 7440
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 234,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "Way off",
+    "premium": "false",
+    "positive": true,
+    "id": 1631
+  },
+  {
+    "preset_id": 234,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Muy lejos",
+    "premium": "false",
+    "positive": true,
+    "id": 1632
+  },
+  {
+    "preset_id": 234,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Weit daneben",
+    "premium": "false",
+    "positive": true,
+    "id": 1633
+  },
+  {
+    "preset_id": 234,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Muito longe",
+    "premium": "false",
+    "positive": true,
+    "id": 1634
+  },
+  {
+    "preset_id": 234,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Daleko",
+    "premium": "false",
+    "positive": true,
+    "id": 1635
+  },
+  {
+    "preset_id": 234,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Очень далеко",
+    "premium": "false",
+    "positive": true,
+    "id": 1636
+  },
+  {
+    "preset_id": 234,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "差远了",
+    "premium": "false",
+    "positive": true,
+    "id": 1637
+  }
+]

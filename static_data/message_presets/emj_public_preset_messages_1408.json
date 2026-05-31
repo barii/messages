@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1408,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Easy win for us.",
+    "premium": "false",
+    "positive": true,
+    "id": 9849
+  },
+  {
+    "preset_id": 1408,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Victoria fácil para nosotros.",
+    "premium": "false",
+    "positive": true,
+    "id": 9850
+  },
+  {
+    "preset_id": 1408,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Leichter Sieg für uns.",
+    "premium": "false",
+    "positive": true,
+    "id": 9851
+  },
+  {
+    "preset_id": 1408,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Vitória fácil para nós.",
+    "premium": "false",
+    "positive": true,
+    "id": 9852
+  },
+  {
+    "preset_id": 1408,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Łatwe zwycięstwo dla nas.",
+    "premium": "false",
+    "positive": true,
+    "id": 9853
+  },
+  {
+    "preset_id": 1408,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Лёгкая победа для нас.",
+    "premium": "false",
+    "positive": true,
+    "id": 9854
+  },
+  {
+    "preset_id": 1408,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们轻松取胜。",
+    "premium": "false",
+    "positive": true,
+    "id": 9855
+  }
+]

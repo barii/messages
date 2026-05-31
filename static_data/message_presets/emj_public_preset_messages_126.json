@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 126,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you happy?",
+    "premium": "false",
+    "positive": true,
+    "id": 875
+  },
+  {
+    "preset_id": 126,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Estás feliz?",
+    "premium": "false",
+    "positive": true,
+    "id": 876
+  },
+  {
+    "preset_id": 126,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du glücklich?",
+    "premium": "false",
+    "positive": true,
+    "id": 877
+  },
+  {
+    "preset_id": 126,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás feliz?",
+    "premium": "false",
+    "positive": true,
+    "id": 878
+  },
+  {
+    "preset_id": 126,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jesteś szczęśliwy?",
+    "premium": "false",
+    "positive": true,
+    "id": 879
+  },
+  {
+    "preset_id": 126,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты счастлив?",
+    "premium": "false",
+    "positive": true,
+    "id": 880
+  },
+  {
+    "preset_id": 126,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你开心吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 881
+  }
+]

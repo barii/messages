@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 502,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Doing okay",
+    "premium": "false",
+    "positive": true,
+    "id": 3507
+  },
+  {
+    "preset_id": 502,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Yendo bien",
+    "premium": "false",
+    "positive": true,
+    "id": 3508
+  },
+  {
+    "preset_id": 502,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Geht so",
+    "premium": "false",
+    "positive": true,
+    "id": 3509
+  },
+  {
+    "preset_id": 502,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "A correr bem",
+    "premium": "false",
+    "positive": true,
+    "id": 3510
+  },
+  {
+    "preset_id": 502,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Idzie ok",
+    "premium": "false",
+    "positive": true,
+    "id": 3511
+  },
+  {
+    "preset_id": 502,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Иду нормально",
+    "premium": "false",
+    "positive": true,
+    "id": 3512
+  },
+  {
+    "preset_id": 502,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "过得还行",
+    "premium": "false",
+    "positive": true,
+    "id": 3513
+  }
+]

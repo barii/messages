@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 551,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "That hurts",
+    "premium": "false",
+    "positive": true,
+    "id": 3850
+  },
+  {
+    "preset_id": 551,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Eso duele",
+    "premium": "false",
+    "positive": true,
+    "id": 3851
+  },
+  {
+    "preset_id": 551,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Das tut weh",
+    "premium": "false",
+    "positive": true,
+    "id": 3852
+  },
+  {
+    "preset_id": 551,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Isso dói",
+    "premium": "false",
+    "positive": true,
+    "id": 3853
+  },
+  {
+    "preset_id": 551,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "To boli",
+    "premium": "false",
+    "positive": true,
+    "id": 3854
+  },
+  {
+    "preset_id": 551,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Это больно",
+    "premium": "false",
+    "positive": true,
+    "id": 3855
+  },
+  {
+    "preset_id": 551,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "好痛",
+    "premium": "false",
+    "positive": true,
+    "id": 3856
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1532,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You're all mouth.",
+    "premium": "false",
+    "positive": true,
+    "id": 10717
+  },
+  {
+    "preset_id": 1532,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Sois todo boca.",
+    "premium": "false",
+    "positive": true,
+    "id": 10718
+  },
+  {
+    "preset_id": 1532,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ihr seid nur Gerede.",
+    "premium": "false",
+    "positive": true,
+    "id": 10719
+  },
+  {
+    "preset_id": 1532,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "São só conversa.",
+    "premium": "false",
+    "positive": true,
+    "id": 10720
+  },
+  {
+    "preset_id": 1532,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Sama gęba.",
+    "premium": "false",
+    "positive": true,
+    "id": 10721
+  },
+  {
+    "preset_id": 1532,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Одни разговоры.",
+    "premium": "false",
+    "positive": true,
+    "id": 10722
+  },
+  {
+    "preset_id": 1532,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "都是嘴上功夫。",
+    "premium": "false",
+    "positive": true,
+    "id": 10723
+  }
+]

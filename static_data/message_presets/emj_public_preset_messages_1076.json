@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1076,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Someone keeps stealing my lunch",
+    "premium": "false",
+    "positive": true,
+    "id": 7525
+  },
+  {
+    "preset_id": 1076,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Alguien me sigue robando el almuerzo",
+    "premium": "false",
+    "positive": true,
+    "id": 7526
+  },
+  {
+    "preset_id": 1076,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Jemand klaut weiter mein Mittagessen",
+    "premium": "false",
+    "positive": true,
+    "id": 7527
+  },
+  {
+    "preset_id": 1076,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Alguém continua a roubar-me o almoço",
+    "premium": "false",
+    "positive": true,
+    "id": 7528
+  },
+  {
+    "preset_id": 1076,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Ktoś ciągle kradnie mój lunch",
+    "premium": "false",
+    "positive": true,
+    "id": 7529
+  },
+  {
+    "preset_id": 1076,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Кто-то постоянно крадёт мой обед",
+    "premium": "false",
+    "positive": true,
+    "id": 7530
+  },
+  {
+    "preset_id": 1076,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "有人一直偷我的午餐",
+    "premium": "false",
+    "positive": true,
+    "id": 7531
+  }
+]

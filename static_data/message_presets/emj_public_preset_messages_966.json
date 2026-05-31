@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 966,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "You don't need to be friends with everyone",
+    "premium": "false",
+    "positive": true,
+    "id": 6755
+  },
+  {
+    "preset_id": 966,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "No tienes que ser amigo de todos",
+    "premium": "false",
+    "positive": true,
+    "id": 6756
+  },
+  {
+    "preset_id": 966,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Du musst nicht mit jedem befreundet sein",
+    "premium": "false",
+    "positive": true,
+    "id": 6757
+  },
+  {
+    "preset_id": 966,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Não precisas de ser amigo de toda a gente",
+    "premium": "false",
+    "positive": true,
+    "id": 6758
+  },
+  {
+    "preset_id": 966,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Nie musisz się przyjaźnić ze wszystkimi",
+    "premium": "false",
+    "positive": true,
+    "id": 6759
+  },
+  {
+    "preset_id": 966,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Тебе не нужно быть другом всем",
+    "premium": "false",
+    "positive": true,
+    "id": 6760
+  },
+  {
+    "preset_id": 966,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "你不必和所有人都是朋友",
+    "premium": "false",
+    "positive": true,
+    "id": 6761
+  }
+]

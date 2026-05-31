@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 279,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "You know me well",
+    "premium": "false",
+    "positive": true,
+    "id": 1946
+  },
+  {
+    "preset_id": 279,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Me conoces bien",
+    "premium": "false",
+    "positive": true,
+    "id": 1947
+  },
+  {
+    "preset_id": 279,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Du kennst mich gut",
+    "premium": "false",
+    "positive": true,
+    "id": 1948
+  },
+  {
+    "preset_id": 279,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Conheces-me bem",
+    "premium": "false",
+    "positive": true,
+    "id": 1949
+  },
+  {
+    "preset_id": 279,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Znasz mnie dobrze",
+    "premium": "false",
+    "positive": true,
+    "id": 1950
+  },
+  {
+    "preset_id": 279,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Ты знаешь меня хорошо",
+    "premium": "false",
+    "positive": true,
+    "id": 1951
+  },
+  {
+    "preset_id": 279,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "你了解我",
+    "premium": "false",
+    "positive": true,
+    "id": 1952
+  }
+]

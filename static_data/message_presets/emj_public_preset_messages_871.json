@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 871,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "Looking good today",
+    "premium": "false",
+    "positive": true,
+    "id": 6090
+  },
+  {
+    "preset_id": 871,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Te ves bien hoy",
+    "premium": "false",
+    "positive": true,
+    "id": 6091
+  },
+  {
+    "preset_id": 871,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Siehst heute gut aus",
+    "premium": "false",
+    "positive": true,
+    "id": 6092
+  },
+  {
+    "preset_id": 871,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Estás bem hoje",
+    "premium": "false",
+    "positive": true,
+    "id": 6093
+  },
+  {
+    "preset_id": 871,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Wyglądasz dziś dobrze",
+    "premium": "false",
+    "positive": true,
+    "id": 6094
+  },
+  {
+    "preset_id": 871,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Хорошо выглядишь сегодня",
+    "premium": "false",
+    "positive": true,
+    "id": 6095
+  },
+  {
+    "preset_id": 871,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "今天看起来不错",
+    "premium": "false",
+    "positive": true,
+    "id": 6096
+  }
+]

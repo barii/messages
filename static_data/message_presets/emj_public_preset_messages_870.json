@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 870,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You always look incredible",
+    "premium": "false",
+    "positive": true,
+    "id": 6083
+  },
+  {
+    "preset_id": 870,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Siempre te ves increíble",
+    "premium": "false",
+    "positive": true,
+    "id": 6084
+  },
+  {
+    "preset_id": 870,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Du siehst immer toll aus",
+    "premium": "false",
+    "positive": true,
+    "id": 6085
+  },
+  {
+    "preset_id": 870,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Estás sempre incrível",
+    "premium": "false",
+    "positive": true,
+    "id": 6086
+  },
+  {
+    "preset_id": 870,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Zawsze wyglądasz niesamowicie",
+    "premium": "false",
+    "positive": true,
+    "id": 6087
+  },
+  {
+    "preset_id": 870,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты всегда выглядишь невероятно",
+    "premium": "false",
+    "positive": true,
+    "id": 6088
+  },
+  {
+    "preset_id": 870,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你看起来总是很棒",
+    "premium": "false",
+    "positive": true,
+    "id": 6089
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1488,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Best manager in the league.",
+    "premium": "false",
+    "positive": true,
+    "id": 10409
+  },
+  {
+    "preset_id": 1488,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "El mejor entrenador de la liga.",
+    "premium": "false",
+    "positive": true,
+    "id": 10410
+  },
+  {
+    "preset_id": 1488,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Bester Trainer der Liga.",
+    "premium": "false",
+    "positive": true,
+    "id": 10411
+  },
+  {
+    "preset_id": 1488,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "O melhor treinador da liga.",
+    "premium": "false",
+    "positive": true,
+    "id": 10412
+  },
+  {
+    "preset_id": 1488,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Najlepszy trener w lidze.",
+    "premium": "false",
+    "positive": true,
+    "id": 10413
+  },
+  {
+    "preset_id": 1488,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Лучший тренер в лиге.",
+    "premium": "false",
+    "positive": true,
+    "id": 10414
+  },
+  {
+    "preset_id": 1488,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "联赛最佳教练。",
+    "premium": "false",
+    "positive": true,
+    "id": 10415
+  }
+]

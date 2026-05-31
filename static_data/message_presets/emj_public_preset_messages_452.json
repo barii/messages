@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 452,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Say less",
+    "premium": "false",
+    "positive": true,
+    "id": 3157
+  },
+  {
+    "preset_id": 452,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "No digas más",
+    "premium": "false",
+    "positive": true,
+    "id": 3158
+  },
+  {
+    "preset_id": 452,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Sag nicht mehr",
+    "premium": "false",
+    "positive": true,
+    "id": 3159
+  },
+  {
+    "preset_id": 452,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Não digas mais",
+    "premium": "false",
+    "positive": true,
+    "id": 3160
+  },
+  {
+    "preset_id": 452,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Nie mów więcej",
+    "premium": "false",
+    "positive": true,
+    "id": 3161
+  },
+  {
+    "preset_id": 452,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Не говори больше",
+    "premium": "false",
+    "positive": true,
+    "id": 3162
+  },
+  {
+    "preset_id": 452,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "不用多说",
+    "premium": "false",
+    "positive": true,
+    "id": 3163
+  }
+]

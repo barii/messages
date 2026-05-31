@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 742,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Obsessed",
+    "premium": "false",
+    "positive": true,
+    "id": 5187
+  },
+  {
+    "preset_id": 742,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Obsesionado",
+    "premium": "false",
+    "positive": true,
+    "id": 5188
+  },
+  {
+    "preset_id": 742,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Besessen",
+    "premium": "false",
+    "positive": true,
+    "id": 5189
+  },
+  {
+    "preset_id": 742,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Obcecado",
+    "premium": "false",
+    "positive": true,
+    "id": 5190
+  },
+  {
+    "preset_id": 742,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Mam obsesję",
+    "premium": "false",
+    "positive": true,
+    "id": 5191
+  },
+  {
+    "preset_id": 742,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Одержим",
+    "premium": "false",
+    "positive": true,
+    "id": 5192
+  },
+  {
+    "preset_id": 742,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "着迷",
+    "premium": "false",
+    "positive": true,
+    "id": 5193
+  }
+]

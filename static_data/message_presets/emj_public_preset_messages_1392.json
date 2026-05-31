@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1392,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Name a trophy.",
+    "premium": "true",
+    "positive": true,
+    "id": 9737
+  },
+  {
+    "preset_id": 1392,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Nombrad un trofeo.",
+    "premium": "true",
+    "positive": true,
+    "id": 9738
+  },
+  {
+    "preset_id": 1392,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Nennt einen Pokal.",
+    "premium": "true",
+    "positive": true,
+    "id": 9739
+  },
+  {
+    "preset_id": 1392,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Nomeiem um troféu.",
+    "premium": "true",
+    "positive": true,
+    "id": 9740
+  },
+  {
+    "preset_id": 1392,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Wymień jakieś trofeum.",
+    "premium": "true",
+    "positive": true,
+    "id": 9741
+  },
+  {
+    "preset_id": 1392,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Назовите хоть один трофей.",
+    "premium": "true",
+    "positive": true,
+    "id": 9742
+  },
+  {
+    "preset_id": 1392,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "说一个奖杯出来。",
+    "premium": "true",
+    "positive": true,
+    "id": 9743
+  }
+]

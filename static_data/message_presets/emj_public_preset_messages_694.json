@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 694,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "You didn't have to but thank you",
+    "premium": "false",
+    "positive": true,
+    "id": 4851
+  },
+  {
+    "preset_id": 694,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "No tenías que hacerlo pero gracias",
+    "premium": "false",
+    "positive": true,
+    "id": 4852
+  },
+  {
+    "preset_id": 694,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Du hättest das nicht tun müssen aber danke",
+    "premium": "false",
+    "positive": true,
+    "id": 4853
+  },
+  {
+    "preset_id": 694,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Não tinhas de fazer isso mas obrigado",
+    "premium": "false",
+    "positive": true,
+    "id": 4854
+  },
+  {
+    "preset_id": 694,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Nie musiałeś, ale dziękuję",
+    "premium": "false",
+    "positive": true,
+    "id": 4855
+  },
+  {
+    "preset_id": 694,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Ты не должен был, но спасибо",
+    "premium": "false",
+    "positive": true,
+    "id": 4856
+  },
+  {
+    "preset_id": 694,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "你不必这样但谢谢",
+    "premium": "false",
+    "positive": true,
+    "id": 4857
+  }
+]

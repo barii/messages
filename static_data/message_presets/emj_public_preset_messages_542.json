@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 542,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "That's insane",
+    "premium": "false",
+    "positive": true,
+    "id": 3787
+  },
+  {
+    "preset_id": 542,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Es de locos",
+    "premium": "false",
+    "positive": true,
+    "id": 3788
+  },
+  {
+    "preset_id": 542,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Das ist wahnsinnig",
+    "premium": "false",
+    "positive": true,
+    "id": 3789
+  },
+  {
+    "preset_id": 542,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Isso é insano",
+    "premium": "false",
+    "positive": true,
+    "id": 3790
+  },
+  {
+    "preset_id": 542,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "To obłędne",
+    "premium": "false",
+    "positive": true,
+    "id": 3791
+  },
+  {
+    "preset_id": 542,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Это безумно",
+    "premium": "false",
+    "positive": true,
+    "id": 3792
+  },
+  {
+    "preset_id": 542,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "太疯狂了",
+    "premium": "false",
+    "positive": true,
+    "id": 3793
+  }
+]

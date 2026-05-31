@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 794,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Likewise",
+    "premium": "false",
+    "positive": true,
+    "id": 5551
+  },
+  {
+    "preset_id": 794,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Igualmente",
+    "premium": "false",
+    "positive": true,
+    "id": 5552
+  },
+  {
+    "preset_id": 794,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Ebenso",
+    "premium": "false",
+    "positive": true,
+    "id": 5553
+  },
+  {
+    "preset_id": 794,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Igualmente",
+    "premium": "false",
+    "positive": true,
+    "id": 5554
+  },
+  {
+    "preset_id": 794,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Nawzajem",
+    "premium": "false",
+    "positive": true,
+    "id": 5555
+  },
+  {
+    "preset_id": 794,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Взаимно",
+    "premium": "false",
+    "positive": true,
+    "id": 5556
+  },
+  {
+    "preset_id": 794,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "彼此彼此",
+    "premium": "false",
+    "positive": true,
+    "id": 5557
+  }
+]

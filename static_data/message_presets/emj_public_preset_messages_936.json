@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 936,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Stop spiraling",
+    "premium": "false",
+    "positive": true,
+    "id": 6545
+  },
+  {
+    "preset_id": 936,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Deja de darle vueltas",
+    "premium": "false",
+    "positive": true,
+    "id": 6546
+  },
+  {
+    "preset_id": 936,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Hör auf zu spiralen",
+    "premium": "false",
+    "positive": true,
+    "id": 6547
+  },
+  {
+    "preset_id": 936,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Para de espiralizar",
+    "premium": "false",
+    "positive": true,
+    "id": 6548
+  },
+  {
+    "preset_id": 936,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Przestań spiralizować",
+    "premium": "false",
+    "positive": true,
+    "id": 6549
+  },
+  {
+    "preset_id": 936,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Перестань крутиться",
+    "premium": "false",
+    "positive": true,
+    "id": 6550
+  },
+  {
+    "preset_id": 936,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "别再陷入恶性循环",
+    "premium": "false",
+    "positive": true,
+    "id": 6551
+  }
+]

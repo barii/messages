@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1051,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "I have a crush on someone in the office",
+    "premium": "false",
+    "positive": true,
+    "id": 7350
+  },
+  {
+    "preset_id": 1051,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Estoy enamorado de alguien de la oficina",
+    "premium": "false",
+    "positive": true,
+    "id": 7351
+  },
+  {
+    "preset_id": 1051,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Ich bin in jemanden im Büro verknallt",
+    "premium": "false",
+    "positive": true,
+    "id": 7352
+  },
+  {
+    "preset_id": 1051,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Tenho um fraquinho por alguém no escritório",
+    "premium": "false",
+    "positive": true,
+    "id": 7353
+  },
+  {
+    "preset_id": 1051,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Podkochuję się w kimś w biurze",
+    "premium": "false",
+    "positive": true,
+    "id": 7354
+  },
+  {
+    "preset_id": 1051,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Я влюблён в кого-то в офисе",
+    "premium": "false",
+    "positive": true,
+    "id": 7355
+  },
+  {
+    "preset_id": 1051,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "我喜欢办公室里的某个人",
+    "premium": "false",
+    "positive": true,
+    "id": 7356
+  }
+]

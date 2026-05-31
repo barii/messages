@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1503,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Main character behaviour.",
+    "premium": "true",
+    "positive": true,
+    "id": 10514
+  },
+  {
+    "preset_id": 1503,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Comportamiento de protagonista.",
+    "premium": "true",
+    "positive": true,
+    "id": 10515
+  },
+  {
+    "preset_id": 1503,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Hauptcharakter-Verhalten.",
+    "premium": "true",
+    "positive": true,
+    "id": 10516
+  },
+  {
+    "preset_id": 1503,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Comportamento de protagonista.",
+    "premium": "true",
+    "positive": true,
+    "id": 10517
+  },
+  {
+    "preset_id": 1503,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Zachowanie głównego bohatera.",
+    "premium": "true",
+    "positive": true,
+    "id": 10518
+  },
+  {
+    "preset_id": 1503,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Поведение главного героя.",
+    "premium": "true",
+    "positive": true,
+    "id": 10519
+  },
+  {
+    "preset_id": 1503,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "主角行为。",
+    "premium": "true",
+    "positive": true,
+    "id": 10520
+  }
+]

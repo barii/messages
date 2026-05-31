@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 630,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Did I ask?",
+    "premium": "false",
+    "positive": true,
+    "id": 4403
+  },
+  {
+    "preset_id": 630,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "¿Te pregunté?",
+    "premium": "false",
+    "positive": true,
+    "id": 4404
+  },
+  {
+    "preset_id": 630,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Hab ich gefragt?",
+    "premium": "false",
+    "positive": true,
+    "id": 4405
+  },
+  {
+    "preset_id": 630,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Eu perguntei?",
+    "premium": "false",
+    "positive": true,
+    "id": 4406
+  },
+  {
+    "preset_id": 630,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Pytałem cię?",
+    "premium": "false",
+    "positive": true,
+    "id": 4407
+  },
+  {
+    "preset_id": 630,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Я спрашивал?",
+    "premium": "false",
+    "positive": true,
+    "id": 4408
+  },
+  {
+    "preset_id": 630,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "我问了吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 4409
+  }
+]

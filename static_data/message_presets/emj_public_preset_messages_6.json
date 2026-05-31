@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 6,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You have such a beautiful soul",
+    "premium": "true",
+    "positive": true,
+    "id": 35
+  },
+  {
+    "preset_id": 6,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Tienes un alma hermosa",
+    "premium": "true",
+    "positive": true,
+    "id": 36
+  },
+  {
+    "preset_id": 6,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du hast so eine schöne Seele",
+    "premium": "true",
+    "positive": true,
+    "id": 37
+  },
+  {
+    "preset_id": 6,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Tens uma alma tão linda",
+    "premium": "true",
+    "positive": true,
+    "id": 38
+  },
+  {
+    "preset_id": 6,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Masz piękną duszę",
+    "premium": "true",
+    "positive": true,
+    "id": 39
+  },
+  {
+    "preset_id": 6,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "У тебя такая красивая душа",
+    "premium": "true",
+    "positive": true,
+    "id": 40
+  },
+  {
+    "preset_id": 6,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你有美丽的灵魂",
+    "premium": "true",
+    "positive": true,
+    "id": 41
+  }
+]

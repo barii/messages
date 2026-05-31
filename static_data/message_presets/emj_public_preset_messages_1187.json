@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1187,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Happy Monday",
+    "premium": "false",
+    "positive": true,
+    "id": 8302
+  },
+  {
+    "preset_id": 1187,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Feliz Lunes",
+    "premium": "false",
+    "positive": true,
+    "id": 8303
+  },
+  {
+    "preset_id": 1187,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Frohen Montag",
+    "premium": "false",
+    "positive": true,
+    "id": 8304
+  },
+  {
+    "preset_id": 1187,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Feliz Segunda",
+    "premium": "false",
+    "positive": true,
+    "id": 8305
+  },
+  {
+    "preset_id": 1187,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Wesołego poniedziałku",
+    "premium": "false",
+    "positive": true,
+    "id": 8306
+  },
+  {
+    "preset_id": 1187,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "Счастливого понедельника",
+    "premium": "false",
+    "positive": true,
+    "id": 8307
+  },
+  {
+    "preset_id": 1187,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "周一快乐",
+    "premium": "false",
+    "positive": true,
+    "id": 8308
+  }
+]

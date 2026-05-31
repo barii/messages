@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 981,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You should know better",
+    "premium": "false",
+    "positive": true,
+    "id": 6860
+  },
+  {
+    "preset_id": 981,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Deberías saberlo mejor",
+    "premium": "false",
+    "positive": true,
+    "id": 6861
+  },
+  {
+    "preset_id": 981,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du solltest es besser wissen",
+    "premium": "false",
+    "positive": true,
+    "id": 6862
+  },
+  {
+    "preset_id": 981,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Devias saber melhor",
+    "premium": "false",
+    "positive": true,
+    "id": 6863
+  },
+  {
+    "preset_id": 981,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Powinieneś wiedzieć lepiej",
+    "premium": "false",
+    "positive": true,
+    "id": 6864
+  },
+  {
+    "preset_id": 981,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Тебе следовало знать лучше",
+    "premium": "false",
+    "positive": true,
+    "id": 6865
+  },
+  {
+    "preset_id": 981,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你应该知道得更清楚",
+    "premium": "false",
+    "positive": true,
+    "id": 6866
+  }
+]

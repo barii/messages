@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 893,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I'm married",
+    "premium": "false",
+    "positive": true,
+    "id": 6244
+  },
+  {
+    "preset_id": 893,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Estoy casado",
+    "premium": "false",
+    "positive": true,
+    "id": 6245
+  },
+  {
+    "preset_id": 893,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich bin verheiratet",
+    "premium": "false",
+    "positive": true,
+    "id": 6246
+  },
+  {
+    "preset_id": 893,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Sou casado",
+    "premium": "false",
+    "positive": true,
+    "id": 6247
+  },
+  {
+    "preset_id": 893,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Jestem żonaty",
+    "premium": "false",
+    "positive": true,
+    "id": 6248
+  },
+  {
+    "preset_id": 893,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Я женат",
+    "premium": "false",
+    "positive": true,
+    "id": 6249
+  },
+  {
+    "preset_id": 893,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我结婚了",
+    "premium": "false",
+    "positive": true,
+    "id": 6250
+  }
+]

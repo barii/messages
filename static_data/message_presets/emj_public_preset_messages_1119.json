@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1119,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Talk soon",
+    "premium": "false",
+    "positive": true,
+    "id": 7826
+  },
+  {
+    "preset_id": 1119,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Hablamos pronto",
+    "premium": "false",
+    "positive": true,
+    "id": 7827
+  },
+  {
+    "preset_id": 1119,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Wir hören uns",
+    "premium": "false",
+    "positive": true,
+    "id": 7828
+  },
+  {
+    "preset_id": 1119,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Falamos em breve",
+    "premium": "false",
+    "positive": true,
+    "id": 7829
+  },
+  {
+    "preset_id": 1119,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Pogadamy wkrótce",
+    "premium": "false",
+    "positive": true,
+    "id": 7830
+  },
+  {
+    "preset_id": 1119,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Спишемся скоро",
+    "premium": "false",
+    "positive": true,
+    "id": 7831
+  },
+  {
+    "preset_id": 1119,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "回头聊",
+    "premium": "false",
+    "positive": true,
+    "id": 7832
+  }
+]

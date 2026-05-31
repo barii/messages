@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1218,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "On a scale of one to America how free are you tonight",
+    "premium": "true",
+    "positive": true,
+    "id": 8519
+  },
+  {
+    "preset_id": 1218,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "On a scale of one to America how free are you tonight",
+    "premium": "true",
+    "positive": true,
+    "id": 8520
+  },
+  {
+    "preset_id": 1218,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "On a scale of one to America how free are you tonight",
+    "premium": "true",
+    "positive": true,
+    "id": 8521
+  },
+  {
+    "preset_id": 1218,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "On a scale of one to America how free are you tonight",
+    "premium": "true",
+    "positive": true,
+    "id": 8522
+  },
+  {
+    "preset_id": 1218,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "On a scale of one to America how free are you tonight",
+    "premium": "true",
+    "positive": true,
+    "id": 8523
+  },
+  {
+    "preset_id": 1218,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "On a scale of one to America how free are you tonight",
+    "premium": "true",
+    "positive": true,
+    "id": 8524
+  },
+  {
+    "preset_id": 1218,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "On a scale of one to America how free are you tonight",
+    "premium": "true",
+    "positive": true,
+    "id": 8525
+  }
+]

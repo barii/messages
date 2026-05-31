@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 33,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You can do anything you set your mind to",
+    "premium": "false",
+    "positive": true,
+    "id": 224
+  },
+  {
+    "preset_id": 33,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Puedes hacer lo que te propongas",
+    "premium": "false",
+    "positive": true,
+    "id": 225
+  },
+  {
+    "preset_id": 33,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du kannst alles tun, was du dir vornimmst",
+    "premium": "false",
+    "positive": true,
+    "id": 226
+  },
+  {
+    "preset_id": 33,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Consegues fazer tudo aquilo a que te propões",
+    "premium": "false",
+    "positive": true,
+    "id": 227
+  },
+  {
+    "preset_id": 33,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Możesz zrobić wszystko, co sobie postanowisz",
+    "premium": "false",
+    "positive": true,
+    "id": 228
+  },
+  {
+    "preset_id": 33,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты можешь сделать всё, что задумаешь",
+    "premium": "false",
+    "positive": true,
+    "id": 229
+  },
+  {
+    "preset_id": 33,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "只要你下定决心,什么都能做到",
+    "premium": "false",
+    "positive": true,
+    "id": 230
+  }
+]

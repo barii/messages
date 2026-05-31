@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 729,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "You earned this",
+    "premium": "true",
+    "positive": true,
+    "id": 5096
+  },
+  {
+    "preset_id": 729,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Te lo has ganado",
+    "premium": "true",
+    "positive": true,
+    "id": 5097
+  },
+  {
+    "preset_id": 729,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Du hast dir das verdient",
+    "premium": "true",
+    "positive": true,
+    "id": 5098
+  },
+  {
+    "preset_id": 729,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Conquistaste isso",
+    "premium": "true",
+    "positive": true,
+    "id": 5099
+  },
+  {
+    "preset_id": 729,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Zarobiłeś na to",
+    "premium": "true",
+    "positive": true,
+    "id": 5100
+  },
+  {
+    "preset_id": 729,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Ты это заслужил",
+    "premium": "true",
+    "positive": true,
+    "id": 5101
+  },
+  {
+    "preset_id": 729,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "这是你应得的",
+    "premium": "true",
+    "positive": true,
+    "id": 5102
+  }
+]

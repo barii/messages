@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 749,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Eat",
+    "premium": "false",
+    "positive": true,
+    "id": 5236
+  },
+  {
+    "preset_id": 749,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Eat",
+    "premium": "false",
+    "positive": true,
+    "id": 5237
+  },
+  {
+    "preset_id": 749,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Eat",
+    "premium": "false",
+    "positive": true,
+    "id": 5238
+  },
+  {
+    "preset_id": 749,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Eat",
+    "premium": "false",
+    "positive": true,
+    "id": 5239
+  },
+  {
+    "preset_id": 749,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Eat",
+    "premium": "false",
+    "positive": true,
+    "id": 5240
+  },
+  {
+    "preset_id": 749,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Eat",
+    "premium": "false",
+    "positive": true,
+    "id": 5241
+  },
+  {
+    "preset_id": 749,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "Eat",
+    "premium": "false",
+    "positive": true,
+    "id": 5242
+  }
+]

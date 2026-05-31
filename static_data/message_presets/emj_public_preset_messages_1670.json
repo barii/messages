@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1670,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Not over it yet then.",
+    "premium": "false",
+    "positive": true,
+    "id": 11683
+  },
+  {
+    "preset_id": 1670,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Aún no lo habéis superado.",
+    "premium": "false",
+    "positive": true,
+    "id": 11684
+  },
+  {
+    "preset_id": 1670,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Noch nicht drüber, dann.",
+    "premium": "false",
+    "positive": true,
+    "id": 11685
+  },
+  {
+    "preset_id": 1670,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Ainda não superaram.",
+    "premium": "false",
+    "positive": true,
+    "id": 11686
+  },
+  {
+    "preset_id": 1670,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Jeszcze tego nie przebolewieliście.",
+    "premium": "false",
+    "positive": true,
+    "id": 11687
+  },
+  {
+    "preset_id": 1670,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Ещё не отошли, значит.",
+    "premium": "false",
+    "positive": true,
+    "id": 11688
+  },
+  {
+    "preset_id": 1670,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "还没释怀啊。",
+    "premium": "false",
+    "positive": true,
+    "id": 11689
+  }
+]

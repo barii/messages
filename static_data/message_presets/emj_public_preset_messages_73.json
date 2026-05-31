@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 73,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "You're being extra",
+    "premium": "false",
+    "positive": false,
+    "id": 504
+  },
+  {
+    "preset_id": 73,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Estás siendo exagerado",
+    "premium": "false",
+    "positive": false,
+    "id": 505
+  },
+  {
+    "preset_id": 73,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Du übertreibst",
+    "premium": "false",
+    "positive": false,
+    "id": 506
+  },
+  {
+    "preset_id": 73,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Estás a ser exagerado",
+    "premium": "false",
+    "positive": false,
+    "id": 507
+  },
+  {
+    "preset_id": 73,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Jesteś przesadzony",
+    "premium": "false",
+    "positive": false,
+    "id": 508
+  },
+  {
+    "preset_id": 73,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Ты переигрываешь",
+    "premium": "false",
+    "positive": false,
+    "id": 509
+  },
+  {
+    "preset_id": 73,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "你在做戏",
+    "premium": "false",
+    "positive": false,
+    "id": 510
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 733,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Let's gooo",
+    "premium": "false",
+    "positive": true,
+    "id": 5124
+  },
+  {
+    "preset_id": 733,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "¡Vamooos!",
+    "premium": "false",
+    "positive": true,
+    "id": 5125
+  },
+  {
+    "preset_id": 733,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Auf geht's",
+    "premium": "false",
+    "positive": true,
+    "id": 5126
+  },
+  {
+    "preset_id": 733,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Vamos láá",
+    "premium": "false",
+    "positive": true,
+    "id": 5127
+  },
+  {
+    "preset_id": 733,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Leeecimy",
+    "premium": "false",
+    "positive": true,
+    "id": 5128
+  },
+  {
+    "preset_id": 733,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Погнааали",
+    "premium": "false",
+    "positive": true,
+    "id": 5129
+  },
+  {
+    "preset_id": 733,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "走起来",
+    "premium": "false",
+    "positive": true,
+    "id": 5130
+  }
+]

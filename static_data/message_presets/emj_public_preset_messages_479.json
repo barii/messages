@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 479,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "No literal way",
+    "premium": "false",
+    "positive": true,
+    "id": 3346
+  },
+  {
+    "preset_id": 479,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Imposible",
+    "premium": "false",
+    "positive": true,
+    "id": 3347
+  },
+  {
+    "preset_id": 479,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Auf gar keinen Fall",
+    "premium": "false",
+    "positive": true,
+    "id": 3348
+  },
+  {
+    "preset_id": 479,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Impossível mesmo",
+    "premium": "false",
+    "positive": true,
+    "id": 3349
+  },
+  {
+    "preset_id": 479,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Absolutnie nie ma mowy",
+    "premium": "false",
+    "positive": true,
+    "id": 3350
+  },
+  {
+    "preset_id": 479,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Ни в коем случае",
+    "premium": "false",
+    "positive": true,
+    "id": 3351
+  },
+  {
+    "preset_id": 479,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "完全不可能",
+    "premium": "false",
+    "positive": true,
+    "id": 3352
+  }
+]

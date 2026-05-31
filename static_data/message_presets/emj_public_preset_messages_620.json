@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 620,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Enough",
+    "premium": "false",
+    "positive": true,
+    "id": 4333
+  },
+  {
+    "preset_id": 620,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Basta",
+    "premium": "false",
+    "positive": true,
+    "id": 4334
+  },
+  {
+    "preset_id": 620,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Genug",
+    "premium": "false",
+    "positive": true,
+    "id": 4335
+  },
+  {
+    "preset_id": 620,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Chega",
+    "premium": "false",
+    "positive": true,
+    "id": 4336
+  },
+  {
+    "preset_id": 620,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Wystarczy",
+    "premium": "false",
+    "positive": true,
+    "id": 4337
+  },
+  {
+    "preset_id": 620,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Хватит",
+    "premium": "false",
+    "positive": true,
+    "id": 4338
+  },
+  {
+    "preset_id": 620,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "够了",
+    "premium": "false",
+    "positive": true,
+    "id": 4339
+  }
+]

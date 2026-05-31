@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 629,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Okay and",
+    "premium": "false",
+    "positive": true,
+    "id": 4396
+  },
+  {
+    "preset_id": 629,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Vale, ¿y?",
+    "premium": "false",
+    "positive": true,
+    "id": 4397
+  },
+  {
+    "preset_id": 629,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Okay und?",
+    "premium": "false",
+    "positive": true,
+    "id": 4398
+  },
+  {
+    "preset_id": 629,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Ok, e?",
+    "premium": "false",
+    "positive": true,
+    "id": 4399
+  },
+  {
+    "preset_id": 629,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Ok i co?",
+    "premium": "false",
+    "positive": true,
+    "id": 4400
+  },
+  {
+    "preset_id": 629,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Окей, и?",
+    "premium": "false",
+    "positive": true,
+    "id": 4401
+  },
+  {
+    "preset_id": 629,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "好,然后呢?",
+    "premium": "false",
+    "positive": true,
+    "id": 4402
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 898,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I feel the same way",
+    "premium": "false",
+    "positive": true,
+    "id": 6279
+  },
+  {
+    "preset_id": 898,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Siento lo mismo",
+    "premium": "false",
+    "positive": true,
+    "id": 6280
+  },
+  {
+    "preset_id": 898,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich empfinde dasselbe",
+    "premium": "false",
+    "positive": true,
+    "id": 6281
+  },
+  {
+    "preset_id": 898,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Sinto o mesmo",
+    "premium": "false",
+    "positive": true,
+    "id": 6282
+  },
+  {
+    "preset_id": 898,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Czuję to samo",
+    "premium": "false",
+    "positive": true,
+    "id": 6283
+  },
+  {
+    "preset_id": 898,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Я чувствую то же самое",
+    "premium": "false",
+    "positive": true,
+    "id": 6284
+  },
+  {
+    "preset_id": 898,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我有同样的感觉",
+    "premium": "false",
+    "positive": true,
+    "id": 6285
+  }
+]

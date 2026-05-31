@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1563,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Behave.",
+    "premium": "false",
+    "positive": true,
+    "id": 10934
+  },
+  {
+    "preset_id": 1563,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Comportaos.",
+    "premium": "false",
+    "positive": true,
+    "id": 10935
+  },
+  {
+    "preset_id": 1563,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Benehmt euch.",
+    "premium": "false",
+    "positive": true,
+    "id": 10936
+  },
+  {
+    "preset_id": 1563,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Tem juízo.",
+    "premium": "false",
+    "positive": true,
+    "id": 10937
+  },
+  {
+    "preset_id": 1563,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Zachowuj się.",
+    "premium": "false",
+    "positive": true,
+    "id": 10938
+  },
+  {
+    "preset_id": 1563,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Ведите себя прилично.",
+    "premium": "false",
+    "positive": true,
+    "id": 10939
+  },
+  {
+    "preset_id": 1563,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "规矩点。",
+    "premium": "false",
+    "positive": true,
+    "id": 10940
+  }
+]

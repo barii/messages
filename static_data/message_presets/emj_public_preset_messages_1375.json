@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1375,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Did your team get the train back already?",
+    "premium": "false",
+    "positive": true,
+    "id": 9618
+  },
+  {
+    "preset_id": 1375,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "¿Vuestro equipo cogió el tren de vuelta ya?",
+    "premium": "false",
+    "positive": true,
+    "id": 9619
+  },
+  {
+    "preset_id": 1375,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ist eure Mannschaft schon mit dem Zug zurück?",
+    "premium": "false",
+    "positive": true,
+    "id": 9620
+  },
+  {
+    "preset_id": 1375,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "A vossa equipa já apanhou o comboio de volta?",
+    "premium": "false",
+    "positive": true,
+    "id": 9621
+  },
+  {
+    "preset_id": 1375,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Czy wasza drużyna złapała już pociąg z powrotem?",
+    "premium": "false",
+    "positive": true,
+    "id": 9622
+  },
+  {
+    "preset_id": 1375,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Ваша команда уже села на поезд обратно?",
+    "premium": "false",
+    "positive": true,
+    "id": 9623
+  },
+  {
+    "preset_id": 1375,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们队是不是已经坐火车回去了?",
+    "premium": "false",
+    "positive": true,
+    "id": 9624
+  }
+]

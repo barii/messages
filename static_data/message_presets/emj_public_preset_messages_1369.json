@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1369,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You were second to everything.",
+    "premium": "false",
+    "positive": true,
+    "id": 9576
+  },
+  {
+    "preset_id": 1369,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Segundos en todo.",
+    "premium": "false",
+    "positive": true,
+    "id": 9577
+  },
+  {
+    "preset_id": 1369,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Bei allem zweiter Sieger.",
+    "premium": "false",
+    "positive": true,
+    "id": 9578
+  },
+  {
+    "preset_id": 1369,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Segundos em tudo.",
+    "premium": "false",
+    "positive": true,
+    "id": 9579
+  },
+  {
+    "preset_id": 1369,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Drudzy do wszystkiego.",
+    "premium": "false",
+    "positive": true,
+    "id": 9580
+  },
+  {
+    "preset_id": 1369,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Вторые во всём.",
+    "premium": "false",
+    "positive": true,
+    "id": 9581
+  },
+  {
+    "preset_id": 1369,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "在所有方面都落后。",
+    "premium": "false",
+    "positive": true,
+    "id": 9582
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 91,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "You're an acquired taste, and I haven't acquired it",
+    "premium": "true",
+    "positive": false,
+    "id": 630
+  },
+  {
+    "preset_id": 91,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Eres un gusto adquirido, y no lo he adquirido",
+    "premium": "true",
+    "positive": false,
+    "id": 631
+  },
+  {
+    "preset_id": 91,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Du bist ein Geschmack, den man entwickeln muss, und ich habe ihn nicht entwickelt",
+    "premium": "true",
+    "positive": false,
+    "id": 632
+  },
+  {
+    "preset_id": 91,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "És um gosto adquirido, e não adquiri",
+    "premium": "true",
+    "positive": false,
+    "id": 633
+  },
+  {
+    "preset_id": 91,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Jesteś smakiem do nabycia, a ja go nie nabyłem",
+    "premium": "true",
+    "positive": false,
+    "id": 634
+  },
+  {
+    "preset_id": 91,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Ты вкус на любителя, и я его не приобрёл",
+    "premium": "true",
+    "positive": false,
+    "id": 635
+  },
+  {
+    "preset_id": 91,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "你是个需要慢慢品的人,我还没品出来",
+    "premium": "true",
+    "positive": false,
+    "id": 636
+  }
+]

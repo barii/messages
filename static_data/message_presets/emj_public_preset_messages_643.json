@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 643,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Actions speak louder than words",
+    "premium": "false",
+    "positive": true,
+    "id": 4494
+  },
+  {
+    "preset_id": 643,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Las acciones valen más que las palabras",
+    "premium": "false",
+    "positive": true,
+    "id": 4495
+  },
+  {
+    "preset_id": 643,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Taten sagen mehr als Worte",
+    "premium": "false",
+    "positive": true,
+    "id": 4496
+  },
+  {
+    "preset_id": 643,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Ações falam mais alto que palavras",
+    "premium": "false",
+    "positive": true,
+    "id": 4497
+  },
+  {
+    "preset_id": 643,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Czyny mówią głośniej niż słowa",
+    "premium": "false",
+    "positive": true,
+    "id": 4498
+  },
+  {
+    "preset_id": 643,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Действия говорят громче слов",
+    "premium": "false",
+    "positive": true,
+    "id": 4499
+  },
+  {
+    "preset_id": 643,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "行动比言语更重要",
+    "premium": "false",
+    "positive": true,
+    "id": 4500
+  }
+]

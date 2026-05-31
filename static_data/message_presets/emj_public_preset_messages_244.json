@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 244,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We used to work together",
+    "premium": "false",
+    "positive": true,
+    "id": 1701
+  },
+  {
+    "preset_id": 244,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Trabajamos juntos antes",
+    "premium": "false",
+    "positive": true,
+    "id": 1702
+  },
+  {
+    "preset_id": 244,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir haben früher zusammen gearbeitet",
+    "premium": "false",
+    "positive": true,
+    "id": 1703
+  },
+  {
+    "preset_id": 244,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Trabalhámos juntos",
+    "premium": "false",
+    "positive": true,
+    "id": 1704
+  },
+  {
+    "preset_id": 244,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Pracowaliśmy razem",
+    "premium": "false",
+    "positive": true,
+    "id": 1705
+  },
+  {
+    "preset_id": 244,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы раньше работали вместе",
+    "premium": "false",
+    "positive": true,
+    "id": 1706
+  },
+  {
+    "preset_id": 244,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们以前一起工作",
+    "premium": "false",
+    "positive": true,
+    "id": 1707
+  }
+]

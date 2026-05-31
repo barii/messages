@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 932,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Don't make a permanent decision based on a temporary feeling",
+    "premium": "true",
+    "positive": true,
+    "id": 6517
+  },
+  {
+    "preset_id": 932,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "No tomes una decisión permanente basada en un sentimiento temporal",
+    "premium": "true",
+    "positive": true,
+    "id": 6518
+  },
+  {
+    "preset_id": 932,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Triff keine dauerhafte Entscheidung basierend auf einem vorübergehenden Gefühl",
+    "premium": "true",
+    "positive": true,
+    "id": 6519
+  },
+  {
+    "preset_id": 932,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Não tomes uma decisão permanente com base num sentimento temporário",
+    "premium": "true",
+    "positive": true,
+    "id": 6520
+  },
+  {
+    "preset_id": 932,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Nie podejmuj stałej decyzji na podstawie tymczasowego uczucia",
+    "premium": "true",
+    "positive": true,
+    "id": 6521
+  },
+  {
+    "preset_id": 932,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Не принимай постоянное решение на основе временного чувства",
+    "premium": "true",
+    "positive": true,
+    "id": 6522
+  },
+  {
+    "preset_id": 932,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "不要因为暂时的感受做出永久的决定",
+    "premium": "true",
+    "positive": true,
+    "id": 6523
+  }
+]

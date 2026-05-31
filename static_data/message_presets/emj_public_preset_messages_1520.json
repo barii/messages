@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1520,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Name a better team.",
+    "premium": "false",
+    "positive": true,
+    "id": 10633
+  },
+  {
+    "preset_id": 1520,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Nombrad un equipo mejor.",
+    "premium": "false",
+    "positive": true,
+    "id": 10634
+  },
+  {
+    "preset_id": 1520,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Nennt eine bessere Mannschaft.",
+    "premium": "false",
+    "positive": true,
+    "id": 10635
+  },
+  {
+    "preset_id": 1520,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Nomeiem uma equipa melhor.",
+    "premium": "false",
+    "positive": true,
+    "id": 10636
+  },
+  {
+    "preset_id": 1520,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Wymień lepszą drużynę.",
+    "premium": "false",
+    "positive": true,
+    "id": 10637
+  },
+  {
+    "preset_id": 1520,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Назовите команду лучше.",
+    "premium": "false",
+    "positive": true,
+    "id": 10638
+  },
+  {
+    "preset_id": 1520,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "说出一支更好的队。",
+    "premium": "false",
+    "positive": true,
+    "id": 10639
+  }
+]

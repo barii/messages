@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 57,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're one of one",
+    "premium": "true",
+    "positive": true,
+    "id": 392
+  },
+  {
+    "preset_id": 57,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres único en tu especie",
+    "premium": "true",
+    "positive": true,
+    "id": 393
+  },
+  {
+    "preset_id": 57,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist einzigartig",
+    "premium": "true",
+    "positive": true,
+    "id": 394
+  },
+  {
+    "preset_id": 57,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És único",
+    "premium": "true",
+    "positive": true,
+    "id": 395
+  },
+  {
+    "preset_id": 57,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś jedyny w swoim rodzaju",
+    "premium": "true",
+    "positive": true,
+    "id": 396
+  },
+  {
+    "preset_id": 57,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты один такой",
+    "premium": "true",
+    "positive": true,
+    "id": 397
+  },
+  {
+    "preset_id": 57,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你是独一无二的",
+    "premium": "true",
+    "positive": true,
+    "id": 398
+  }
+]

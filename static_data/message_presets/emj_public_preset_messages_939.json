@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 939,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Don't take it personally",
+    "premium": "false",
+    "positive": true,
+    "id": 6566
+  },
+  {
+    "preset_id": 939,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "No te lo tomes personal",
+    "premium": "false",
+    "positive": true,
+    "id": 6567
+  },
+  {
+    "preset_id": 939,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Nimm es nicht persönlich",
+    "premium": "false",
+    "positive": true,
+    "id": 6568
+  },
+  {
+    "preset_id": 939,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Não leves a peito",
+    "premium": "false",
+    "positive": true,
+    "id": 6569
+  },
+  {
+    "preset_id": 939,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Nie bierz tego do siebie",
+    "premium": "false",
+    "positive": true,
+    "id": 6570
+  },
+  {
+    "preset_id": 939,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Не принимай на свой счёт",
+    "premium": "false",
+    "positive": true,
+    "id": 6571
+  },
+  {
+    "preset_id": 939,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "别放在心上",
+    "premium": "false",
+    "positive": true,
+    "id": 6572
+  }
+]

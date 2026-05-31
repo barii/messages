@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1016,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "You're an amazing colleague",
+    "premium": "false",
+    "positive": true,
+    "id": 7105
+  },
+  {
+    "preset_id": 1016,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Eres un colega increíble",
+    "premium": "false",
+    "positive": true,
+    "id": 7106
+  },
+  {
+    "preset_id": 1016,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Du bist ein toller Kollege",
+    "premium": "false",
+    "positive": true,
+    "id": 7107
+  },
+  {
+    "preset_id": 1016,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "És um colega fantástico",
+    "premium": "false",
+    "positive": true,
+    "id": 7108
+  },
+  {
+    "preset_id": 1016,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Jesteś niesamowitym kolegą",
+    "premium": "false",
+    "positive": true,
+    "id": 7109
+  },
+  {
+    "preset_id": 1016,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Ты потрясающий коллега",
+    "premium": "false",
+    "positive": true,
+    "id": 7110
+  },
+  {
+    "preset_id": 1016,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "你是一个很棒的同事",
+    "premium": "false",
+    "positive": true,
+    "id": 7111
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1252,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Worst team ever seen.",
+    "premium": "false",
+    "positive": true,
+    "id": 8757
+  },
+  {
+    "preset_id": 1252,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "El peor equipo jamás visto.",
+    "premium": "false",
+    "positive": true,
+    "id": 8758
+  },
+  {
+    "preset_id": 1252,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Schlechteste Mannschaft, die je gesehen wurde.",
+    "premium": "false",
+    "positive": true,
+    "id": 8759
+  },
+  {
+    "preset_id": 1252,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "A pior equipa de sempre.",
+    "premium": "false",
+    "positive": true,
+    "id": 8760
+  },
+  {
+    "preset_id": 1252,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Najgorsza drużyna, jaką widziano.",
+    "premium": "false",
+    "positive": true,
+    "id": 8761
+  },
+  {
+    "preset_id": 1252,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Худшая команда, которую когда-либо видели.",
+    "premium": "false",
+    "positive": true,
+    "id": 8762
+  },
+  {
+    "preset_id": 1252,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "见过的最烂的队。",
+    "premium": "false",
+    "positive": true,
+    "id": 8763
+  }
+]

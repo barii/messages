@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 17,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're so smart",
+    "premium": "false",
+    "positive": true,
+    "id": 112
+  },
+  {
+    "preset_id": 17,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres muy inteligente",
+    "premium": "false",
+    "positive": true,
+    "id": 113
+  },
+  {
+    "preset_id": 17,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist so schlau",
+    "premium": "false",
+    "positive": true,
+    "id": 114
+  },
+  {
+    "preset_id": 17,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És tão inteligente",
+    "premium": "false",
+    "positive": true,
+    "id": 115
+  },
+  {
+    "preset_id": 17,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś taki mądry",
+    "premium": "false",
+    "positive": true,
+    "id": 116
+  },
+  {
+    "preset_id": 17,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты такой умный",
+    "premium": "false",
+    "positive": true,
+    "id": 117
+  },
+  {
+    "preset_id": 17,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你很聪明",
+    "premium": "false",
+    "positive": true,
+    "id": 118
+  }
+]

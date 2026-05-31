@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 150,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you seeing anyone?",
+    "premium": "false",
+    "positive": true,
+    "id": 1043
+  },
+  {
+    "preset_id": 150,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Estás saliendo con alguien?",
+    "premium": "false",
+    "positive": true,
+    "id": 1044
+  },
+  {
+    "preset_id": 150,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Triffst du gerade jemanden?",
+    "premium": "false",
+    "positive": true,
+    "id": 1045
+  },
+  {
+    "preset_id": 150,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Andas a sair com alguém?",
+    "premium": "false",
+    "positive": true,
+    "id": 1046
+  },
+  {
+    "preset_id": 150,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Spotykasz się z kimś?",
+    "premium": "false",
+    "positive": true,
+    "id": 1047
+  },
+  {
+    "preset_id": 150,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты с кем-то встречаешься?",
+    "premium": "false",
+    "positive": true,
+    "id": 1048
+  },
+  {
+    "preset_id": 150,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你在和谁交往吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1049
+  }
+]

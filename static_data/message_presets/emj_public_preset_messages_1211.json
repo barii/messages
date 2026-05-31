@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1211,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "Are you from Tennessee because you're the only ten I see?",
+    "premium": "true",
+    "positive": true,
+    "id": 8470
+  },
+  {
+    "preset_id": 1211,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "Are you from Tennessee because you're the only ten I see?",
+    "premium": "true",
+    "positive": true,
+    "id": 8471
+  },
+  {
+    "preset_id": 1211,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Are you from Tennessee because you're the only ten I see?",
+    "premium": "true",
+    "positive": true,
+    "id": 8472
+  },
+  {
+    "preset_id": 1211,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "Are you from Tennessee because you're the only ten I see?",
+    "premium": "true",
+    "positive": true,
+    "id": 8473
+  },
+  {
+    "preset_id": 1211,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Are you from Tennessee because you're the only ten I see?",
+    "premium": "true",
+    "positive": true,
+    "id": 8474
+  },
+  {
+    "preset_id": 1211,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Are you from Tennessee because you're the only ten I see?",
+    "premium": "true",
+    "positive": true,
+    "id": 8475
+  },
+  {
+    "preset_id": 1211,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "Are you from Tennessee because you're the only ten I see?",
+    "premium": "true",
+    "positive": true,
+    "id": 8476
+  }
+]

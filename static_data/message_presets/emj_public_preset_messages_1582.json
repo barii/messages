@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1582,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Speak when you've won something.",
+    "premium": "false",
+    "positive": true,
+    "id": 11067
+  },
+  {
+    "preset_id": 1582,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Hablad cuando hayáis ganado algo.",
+    "premium": "false",
+    "positive": true,
+    "id": 11068
+  },
+  {
+    "preset_id": 1582,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Redet, wenn ihr etwas gewonnen habt.",
+    "premium": "false",
+    "positive": true,
+    "id": 11069
+  },
+  {
+    "preset_id": 1582,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Falem quando ganharem alguma coisa.",
+    "premium": "false",
+    "positive": true,
+    "id": 11070
+  },
+  {
+    "preset_id": 1582,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Mówcie, kiedy coś wygracie.",
+    "premium": "false",
+    "positive": true,
+    "id": 11071
+  },
+  {
+    "preset_id": 1582,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Говорите, когда что-нибудь выиграете.",
+    "premium": "false",
+    "positive": true,
+    "id": 11072
+  },
+  {
+    "preset_id": 1582,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "等你们赢过什么再说。",
+    "premium": "false",
+    "positive": true,
+    "id": 11073
+  }
+]

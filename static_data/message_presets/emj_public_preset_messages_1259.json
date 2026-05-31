@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1259,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You're not singing anymore.",
+    "premium": "false",
+    "positive": true,
+    "id": 8806
+  },
+  {
+    "preset_id": 1259,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Ya no estáis cantando.",
+    "premium": "false",
+    "positive": true,
+    "id": 8807
+  },
+  {
+    "preset_id": 1259,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr singt nicht mehr.",
+    "premium": "false",
+    "positive": true,
+    "id": 8808
+  },
+  {
+    "preset_id": 1259,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Já não estão a cantar.",
+    "premium": "false",
+    "positive": true,
+    "id": 8809
+  },
+  {
+    "preset_id": 1259,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Już nie śpiewacie.",
+    "premium": "false",
+    "positive": true,
+    "id": 8810
+  },
+  {
+    "preset_id": 1259,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Вы больше не поёте.",
+    "premium": "false",
+    "positive": true,
+    "id": 8811
+  },
+  {
+    "preset_id": 1259,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们不再唱歌了。",
+    "premium": "false",
+    "positive": true,
+    "id": 8812
+  }
+]

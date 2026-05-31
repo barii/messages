@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 135,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Did I do something?",
+    "premium": "false",
+    "positive": true,
+    "id": 938
+  },
+  {
+    "preset_id": 135,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Hice algo?",
+    "premium": "false",
+    "positive": true,
+    "id": 939
+  },
+  {
+    "preset_id": 135,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Habe ich was getan?",
+    "premium": "false",
+    "positive": true,
+    "id": 940
+  },
+  {
+    "preset_id": 135,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Fiz alguma coisa?",
+    "premium": "false",
+    "positive": true,
+    "id": 941
+  },
+  {
+    "preset_id": 135,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Coś zrobiłem?",
+    "premium": "false",
+    "positive": true,
+    "id": 942
+  },
+  {
+    "preset_id": 135,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Я что-то сделал?",
+    "premium": "false",
+    "positive": true,
+    "id": 943
+  },
+  {
+    "preset_id": 135,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我做了什么吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 944
+  }
+]

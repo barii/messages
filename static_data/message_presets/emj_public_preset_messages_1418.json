@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1418,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We are so much better than you will ever be.",
+    "premium": "false",
+    "positive": true,
+    "id": 9919
+  },
+  {
+    "preset_id": 1418,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Somos mucho mejores de lo que jamás seréis.",
+    "premium": "false",
+    "positive": true,
+    "id": 9920
+  },
+  {
+    "preset_id": 1418,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir sind viel besser, als ihr es je sein werdet.",
+    "premium": "false",
+    "positive": true,
+    "id": 9921
+  },
+  {
+    "preset_id": 1418,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Somos muito melhores do que alguma vez serão.",
+    "premium": "false",
+    "positive": true,
+    "id": 9922
+  },
+  {
+    "preset_id": 1418,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Jesteśmy o wiele lepsi niż kiedykolwiek będziecie.",
+    "premium": "false",
+    "positive": true,
+    "id": 9923
+  },
+  {
+    "preset_id": 1418,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Мы намного лучше, чем вы когда-либо будете.",
+    "premium": "false",
+    "positive": true,
+    "id": 9924
+  },
+  {
+    "preset_id": 1418,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们比你们好太多了,你们永远也赶不上。",
+    "premium": "false",
+    "positive": true,
+    "id": 9925
+  }
+]

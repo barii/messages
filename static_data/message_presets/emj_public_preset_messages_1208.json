@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1208,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "Are you Google because you have everything I've been searching for?",
+    "premium": "true",
+    "positive": true,
+    "id": 8449
+  },
+  {
+    "preset_id": 1208,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "¿Eres Google? Porque tienes todo lo que he estado buscando",
+    "premium": "true",
+    "positive": true,
+    "id": 8450
+  },
+  {
+    "preset_id": 1208,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Bist du Google? Denn du hast alles, wonach ich gesucht habe",
+    "premium": "true",
+    "positive": true,
+    "id": 8451
+  },
+  {
+    "preset_id": 1208,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "És o Google? Porque tens tudo o que tenho andado à procura",
+    "premium": "true",
+    "positive": true,
+    "id": 8452
+  },
+  {
+    "preset_id": 1208,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Jesteś Googlem? Bo masz wszystko, czego szukałem",
+    "premium": "true",
+    "positive": true,
+    "id": 8453
+  },
+  {
+    "preset_id": 1208,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Ты Google? Потому что у тебя есть всё, что я искал",
+    "premium": "true",
+    "positive": true,
+    "id": 8454
+  },
+  {
+    "preset_id": 1208,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "你是Google吗?因为你拥有我一直在寻找的一切",
+    "premium": "true",
+    "positive": true,
+    "id": 8455
+  }
+]

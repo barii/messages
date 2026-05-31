@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1643,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You must go home.",
+    "premium": "false",
+    "positive": true,
+    "id": 11494
+  },
+  {
+    "preset_id": 1643,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Tenéis que iros a casa.",
+    "premium": "false",
+    "positive": true,
+    "id": 11495
+  },
+  {
+    "preset_id": 1643,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ihr müsst nach Hause gehen.",
+    "premium": "false",
+    "positive": true,
+    "id": 11496
+  },
+  {
+    "preset_id": 1643,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Têm de ir para casa.",
+    "premium": "false",
+    "positive": true,
+    "id": 11497
+  },
+  {
+    "preset_id": 1643,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Musicie iść do domu.",
+    "premium": "false",
+    "positive": true,
+    "id": 11498
+  },
+  {
+    "preset_id": 1643,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Вам нужно идти домой.",
+    "premium": "false",
+    "positive": true,
+    "id": 11499
+  },
+  {
+    "preset_id": 1643,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们必须回家。",
+    "premium": "false",
+    "positive": true,
+    "id": 11500
+  }
+]

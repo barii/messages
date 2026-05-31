@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1509,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "History is on our side.",
+    "premium": "false",
+    "positive": true,
+    "id": 10556
+  },
+  {
+    "preset_id": 1509,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "La historia está de nuestro lado.",
+    "premium": "false",
+    "positive": true,
+    "id": 10557
+  },
+  {
+    "preset_id": 1509,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Die Geschichte ist auf unserer Seite.",
+    "premium": "false",
+    "positive": true,
+    "id": 10558
+  },
+  {
+    "preset_id": 1509,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "A história está do nosso lado.",
+    "premium": "false",
+    "positive": true,
+    "id": 10559
+  },
+  {
+    "preset_id": 1509,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Historia jest po naszej stronie.",
+    "premium": "false",
+    "positive": true,
+    "id": 10560
+  },
+  {
+    "preset_id": 1509,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "История на нашей стороне.",
+    "premium": "false",
+    "positive": true,
+    "id": 10561
+  },
+  {
+    "preset_id": 1509,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "历史站在我们这边。",
+    "premium": "false",
+    "positive": true,
+    "id": 10562
+  }
+]

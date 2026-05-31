@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1012,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You owe someone an apology",
+    "premium": "false",
+    "positive": true,
+    "id": 7077
+  },
+  {
+    "preset_id": 1012,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Le debes una disculpa a alguien",
+    "premium": "false",
+    "positive": true,
+    "id": 7078
+  },
+  {
+    "preset_id": 1012,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du schuldest jemandem eine Entschuldigung",
+    "premium": "false",
+    "positive": true,
+    "id": 7079
+  },
+  {
+    "preset_id": 1012,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Deves um pedido de desculpa a alguém",
+    "premium": "false",
+    "positive": true,
+    "id": 7080
+  },
+  {
+    "preset_id": 1012,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Jesteś komuś winien przeprosiny",
+    "premium": "false",
+    "positive": true,
+    "id": 7081
+  },
+  {
+    "preset_id": 1012,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты должен кому-то извинения",
+    "premium": "false",
+    "positive": true,
+    "id": 7082
+  },
+  {
+    "preset_id": 1012,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你欠某人一个道歉",
+    "premium": "false",
+    "positive": true,
+    "id": 7083
+  }
+]

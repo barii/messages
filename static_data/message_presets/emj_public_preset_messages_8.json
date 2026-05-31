@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 8,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You light up every room",
+    "premium": "false",
+    "positive": true,
+    "id": 49
+  },
+  {
+    "preset_id": 8,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Iluminas cualquier habitación",
+    "premium": "false",
+    "positive": true,
+    "id": 50
+  },
+  {
+    "preset_id": 8,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du erhellst jeden Raum",
+    "premium": "false",
+    "positive": true,
+    "id": 51
+  },
+  {
+    "preset_id": 8,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Iluminas qualquer sítio",
+    "premium": "false",
+    "positive": true,
+    "id": 52
+  },
+  {
+    "preset_id": 8,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Rozświetlasz każde pomieszczenie",
+    "premium": "false",
+    "positive": true,
+    "id": 53
+  },
+  {
+    "preset_id": 8,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты освещаешь каждую комнату",
+    "premium": "false",
+    "positive": true,
+    "id": 54
+  },
+  {
+    "preset_id": 8,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你点亮每个房间",
+    "premium": "false",
+    "positive": true,
+    "id": 55
+  }
+]

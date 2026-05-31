@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 979,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "That wasn't your best moment",
+    "premium": "false",
+    "positive": true,
+    "id": 6846
+  },
+  {
+    "preset_id": 979,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Ese no fue tu mejor momento",
+    "premium": "false",
+    "positive": true,
+    "id": 6847
+  },
+  {
+    "preset_id": 979,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Das war nicht dein bester Moment",
+    "premium": "false",
+    "positive": true,
+    "id": 6848
+  },
+  {
+    "preset_id": 979,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Não foi o teu melhor momento",
+    "premium": "false",
+    "positive": true,
+    "id": 6849
+  },
+  {
+    "preset_id": 979,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "To nie był twój najlepszy moment",
+    "premium": "false",
+    "positive": true,
+    "id": 6850
+  },
+  {
+    "preset_id": 979,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Это был не твой лучший момент",
+    "premium": "false",
+    "positive": true,
+    "id": 6851
+  },
+  {
+    "preset_id": 979,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "那不是你最好的时刻",
+    "premium": "false",
+    "positive": true,
+    "id": 6852
+  }
+]

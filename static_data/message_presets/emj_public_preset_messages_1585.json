@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1585,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Your trophy cabinet is collecting dust.",
+    "premium": "true",
+    "positive": true,
+    "id": 11088
+  },
+  {
+    "preset_id": 1585,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Vuestra vitrina de trofeos está acumulando polvo.",
+    "premium": "true",
+    "positive": true,
+    "id": 11089
+  },
+  {
+    "preset_id": 1585,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Eure Trophäenvitrine setzt Staub an.",
+    "premium": "true",
+    "positive": true,
+    "id": 11090
+  },
+  {
+    "preset_id": 1585,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "A vossa vitrine de troféus está a apanhar pó.",
+    "premium": "true",
+    "positive": true,
+    "id": 11091
+  },
+  {
+    "preset_id": 1585,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Wasza gablota z trofeami zbiera kurz.",
+    "premium": "true",
+    "positive": true,
+    "id": 11092
+  },
+  {
+    "preset_id": 1585,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Ваша витрина с трофеями собирает пыль.",
+    "premium": "true",
+    "positive": true,
+    "id": 11093
+  },
+  {
+    "preset_id": 1585,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们的奖杯柜在积灰。",
+    "premium": "true",
+    "positive": true,
+    "id": 11094
+  }
+]

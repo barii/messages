@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1216,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "Are you my phone charger because without you I'd die?",
+    "premium": "false",
+    "positive": true,
+    "id": 8505
+  },
+  {
+    "preset_id": 1216,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "¿Eres mi cargador? Porque sin ti me muero",
+    "premium": "false",
+    "positive": true,
+    "id": 8506
+  },
+  {
+    "preset_id": 1216,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Bist du mein Handy-Ladegerät? Denn ohne dich würde ich sterben",
+    "premium": "false",
+    "positive": true,
+    "id": 8507
+  },
+  {
+    "preset_id": 1216,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "És o meu carregador? Porque sem ti morria",
+    "premium": "false",
+    "positive": true,
+    "id": 8508
+  },
+  {
+    "preset_id": 1216,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Jesteś moją ładowarką? Bo bez ciebie umrę",
+    "premium": "false",
+    "positive": true,
+    "id": 8509
+  },
+  {
+    "preset_id": 1216,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Ты моя зарядка? Потому что без тебя я умру",
+    "premium": "false",
+    "positive": true,
+    "id": 8510
+  },
+  {
+    "preset_id": 1216,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "你是我的充电器吗?因为没有你我会死",
+    "premium": "false",
+    "positive": true,
+    "id": 8511
+  }
+]

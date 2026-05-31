@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 840,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "Miss your face",
+    "premium": "false",
+    "positive": true,
+    "id": 5873
+  },
+  {
+    "preset_id": 840,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Extraño tu cara",
+    "premium": "false",
+    "positive": true,
+    "id": 5874
+  },
+  {
+    "preset_id": 840,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Vermisse dein Gesicht",
+    "premium": "false",
+    "positive": true,
+    "id": 5875
+  },
+  {
+    "preset_id": 840,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Tenho saudades da tua cara",
+    "premium": "false",
+    "positive": true,
+    "id": 5876
+  },
+  {
+    "preset_id": 840,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Tęsknię za twoją twarzą",
+    "premium": "false",
+    "positive": true,
+    "id": 5877
+  },
+  {
+    "preset_id": 840,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Скучаю по твоему лицу",
+    "premium": "false",
+    "positive": true,
+    "id": 5878
+  },
+  {
+    "preset_id": 840,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "想念你的脸",
+    "premium": "false",
+    "positive": true,
+    "id": 5879
+  }
+]

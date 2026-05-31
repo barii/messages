@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1100,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Good morning",
+    "premium": "false",
+    "positive": true,
+    "id": 7693
+  },
+  {
+    "preset_id": 1100,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Buenos días",
+    "premium": "false",
+    "positive": true,
+    "id": 7694
+  },
+  {
+    "preset_id": 1100,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Guten Morgen",
+    "premium": "false",
+    "positive": true,
+    "id": 7695
+  },
+  {
+    "preset_id": 1100,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Bom dia",
+    "premium": "false",
+    "positive": true,
+    "id": 7696
+  },
+  {
+    "preset_id": 1100,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Dzień dobry",
+    "premium": "false",
+    "positive": true,
+    "id": 7697
+  },
+  {
+    "preset_id": 1100,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Доброе утро",
+    "premium": "false",
+    "positive": true,
+    "id": 7698
+  },
+  {
+    "preset_id": 1100,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "早上好",
+    "premium": "false",
+    "positive": true,
+    "id": 7699
+  }
+]

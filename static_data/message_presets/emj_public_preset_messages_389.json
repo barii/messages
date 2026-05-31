@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 389,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I love being outside",
+    "premium": "false",
+    "positive": true,
+    "id": 2716
+  },
+  {
+    "preset_id": 389,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Me encanta estar afuera",
+    "premium": "false",
+    "positive": true,
+    "id": 2717
+  },
+  {
+    "preset_id": 389,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich liebe es, draußen zu sein",
+    "premium": "false",
+    "positive": true,
+    "id": 2718
+  },
+  {
+    "preset_id": 389,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Adoro estar ao ar livre",
+    "premium": "false",
+    "positive": true,
+    "id": 2719
+  },
+  {
+    "preset_id": 389,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Uwielbiam być na zewnątrz",
+    "premium": "false",
+    "positive": true,
+    "id": 2720
+  },
+  {
+    "preset_id": 389,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я люблю быть на улице",
+    "premium": "false",
+    "positive": true,
+    "id": 2721
+  },
+  {
+    "preset_id": 389,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我喜欢户外",
+    "premium": "false",
+    "positive": true,
+    "id": 2722
+  }
+]

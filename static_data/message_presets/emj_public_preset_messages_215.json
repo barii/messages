@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 215,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Do we go to college together?",
+    "premium": "false",
+    "positive": true,
+    "id": 1498
+  },
+  {
+    "preset_id": 215,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Vamos al instituto juntos?",
+    "premium": "false",
+    "positive": true,
+    "id": 1499
+  },
+  {
+    "preset_id": 215,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Gehen wir zusammen ans Gymnasium?",
+    "premium": "false",
+    "positive": true,
+    "id": 1500
+  },
+  {
+    "preset_id": 215,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Andamos no liceu juntos?",
+    "premium": "false",
+    "positive": true,
+    "id": 1501
+  },
+  {
+    "preset_id": 215,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Chodzimy razem do liceum?",
+    "premium": "false",
+    "positive": true,
+    "id": 1502
+  },
+  {
+    "preset_id": 215,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Мы учимся в школе вместе?",
+    "premium": "false",
+    "positive": true,
+    "id": 1503
+  },
+  {
+    "preset_id": 215,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我们一起上高中吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1504
+  }
+]

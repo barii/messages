@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1688,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "What's the matter, scared of the ball?",
+    "premium": "true",
+    "positive": true,
+    "id": 11809
+  },
+  {
+    "preset_id": 1688,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "What's the matter, scared of the ball?",
+    "premium": "true",
+    "positive": true,
+    "id": 11810
+  },
+  {
+    "preset_id": 1688,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "What's the matter, scared of the ball?",
+    "premium": "true",
+    "positive": true,
+    "id": 11811
+  },
+  {
+    "preset_id": 1688,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "What's the matter, scared of the ball?",
+    "premium": "true",
+    "positive": true,
+    "id": 11812
+  },
+  {
+    "preset_id": 1688,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "What's the matter, scared of the ball?",
+    "premium": "true",
+    "positive": true,
+    "id": 11813
+  },
+  {
+    "preset_id": 1688,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "What's the matter, scared of the ball?",
+    "premium": "true",
+    "positive": true,
+    "id": 11814
+  },
+  {
+    "preset_id": 1688,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "What's the matter, scared of the ball?",
+    "premium": "true",
+    "positive": true,
+    "id": 11815
+  }
+]

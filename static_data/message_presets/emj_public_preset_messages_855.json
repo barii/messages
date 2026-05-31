@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 855,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You make everything better",
+    "premium": "false",
+    "positive": true,
+    "id": 5978
+  },
+  {
+    "preset_id": 855,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Haces todo mejor",
+    "premium": "false",
+    "positive": true,
+    "id": 5979
+  },
+  {
+    "preset_id": 855,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Du machst alles besser",
+    "premium": "false",
+    "positive": true,
+    "id": 5980
+  },
+  {
+    "preset_id": 855,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Tornas tudo melhor",
+    "premium": "false",
+    "positive": true,
+    "id": 5981
+  },
+  {
+    "preset_id": 855,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Sprawiasz, że wszystko jest lepsze",
+    "premium": "false",
+    "positive": true,
+    "id": 5982
+  },
+  {
+    "preset_id": 855,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты делаешь всё лучше",
+    "premium": "false",
+    "positive": true,
+    "id": 5983
+  },
+  {
+    "preset_id": 855,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你让一切变得更好",
+    "premium": "false",
+    "positive": true,
+    "id": 5984
+  }
+]

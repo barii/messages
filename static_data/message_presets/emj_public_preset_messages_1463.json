@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1463,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We played you off the park.",
+    "premium": "false",
+    "positive": true,
+    "id": 10234
+  },
+  {
+    "preset_id": 1463,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Os hemos jugado de fuera del campo.",
+    "premium": "false",
+    "positive": true,
+    "id": 10235
+  },
+  {
+    "preset_id": 1463,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir haben euch vom Platz gespielt.",
+    "premium": "false",
+    "positive": true,
+    "id": 10236
+  },
+  {
+    "preset_id": 1463,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Jogámos-vos para fora do campo.",
+    "premium": "false",
+    "positive": true,
+    "id": 10237
+  },
+  {
+    "preset_id": 1463,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Wygraliśmy z wami na boisku.",
+    "premium": "false",
+    "positive": true,
+    "id": 10238
+  },
+  {
+    "preset_id": 1463,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Мы вас обыграли на поле.",
+    "premium": "false",
+    "positive": true,
+    "id": 10239
+  },
+  {
+    "preset_id": 1463,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们把你们玩弄于股掌之间。",
+    "premium": "false",
+    "positive": true,
+    "id": 10240
+  }
+]

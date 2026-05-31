@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1083,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Almost the weekend",
+    "premium": "false",
+    "positive": true,
+    "id": 7574
+  },
+  {
+    "preset_id": 1083,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Casi es el fin de semana",
+    "premium": "false",
+    "positive": true,
+    "id": 7575
+  },
+  {
+    "preset_id": 1083,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Fast Wochenende",
+    "premium": "false",
+    "positive": true,
+    "id": 7576
+  },
+  {
+    "preset_id": 1083,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Quase fim de semana",
+    "premium": "false",
+    "positive": true,
+    "id": 7577
+  },
+  {
+    "preset_id": 1083,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Prawie weekend",
+    "premium": "false",
+    "positive": true,
+    "id": 7578
+  },
+  {
+    "preset_id": 1083,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Почти выходные",
+    "premium": "false",
+    "positive": true,
+    "id": 7579
+  },
+  {
+    "preset_id": 1083,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "快到周末了",
+    "premium": "false",
+    "positive": true,
+    "id": 7580
+  }
+]

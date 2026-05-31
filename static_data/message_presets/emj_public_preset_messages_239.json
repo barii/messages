@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 239,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We went to school together",
+    "premium": "true",
+    "positive": true,
+    "id": 1666
+  },
+  {
+    "preset_id": 239,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Fuimos al colegio juntos",
+    "premium": "true",
+    "positive": true,
+    "id": 1667
+  },
+  {
+    "preset_id": 239,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir waren zusammen in der Schule",
+    "premium": "true",
+    "positive": true,
+    "id": 1668
+  },
+  {
+    "preset_id": 239,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Andámos na escola juntos",
+    "premium": "true",
+    "positive": true,
+    "id": 1669
+  },
+  {
+    "preset_id": 239,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Chodziliśmy razem do szkoły",
+    "premium": "true",
+    "positive": true,
+    "id": 1670
+  },
+  {
+    "preset_id": 239,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы ходили в школу вместе",
+    "premium": "true",
+    "positive": true,
+    "id": 1671
+  },
+  {
+    "preset_id": 239,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们一起上过学",
+    "premium": "true",
+    "positive": true,
+    "id": 1672
+  }
+]

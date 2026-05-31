@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 512,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I've been better",
+    "premium": "false",
+    "positive": true,
+    "id": 3577
+  },
+  {
+    "preset_id": 512,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "He estado mejor",
+    "premium": "false",
+    "positive": true,
+    "id": 3578
+  },
+  {
+    "preset_id": 512,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Mir ging es schon mal besser",
+    "premium": "false",
+    "positive": true,
+    "id": 3579
+  },
+  {
+    "preset_id": 512,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Já estive melhor",
+    "premium": "false",
+    "positive": true,
+    "id": 3580
+  },
+  {
+    "preset_id": 512,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Bywało lepiej",
+    "premium": "false",
+    "positive": true,
+    "id": 3581
+  },
+  {
+    "preset_id": 512,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Бывало и лучше",
+    "premium": "false",
+    "positive": true,
+    "id": 3582
+  },
+  {
+    "preset_id": 512,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我以前更好",
+    "premium": "false",
+    "positive": true,
+    "id": 3583
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 517,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Stressed",
+    "premium": "false",
+    "positive": true,
+    "id": 3612
+  },
+  {
+    "preset_id": 517,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Estresado",
+    "premium": "false",
+    "positive": true,
+    "id": 3613
+  },
+  {
+    "preset_id": 517,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Gestresst",
+    "premium": "false",
+    "positive": true,
+    "id": 3614
+  },
+  {
+    "preset_id": 517,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Stressado",
+    "premium": "false",
+    "positive": true,
+    "id": 3615
+  },
+  {
+    "preset_id": 517,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Zestresowany",
+    "premium": "false",
+    "positive": true,
+    "id": 3616
+  },
+  {
+    "preset_id": 517,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "В стрессе",
+    "premium": "false",
+    "positive": true,
+    "id": 3617
+  },
+  {
+    "preset_id": 517,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "压力大",
+    "premium": "false",
+    "positive": true,
+    "id": 3618
+  }
+]

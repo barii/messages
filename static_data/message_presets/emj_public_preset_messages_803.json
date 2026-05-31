@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 803,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Flirt",
+    "premium": "false",
+    "positive": true,
+    "id": 5614
+  },
+  {
+    "preset_id": 803,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Coqueto",
+    "premium": "false",
+    "positive": true,
+    "id": 5615
+  },
+  {
+    "preset_id": 803,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Flirt",
+    "premium": "false",
+    "positive": true,
+    "id": 5616
+  },
+  {
+    "preset_id": 803,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Engatatão",
+    "premium": "false",
+    "positive": true,
+    "id": 5617
+  },
+  {
+    "preset_id": 803,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Flirciarz",
+    "premium": "false",
+    "positive": true,
+    "id": 5618
+  },
+  {
+    "preset_id": 803,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Флиртун",
+    "premium": "false",
+    "positive": true,
+    "id": 5619
+  },
+  {
+    "preset_id": 803,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "调情者",
+    "premium": "false",
+    "positive": true,
+    "id": 5620
+  }
+]

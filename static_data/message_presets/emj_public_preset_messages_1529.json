@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1529,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You shouldn't talk, you weren't too good either.",
+    "premium": "true",
+    "positive": true,
+    "id": 10696
+  },
+  {
+    "preset_id": 1529,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "No deberíais hablar, vosotros tampoco fuisteis tan buenos.",
+    "premium": "true",
+    "positive": true,
+    "id": 10697
+  },
+  {
+    "preset_id": 1529,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ihr solltet nicht reden, ihr wart auch nicht so gut.",
+    "premium": "true",
+    "positive": true,
+    "id": 10698
+  },
+  {
+    "preset_id": 1529,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Não deviam falar, vocês também não foram lá grande coisa.",
+    "premium": "true",
+    "positive": true,
+    "id": 10699
+  },
+  {
+    "preset_id": 1529,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Nie powinniście gadać, sami też nie byliście za dobrzy.",
+    "premium": "true",
+    "positive": true,
+    "id": 10700
+  },
+  {
+    "preset_id": 1529,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Вам не стоит говорить, вы тоже были не очень.",
+    "premium": "true",
+    "positive": true,
+    "id": 10701
+  },
+  {
+    "preset_id": 1529,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们没资格说,你们也没好到哪去。",
+    "premium": "true",
+    "positive": true,
+    "id": 10702
+  }
+]

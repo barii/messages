@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1496,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Sold out again.",
+    "premium": "false",
+    "positive": true,
+    "id": 10465
+  },
+  {
+    "preset_id": 1496,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Agotadas las entradas otra vez.",
+    "premium": "false",
+    "positive": true,
+    "id": 10466
+  },
+  {
+    "preset_id": 1496,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wieder ausverkauft.",
+    "premium": "false",
+    "positive": true,
+    "id": 10467
+  },
+  {
+    "preset_id": 1496,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Esgotado outra vez.",
+    "premium": "false",
+    "positive": true,
+    "id": 10468
+  },
+  {
+    "preset_id": 1496,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Znowu wyprzedane.",
+    "premium": "false",
+    "positive": true,
+    "id": 10469
+  },
+  {
+    "preset_id": 1496,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Снова все билеты проданы.",
+    "premium": "false",
+    "positive": true,
+    "id": 10470
+  },
+  {
+    "preset_id": 1496,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "又一次满座。",
+    "premium": "false",
+    "positive": true,
+    "id": 10471
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 619,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Stop please",
+    "premium": "false",
+    "positive": true,
+    "id": 4326
+  },
+  {
+    "preset_id": 619,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Para, por favor",
+    "premium": "false",
+    "positive": true,
+    "id": 4327
+  },
+  {
+    "preset_id": 619,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Stopp bitte",
+    "premium": "false",
+    "positive": true,
+    "id": 4328
+  },
+  {
+    "preset_id": 619,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Para, por favor",
+    "premium": "false",
+    "positive": true,
+    "id": 4329
+  },
+  {
+    "preset_id": 619,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Stop proszę",
+    "premium": "false",
+    "positive": true,
+    "id": 4330
+  },
+  {
+    "preset_id": 619,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Стоп, пожалуйста",
+    "premium": "false",
+    "positive": true,
+    "id": 4331
+  },
+  {
+    "preset_id": 619,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "停,拜托",
+    "premium": "false",
+    "positive": true,
+    "id": 4332
+  }
+]

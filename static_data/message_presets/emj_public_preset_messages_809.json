@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 809,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Trying to make me blush huh",
+    "premium": "false",
+    "positive": true,
+    "id": 5656
+  },
+  {
+    "preset_id": 809,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Intentando hacerme sonrojar, ¿eh?",
+    "premium": "false",
+    "positive": true,
+    "id": 5657
+  },
+  {
+    "preset_id": 809,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Versuchst mich zum Erröten zu bringen, was?",
+    "premium": "false",
+    "positive": true,
+    "id": 5658
+  },
+  {
+    "preset_id": 809,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "A tentar fazer-me corar, é?",
+    "premium": "false",
+    "positive": true,
+    "id": 5659
+  },
+  {
+    "preset_id": 809,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Próbujesz mnie zarumienić, co?",
+    "premium": "false",
+    "positive": true,
+    "id": 5660
+  },
+  {
+    "preset_id": 809,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Пытаешься заставить меня краснеть, да?",
+    "premium": "false",
+    "positive": true,
+    "id": 5661
+  },
+  {
+    "preset_id": 809,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "想让我脸红啊?",
+    "premium": "false",
+    "positive": true,
+    "id": 5662
+  }
+]

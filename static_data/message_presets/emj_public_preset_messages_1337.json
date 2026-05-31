@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1337,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "No idea what your defenders were doing.",
+    "premium": "true",
+    "positive": true,
+    "id": 9352
+  },
+  {
+    "preset_id": 1337,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "No tengo idea de qué hacían vuestros defensas.",
+    "premium": "true",
+    "positive": true,
+    "id": 9353
+  },
+  {
+    "preset_id": 1337,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Keine Ahnung, was eure Verteidiger gemacht haben.",
+    "premium": "true",
+    "positive": true,
+    "id": 9354
+  },
+  {
+    "preset_id": 1337,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Não faço ideia do que os vossos defesas estavam a fazer.",
+    "premium": "true",
+    "positive": true,
+    "id": 9355
+  },
+  {
+    "preset_id": 1337,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Nie wiem, co robili wasi obrońcy.",
+    "premium": "true",
+    "positive": true,
+    "id": 9356
+  },
+  {
+    "preset_id": 1337,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Не знаю, что делали ваши защитники.",
+    "premium": "true",
+    "positive": true,
+    "id": 9357
+  },
+  {
+    "preset_id": 1337,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "完全不知道你们后卫在干什么。",
+    "premium": "true",
+    "positive": true,
+    "id": 9358
+  }
+]

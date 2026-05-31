@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1608,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "We're bad and we beat you.",
+    "premium": "false",
+    "positive": true,
+    "id": 11249
+  },
+  {
+    "preset_id": 1608,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Estamos mal y os ganamos.",
+    "premium": "false",
+    "positive": true,
+    "id": 11250
+  },
+  {
+    "preset_id": 1608,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Wir sind schlecht und schlagen euch.",
+    "premium": "false",
+    "positive": true,
+    "id": 11251
+  },
+  {
+    "preset_id": 1608,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Estamos mal e ganhámos-vos.",
+    "premium": "false",
+    "positive": true,
+    "id": 11252
+  },
+  {
+    "preset_id": 1608,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Jesteśmy słabi i wygraliśmy z wami.",
+    "premium": "false",
+    "positive": true,
+    "id": 11253
+  },
+  {
+    "preset_id": 1608,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Мы плохие, но обыграли вас.",
+    "premium": "false",
+    "positive": true,
+    "id": 11254
+  },
+  {
+    "preset_id": 1608,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "我们状态差还赢了你们。",
+    "premium": "false",
+    "positive": true,
+    "id": 11255
+  }
+]

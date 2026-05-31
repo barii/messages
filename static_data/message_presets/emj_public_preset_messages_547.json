@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 547,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Oh no no",
+    "premium": "false",
+    "positive": true,
+    "id": 3822
+  },
+  {
+    "preset_id": 547,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Oh no no",
+    "premium": "false",
+    "positive": true,
+    "id": 3823
+  },
+  {
+    "preset_id": 547,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Oh nein nein",
+    "premium": "false",
+    "positive": true,
+    "id": 3824
+  },
+  {
+    "preset_id": 547,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Oh não não",
+    "premium": "false",
+    "positive": true,
+    "id": 3825
+  },
+  {
+    "preset_id": 547,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Och nie nie",
+    "premium": "false",
+    "positive": true,
+    "id": 3826
+  },
+  {
+    "preset_id": 547,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "О нет нет",
+    "premium": "false",
+    "positive": true,
+    "id": 3827
+  },
+  {
+    "preset_id": 547,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "哦不不",
+    "premium": "false",
+    "positive": true,
+    "id": 3828
+  }
+]

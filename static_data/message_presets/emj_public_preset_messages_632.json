@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 632,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "That's creepy",
+    "premium": "false",
+    "positive": true,
+    "id": 4417
+  },
+  {
+    "preset_id": 632,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Qué raro",
+    "premium": "false",
+    "positive": true,
+    "id": 4418
+  },
+  {
+    "preset_id": 632,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Das ist gruselig",
+    "premium": "false",
+    "positive": true,
+    "id": 4419
+  },
+  {
+    "preset_id": 632,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Isso é estranho",
+    "premium": "false",
+    "positive": true,
+    "id": 4420
+  },
+  {
+    "preset_id": 632,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "To dziwne",
+    "premium": "false",
+    "positive": true,
+    "id": 4421
+  },
+  {
+    "preset_id": 632,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Это жутко",
+    "premium": "false",
+    "positive": true,
+    "id": 4422
+  },
+  {
+    "preset_id": 632,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "好奇怪",
+    "premium": "false",
+    "positive": true,
+    "id": 4423
+  }
+]

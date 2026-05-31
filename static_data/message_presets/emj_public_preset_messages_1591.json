@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1591,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You've gone quiet now.",
+    "premium": "false",
+    "positive": true,
+    "id": 11130
+  },
+  {
+    "preset_id": 1591,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Os habéis quedado callados ahora.",
+    "premium": "false",
+    "positive": true,
+    "id": 11131
+  },
+  {
+    "preset_id": 1591,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Jetzt seid ihr ruhig geworden.",
+    "premium": "false",
+    "positive": true,
+    "id": 11132
+  },
+  {
+    "preset_id": 1591,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Já se calaram agora.",
+    "premium": "false",
+    "positive": true,
+    "id": 11133
+  },
+  {
+    "preset_id": 1591,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Teraz się uciszyliście.",
+    "premium": "false",
+    "positive": true,
+    "id": 11134
+  },
+  {
+    "preset_id": 1591,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Сейчас замолчали.",
+    "premium": "false",
+    "positive": true,
+    "id": 11135
+  },
+  {
+    "preset_id": 1591,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "现在你们安静了。",
+    "premium": "false",
+    "positive": true,
+    "id": 11136
+  }
+]

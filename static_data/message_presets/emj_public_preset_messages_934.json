@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 934,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Stop overthinking it",
+    "premium": "false",
+    "positive": true,
+    "id": 6531
+  },
+  {
+    "preset_id": 934,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Deja de pensarlo tanto",
+    "premium": "false",
+    "positive": true,
+    "id": 6532
+  },
+  {
+    "preset_id": 934,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Hör auf zu überdenken",
+    "premium": "false",
+    "positive": true,
+    "id": 6533
+  },
+  {
+    "preset_id": 934,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Para de pensar demais",
+    "premium": "false",
+    "positive": true,
+    "id": 6534
+  },
+  {
+    "preset_id": 934,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Przestań to nadmiernie analizować",
+    "premium": "false",
+    "positive": true,
+    "id": 6535
+  },
+  {
+    "preset_id": 934,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Перестань переосмысливать",
+    "premium": "false",
+    "positive": true,
+    "id": 6536
+  },
+  {
+    "preset_id": 934,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "别再过度思考了",
+    "premium": "false",
+    "positive": true,
+    "id": 6537
+  }
+]

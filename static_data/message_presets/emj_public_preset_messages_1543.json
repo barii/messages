@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1543,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You wish you were like us.",
+    "premium": "false",
+    "positive": true,
+    "id": 10794
+  },
+  {
+    "preset_id": 1543,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Quisierais ser como nosotros.",
+    "premium": "false",
+    "positive": true,
+    "id": 10795
+  },
+  {
+    "preset_id": 1543,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ihr wünschtet, ihr wärt wie wir.",
+    "premium": "false",
+    "positive": true,
+    "id": 10796
+  },
+  {
+    "preset_id": 1543,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Quem me dera ser como nós.",
+    "premium": "false",
+    "positive": true,
+    "id": 10797
+  },
+  {
+    "preset_id": 1543,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Chcielibyście być jak my.",
+    "premium": "false",
+    "positive": true,
+    "id": 10798
+  },
+  {
+    "preset_id": 1543,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Вы бы хотели быть как мы.",
+    "premium": "false",
+    "positive": true,
+    "id": 10799
+  },
+  {
+    "preset_id": 1543,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们希望自己像我们一样。",
+    "premium": "false",
+    "positive": true,
+    "id": 10800
+  }
+]

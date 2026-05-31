@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 726,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Proud of you",
+    "premium": "false",
+    "positive": true,
+    "id": 5075
+  },
+  {
+    "preset_id": 726,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Estoy orgulloso de ti",
+    "premium": "false",
+    "positive": true,
+    "id": 5076
+  },
+  {
+    "preset_id": 726,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Stolz auf dich",
+    "premium": "false",
+    "positive": true,
+    "id": 5077
+  },
+  {
+    "preset_id": 726,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Orgulhoso de ti",
+    "premium": "false",
+    "positive": true,
+    "id": 5078
+  },
+  {
+    "preset_id": 726,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Jestem z ciebie dumny",
+    "premium": "false",
+    "positive": true,
+    "id": 5079
+  },
+  {
+    "preset_id": 726,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Горжусь тобой",
+    "premium": "false",
+    "positive": true,
+    "id": 5080
+  },
+  {
+    "preset_id": 726,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "为你感到骄傲",
+    "premium": "false",
+    "positive": true,
+    "id": 5081
+  }
+]

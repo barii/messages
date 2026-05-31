@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 666,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "The nerve",
+    "premium": "false",
+    "positive": true,
+    "id": 4655
+  },
+  {
+    "preset_id": 666,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Qué descaro",
+    "premium": "false",
+    "positive": true,
+    "id": 4656
+  },
+  {
+    "preset_id": 666,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Die Nerven",
+    "premium": "false",
+    "positive": true,
+    "id": 4657
+  },
+  {
+    "preset_id": 666,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "O descaramento",
+    "premium": "false",
+    "positive": true,
+    "id": 4658
+  },
+  {
+    "preset_id": 666,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Ta śmiałość",
+    "premium": "false",
+    "positive": true,
+    "id": 4659
+  },
+  {
+    "preset_id": 666,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Какая дерзость",
+    "premium": "false",
+    "positive": true,
+    "id": 4660
+  },
+  {
+    "preset_id": 666,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "好放肆",
+    "premium": "false",
+    "positive": true,
+    "id": 4661
+  }
+]

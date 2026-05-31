@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1217,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "Tell me you're single without telling me you're single",
+    "premium": "false",
+    "positive": true,
+    "id": 8512
+  },
+  {
+    "preset_id": 1217,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "Dime que estás soltero sin decirme que estás soltero",
+    "premium": "false",
+    "positive": true,
+    "id": 8513
+  },
+  {
+    "preset_id": 1217,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Sag mir, dass du Single bist, ohne mir zu sagen, dass du Single bist",
+    "premium": "false",
+    "positive": true,
+    "id": 8514
+  },
+  {
+    "preset_id": 1217,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "Diz-me que és solteiro sem me dizeres que és solteiro",
+    "premium": "false",
+    "positive": true,
+    "id": 8515
+  },
+  {
+    "preset_id": 1217,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Powiedz mi, że jesteś singlem, nie mówiąc, że jesteś singlem",
+    "premium": "false",
+    "positive": true,
+    "id": 8516
+  },
+  {
+    "preset_id": 1217,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Скажи мне, что ты свободен, не говоря, что ты свободен",
+    "premium": "false",
+    "positive": true,
+    "id": 8517
+  },
+  {
+    "preset_id": 1217,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "告诉我你单身但别说出'单身'",
+    "premium": "false",
+    "positive": true,
+    "id": 8518
+  }
+]

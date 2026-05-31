@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 184,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you serious?",
+    "premium": "false",
+    "positive": true,
+    "id": 1281
+  },
+  {
+    "preset_id": 184,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿En serio?",
+    "premium": "false",
+    "positive": true,
+    "id": 1282
+  },
+  {
+    "preset_id": 184,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Meinst du das ernst?",
+    "premium": "false",
+    "positive": true,
+    "id": 1283
+  },
+  {
+    "preset_id": 184,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás a falar a sério?",
+    "premium": "false",
+    "positive": true,
+    "id": 1284
+  },
+  {
+    "preset_id": 184,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Mówisz poważnie?",
+    "premium": "false",
+    "positive": true,
+    "id": 1285
+  },
+  {
+    "preset_id": 184,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты серьёзно?",
+    "premium": "false",
+    "positive": true,
+    "id": 1286
+  },
+  {
+    "preset_id": 184,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你认真的吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1287
+  }
+]

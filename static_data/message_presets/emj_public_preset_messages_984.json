@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 984,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You make everything about you",
+    "premium": "false",
+    "positive": true,
+    "id": 6881
+  },
+  {
+    "preset_id": 984,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Lo haces todo sobre ti",
+    "premium": "false",
+    "positive": true,
+    "id": 6882
+  },
+  {
+    "preset_id": 984,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du machst alles um dich",
+    "premium": "false",
+    "positive": true,
+    "id": 6883
+  },
+  {
+    "preset_id": 984,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Tornas tudo sobre ti",
+    "premium": "false",
+    "positive": true,
+    "id": 6884
+  },
+  {
+    "preset_id": 984,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Robisz wszystko o sobie",
+    "premium": "false",
+    "positive": true,
+    "id": 6885
+  },
+  {
+    "preset_id": 984,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты делаешь всё о себе",
+    "premium": "false",
+    "positive": true,
+    "id": 6886
+  },
+  {
+    "preset_id": 984,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你把一切都变成关于你的",
+    "premium": "false",
+    "positive": true,
+    "id": 6887
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 176,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Do you want to hang out?",
+    "premium": "false",
+    "positive": true,
+    "id": 1225
+  },
+  {
+    "preset_id": 176,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Quieres pasar el rato?",
+    "premium": "false",
+    "positive": true,
+    "id": 1226
+  },
+  {
+    "preset_id": 176,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Wollen wir abhängen?",
+    "premium": "false",
+    "positive": true,
+    "id": 1227
+  },
+  {
+    "preset_id": 176,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Queres sair?",
+    "premium": "false",
+    "positive": true,
+    "id": 1228
+  },
+  {
+    "preset_id": 176,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Chcesz się gdzieś wybrać?",
+    "premium": "false",
+    "positive": true,
+    "id": 1229
+  },
+  {
+    "preset_id": 176,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Хочешь потусить?",
+    "premium": "false",
+    "positive": true,
+    "id": 1230
+  },
+  {
+    "preset_id": 176,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "想出来玩吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1231
+  }
+]

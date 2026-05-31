@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 709,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Sorry, my bad",
+    "premium": "false",
+    "positive": true,
+    "id": 4956
+  },
+  {
+    "preset_id": 709,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Perdón, fue mi culpa",
+    "premium": "false",
+    "positive": true,
+    "id": 4957
+  },
+  {
+    "preset_id": 709,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Sorry, mein Fehler",
+    "premium": "false",
+    "positive": true,
+    "id": 4958
+  },
+  {
+    "preset_id": 709,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Desculpa, falha minha",
+    "premium": "false",
+    "positive": true,
+    "id": 4959
+  },
+  {
+    "preset_id": 709,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Sorka, moja wina",
+    "premium": "false",
+    "positive": true,
+    "id": 4960
+  },
+  {
+    "preset_id": 709,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Извини, моя вина",
+    "premium": "false",
+    "positive": true,
+    "id": 4961
+  },
+  {
+    "preset_id": 709,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "抱歉,是我的错",
+    "premium": "false",
+    "positive": true,
+    "id": 4962
+  }
+]

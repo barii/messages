@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1475,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Different class.",
+    "premium": "false",
+    "positive": true,
+    "id": 10318
+  },
+  {
+    "preset_id": 1475,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Otra clase.",
+    "premium": "false",
+    "positive": true,
+    "id": 10319
+  },
+  {
+    "preset_id": 1475,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Andere Klasse.",
+    "premium": "false",
+    "positive": true,
+    "id": 10320
+  },
+  {
+    "preset_id": 1475,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Outra classe.",
+    "premium": "false",
+    "positive": true,
+    "id": 10321
+  },
+  {
+    "preset_id": 1475,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Inna klasa.",
+    "premium": "false",
+    "positive": true,
+    "id": 10322
+  },
+  {
+    "preset_id": 1475,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Другой класс.",
+    "premium": "false",
+    "positive": true,
+    "id": 10323
+  },
+  {
+    "preset_id": 1475,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "另一档次。",
+    "premium": "false",
+    "positive": true,
+    "id": 10324
+  }
+]

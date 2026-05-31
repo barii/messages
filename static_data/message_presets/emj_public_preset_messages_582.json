@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 582,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Keep guessing",
+    "premium": "false",
+    "positive": true,
+    "id": 4067
+  },
+  {
+    "preset_id": 582,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Sigue adivinando",
+    "premium": "false",
+    "positive": true,
+    "id": 4068
+  },
+  {
+    "preset_id": 582,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Rate weiter",
+    "premium": "false",
+    "positive": true,
+    "id": 4069
+  },
+  {
+    "preset_id": 582,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Continua a adivinhar",
+    "premium": "false",
+    "positive": true,
+    "id": 4070
+  },
+  {
+    "preset_id": 582,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Zgaduj dalej",
+    "premium": "false",
+    "positive": true,
+    "id": 4071
+  },
+  {
+    "preset_id": 582,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Продолжай угадывать",
+    "premium": "false",
+    "positive": true,
+    "id": 4072
+  },
+  {
+    "preset_id": 582,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "继续猜",
+    "premium": "false",
+    "positive": true,
+    "id": 4073
+  }
+]

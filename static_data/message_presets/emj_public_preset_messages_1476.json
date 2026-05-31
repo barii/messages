@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1476,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Different gravy.",
+    "premium": "true",
+    "positive": true,
+    "id": 10325
+  },
+  {
+    "preset_id": 1476,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Otro nivel.",
+    "premium": "true",
+    "positive": true,
+    "id": 10326
+  },
+  {
+    "preset_id": 1476,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Andere Liga.",
+    "premium": "true",
+    "positive": true,
+    "id": 10327
+  },
+  {
+    "preset_id": 1476,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Outro nível.",
+    "premium": "true",
+    "positive": true,
+    "id": 10328
+  },
+  {
+    "preset_id": 1476,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Inna liga.",
+    "premium": "true",
+    "positive": true,
+    "id": 10329
+  },
+  {
+    "preset_id": 1476,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Другая лига.",
+    "premium": "true",
+    "positive": true,
+    "id": 10330
+  },
+  {
+    "preset_id": 1476,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "另一个联赛级别。",
+    "premium": "true",
+    "positive": true,
+    "id": 10331
+  }
+]

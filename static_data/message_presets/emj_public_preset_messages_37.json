@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 37,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You make me a better person",
+    "premium": "true",
+    "positive": true,
+    "id": 252
+  },
+  {
+    "preset_id": 37,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Me haces ser mejor persona",
+    "premium": "true",
+    "positive": true,
+    "id": 253
+  },
+  {
+    "preset_id": 37,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du machst mich zu einem besseren Menschen",
+    "premium": "true",
+    "positive": true,
+    "id": 254
+  },
+  {
+    "preset_id": 37,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Tornas-me uma pessoa melhor",
+    "premium": "true",
+    "positive": true,
+    "id": 255
+  },
+  {
+    "preset_id": 37,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Sprawiasz, że jestem lepszą osobą",
+    "premium": "true",
+    "positive": true,
+    "id": 256
+  },
+  {
+    "preset_id": 37,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты делаешь меня лучше",
+    "premium": "true",
+    "positive": true,
+    "id": 257
+  },
+  {
+    "preset_id": 37,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你让我成为更好的人",
+    "premium": "true",
+    "positive": true,
+    "id": 258
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 834,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I think about you way too much",
+    "premium": "false",
+    "positive": true,
+    "id": 5831
+  },
+  {
+    "preset_id": 834,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Pienso en ti demasiado",
+    "premium": "false",
+    "positive": true,
+    "id": 5832
+  },
+  {
+    "preset_id": 834,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich denke viel zu viel an dich",
+    "premium": "false",
+    "positive": true,
+    "id": 5833
+  },
+  {
+    "preset_id": 834,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Penso em ti demasiadas vezes",
+    "premium": "false",
+    "positive": true,
+    "id": 5834
+  },
+  {
+    "preset_id": 834,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Myślę o tobie zdecydowanie za dużo",
+    "premium": "false",
+    "positive": true,
+    "id": 5835
+  },
+  {
+    "preset_id": 834,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Я слишком много думаю о тебе",
+    "premium": "false",
+    "positive": true,
+    "id": 5836
+  },
+  {
+    "preset_id": 834,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我想你想得太多",
+    "premium": "false",
+    "positive": true,
+    "id": 5837
+  }
+]

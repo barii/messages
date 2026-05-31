@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 202,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Will you guess?",
+    "premium": "false",
+    "positive": true,
+    "id": 1407
+  },
+  {
+    "preset_id": 202,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Adivinarás?",
+    "premium": "false",
+    "positive": true,
+    "id": 1408
+  },
+  {
+    "preset_id": 202,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Wirst du raten?",
+    "premium": "false",
+    "positive": true,
+    "id": 1409
+  },
+  {
+    "preset_id": 202,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Vais adivinhar?",
+    "premium": "false",
+    "positive": true,
+    "id": 1410
+  },
+  {
+    "preset_id": 202,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Zgadniesz?",
+    "premium": "false",
+    "positive": true,
+    "id": 1411
+  },
+  {
+    "preset_id": 202,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Будешь угадывать?",
+    "premium": "false",
+    "positive": true,
+    "id": 1412
+  },
+  {
+    "preset_id": 202,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你会猜吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 1413
+  }
+]

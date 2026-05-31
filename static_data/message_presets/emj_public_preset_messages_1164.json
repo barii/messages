@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1164,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Happy Valentine's Day from your secret admirer",
+    "premium": "false",
+    "positive": true,
+    "id": 8141
+  },
+  {
+    "preset_id": 1164,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Feliz San Valentín de tu admirador secreto",
+    "premium": "false",
+    "positive": true,
+    "id": 8142
+  },
+  {
+    "preset_id": 1164,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Frohen Valentinstag von deinem heimlichen Verehrer",
+    "premium": "false",
+    "positive": true,
+    "id": 8143
+  },
+  {
+    "preset_id": 1164,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Feliz Dia dos Namorados do teu admirador secreto",
+    "premium": "false",
+    "positive": true,
+    "id": 8144
+  },
+  {
+    "preset_id": 1164,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Wesołego Walentego od twojego tajemniczego wielbiciela",
+    "premium": "false",
+    "positive": true,
+    "id": 8145
+  },
+  {
+    "preset_id": 1164,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "С Днём святого Валентина от твоего тайного поклонника",
+    "premium": "false",
+    "positive": true,
+    "id": 8146
+  },
+  {
+    "preset_id": 1164,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "情人节快乐,来自你的秘密仰慕者",
+    "premium": "false",
+    "positive": true,
+    "id": 8147
+  }
+]

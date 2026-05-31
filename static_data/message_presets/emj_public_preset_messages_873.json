@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 873,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "How do you feel about me?",
+    "premium": "false",
+    "positive": true,
+    "id": 6104
+  },
+  {
+    "preset_id": 873,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "¿Qué sientes por mí?",
+    "premium": "false",
+    "positive": true,
+    "id": 6105
+  },
+  {
+    "preset_id": 873,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Was empfindest du für mich?",
+    "premium": "false",
+    "positive": true,
+    "id": 6106
+  },
+  {
+    "preset_id": 873,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Que sentes por mim?",
+    "premium": "false",
+    "positive": true,
+    "id": 6107
+  },
+  {
+    "preset_id": 873,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Co czujesz do mnie?",
+    "premium": "false",
+    "positive": true,
+    "id": 6108
+  },
+  {
+    "preset_id": 873,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Что ты ко мне чувствуешь?",
+    "premium": "false",
+    "positive": true,
+    "id": 6109
+  },
+  {
+    "preset_id": 873,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你对我有什么感觉?",
+    "premium": "false",
+    "positive": true,
+    "id": 6110
+  }
+]

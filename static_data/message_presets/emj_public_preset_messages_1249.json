@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1249,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Was your team's plan to make us laugh?",
+    "premium": "false",
+    "positive": true,
+    "id": 8736
+  },
+  {
+    "preset_id": 1249,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "¿El plan de vuestro equipo era haceros reír?",
+    "premium": "false",
+    "positive": true,
+    "id": 8737
+  },
+  {
+    "preset_id": 1249,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "War der Plan eurer Mannschaft, uns zum Lachen zu bringen?",
+    "premium": "false",
+    "positive": true,
+    "id": 8738
+  },
+  {
+    "preset_id": 1249,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "O plano da vossa equipa era fazer-nos rir?",
+    "premium": "false",
+    "positive": true,
+    "id": 8739
+  },
+  {
+    "preset_id": 1249,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Czy planem waszej drużyny było rozśmieszenie nas?",
+    "premium": "false",
+    "positive": true,
+    "id": 8740
+  },
+  {
+    "preset_id": 1249,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "У вашей команды был план нас рассмешить?",
+    "premium": "false",
+    "positive": true,
+    "id": 8741
+  },
+  {
+    "preset_id": 1249,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们队的计划是逗我们笑吗?",
+    "premium": "false",
+    "positive": true,
+    "id": 8742
+  }
+]

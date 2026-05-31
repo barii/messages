@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 60,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "That girl",
+    "premium": "false",
+    "positive": true,
+    "id": 413
+  },
+  {
+    "preset_id": 60,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "That girl",
+    "premium": "false",
+    "positive": true,
+    "id": 414
+  },
+  {
+    "preset_id": 60,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "That girl",
+    "premium": "false",
+    "positive": true,
+    "id": 415
+  },
+  {
+    "preset_id": 60,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "That girl",
+    "premium": "false",
+    "positive": true,
+    "id": 416
+  },
+  {
+    "preset_id": 60,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "That girl",
+    "premium": "false",
+    "positive": true,
+    "id": 417
+  },
+  {
+    "preset_id": 60,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "That girl",
+    "premium": "false",
+    "positive": true,
+    "id": 418
+  },
+  {
+    "preset_id": 60,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "That girl",
+    "premium": "false",
+    "positive": true,
+    "id": 419
+  }
+]
