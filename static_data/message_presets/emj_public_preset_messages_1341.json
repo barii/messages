@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "No threat going forward.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9380
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Ninguna amenaza arriba.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9381
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Keine Gefahr nach vorne.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9382
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Nenhuma ameaça em frente.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9383
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Żadnego zagrożenia z przodu.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9384
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Никакой угрозы впереди.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9385
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "前场没有任何威胁。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9386
   }

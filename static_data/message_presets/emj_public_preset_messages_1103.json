@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Goodnight",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7714
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Buenas noches",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7715
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Gute Nacht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7716
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Boa noite",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7717
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Dobranoc",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7718
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Спокойной ночи",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7719
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "晚安",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7720
   }

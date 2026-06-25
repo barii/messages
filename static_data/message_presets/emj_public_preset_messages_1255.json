@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You are so used to losing, it's all you know.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8778
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Estáis tan acostumbrados a perder que es todo lo que sabéis.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8779
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr seid es so gewohnt zu verlieren, dass ihr nichts anderes kennt.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8780
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Estão tão habituados a perder que é tudo o que conhecem.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8781
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Jesteście tak przyzwyczajeni do przegrywania, że to wszystko, co znacie.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8782
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы так привыкли проигрывать, что это всё, что вы знаете.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8783
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们太习惯输球了,这就是你们知道的全部。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8784
   }

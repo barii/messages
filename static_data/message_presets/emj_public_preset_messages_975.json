@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "You're the main character of your own life",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6818
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Eres el protagonista de tu propia vida",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6819
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Du bist der Hauptcharakter deines eigenen Lebens",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6820
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "És o protagonista da tua própria vida",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6821
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Jesteś głównym bohaterem własnego życia",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6822
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Ты главный герой своей собственной жизни",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6823
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "你是自己生活的主角",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6824
   }

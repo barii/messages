@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We love beating you.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9912
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Nos encanta venceros.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9913
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir lieben es, euch zu schlagen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9914
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Adoramos ganhar-vos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9915
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Uwielbiamy was pokonywać.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9916
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы любим побеждать вас.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9917
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们就爱击败你们。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9918
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Best manager in the league.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10409
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "El mejor entrenador de la liga.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10410
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Bester Trainer der Liga.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10411
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "O melhor treinador da liga.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10412
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Najlepszy trener w lidze.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10413
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Лучший тренер в лиге.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10414
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "联赛最佳教练。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10415
   }

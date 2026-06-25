@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You always figure things out",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 238
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Siempre encuentras la manera",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 239
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du findest immer einen Weg",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 240
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "Encontras sempre um caminho",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 241
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Zawsze znajdziesz sposób",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 242
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты всегда находишь способ",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 243
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你总能想出办法",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 244
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Your team is a joke.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8827
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vuestro equipo es un chiste.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8828
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Eure Mannschaft ist ein Witz.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8829
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "A vossa equipa é uma piada.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8830
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wasza drużyna to żart.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8831
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Ваша команда — шутка.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8832
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们队就是个笑话。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8833
   }

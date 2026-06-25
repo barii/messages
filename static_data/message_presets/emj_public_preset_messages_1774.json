@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Your coach needs a time-out!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12411
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Your coach needs a time-out!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12412
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Your coach needs a time-out!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12413
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Your coach needs a time-out!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12414
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Your coach needs a time-out!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12415
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Your coach needs a time-out!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12416
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Your coach needs a time-out!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12417
   }

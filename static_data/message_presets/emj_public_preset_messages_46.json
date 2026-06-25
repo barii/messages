@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're loved",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 315
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres amado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 316
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du wirst geliebt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 317
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És amado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 318
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś kochany",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 319
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты любим",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 320
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你被爱着",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 321
   }

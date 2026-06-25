@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm asexual",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2415
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy asexual",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2416
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin asexuell",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2417
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou assexual",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2418
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem aseksualny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2419
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я асексуал",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2420
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是无性恋",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2421
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you sad?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 882
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Estás triste?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 883
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Bist du traurig?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 884
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás triste?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 885
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Jesteś smutny?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 886
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты грустишь?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 887
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你难过吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 888
   }

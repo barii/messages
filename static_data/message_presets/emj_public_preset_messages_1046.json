@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Worst meeting ever",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7315
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "La peor reunión de la historia",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7316
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Schlimmstes Meeting aller Zeiten",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7317
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Pior reunião de sempre",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7318
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Najgorsze spotkanie w historii",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7319
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Худшая встреча в истории",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7320
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "史上最糟会议",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7321
   }

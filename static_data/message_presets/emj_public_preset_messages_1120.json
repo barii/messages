@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Talk to you later",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7833
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Hablamos luego",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7834
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Wir schreiben",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7835
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Falamos depois",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7836
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Odezwę się",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7837
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Поговорим позже",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7838
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "回聊",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7839
   }

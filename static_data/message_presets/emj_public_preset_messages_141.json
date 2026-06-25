@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Were you expecting to hear from me?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 980
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Esperabas saber de mí?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 981
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Hast du erwartet, von mir zu hören?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 982
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estavas à espera de saber de mim?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 983
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Spodziewałeś się ode mnie wiadomości?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 984
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты ожидал услышать меня?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 985
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你预料到会收到我的消息吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 986
   }

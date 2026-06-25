@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "You got this",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5250
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Tú puedes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5251
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Du schaffst das",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5252
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Tu consegues",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5253
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Dasz radę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5254
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "У тебя получится",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5255
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "你可以的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5256
   }

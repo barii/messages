@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Hold on",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3318
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Espera",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3319
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Halt mal",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3320
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Espera",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3321
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Czekaj",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3322
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Подожди",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3323
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "等等",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3324
   }

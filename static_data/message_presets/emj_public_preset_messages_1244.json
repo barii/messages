@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Laughable effort today.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8701
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Esfuerzo risible hoy.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8702
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Lächerlicher Einsatz heute.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8703
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Esforço risível hoje.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8704
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Śmieszny wysiłek dzisiaj.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8705
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Жалкие усилия сегодня.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8706
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "今天这表现真可笑。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8707
   }

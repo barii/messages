@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "An absolute mess.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9044
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Un desastre absoluto.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9045
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ein absolutes Chaos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9046
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Uma desgraça absoluta.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9047
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Absolutny bałagan.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9048
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Полный бардак.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9049
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "彻底的一团糟。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9050
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "You couldn't lay a glove on us.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10353
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "No habéis podido tocarnos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10354
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Ihr habt uns nicht mal angefasst.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10355
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Não conseguiram tocar-nos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10356
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Nie mogliście nas tknąć.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10357
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Вы не могли нас тронуть.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10358
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "你们连碰都碰不到我们。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10359
   }

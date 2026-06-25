@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Your team is in the same boat.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11046
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Vuestro equipo está en el mismo barco.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11047
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Eure Mannschaft sitzt im selben Boot.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11048
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "A vossa equipa está no mesmo barco.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11049
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Wasza drużyna jest w tej samej łodzi.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11050
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Ваша команда в той же лодке.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11051
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们队跟我们一样处境。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11052
   }

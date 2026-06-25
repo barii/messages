@@ -6,7 +6,7 @@
     "lang": "EN",
     "category": "Italian Football Teams",
     "text": "Udinese",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇮🇹",
     "continent": "European"
@@ -18,7 +18,7 @@
     "lang": "ES",
     "category": "Equipos de Fútbol Italianos",
     "text": "Udinese",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇮🇹",
     "continent": "European"
@@ -30,7 +30,7 @@
     "lang": "DE",
     "category": "Italienische Fußballmannschaften",
     "text": "Udinese",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇮🇹",
     "continent": "European"
@@ -42,7 +42,7 @@
     "lang": "PL",
     "category": "Włoskie drużyny piłkarskie",
     "text": "Udinese",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇮🇹",
     "continent": "European"
@@ -54,7 +54,7 @@
     "lang": "RU",
     "category": "Итальянские футбольные команды",
     "text": "Udinese",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇮🇹",
     "continent": "European"
@@ -66,7 +66,7 @@
     "lang": "PT",
     "category": "Times de futebol italianos",
     "text": "Udinese",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇮🇹",
     "continent": "European"
@@ -78,7 +78,7 @@
     "lang": "CN",
     "category": "意大利足球队",
     "text": "Udinese",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇮🇹",
     "continent": "European"

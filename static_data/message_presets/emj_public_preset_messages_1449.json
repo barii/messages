@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Look at the table.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10136
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Mirad la tabla.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10137
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Schaut auf die Tabelle.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10138
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Olhem para a tabela.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10139
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Spójrzcie na tabelę.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10140
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Посмотрите на таблицу.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10141
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "看看积分榜。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10142
   }

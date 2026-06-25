@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "Is your name Wi-Fi because I'm feeling a connection?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8484
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "¿Tu nombre es Wi-Fi? Porque siento una conexión",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8485
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Heißt du Wi-Fi? Denn ich spüre eine Verbindung",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8486
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "Chamas-te Wi-Fi? Porque estou a sentir uma conexão",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8487
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Czy nazywasz się Wi-Fi? Bo czuję połączenie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8488
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Тебя зовут Wi-Fi? Потому что я чувствую связь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8489
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "你的名字是Wi-Fi吗?因为我感受到了连接",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8490
   }

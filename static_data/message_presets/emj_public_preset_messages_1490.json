@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Our keeper barely had a save to make.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10423
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Nuestro portero apenas tuvo que hacer una parada.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10424
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Unser Torwart hatte kaum etwas zu halten.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10425
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "O nosso guarda-redes mal teve defesas para fazer.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10426
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Nasz bramkarz ledwo miał coś do bronienia.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10427
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Нашему вратарю едва пришлось ловить.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10428
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们门将几乎没扑救机会。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10429
   }

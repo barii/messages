@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I hold grudges",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2296
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Guardo rencor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2297
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich trage Groll mit mir herum",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2298
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Guardo rancores",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2299
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Chowam urazy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2300
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я держу обиды",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2301
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我会记仇",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2302
   }

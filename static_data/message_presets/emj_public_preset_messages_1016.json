@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "You're an amazing colleague",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7105
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Eres un colega increíble",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7106
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Du bist ein toller Kollege",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7107
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "És um colega fantástico",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7108
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Jesteś niesamowitym kolegą",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7109
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Ты потрясающий коллега",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7110
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "你是一个很棒的同事",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7111
   }

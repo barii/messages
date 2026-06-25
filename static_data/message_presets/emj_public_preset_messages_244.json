@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "We used to work together",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1701
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Trabajamos juntos antes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1702
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Wir haben früher zusammen gearbeitet",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1703
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Trabalhámos juntos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1704
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Pracowaliśmy razem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1705
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Мы раньше работали вместе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1706
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我们以前一起工作",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1707
   }

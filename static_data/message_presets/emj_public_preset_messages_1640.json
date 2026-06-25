@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Shall we sing a song for you.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11473
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "¿Os cantamos una canción?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11474
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Sollen wir ein Lied für euch singen?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11475
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Cantamos uma canção para vocês?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11476
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Czy mamy zaśpiewać dla was piosenkę?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11477
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Спеть вам песню?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11478
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "要不要给你们唱首歌?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11479
   }

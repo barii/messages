@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Go outside",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6468
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Sal afuera",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6469
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Geh nach draußen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6470
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Sai à rua",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6471
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Wyjdź na zewnątrz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6472
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Выйди на улицу",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6473
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "出去走走",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6474
   }

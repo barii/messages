@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You could have handled that better",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6839
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Podrías haberlo manejado mejor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6840
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du hättest das besser handhaben können",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6841
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Podias ter lidado melhor com isso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6842
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Mogłeś sobie z tym poradzić lepiej",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6843
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Ты мог бы справиться с этим лучше",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6844
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你本可以处理得更好",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6845
   }

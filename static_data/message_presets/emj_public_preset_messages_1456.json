@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We battered you.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10185
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Os hemos apaleado.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10186
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir haben euch abgezogen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10187
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Demos-vos uma sova.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10188
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Daliśmy wam łomot.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10189
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы вас разгромили.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10190
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们痛打了你们。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10191
   }

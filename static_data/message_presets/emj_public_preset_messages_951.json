@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Just do it, you will feel better after",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6650
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Hazlo ya, te sentirás mejor después",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6651
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Mach es einfach, du wirst dich danach besser fühlen",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6652
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Faz lá, vais sentir-te melhor depois",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6653
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Po prostu to zrób, poczujesz się lepiej",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6654
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Просто сделай это, потом почувствуешь себя лучше",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6655
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "去做吧,之后你会感觉好些",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6656
   }

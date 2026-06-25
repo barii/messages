@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Will you keep this between us?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1176
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Esto quedará entre nosotros?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1177
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Bleibt das unter uns?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1178
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Isto fica entre nós?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1179
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Zachowasz to dla siebie?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1180
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Это останется между нами?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1181
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "这事能保密吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1182
   }

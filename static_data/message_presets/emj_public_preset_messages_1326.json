@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Down you go.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9275
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Abajo vais.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9276
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Runter geht's.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9277
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Lá vão vocês para baixo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9278
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Lecicie w dół.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9279
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вниз пошли.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9280
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "下去吧。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9281
   }

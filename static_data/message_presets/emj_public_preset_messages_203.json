@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Have you figured it out yet?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1414
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Ya lo has descubierto?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1415
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Hast du es schon herausgefunden?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1416
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Já descobriste?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1417
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Już to wymyśliłeś?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1418
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты уже понял?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1419
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你猜出来了吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1420
   }

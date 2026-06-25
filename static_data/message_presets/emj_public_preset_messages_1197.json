@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Hope yours is special too",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8372
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Espero que el tuyo sea especial también",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8373
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Hoffe, deins ist auch besonders",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8374
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Espero que o teu seja especial também",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8375
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Mam nadzieję, że twoje też jest wyjątkowe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8376
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "Надеюсь, твой тоже особенный",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8377
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "希望你的也很特别",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8378
   }

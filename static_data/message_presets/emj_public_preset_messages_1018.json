@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Working with you is genuinely a pleasure",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7119
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Trabajar contigo es un verdadero placer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7120
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Mit dir zu arbeiten ist wirklich ein Vergnügen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7121
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Trabalhar contigo é mesmo um prazer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7122
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Praca z tobą jest naprawdę przyjemnością",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7123
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Работать с тобой - искреннее удовольствие",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7124
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "和你一起工作真的很愉快",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7125
   }

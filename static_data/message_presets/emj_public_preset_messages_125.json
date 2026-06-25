@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you lonely?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 868
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Te sientes solo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 869
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Fühlst du dich einsam?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 870
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Sentes-te sozinho?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 871
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Czujesz się samotny?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 872
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты одинок?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 873
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你感到孤单吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 874
   }

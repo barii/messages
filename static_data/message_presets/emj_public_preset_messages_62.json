@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "You're insufferable",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 427
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "Eres insufrible",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 428
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Du bist unausstehlich",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 429
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "És insuportável",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 430
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "Jesteś nieznośny",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 431
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Ты невыносим",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 432
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "你让人无法忍受",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 433
   }

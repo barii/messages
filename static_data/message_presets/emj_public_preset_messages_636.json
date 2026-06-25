@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "That was rude",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4445
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Eso fue grosero",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4446
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Das war unhöflich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4447
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Isso foi mal-educado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4448
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "To było niegrzeczne",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4449
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Это было грубо",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4450
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "那很无礼",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4451
   }

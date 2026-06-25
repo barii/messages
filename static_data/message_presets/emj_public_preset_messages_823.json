@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Your secret is safe with me",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5754
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Tu secreto está a salvo conmigo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5755
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Dein Geheimnis ist bei mir sicher",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5756
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "O teu segredo está seguro comigo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5757
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Twój sekret jest bezpieczny ze mną",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5758
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Твой секрет в безопасности со мной",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5759
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "你的秘密我会保密",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5760
   }

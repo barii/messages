@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Let's go",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5117
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "¡Vamos!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5118
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Los geht's",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5119
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Vamos a isso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5120
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Lecimy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5121
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Поехали",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5122
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "走起",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5123
   }

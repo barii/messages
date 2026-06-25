@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You got battered.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9156
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Os han apaleado.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9157
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr seid abgezogen worden.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9158
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Levaram uma sova.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9159
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Dostaliście łomot.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9160
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вас разгромили.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9161
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们被痛打了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9162
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Easy now",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5635
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Tranquilo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5636
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Immer mit der Ruhe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5637
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Calma aí",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5638
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Spokojnie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5639
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Спокойно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5640
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "悠着点",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5641
   }

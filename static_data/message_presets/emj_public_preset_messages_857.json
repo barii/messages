@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "You're gorgeous",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5992
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Eres precioso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5993
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Du bist wunderschön",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5994
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "És deslumbrante",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5995
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Jesteś przepiękny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5996
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Ты великолепен",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5997
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "你太美了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5998
   }

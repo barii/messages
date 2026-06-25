@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I have no idea",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3654
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "No tengo idea",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3655
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ich hab keine Ahnung",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3656
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Não faço ideia",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3657
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Nie mam pojęcia",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3658
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Без понятия",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3659
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我不知道",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3660
   }

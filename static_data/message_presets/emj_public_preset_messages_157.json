@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you spiritual?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1092
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Eres espiritual?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1093
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Bist du spirituell?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1094
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "És espiritual?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1095
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Czy jesteś duchowy?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1096
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты духовный?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1097
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你信仰精神层面吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1098
   }

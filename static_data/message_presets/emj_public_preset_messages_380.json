@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I love music",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2653
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Me encanta la música",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2654
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich liebe Musik",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2655
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Adoro música",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2656
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Uwielbiam muzykę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2657
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я люблю музыку",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2658
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我爱音乐",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2659
   }

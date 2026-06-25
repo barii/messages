@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Do you think about me?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 952
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Piensas en mí?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 953
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Denkst du an mich?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 954
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Pensas em mim?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 955
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Myślisz o mnie?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 956
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты думаешь обо мне?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 957
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你想我吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 958
   }

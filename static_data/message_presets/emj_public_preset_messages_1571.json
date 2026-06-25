@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You're having a laugh.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10990
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Os estáis riendo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10991
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ihr lacht doch nur.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10992
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Estás a rir.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10993
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Żartujecie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10994
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Вы смеётесь.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10995
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们在搞笑。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10996
   }

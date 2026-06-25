@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "We forgot that you were here.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11459
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Nos olvidamos de que estabais aquí.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11460
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Wir haben vergessen, dass ihr hier seid.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11461
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Esquecemo-nos que estavam aqui.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11462
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Zapomnieliśmy, że tu jesteście.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11463
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Мы забыли, что вы здесь.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11464
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "我们都忘了你们在这。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11465
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "How original",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4634
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Qué original",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4635
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Wie originell",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4636
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Que original",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4637
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Jakie oryginalne",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4638
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Как оригинально",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4639
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "真原创",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4640
   }

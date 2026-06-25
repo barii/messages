@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Trying to make me blush huh",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5656
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Intentando hacerme sonrojar, ¿eh?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5657
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Versuchst mich zum Erröten zu bringen, was?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5658
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "A tentar fazer-me corar, é?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5659
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Próbujesz mnie zarumienić, co?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5660
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Пытаешься заставить меня краснеть, да?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5661
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "想让我脸红啊?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5662
   }

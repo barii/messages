@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Such is life",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3906
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Así es la vida",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3907
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "So ist das Leben",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3908
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Assim é a vida",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3909
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Takie życie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3910
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Такова жизнь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3911
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "这就是生活",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3912
   }

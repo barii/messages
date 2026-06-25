@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Have a great day",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7728
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Que tengas un gran día",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7729
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Hab einen tollen Tag",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7730
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Tem um ótimo dia",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7731
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Wspaniałego dnia",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7732
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Отличного дня",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7733
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "祝你今天美好",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7734
   }

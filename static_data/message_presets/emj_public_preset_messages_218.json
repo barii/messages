@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Do we go to the gym together?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1519
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Vamos al gimnasio juntos?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1520
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Gehen wir zusammen ins Fitnessstudio?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1521
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Vamos ao ginásio juntos?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1522
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Chodzimy razem na siłownię?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1523
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Мы ходим в спортзал вместе?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1524
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "我们一起去健身房吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1525
   }

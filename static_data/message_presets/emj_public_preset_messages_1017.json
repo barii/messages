@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "You're the best teammate",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7112
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Eres el mejor compañero de equipo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7113
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Du bist der beste Teamkollege",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7114
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "És o melhor colega de equipa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7115
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Jesteś najlepszym kolegą z drużyny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7116
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Ты лучший товарищ по команде",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7117
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "你是最好的队友",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7118
   }

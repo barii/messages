@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Stop it, you're making me blush",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5572
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Para, me estás haciendo sonrojar",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5573
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Hör auf, du bringst mich zum Erröten",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5574
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Para, estás a fazer-me corar",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5575
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Przestań, sprawiasz, że się rumienię",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5576
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Прекрати, ты заставляешь меня краснеть",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5577
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "停下,你让我脸红了",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5578
   }

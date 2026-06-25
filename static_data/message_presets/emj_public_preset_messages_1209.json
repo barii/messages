@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "Do you have a Band-Aid because I just scraped my knee falling for you?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8456
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "¿Tienes una tirita? Porque me raspé la rodilla cayendo por ti",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8457
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Hast du ein Pflaster? Ich hab mir gerade das Knie aufgeschürft, als ich für dich gefallen bin",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8458
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "Tens um penso? Porque acabei de raspar o joelho a cair por ti",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8459
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Masz plaster? Bo właśnie zdarłem kolano spadając za tobą",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8460
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "У тебя есть пластырь? Потому что я только что ободрал колено, падая перед тобой",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8461
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "你有创可贴吗?因为我刚为你跌破了膝盖",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8462
   }

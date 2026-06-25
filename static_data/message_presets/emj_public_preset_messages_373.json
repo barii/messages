@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I love to travel",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2604
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Me encanta viajar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2605
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich liebe es zu reisen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2606
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Adoro viajar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2607
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Uwielbiam podróżować",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2608
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я люблю путешествовать",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2609
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我喜欢旅行",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2610
   }

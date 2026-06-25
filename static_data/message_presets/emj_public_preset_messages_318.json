@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I overthink everything",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2219
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Le doy vueltas a todo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2220
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich überdenke alles",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2221
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Penso demais em tudo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2222
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Nadmiernie wszystko analizuję",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2223
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я слишком много об всём думаю",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2224
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我什么事都想得太多",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2225
   }

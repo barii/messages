@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Your work ethic could use some work",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7203
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Tu ética de trabajo necesita mejorar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7204
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Deine Arbeitsmoral könnte etwas Arbeit gebrauchen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7205
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "A tua ética de trabalho podia melhorar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7206
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Twoja etyka pracy mogłaby się trochę poprawić",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7207
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Твоя рабочая этика могла бы быть получше",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7208
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "你的职业道德需要改进",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7209
   }

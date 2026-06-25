@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "You'll never sing like we sing.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10451
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Nunca cantaréis como cantamos nosotros.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10452
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Ihr werdet nie so singen, wie wir singen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10453
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Nunca vão cantar como nós cantamos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10454
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Nigdy nie zaśpiewacie tak jak my.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10455
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Вы никогда не споёте как мы.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10456
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "你们永远不会像我们这样唱歌。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10457
   }

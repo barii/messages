@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Are you kidding me?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3409
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "¿Me estás tomando el pelo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3410
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Verarschst du mich?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3411
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Estás a gozar comigo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3412
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Żartujesz sobie?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3413
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Ты шутишь?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3414
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "你在跟我开玩笑吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3415
   }

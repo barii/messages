@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "Bless your heart",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 672
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "Bless your heart",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 673
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Bless your heart",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 674
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Bless your heart",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 675
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "Bless your heart",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 676
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Bless your heart",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 677
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "Bless your heart",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 678
   }

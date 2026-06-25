@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Break it down into smaller steps",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6776
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Divídelo en pasos más pequeños",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6777
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Teile es in kleinere Schritte auf",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6778
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Divide em passos mais pequenos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6779
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Podziel to na mniejsze kroki",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6780
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Разбей это на меньшие шаги",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6781
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "把它分成更小的步骤",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6782
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I don't know what to say",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4172
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "No sé qué decir",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4173
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ich weiß nicht, was ich sagen soll",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4174
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Não sei o que dizer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4175
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Nie wiem, co powiedzieć",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4176
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Не знаю, что сказать",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4177
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我不知道该说什么",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4178
   }

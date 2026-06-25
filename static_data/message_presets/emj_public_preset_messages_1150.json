@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "How are we feeling today?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8043
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "¿Cómo nos sentimos hoy?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8044
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Wie fühlen wir uns heute?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8045
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Como nos sentimos hoje?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8046
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Jak się dziś czujemy?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8047
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Как мы себя чувствуем сегодня?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8048
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "今天我们感觉如何?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8049
   }

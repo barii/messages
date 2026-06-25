@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I love hard",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2275
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Amo intensamente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2276
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich liebe intensiv",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2277
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Amo intensamente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2278
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Kocham mocno",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2279
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я люблю сильно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2280
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我爱得很深",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2281
   }

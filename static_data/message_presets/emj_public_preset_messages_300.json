@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm lonely",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2093
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Me siento solo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2094
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin einsam",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2095
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Estou sozinho",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2096
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem samotny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2097
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Мне одиноко",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2098
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我感到孤独",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2099
   }

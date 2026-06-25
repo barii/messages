@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Nobody asked",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4410
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Nadie preguntó",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4411
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Niemand hat gefragt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4412
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Ninguém perguntou",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4413
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Nikt nie pytał",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4414
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Никто не спрашивал",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4415
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "没人问",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4416
   }

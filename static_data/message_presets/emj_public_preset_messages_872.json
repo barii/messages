@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "Can't stop staring at you tbh",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6097
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "No puedo dejar de mirarte tbh",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6098
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Kann nicht aufhören, dich anzustarren tbh",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6099
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Não consigo parar de olhar para ti tbh",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6100
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Nie mogę przestać się na ciebie gapić",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6101
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Не могу перестать на тебя смотреть",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6102
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "忍不住一直看你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6103
   }

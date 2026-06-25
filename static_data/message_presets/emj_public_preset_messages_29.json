@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "Your rizz is unmatched",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 196
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Tu rizz no tiene igual",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 197
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Dein Rizz ist unübertroffen",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 198
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "O teu rizz não tem igual",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 199
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Twój rizz jest niezrównany",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 200
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Твой rizz непревзойдён",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 201
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你的魅力无与伦比",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 202
   }

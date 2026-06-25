@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Wild",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3465
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Salvaje",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3466
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Wild",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3467
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Selvagem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3468
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Dziko",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3469
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Дикo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3470
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "野",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3471
   }

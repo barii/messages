@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "That was corny",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 560
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "Eso fue cursi",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 561
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Das war kitschig",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 562
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Isso foi foleiro",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 563
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "To było tandetne",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 564
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Это было банально",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 565
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "那很俗气",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 566
   }

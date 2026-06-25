@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Living for this",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5201
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Vivo por esto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5202
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Lebe dafür",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5203
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Vivo para isto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5204
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Żyję dla tego",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5205
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Живу этим",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5206
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "为这个而活",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5207
   }

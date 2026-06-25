@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Anything for you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4928
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Lo que sea por ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4929
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Alles für dich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4930
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Qualquer coisa por ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4931
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Wszystko dla ciebie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4932
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Всё для тебя",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4933
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "为你做什么都行",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4934
   }

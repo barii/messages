@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Have a sit down.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10864
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Sentaos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10865
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Setzt euch hin.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10866
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Senta-te.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10867
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Usiądźcie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10868
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Сядьте.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10869
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "坐下吧。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10870
   }

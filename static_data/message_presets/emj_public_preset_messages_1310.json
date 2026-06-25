@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You got mullered.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9163
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Os han machacado.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9164
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr seid abgezogen worden.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9165
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Foram esmagados.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9166
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Dostaliście baty.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9167
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вас уделали.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9168
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们被揍惨了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9169
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "Main character energy",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 406
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Energía de protagonista",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 407
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Hauptcharakter-Energie",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 408
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "Energia de protagonista",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 409
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Energia głównego bohatera",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 410
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Энергия главного героя",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 411
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "主角能量",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 412
   }

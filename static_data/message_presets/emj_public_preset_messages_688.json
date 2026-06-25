@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Cheers",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4809
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Gracias",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4810
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Danke",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4811
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Obrigado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4812
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Dzięki",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4813
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Спасибо",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4814
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "谢啦",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4815
   }

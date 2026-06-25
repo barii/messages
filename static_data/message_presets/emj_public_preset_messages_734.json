@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "I'm so excited",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5131
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Estoy muy emocionado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5132
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Ich freue mich so",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5133
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Estou tão entusiasmado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5134
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Tak się cieszę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5135
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Я так взволнован",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5136
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我太激动了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5137
   }

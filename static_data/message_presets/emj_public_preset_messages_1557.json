@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Go on then.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10892
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Venga.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10893
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Macht weiter.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10894
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Vá.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10895
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "No dawajcie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10896
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Давайте уж.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10897
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "好啦。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10898
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Be honest, how are you?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 791
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "Sé sincero, ¿cómo estás?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 792
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Sei ehrlich, wie geht's dir?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 793
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Sê honesto, como estás?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 794
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Bądź szczery, jak się masz?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 795
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Скажи честно, как ты?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 796
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "说实话,你怎么样?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 797
   }

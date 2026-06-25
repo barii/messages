@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You can be passive aggressive",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6909
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Puedes ser pasivo-agresivo",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6910
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du kannst passiv-aggressiv sein",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6911
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Consegues ser passivo-agressivo",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6912
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Możesz być pasywno-agresywny",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6913
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Ты можешь быть пассивно-агрессивным",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6914
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你可能会被动攻击",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6915
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Look at your own table.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11025
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Mirad vuestra propia tabla.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11026
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Schaut auf eure eigene Tabelle.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11027
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Olha a vossa tabela.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11028
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Spójrzcie na własną tabelę.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11029
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Посмотрите на свою таблицу.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11030
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "看看你们自己的积分榜。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11031
   }

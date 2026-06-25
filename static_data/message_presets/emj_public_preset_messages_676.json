@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "I see right through you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4725
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Te veo claro como el agua",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4726
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Ich sehe direkt durch dich hindurch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4727
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Vejo-te por dentro",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4728
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Widzę cię na wylot",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4729
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Я вижу тебя насквозь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4730
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "我看穿你了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4731
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Just kidding",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4130
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Solo bromeo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4131
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Nur ein Scherz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4132
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Só a brincar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4133
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Żartowałem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4134
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Просто шучу",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4135
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "只是开玩笑",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4136
   }

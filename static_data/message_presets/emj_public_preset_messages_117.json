@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you taking care of yourself?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 812
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Te estás cuidando?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 813
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Passt du auf dich auf?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 814
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás a cuidar de ti?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 815
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Czy dbasz o siebie?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 816
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты заботишься о себе?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 817
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你在照顾自己吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 818
   }

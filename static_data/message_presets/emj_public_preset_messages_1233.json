@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Are a minor team.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8624
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Sois un equipo menor.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8625
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr seid eine kleine Mannschaft.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8626
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "São uma equipa menor.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8627
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Jesteście pomniejszym klubem.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8628
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы второсортная команда.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8629
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们是支小球队。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8630
   }

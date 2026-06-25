@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I know right",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4025
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Lo sé, ¿verdad?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4026
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ich weiß, richtig?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4027
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Eu sei, não é?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4028
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Wiem, prawda?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4029
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Я знаю, да?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4030
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我知道,对吧?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4031
   }

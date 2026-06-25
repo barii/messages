@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Don't even worry about it",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5005
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "No te preocupes para nada",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5006
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Mach dir keine Sorgen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5007
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Nem te preocupes com isso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5008
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "W ogóle się nie martw",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5009
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Даже не переживай",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5010
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "别担心",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5011
   }

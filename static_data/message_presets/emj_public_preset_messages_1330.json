@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Looking like a relegation side.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9303
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Pinta a equipo de descenso.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9304
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Seht aus wie eine Abstiegsmannschaft.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9305
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Parecem mesmo uma equipa de descida.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9306
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wyglądacie jak drużyna do spadku.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9307
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Выглядите как команда на вылет.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9308
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "看起来就像支降级队。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9309
   }

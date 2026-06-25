@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Thank you for telling me",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4228
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Gracias por decírmelo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4229
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Danke, dass du es mir sagst",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4230
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Obrigado por me dizeres",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4231
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Dzięki, że mi to powiedziałeś",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4232
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Спасибо, что сказал мне",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4233
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "谢谢你告诉我",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4234
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm Southeast Asian",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2527
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy del sudeste asiático",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2528
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin Südostasiat",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2529
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou do sudeste asiático",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2530
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem z południowo-wschodniej Azji",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2531
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я из Юго-Восточной Азии",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2532
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是东南亚人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2533
   }

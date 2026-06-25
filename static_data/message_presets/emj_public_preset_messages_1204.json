@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "Do you believe in love at first sight or should I walk by again?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8421
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "¿Crees en el amor a primera vista o paso otra vez?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8422
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Glaubst du an Liebe auf den ersten Blick oder soll ich noch mal vorbeigehen?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8423
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "Acreditas em amor à primeira vista ou passo outra vez?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8424
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Wierzysz w miłość od pierwszego wejrzenia czy mam przejść jeszcze raz?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8425
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Ты веришь в любовь с первого взгляда или мне пройти ещё раз?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8426
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "你相信一见钟情吗?还是要我再走一遍?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8427
   }

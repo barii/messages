@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Flirt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5614
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Coqueto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5615
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Flirt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5616
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Engatatão",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5617
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Flirciarz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5618
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Флиртун",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5619
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "调情者",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5620
   }

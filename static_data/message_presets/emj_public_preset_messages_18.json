@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're brilliant",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 119
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres brillante",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 120
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist brillant",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 121
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És brilhante",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 122
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś genialny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 123
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты блестящий",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 124
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你很出色",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 125
   }

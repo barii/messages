@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you an introvert?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1071
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Eres introvertido?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1072
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Bist du introvertiert?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1073
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "És introvertido?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1074
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Jesteś introwertykiem?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1075
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты интроверт?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1076
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你是内向的人吗?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1077
   }

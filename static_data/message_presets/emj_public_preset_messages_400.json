@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I love both honestly",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2793
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Me encantan los dos, sinceramente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2794
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich liebe beide, ehrlich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2795
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Adoro ambos, sinceramente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2796
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Kocham oba, szczerze",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2797
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я люблю обоих, честно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2798
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "说实话我两个都爱",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2799
   }

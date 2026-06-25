@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "Closer than you think",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1645
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Más cerca de lo que crees",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1646
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Näher als du denkst",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1647
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Mais perto do que pensas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1648
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Bliżej niż myślisz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1649
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Ближе, чем ты думаешь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1650
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "比你想的近",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1651
   }

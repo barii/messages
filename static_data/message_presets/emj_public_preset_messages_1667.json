@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You sound bitter.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11662
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Sonáis resentidos.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11663
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ihr klingt verbittert.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11664
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Parecem amargos.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11665
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Brzmicie z goryczą.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11666
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Звучите обиженными.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11667
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们听起来很苦涩。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11668
   }

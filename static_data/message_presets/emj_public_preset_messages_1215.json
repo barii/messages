@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "Do you have a name or can I call you mine?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8498
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "¿Tienes nombre o puedo llamarte mío?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8499
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Hast du einen Namen oder kann ich dich meinen nennen?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8500
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "Tens um nome ou posso chamar-te meu?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8501
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Masz imię czy mogę nazywać cię swoim?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8502
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "У тебя есть имя или я могу называть тебя моим?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8503
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "你有名字吗?还是我可以叫你我的?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8504
   }

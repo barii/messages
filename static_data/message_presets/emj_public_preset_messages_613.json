@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I'm going to push back on that",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4284
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Te voy a discutir eso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4285
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Da werde ich dagegen halten",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4286
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Vou opor-me a isso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4287
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Mam zamiar to zakwestionować",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4288
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Я буду возражать против этого",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4289
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我要反驳这一点",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4290
   }

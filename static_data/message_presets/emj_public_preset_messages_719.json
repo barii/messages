@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "I love that for you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5026
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Me encanta para ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5027
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Ich liebe das für dich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5028
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Adoro isso por ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5029
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Cieszę się za ciebie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5030
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Я рад за тебя",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5031
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我为你高兴",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5032
   }

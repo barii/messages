@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Closure is something you give yourself",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6643
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "El cierre es algo que te das tú mismo",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6644
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Closure ist etwas, das du dir selbst gibst",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6645
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Fecho é algo que dás a ti próprio",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6646
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Zamknięcie to coś, co dajesz sobie sam",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6647
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Закрытие - это то, что ты даёшь себе сам",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6648
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "结束是你给自己的东西",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6649
   }

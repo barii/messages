@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "You good",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8022
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "¿Todo bien?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8023
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Alles gut",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8024
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Tudo bem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8025
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "W porządku?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8026
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Ты в порядке",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8027
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "你还好",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8028
   }

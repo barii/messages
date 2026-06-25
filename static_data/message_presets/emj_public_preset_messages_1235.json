@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Can't compete with us, and never will.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8638
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "No podéis competir con nosotros, y nunca podréis.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8639
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr könnt nicht mit uns mithalten, und werdet es nie.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8640
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Não conseguem competir connosco, e nunca conseguirão.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8641
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Nie możecie z nami konkurować, i nigdy nie będziecie mogli.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8642
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы не можете соревноваться с нами, и никогда не сможете.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8643
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们没法跟我们比,永远都不会。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8644
   }

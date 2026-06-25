@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Your keeper had a stinker.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9338
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vuestro portero ha tenido un desastre.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9339
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Euer Torwart hatte einen schlechten Tag.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9340
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "O vosso guarda-redes teve um dia mau.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9341
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wasz bramkarz miał kiepski dzień.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9342
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Ваш вратарь облажался.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9343
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们门将状态极差。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9344
   }

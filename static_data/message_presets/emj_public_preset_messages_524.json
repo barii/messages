@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I'd rather not say",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3661
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Prefiero no decir",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3662
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Möchte ich lieber nicht sagen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3663
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Preferia não dizer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3664
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Wolałbym nie mówić",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3665
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Предпочёл бы не говорить",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3666
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我不想说",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3667
   }

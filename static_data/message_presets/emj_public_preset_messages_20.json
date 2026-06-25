@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're talented",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 133
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres talentoso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 134
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist talentiert",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 135
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És talentoso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 136
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś utalentowany",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 137
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты талантливый",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 138
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你很有才华",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 139
   }

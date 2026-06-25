@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Wait what",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3304
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Espera, ¿qué?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3305
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Warte was",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3306
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Espera o quê",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3307
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Czekaj co",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3308
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Подожди что",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3309
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "等等什么",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3310
   }

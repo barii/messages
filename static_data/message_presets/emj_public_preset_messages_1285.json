@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Shocking.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8988
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Penoso.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8989
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Erbärmlich.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8990
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vergonhoso.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8991
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Żałosne.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8992
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Позорище.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8993
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "可悲。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8994
   }

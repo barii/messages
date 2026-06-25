@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We built different.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10528
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "We built different.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10529
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "We built different.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10530
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "We built different.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10531
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "We built different.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10532
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "We built different.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10533
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "We built different.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10534
   }

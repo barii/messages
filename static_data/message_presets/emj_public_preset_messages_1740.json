@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Your team needs you... on the bench!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12173
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Your team needs you... on the bench!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12174
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Your team needs you... on the bench!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12175
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Your team needs you... on the bench!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12176
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Your team needs you... on the bench!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12177
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Your team needs you... on the bench!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12178
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Your team needs you... on the bench!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12179
   }

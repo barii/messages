@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you free to chat?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1183
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Tienes tiempo para hablar?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1184
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Hast du Zeit zum Reden?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1185
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás livre para falar?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1186
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Masz teraz czas porozmawiać?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1187
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты свободен поговорить?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1188
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你有空聊天吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1189
   }

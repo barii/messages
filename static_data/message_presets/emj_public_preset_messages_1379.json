@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Bottle merchants.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9646
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Cobardes.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9647
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Versagerhändler.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9648
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Comerciantes de falhas.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9649
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Tchórzliwi handlarze.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9650
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Торговцы поражениями.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9651
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "怂包们。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9652
   }

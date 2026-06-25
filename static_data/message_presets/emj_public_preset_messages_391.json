@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I prefer being indoors",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2730
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Prefiero estar adentro",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2731
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin lieber drinnen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2732
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Prefiro estar dentro de casa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2733
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Wolę być w domu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2734
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я предпочитаю быть в помещении",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2735
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我更喜欢室内",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2736
   }

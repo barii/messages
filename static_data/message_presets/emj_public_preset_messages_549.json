@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Oof",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3836
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Uf",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3837
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Uff",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3838
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Ufa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3839
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Uff",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3840
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Уфф",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3841
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "唉",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3842
   }

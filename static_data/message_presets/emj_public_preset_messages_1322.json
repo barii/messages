@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Going down.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9247
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "A segunda.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9248
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr steigt ab.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9249
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vão descer.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9250
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Spadacie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9251
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы вылетаете.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9252
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "降级中。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9253
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "You unmatched me in my dreams last night, what was that about",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8561
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "Anoche me hiciste unmatch en mis sueños, ¿qué fue eso?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8562
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Du hast mich gestern Nacht in meinen Träumen geunmatcht, was war das?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8563
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "Desfizeste o nosso match nos meus sonhos ontem, o que foi isso?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8564
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Anulowałeś nasz match w moich snach ostatniej nocy, co to było?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8565
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Ты отменил наш матч в моих снах прошлой ночью, что это было?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8566
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "昨晚你在我的梦里取消了我们的匹配,那是怎么回事?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8567
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Absolute losers!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8890
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "¡Perdedores absolutos!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8891
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Absolute Verlierer!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8892
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Falhados absolutos!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8893
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Absolutni przegrani!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8894
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Абсолютные неудачники!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8895
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "彻底的失败者!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8896
   }

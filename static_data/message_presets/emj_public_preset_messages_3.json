@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're so kind",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 14
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres muy amable",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 15
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist so freundlich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 16
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És tão simpático",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 17
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś taki miły",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 18
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты такой добрый",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 19
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你很善良",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 20
   }

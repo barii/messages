@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Why are you telling me this?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4368
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "¿Por qué me cuentas esto?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4369
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Warum erzählst du mir das?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4370
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Porque me estás a contar isto?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4371
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Po co mi to mówisz?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4372
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Почему ты мне это рассказываешь?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4373
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "你为什么告诉我这个?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4374
   }

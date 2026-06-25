@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You got schooled.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9205
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Os han dado una lección.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9206
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr habt eine Lektion bekommen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9207
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Foram esmagados em campo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9208
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Daliście się ograć.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9209
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вам преподали урок.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9210
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们被上了一课。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9211
   }

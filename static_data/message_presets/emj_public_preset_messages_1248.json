@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Worst team the world has ever seen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8729
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "El peor equipo que el mundo haya visto.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8730
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Schlechteste Mannschaft, die die Welt je gesehen hat.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8731
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "A pior equipa que o mundo já viu.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8732
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Najgorsza drużyna, jaką świat kiedykolwiek widział.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8733
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Худшая команда, которую видел мир.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8734
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "世界上见过的最烂的队。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8735
   }

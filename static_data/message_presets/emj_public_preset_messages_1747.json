@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Game Over!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12222
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Game Over!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12223
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Game Over!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12224
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Game Over!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12225
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Game Over!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12226
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Game Over!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12227
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Game Over!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12228
   }

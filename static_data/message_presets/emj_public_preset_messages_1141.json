@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "How's your day going?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7980
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "¿Cómo va tu día?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7981
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Wie läuft dein Tag?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7982
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Como está o teu dia?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7983
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Jak ci dzień idzie?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7984
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Как проходит твой день?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7985
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "你今天过得怎么样?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7986
   }

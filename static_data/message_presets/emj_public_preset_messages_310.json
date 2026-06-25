@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I've been thinking about you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2163
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "He estado pensando en ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2164
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich habe an dich gedacht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2165
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Tenho andado a pensar em ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2166
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Myślałem o tobie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2167
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я думал о тебе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2168
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我一直在想你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2169
   }

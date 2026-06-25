@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Empty seats everywhere.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9499
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Asientos vacíos por todas partes.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9500
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Leere Plätze überall.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9501
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Lugares vazios por todo o lado.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9502
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Puste miejsca wszędzie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9503
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Пустые места повсюду.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9504
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "到处都是空座位。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9505
   }

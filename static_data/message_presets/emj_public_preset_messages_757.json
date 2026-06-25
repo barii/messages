@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Rooting for you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5292
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Estoy contigo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5293
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Ich drücke dir die Daumen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5294
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Estou a torcer por ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5295
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Trzymam za ciebie kciuki",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5296
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Болею за тебя",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5297
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "为你加油",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5298
   }

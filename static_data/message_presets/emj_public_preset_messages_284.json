@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "Maybe I'll tell you, maybe I'll not",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1981
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Tal vez te lo diga, tal vez no",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1982
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Vielleicht erzähle ich es dir, vielleicht auch nicht",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1983
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Talvez te diga, talvez não",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1984
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Może ci powiem, może nie",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1985
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Может, скажу, может, нет",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1986
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "也许告诉你,也许不",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1987
   }

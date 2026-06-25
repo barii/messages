@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You hurt my feelings",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7035
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Heriste mis sentimientos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7036
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du hast meine Gefühle verletzt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7037
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Magoaste os meus sentimentos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7038
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Zraniłeś moje uczucia",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7039
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Ты задел мои чувства",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7040
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你伤害了我的感情",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7041
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "That's adorable",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5040
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Qué adorable",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5041
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Das ist entzückend",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5042
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Que adorável",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5043
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "To urocze",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5044
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Это очаровательно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5045
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "太可爱了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5046
   }

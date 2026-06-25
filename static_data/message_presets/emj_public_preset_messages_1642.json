@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Going down, going down.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11487
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "A segunda, a segunda.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11488
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Geht runter, geht runter.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11489
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Vão descer, vão descer.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11490
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Spadacie, spadacie.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11491
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Вылетаете, вылетаете.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11492
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "降级,降级。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11493
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "That isn't your place to say",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4466
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "No te corresponde decir eso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4467
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Das ist nicht dein Platz, das zu sagen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4468
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Não te cabe dizer isso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4469
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "To nie twoja sprawa, żeby to mówić",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4470
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Это не тебе говорить",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4471
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "这不是你该说的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4472
   }

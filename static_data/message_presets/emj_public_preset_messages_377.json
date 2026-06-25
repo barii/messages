@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I love my routine",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2632
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Amo mi rutina",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2633
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich liebe meine Routine",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2634
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Adoro a minha rotina",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2635
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Uwielbiam moją rutynę",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2636
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я люблю свою рутину",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2637
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我喜欢我的日常",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2638
   }

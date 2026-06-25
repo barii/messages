@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "See you tomorrow",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7812
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Nos vemos mañana",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7813
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Bis morgen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7814
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Até amanhã",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7815
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Do jutra",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7816
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "До завтра",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7817
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "明天见",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7818
   }

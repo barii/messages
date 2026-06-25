@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Living the dream",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3556
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Viviendo el sueño",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3557
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Lebe den Traum",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3558
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "A viver o sonho",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3559
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Żyję marzeniem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3560
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Живу мечтой",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3561
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "活在梦里",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3562
   }

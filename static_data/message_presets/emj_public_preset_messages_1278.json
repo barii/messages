@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You dream of someday being like us.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8939
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Soñáis con algún día ser como nosotros.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8940
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr träumt davon, eines Tages so zu sein wie wir.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8941
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Sonham com um dia ser como nós.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8942
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Marzycie, by kiedyś być jak my.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8943
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы мечтаете однажды стать как мы.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8944
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们梦想着有朝一日能像我们一样。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8945
   }

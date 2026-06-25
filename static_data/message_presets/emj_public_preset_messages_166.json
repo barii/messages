@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Can I tell you a secret?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1155
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Puedo contarte un secreto?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1156
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Kann ich dir ein Geheimnis erzählen?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1157
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Posso contar-te um segredo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1158
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Mogę ci zdradzić sekret?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1159
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Можно рассказать тебе секрет?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1160
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "我能告诉你一个秘密吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1161
   }

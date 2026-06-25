@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "You barely know me",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1953
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Apenas me conoces",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1954
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Du kennst mich kaum",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1955
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Mal me conheces",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1956
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Ledwo mnie znasz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1957
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Ты едва меня знаешь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1958
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "你几乎不了解我",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1959
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You're a mid-table team at best.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9800
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Sois un equipo de media tabla como mucho.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9801
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr seid bestenfalls eine Mittelfeldmannschaft.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9802
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "São uma equipa de meio da tabela, no máximo.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9803
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Jesteście drużyną środka tabeli, co najwyżej.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9804
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы команда середины таблицы в лучшем случае.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9805
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们最多就是个中游球队。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9806
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Wrap it up please",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7343
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Termina ya, por favor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7344
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Mach Schluss bitte",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7345
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Acaba lá com isso, por favor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7346
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Skończ już proszę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7347
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Заканчивай уже, пожалуйста",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7348
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "请快结束吧",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7349
   }

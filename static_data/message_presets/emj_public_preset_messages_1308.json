@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Are you joking.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9149
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "¿Estáis de broma?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9150
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Macht ihr Witze?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9151
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Estão a brincar?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9152
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Żartujecie?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9153
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Шутите?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9154
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们在开玩笑吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9155
   }

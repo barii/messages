@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Wait, what?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1344
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "Espera, ¿qué?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1345
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Warte, was?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1346
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Espera, o quê?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1347
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Czekaj, co?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1348
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Подожди, что?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1349
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "等等,什么?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1350
   }

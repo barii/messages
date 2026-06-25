@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "The only way out is through",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6832
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "La única salida es a través",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6833
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Der einzige Weg raus ist durch",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6834
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "A única saída é atravessar",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6835
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Jedyne wyjście to przez to przejść",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6836
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Единственный выход - через это",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6837
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "唯一的出路就是穿过它",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6838
   }

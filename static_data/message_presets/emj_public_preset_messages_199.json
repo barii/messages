@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Do you want to know who I am?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1386
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Quieres saber quién soy?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1387
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Willst du wissen, wer ich bin?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1388
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Queres saber quem sou?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1389
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Chcesz wiedzieć, kim jestem?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1390
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Хочешь узнать, кто я?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1391
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你想知道我是谁吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1392
   }

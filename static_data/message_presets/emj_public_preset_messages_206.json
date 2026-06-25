@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Did we go to university together?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1435
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Fuimos a la universidad juntos?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1436
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Waren wir zusammen an der Uni?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1437
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Andámos na universidade juntos?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1438
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Chodziliśmy razem na studia?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1439
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Мы учились в универе вместе?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1440
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "我们一起上过大学吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1441
   }

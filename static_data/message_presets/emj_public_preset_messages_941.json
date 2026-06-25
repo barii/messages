@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Take what you need and leave the rest",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6580
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Toma lo que necesites y deja el resto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6581
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Nimm, was du brauchst, und lass den Rest",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6582
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Tira o que precisas e deixa o resto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6583
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Weź to, czego potrzebujesz, a resztę zostaw",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6584
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Возьми то, что нужно, остальное оставь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6585
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "拿你需要的,留下其余的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6586
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Weird flex.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11396
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Weird flex.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11397
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Weird flex.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11398
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Weird flex.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11399
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Weird flex.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11400
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Weird flex.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11401
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "Weird flex.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11402
   }

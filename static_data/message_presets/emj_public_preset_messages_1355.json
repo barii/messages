@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Your fans are quiet.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9478
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vuestros aficionados están callados.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9479
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Eure Fans sind still.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9480
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Os vossos adeptos estão calados.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9481
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wasi kibice są cicho.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9482
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Ваши фанаты молчат.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9483
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们球迷都很安静。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9484
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "Manifesting a date with you",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8533
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "Manifestando una cita contigo",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8534
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Manifestiere ein Date mit dir",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8535
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "A manifestar um encontro contigo",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8536
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Manifestuję randkę z tobą",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8537
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Манифестирую свидание с тобой",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8538
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "我在显化和你的一次约会",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8539
   }

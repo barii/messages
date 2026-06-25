@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you happy right now?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 798
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Estás contento ahora mismo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 799
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Bist du gerade glücklich?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 800
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás feliz agora?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 801
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Czy jesteś teraz szczęśliwy?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 802
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты счастлив сейчас?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 803
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你现在开心吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 804
   }

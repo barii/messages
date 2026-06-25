@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We follow our team everywhere.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10458
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Seguimos a nuestro equipo a todas partes.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10459
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir folgen unserer Mannschaft überall hin.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10460
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Seguimos a nossa equipa para todo o lado.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10461
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Idziemy za naszą drużyną wszędzie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10462
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы следуем за командой везде.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10463
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们跟着球队走遍天下。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10464
   }

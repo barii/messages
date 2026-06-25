@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're a gem",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 378
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres una joya",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 379
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist ein Juwel",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 380
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És uma joia",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 381
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś klejnotem",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 382
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты драгоценность",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 383
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你是颗宝石",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 384
   }

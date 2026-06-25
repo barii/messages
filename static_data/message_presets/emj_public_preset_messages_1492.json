@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Best fans in the country.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10437
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Los mejores aficionados del país.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10438
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Beste Fans des Landes.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10439
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Os melhores adeptos do país.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10440
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Najlepsi kibice w kraju.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10441
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Лучшие фанаты в стране.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10442
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "全国最棒的球迷。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10443
   }

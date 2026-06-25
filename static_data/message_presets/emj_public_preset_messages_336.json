@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm non-binary",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2345
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy no binario",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2346
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin nicht-binär",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2347
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou não-binário",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2348
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem niebinarny",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2349
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я небинарный",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2350
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是非二元性别",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2351
   }

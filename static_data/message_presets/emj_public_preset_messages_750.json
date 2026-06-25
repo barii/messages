@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Periodt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5243
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Periodt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5244
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Periodt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5245
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Periodt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5246
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Periodt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5247
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Periodt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5248
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "Periodt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5249
   }

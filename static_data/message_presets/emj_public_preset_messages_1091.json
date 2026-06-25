@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "We need to debrief later",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7630
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Tenemos que hablar de esto después",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7631
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Wir müssen das später besprechen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7632
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Temos de falar disto mais tarde",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7633
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Musimy później pogadać o tym",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7634
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Нам нужно обсудить это позже",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7635
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "我们得稍后总结一下",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7636
   }

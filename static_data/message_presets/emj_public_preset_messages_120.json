@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Have you slept?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 833
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Has dormido?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 834
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Hast du geschlafen?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 835
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Dormiste?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 836
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Spałeś?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 837
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты спал?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 838
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你睡了吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 839
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Happy Friday",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8295
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Feliz Viernes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8296
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Frohen Freitag",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8297
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Feliz Sexta",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8298
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Wesołego piątku",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8299
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "Счастливой пятницы",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8300
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "周五快乐",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8301
   }

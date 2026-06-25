@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "You're not it",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 462
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "No es lo tuyo",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 463
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Das ist nicht dein Ding",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 464
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Não é a tua",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 465
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "To nie twoja działka",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 466
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Это не твоё",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 467
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "这不是你的",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 468
   }

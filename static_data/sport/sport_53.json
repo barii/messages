@@ -6,7 +6,7 @@
     "lang": "EN",
     "category": "National football teams",
     "text": "Ukrainian football team",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇺🇦",
     "continent": "European"
@@ -18,7 +18,7 @@
     "lang": "ES",
     "category": "Selección nacional de fútbol",
     "text": "Equipo de fútbol de Ucrania",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇺🇦",
     "continent": "European"
@@ -30,7 +30,7 @@
     "lang": "DE",
     "category": "Nationale Fußballmannschaft",
     "text": "Ukrainische Fußballmannschaft",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇺🇦",
     "continent": "European"
@@ -42,7 +42,7 @@
     "lang": "PL",
     "category": "Narodowa drużyna piłkarska",
     "text": "Ukraińska drużyna piłkarska",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇺🇦",
     "continent": "European"
@@ -54,7 +54,7 @@
     "lang": "RU",
     "category": "национальная сборная по футболу",
     "text": "сборная Украины по футболу",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇺🇦",
     "continent": "European"
@@ -66,7 +66,7 @@
     "lang": "PT",
     "category": "Seleção nacional de futebol",
     "text": "Seleção Ucraniana de futebol",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇺🇦",
     "continent": "European"
@@ -78,7 +78,7 @@
     "lang": "CN",
     "category": "国家足球队",
     "text": "乌克兰足球队",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇺🇦",
     "continent": "European"

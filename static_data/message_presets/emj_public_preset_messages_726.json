@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Proud of you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5075
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Estoy orgulloso de ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5076
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Stolz auf dich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5077
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Orgulhoso de ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5078
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Jestem z ciebie dumny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5079
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Горжусь тобой",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5080
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "为你感到骄傲",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5081
   }

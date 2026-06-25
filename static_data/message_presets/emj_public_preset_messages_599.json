@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I need time to think",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4186
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Necesito tiempo para pensar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4187
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ich brauche Zeit zum Nachdenken",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4188
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Preciso de tempo para pensar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4189
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Potrzebuję czasu do namysłu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4190
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Мне нужно время подумать",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4191
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我需要时间想想",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4192
   }

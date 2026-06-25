@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Same energy honestly",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7560
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Misma energía, sinceramente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7561
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Gleiche Energie, ehrlich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7562
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Mesma energia, sinceramente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7563
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Ta sama energia, szczerze",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7564
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Та же энергия, честно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7565
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "同样的能量,说实话",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7566
   }

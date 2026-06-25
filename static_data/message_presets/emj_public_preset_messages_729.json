@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "You earned this",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5096
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Te lo has ganado",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5097
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Du hast dir das verdient",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5098
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Conquistaste isso",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5099
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Zarobiłeś na to",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5100
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Ты это заслужил",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5101
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "这是你应得的",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5102
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Top of the league, where we belong.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10122
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Líderes de la liga, donde pertenecemos.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10123
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Tabellenführer, wo wir hingehören.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10124
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Topo da liga, onde pertencemos.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10125
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Lider ligi, tam gdzie nasze miejsce.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10126
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Лидеры таблицы, где нам и место.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10127
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "联赛榜首,我们的位置。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10128
   }

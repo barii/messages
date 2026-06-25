@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I miss you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5859
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Te extraño",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5860
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich vermisse dich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5861
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Tenho saudades tuas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5862
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Tęsknię za tobą",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5863
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Я скучаю по тебе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5864
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我想你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5865
   }

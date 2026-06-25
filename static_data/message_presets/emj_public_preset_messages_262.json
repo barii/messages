@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "We hooked up once",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1827
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Nos liamos una vez",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1828
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Wir haben uns mal angemacht",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1829
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Curtimos uma vez",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1830
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Raz się zhakowaliśmy",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1831
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "У нас была интрижка однажды",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1832
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我们有过一次",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1833
   }

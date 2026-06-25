@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "How are you holding up?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 777
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Cómo lo llevas?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 778
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Wie hältst du dich?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 779
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Como estás a aguentar?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 780
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Jak sobie radzisz?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 781
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Как ты справляешься?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 782
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你怎么撑着的?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 783
   }

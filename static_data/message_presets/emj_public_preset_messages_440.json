@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Understood",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3073
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Entendido",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3074
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Verstanden",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3075
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Entendido",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3076
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Zrozumiano",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3077
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Понятно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3078
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "懂了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3079
   }

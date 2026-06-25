@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Still mad about that I see.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11676
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Aún enfadados por eso, ya veo.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11677
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Immer noch sauer deswegen, sehe ich.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11678
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Ainda zangados com isso, vejo.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11679
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Wciąż wściekli o to, widzę.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11680
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Всё ещё злитесь, я вижу.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11681
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "看来还在生那件事的气。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11682
   }

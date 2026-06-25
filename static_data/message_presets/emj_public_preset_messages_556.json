@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "That sucks",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3885
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Eso apesta",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3886
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Das ist mies",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3887
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Isso é mau",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3888
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "To słabe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3889
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Это отстой",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3890
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "那太糟了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3891
   }

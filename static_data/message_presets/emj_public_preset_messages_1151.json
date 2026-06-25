@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "What's on your mind?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8050
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "¿En qué estás pensando?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8051
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Was geht dir durch den Kopf?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8052
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "No que estás a pensar?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8053
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "O czym myślisz?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8054
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "О чём думаешь?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8055
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "你在想什么?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8056
   }

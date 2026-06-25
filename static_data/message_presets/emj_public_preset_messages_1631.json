@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Imagine being you.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11410
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Imaginad ser vosotros.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11411
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Stellt euch vor, ihr zu sein.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11412
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Imaginem ser vocês.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11413
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Wyobraźcie sobie, że jesteście wami.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11414
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Представьте быть вами.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11415
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "想象一下做你们。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11416
   }

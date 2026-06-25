@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Name one team better than us.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10640
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Nombrad un equipo mejor que el nuestro.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10641
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Nennt eine Mannschaft, die besser ist als wir.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10642
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Nomeiem uma equipa melhor que nós.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10643
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Wymień jakąkolwiek drużynę lepszą od nas.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10644
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Назовите хоть одну команду лучше нас.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10645
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "说出一支比我们更好的队。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10646
   }

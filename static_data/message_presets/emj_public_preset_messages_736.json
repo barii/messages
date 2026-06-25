@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Can't wait",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5145
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "No puedo esperar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5146
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Kann es kaum erwarten",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5147
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Mal posso esperar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5148
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Nie mogę się doczekać",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5149
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Не могу дождаться",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5150
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "等不及",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5151
   }

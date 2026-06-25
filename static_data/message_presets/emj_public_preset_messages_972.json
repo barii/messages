@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Just start, momentum is everything",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6797
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Solo empieza, el impulso lo es todo",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6798
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Fang einfach an, Schwung ist alles",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6799
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Começa, o momentum é tudo",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6800
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Po prostu zacznij, pęd jest wszystkim",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6801
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Просто начни, инерция - это всё",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6802
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "开始就行,动力就是一切",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6803
   }

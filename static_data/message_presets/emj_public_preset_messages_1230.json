@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "Are you doing anything for the rest of your life?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8603
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "¿Tienes algo que hacer el resto de tu vida?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8604
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Hast du den Rest deines Lebens was vor?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8605
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "Tens alguma coisa para fazer o resto da tua vida?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8606
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Robisz coś przez resztę swojego życia?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8607
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Ты что-нибудь делаешь до конца своей жизни?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8608
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "你余生有什么事吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8609
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Top of the league.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10115
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Líderes de la liga.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10116
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Tabellenführer.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10117
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Topo da liga.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10118
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Lider ligi.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10119
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Лидеры таблицы.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10120
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "联赛榜首。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10121
   }

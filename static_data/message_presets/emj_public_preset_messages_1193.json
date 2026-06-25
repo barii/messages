@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Hope you have a wonderful one too",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8344
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Espero que tengas uno maravilloso también",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8345
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Hoffe, du hast auch einen wunderbaren",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8346
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Espero que tenhas um maravilhoso também",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8347
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Mam nadzieję, że i ty masz wspaniały",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8348
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "Надеюсь, и у тебя будет замечательно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8349
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "希望你也有美好的一天",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8350
   }

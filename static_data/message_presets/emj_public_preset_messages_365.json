@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm a morning person",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2548
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy madrugador",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2549
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin ein Morgenmensch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2550
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou matinal",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2551
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem rannym ptaszkiem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2552
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я жаворонок",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2553
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是早起的人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2554
   }

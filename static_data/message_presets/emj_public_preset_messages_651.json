@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Grow up",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4550
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Madura",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4551
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Werd erwachsen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4552
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Cresce",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4553
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Dorośnij",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4554
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Повзрослей",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4555
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "成熟点",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4556
   }

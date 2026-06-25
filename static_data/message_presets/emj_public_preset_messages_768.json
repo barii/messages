@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "I'm dead",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5369
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Me muero",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5370
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Ich bin tot",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5371
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Estou morto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5372
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Umieram",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5373
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Я мёртв",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5374
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我死了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5375
   }

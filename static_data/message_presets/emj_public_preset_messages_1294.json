@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Shocker.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9051
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vaya bochorno.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9052
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Was für ein Reinfall.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9053
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Que vergonha.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9054
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Co za wstyd.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9055
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Какой позор.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9056
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "真丢人。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9057
   }

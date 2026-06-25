@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "We met on a dating app",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1722
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Nos conocimos en una app de citas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1723
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Wir haben uns über eine Dating-App kennengelernt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1724
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Conhecemo-nos numa app de encontros",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1725
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Poznaliśmy się na aplikacji randkowej",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1726
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Мы познакомились в приложении для знакомств",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1727
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我们在约会软件上认识",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1728
   }

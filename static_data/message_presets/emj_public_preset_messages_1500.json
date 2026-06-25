@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We ate.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10493
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "We ate.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10494
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "We ate.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10495
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "We ate.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10496
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "We ate.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10497
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "We ate.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10498
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "We ate.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10499
   }

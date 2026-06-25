@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Average team, average fans.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9807
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Equipo mediocre, aficionados mediocres.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9808
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Durchschnittsmannschaft, Durchschnittsfans.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9809
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Equipa medíocre, adeptos medíocres.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9810
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Średnia drużyna, średni kibice.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9811
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Средняя команда, средние фанаты.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9812
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "平庸的球队,平庸的球迷。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9813
   }

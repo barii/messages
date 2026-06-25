@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "Your situationship called and quit",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8526
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "Tu situationship llamó y renunció",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8527
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Deine Situationship hat angerufen und gekündigt",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8528
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "A tua situationship ligou e demitiu-se",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8529
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Twoja situationship zadzwoniła i się zwolniła",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8530
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Твой situationship позвонил и уволился",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8531
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "你的situationship打来说辞职了",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8532
   }

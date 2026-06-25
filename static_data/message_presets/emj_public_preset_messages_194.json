@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Wait, are you serious?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1351
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "Espera, ¿en serio?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1352
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Warte, ist das dein Ernst?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1353
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Espera, estás a falar a sério?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1354
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Czekaj, mówisz poważnie?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1355
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Подожди, ты серьёзно?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1356
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "等等,你是认真的吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1357
   }

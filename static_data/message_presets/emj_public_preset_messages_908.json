@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "We have a history you might not remember",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6349
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Tenemos una historia que tal vez no recuerdes",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6350
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Wir haben eine Geschichte, an die du dich vielleicht nicht erinnerst",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6351
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Temos uma história de que podes não te lembrar",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6352
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Mamy historię, której możesz nie pamiętać",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6353
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "У нас есть история, которую ты можешь не помнить",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6354
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我们有段你可能不记得的历史",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6355
   }

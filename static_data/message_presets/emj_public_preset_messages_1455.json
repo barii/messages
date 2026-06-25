@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We're in Europe again, you're not.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10178
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Estamos en Europa otra vez, vosotros no.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10179
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir sind wieder in Europa, ihr nicht.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10180
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Estamos na Europa outra vez, vocês não.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10181
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Znowu jesteśmy w Europie, wy nie.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10182
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы снова в Европе, вы нет.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10183
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们又进欧洲了,你们没有。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10184
   }

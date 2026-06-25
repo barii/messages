@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Living",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3528
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Viviendo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3529
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Lebe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3530
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "A viver",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3531
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Żyję",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3532
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Живу",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3533
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "活着",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3534
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Are you for real.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11011
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "¿En serio?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11012
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Wirklich?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11013
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "A sério?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11014
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Naprawdę?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11015
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Серьёзно?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11016
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "真的?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11017
   }

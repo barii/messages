@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Walk of shame, walk of shame!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11886
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Walk of shame, walk of shame!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11887
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Walk of shame, walk of shame!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11888
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Walk of shame, walk of shame!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11889
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Walk of shame, walk of shame!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11890
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Walk of shame, walk of shame!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11891
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Walk of shame, walk of shame!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11892
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Probably not",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3017
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Probablemente no",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3018
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Wahrscheinlich nicht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3019
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Provavelmente não",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3020
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Prawdopodobnie nie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3021
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Скорее всего нет",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3022
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "可能不",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3023
   }

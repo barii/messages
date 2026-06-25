@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "I look up to you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 273
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Te admiro",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 274
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Ich schaue zu dir auf",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 275
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "Tenho-te em grande conta",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 276
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Patrzę na ciebie z podziwem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 277
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Я смотрю на тебя снизу вверх",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 278
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "我仰慕你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 279
   }

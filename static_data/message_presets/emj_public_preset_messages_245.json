@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "We were on the same team",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1708
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Estábamos en el mismo equipo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1709
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Wir waren im selben Team",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1710
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Estávamos na mesma equipa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1711
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Byliśmy w tej samej drużynie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1712
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Мы были в одной команде",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1713
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我们在同一个团队",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1714
   }

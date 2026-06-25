@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're genuinely one of the best people I know",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres genuinamente una de las mejores personas que conozco",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist wirklich einer der besten Menschen, die ich kenne",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És genuinamente uma das melhores pessoas que conheço",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś naprawdę jedną z najlepszych osób, jakie znam",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты искренне один из лучших людей, которых я знаю",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你真的是我认识的最好的人之一",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 13
   }

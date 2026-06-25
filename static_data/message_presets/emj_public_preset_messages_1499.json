@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "You're obsessed with us.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10486
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Estáis obsesionados con nosotros.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10487
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Ihr seid besessen von uns.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10488
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Estão obcecados connosco.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10489
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Macie obsesję na naszym punkcie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10490
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Вы одержимы нами.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10491
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "你们对我们着迷了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10492
   }

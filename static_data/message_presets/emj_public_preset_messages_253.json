@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "We met on vacation",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1764
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Nos conocimos de vacaciones",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1765
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Wir haben uns im Urlaub kennengelernt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1766
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Conhecemo-nos numa viagem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1767
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Poznaliśmy się na wakacjach",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1768
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Мы познакомились в отпуске",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1769
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我们在度假时认识",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1770
   }

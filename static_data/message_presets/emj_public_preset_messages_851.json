@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I've never felt this way before",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5950
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Nunca antes me había sentido así",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5951
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich habe mich noch nie so gefühlt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5952
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Nunca me senti assim antes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5953
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Nigdy wcześniej tak się nie czułem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5954
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Я никогда так не чувствовал раньше",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5955
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我从未有过这种感觉",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5956
   }

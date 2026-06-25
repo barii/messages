@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "Tell me you're single without telling me you're single",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8512
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "Dime que estás soltero sin decirme que estás soltero",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8513
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Sag mir, dass du Single bist, ohne mir zu sagen, dass du Single bist",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8514
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "Diz-me que és solteiro sem me dizeres que és solteiro",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8515
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Powiedz mi, że jesteś singlem, nie mówiąc, że jesteś singlem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8516
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Скажи мне, что ты свободен, не говоря, что ты свободен",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8517
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "告诉我你单身但别说出'单身'",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8518
   }

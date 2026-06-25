@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You wish you were like us.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10794
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Quisierais ser como nosotros.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10795
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ihr wünschtet, ihr wärt wie wir.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10796
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Quem me dera ser como nós.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10797
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Chcielibyście być jak my.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10798
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Вы бы хотели быть как мы.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10799
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们希望自己像我们一样。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10800
   }

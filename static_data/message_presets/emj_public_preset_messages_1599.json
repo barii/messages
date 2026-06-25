@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Always a reason isn't it.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11186
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Siempre hay una razón, ¿no?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11187
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Es gibt immer einen Grund, oder?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11188
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Há sempre uma razão, não é?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11189
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Zawsze jest jakiś powód, prawda?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11190
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Всегда есть причина, не так ли.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11191
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "总有理由,对吧。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11192
   }

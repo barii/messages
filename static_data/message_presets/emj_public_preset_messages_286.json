@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "Not telling you yet",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1995
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Todavía no te lo voy a decir",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1996
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Ich sage es dir noch nicht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1997
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Ainda não te vou dizer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1998
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Jeszcze ci nie powiem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1999
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Пока не скажу",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2000
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "现在还不告诉你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2001
   }

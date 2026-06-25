@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You are a small club, and that is a fact.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8764
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Sois un club pequeño, y eso es un hecho.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8765
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr seid ein kleiner Verein, und das ist eine Tatsache.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8766
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "São um clube pequeno, e isso é um facto.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8767
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Jesteście małym klubem i to jest fakt.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8768
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы маленький клуб, и это факт.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8769
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们是个小俱乐部,这是事实。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8770
   }

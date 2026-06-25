@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Alright mate.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10836
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Vale tío.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10837
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Alles klar Mann.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10838
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Tá bem, pá.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10839
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Spoko, ziomek.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10840
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Ладно, приятель.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10841
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "好吧兄弟。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10842
   }

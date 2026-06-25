@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Look after yourself",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7770
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Cuídate mucho",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7771
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Pass gut auf dich auf",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7772
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Cuida-te bem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7773
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Zadbaj o siebie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7774
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Заботься о себе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7775
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "好好照顾自己",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7776
   }

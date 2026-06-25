@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "I'm crying",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5362
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Estoy llorando",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5363
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Ich weine",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5364
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Estou a chorar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5365
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Płaczę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5366
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Я плачу",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5367
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我在哭",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5368
   }

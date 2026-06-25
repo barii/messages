@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "See you later",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7798
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Nos vemos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7799
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Bis später",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7800
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Até logo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7801
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Do zobaczenia",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7802
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "До скорого",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7803
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "回头见",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7804
   }

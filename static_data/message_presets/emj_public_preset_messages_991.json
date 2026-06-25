@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You're quick to judge",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6930
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Eres rápido para juzgar",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6931
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du urteilst schnell",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6932
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "És rápido a julgar",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6933
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Szybko oceniasz",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6934
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Ты быстро судишь",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6935
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你太快下判断",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6936
   }

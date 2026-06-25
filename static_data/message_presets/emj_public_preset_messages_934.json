@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Stop overthinking it",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6531
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Deja de pensarlo tanto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6532
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Hör auf zu überdenken",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6533
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Para de pensar demais",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6534
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Przestań to nadmiernie analizować",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6535
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Перестань переосмысливать",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6536
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "别再过度思考了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6537
   }

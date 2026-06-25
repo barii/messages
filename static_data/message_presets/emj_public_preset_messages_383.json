@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm not a podcast person",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2674
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "No soy de podcasts",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2675
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin kein Podcast-Mensch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2676
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Não sou de podcasts",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2677
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Nie jestem osobą od podcastów",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2678
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я не любитель подкастов",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2679
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我不是播客的人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2680
   }

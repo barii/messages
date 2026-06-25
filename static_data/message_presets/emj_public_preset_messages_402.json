@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I reply to everything quickly",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2807
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Contesto todo rápido",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2808
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich antworte auf alles schnell",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2809
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Respondo a tudo rápido",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2810
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Odpisuję na wszystko szybko",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2811
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я отвечаю на всё быстро",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2812
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我什么都回复得很快",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2813
   }

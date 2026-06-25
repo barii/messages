@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Easy game.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10052
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Partido fácil.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10053
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Einfaches Spiel.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10054
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Jogo fácil.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10055
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Łatwy mecz.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10056
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Лёгкий матч.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10057
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "简单的比赛。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10058
   }

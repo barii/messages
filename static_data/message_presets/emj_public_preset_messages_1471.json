@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We toyed with you.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10290
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Hemos jugado con vosotros.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10291
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir haben mit euch gespielt.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10292
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Brincámos convosco.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10293
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Bawiliśmy się wami.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10294
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы играли с вами.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10295
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们玩弄了你们。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10296
   }

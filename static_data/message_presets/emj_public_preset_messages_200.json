@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Want me to reveal myself?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1393
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Quieres que me revele?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1394
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Soll ich mich zu erkennen geben?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1395
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Queres que me revele?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1396
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Chcesz, żebym się ujawnił?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1397
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Хочешь, чтобы я раскрылся?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1398
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "想让我揭晓吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1399
   }

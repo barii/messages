@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Wind your neck in.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9128
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Bajad los humos.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9129
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Bleibt mal auf dem Teppich.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9130
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vai-te embora.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9131
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Stonujcie się.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9132
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Сбавьте обороты.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9133
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "收敛点。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9134
   }

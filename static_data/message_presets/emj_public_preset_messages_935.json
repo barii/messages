@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Get out of your head",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6538
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Sal de tu cabeza",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6539
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Komm aus deinem Kopf raus",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6540
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Sai da tua cabeça",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6541
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Wyjdź ze swojej głowy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6542
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Выйди из своей головы",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6543
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "走出你的脑袋",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6544
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Joke of a team.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9016
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Equipo de chiste.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9017
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Witzmannschaft.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9018
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Equipa de palhaços.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9019
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Żart, a nie drużyna.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9020
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Шутка, а не команда.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9021
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "笑话队。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9022
   }

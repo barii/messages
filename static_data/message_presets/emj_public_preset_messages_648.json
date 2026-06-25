@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "You're being a lot right now",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4529
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Estás siendo demasiado ahora mismo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4530
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Du bist gerade zu viel",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4531
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Estás a ser demais agora",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4532
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Jesteś teraz przesadny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4533
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Ты сейчас слишком",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4534
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "你现在太过分了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4535
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Bottom three vibes.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9282
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Energía de zona de descenso.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9283
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Abstiegszone-Vibes.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9284
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Atmosfera de zona de descida.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9285
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Klimat strefy spadkowej.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9286
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Атмосфера зоны вылета.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9287
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "降级区的氛围。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9288
   }

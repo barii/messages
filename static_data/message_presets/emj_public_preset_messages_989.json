@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You don't own your mistakes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6916
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "No asumes tus errores",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6917
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du stehst nicht zu deinen Fehlern",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6918
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Não assumes os teus erros",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6919
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Nie przyznajesz się do błędów",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6920
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Ты не признаёшь свои ошибки",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6921
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你不承认自己的错误",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6922
   }

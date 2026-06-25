@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "This place I swear",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7609
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Este lugar, te lo juro",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7610
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Dieser Ort, ich schwöre",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7611
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Este sítio, juro",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7612
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "To miejsce przysięgam",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7613
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Это место, клянусь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7614
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "这地方,我发誓",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7615
   }

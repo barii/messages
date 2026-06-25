@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "I'm a girl",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1883
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Soy una chica",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1884
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Ich bin ein Mädchen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1885
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Sou uma rapariga",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1886
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Jestem dziewczyną",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1887
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Я девушка",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1888
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我是女生",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1889
   }

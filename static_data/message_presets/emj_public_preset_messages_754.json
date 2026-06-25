@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Keep it up",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5271
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Sigue así",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5272
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Bleib dran",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5273
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Continua assim",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5274
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Tak dalej",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5275
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Так держать",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5276
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "保持下去",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5277
   }

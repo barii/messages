@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Wind your neck in.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10976
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Bajad los humos.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10977
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Bleibt auf dem Teppich.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10978
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Sai daí.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10979
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Stonujcie się.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10980
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Сбавьте обороты.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10981
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "收敛点。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10982
   }

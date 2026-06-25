@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Enjoy the drop.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9240
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Disfrutad del descenso.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9241
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Genießt den Abstieg.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9242
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Aproveitem a descida.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9243
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Bawcie się dobrze na spadku.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9244
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Наслаждайтесь вылетом.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9245
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "享受降级吧。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9246
   }

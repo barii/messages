@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I've been meaning to message",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2170
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Llevo queriendo escribirte",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2171
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich wollte dir schreiben",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2172
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Tenho querido mandar mensagem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2173
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Chciałem napisać",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2174
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я давно хотел написать",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2175
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我一直想给你发消息",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2176
   }

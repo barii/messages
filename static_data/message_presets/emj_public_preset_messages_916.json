@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "This too shall pass",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6405
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Esto también pasará",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6406
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Auch das geht vorbei",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6407
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Isto também vai passar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6408
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "To też minie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6409
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Это тоже пройдёт",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6410
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "这也会过去的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6411
   }

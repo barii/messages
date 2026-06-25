@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "The league is ours.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10647
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "La liga es nuestra.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10648
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Die Liga gehört uns.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10649
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "A liga é nossa.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10650
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Liga należy do nas.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10651
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Лига наша.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10652
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "联赛是我们的。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10653
   }

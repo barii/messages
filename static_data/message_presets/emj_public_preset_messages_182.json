@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Would you ever go out with me?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1267
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Saldrías conmigo alguna vez?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1268
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Würdest du mit mir ausgehen?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1269
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Sairias comigo alguma vez?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1270
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Wybrałbyś się ze mną kiedyś?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1271
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты когда-нибудь пошёл бы со мной?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1272
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你愿意和我出去吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1273
   }

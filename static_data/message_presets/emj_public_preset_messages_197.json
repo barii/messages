@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Want to guess who this is?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1372
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Quieres adivinar quién es?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1373
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Willst du raten, wer das ist?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1374
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Queres adivinhar quem é?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1375
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Chcesz zgadnąć, kto to?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1376
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Хочешь угадать, кто это?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1377
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "想猜猜这是谁吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1378
   }

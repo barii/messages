@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you serious?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1281
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿En serio?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1282
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Meinst du das ernst?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1283
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás a falar a sério?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1284
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Mówisz poważnie?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1285
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты серьёзно?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1286
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你认真的吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1287
   }

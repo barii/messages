@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Blame the ref, blame the pitch, blame everything but yourselves.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11172
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Culpad al árbitro, culpad al campo, culpad a todo menos a vosotros.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11173
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Schiebt es auf den Schiri, den Platz, alles außer euch selbst.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11174
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Culpem o árbitro, culpem o relvado, culpem tudo menos vocês.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11175
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Obwiniajcie sędziego, obwiniajcie boisko, obwiniajcie wszystko oprócz siebie.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11176
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Вините судью, поле, всё кроме себя.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11177
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "怪裁判,怪草坪,怪一切除了你们自己。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11178
   }

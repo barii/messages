@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "We just met",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1862
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Acabamos de conocernos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1863
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Wir haben uns gerade erst kennengelernt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1864
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Acabámos de nos conhecer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1865
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Dopiero się poznaliśmy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1866
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Мы только что познакомились",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1867
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我们刚认识",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1868
   }

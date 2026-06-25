@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're a force to be reckoned with",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 217
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres una fuerza imparable",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 218
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist eine Kraft, mit der man rechnen muss",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 219
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És uma força a ter em conta",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 220
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś siłą, z którą trzeba się liczyć",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 221
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "С тобой нужно считаться",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 222
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你是不可忽视的力量",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 223
   }

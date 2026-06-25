@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Points for confidence",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5733
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Puntos por la confianza",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5734
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Punkte für das Selbstvertrauen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5735
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Pontos pela confiança",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5736
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Punkty za pewność siebie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5737
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Очки за уверенность",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5738
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "为自信加分",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5739
   }

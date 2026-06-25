@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm anxious",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2072
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Estoy ansioso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2073
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin ängstlich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2074
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Estou ansioso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2075
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem niespokojny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2076
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я тревожный",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2077
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我很焦虑",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2078
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "Want to guess?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1568
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "¿Quieres adivinar?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1569
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Willst du raten?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1570
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Queres adivinhar?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1571
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Chcesz zgadnąć?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1572
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Хочешь угадать?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1573
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "想猜猜吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1574
   }

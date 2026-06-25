@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Can I be honest with you?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1141
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Puedo ser sincero contigo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1142
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Kann ich ehrlich mit dir sein?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1143
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Posso ser honesto contigo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1144
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Mogę być z tobą szczery?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1145
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Можно с тобой быть честным?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1146
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "我能跟你说实话吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1147
   }

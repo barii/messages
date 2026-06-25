@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "Big talk for someone with your track record",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 616
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "Mucho hablar para alguien con tu historial",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 617
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Große Worte für jemanden mit deinem Track Record",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 618
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Muita conversa para alguém com o teu historial",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 619
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "Wielkie słowa jak na kogoś z twoim dorobkiem",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 620
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Громкие слова для кого-то с твоей историей",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 621
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "凭你的经历,说大话",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 622
   }

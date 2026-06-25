@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're so funny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 91
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres muy gracioso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 92
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist so lustig",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 93
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És tão engraçado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 94
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś taki zabawny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 95
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты такой смешной",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 96
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你太搞笑了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 97
   }

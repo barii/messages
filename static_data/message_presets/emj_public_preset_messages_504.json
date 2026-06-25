@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Just vibing",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3521
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Solo viviendo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3522
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Lebe einfach",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3523
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Apenas a viver",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3524
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Po prostu wibruję",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3525
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Просто вайблю",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3526
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "就那样",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3527
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Happy Diwali",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8218
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Feliz Diwali",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8219
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Frohes Diwali",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8220
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Feliz Diwali",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8221
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Wesołej Diwali",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8222
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "С Дивали",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8223
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "排灯节快乐",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8224
   }

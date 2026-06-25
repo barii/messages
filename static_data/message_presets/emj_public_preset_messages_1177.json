@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Happy Lunar New Year",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8232
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Feliz Año Nuevo Lunar",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8233
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Frohes Mondneujahr",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8234
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Feliz Ano Novo Lunar",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8235
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Wesołego Chińskiego Nowego Roku",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8236
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "С Лунным Новым годом",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8237
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "农历新年快乐",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8238
   }

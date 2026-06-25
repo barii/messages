@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Surviving",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3535
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Sobreviviendo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3536
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Überlebe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3537
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "A sobreviver",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3538
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Przeżywam",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3539
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Выживаю",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3540
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "生存",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3541
   }

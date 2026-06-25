@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Pipe down.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10871
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Bajad la voz.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10872
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Klappe.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10873
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Cala-te.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10874
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Cisza.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10875
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Помолчите.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10876
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "闭嘴。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10877
   }

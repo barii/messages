@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We walked it.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10241
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Hemos paseado.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10242
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir sind drüber spaziert.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10243
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Foi um passeio.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10244
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Przeszliśmy spacerkiem.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10245
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы прошлись.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10246
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们走着就赢了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10247
   }

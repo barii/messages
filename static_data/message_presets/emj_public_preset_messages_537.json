@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "On a call",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3752
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "En una llamada",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3753
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "In einem Anruf",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3754
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Numa chamada",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3755
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Jestem na rozmowie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3756
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "На звонке",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3757
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "在通话",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3758
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Do you want to grab a coffee?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1232
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Quieres tomar un café?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1233
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Wollen wir einen Kaffee trinken?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1234
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Queres ir tomar um café?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1235
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Chcesz się napić kawy?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1236
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Хочешь сходить на кофе?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1237
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "想喝杯咖啡吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1238
   }

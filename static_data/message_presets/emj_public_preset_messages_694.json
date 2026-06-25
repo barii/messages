@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "You didn't have to but thank you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4851
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "No tenías que hacerlo pero gracias",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4852
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Du hättest das nicht tun müssen aber danke",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4853
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Não tinhas de fazer isso mas obrigado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4854
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Nie musiałeś, ale dziękuję",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4855
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Ты не должен был, но спасибо",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4856
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "你不必这样但谢谢",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4857
   }

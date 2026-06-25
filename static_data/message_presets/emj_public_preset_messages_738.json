@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "This is incredible",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5159
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Es maravilloso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5160
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Das ist großartig",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5161
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Isto é fantástico",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5162
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "To niewiarygodne",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5163
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Это невероятно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5164
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "太不可思议了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5165
   }

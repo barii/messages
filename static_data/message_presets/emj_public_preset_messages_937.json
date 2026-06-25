@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Stop assuming the worst",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6552
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Deja de pensar lo peor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6553
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Hör auf, das Schlimmste anzunehmen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6554
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Para de assumir o pior",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6555
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Przestań zakładać najgorsze",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6556
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Перестань думать худшее",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6557
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "别再假设最坏的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6558
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Different gravy.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10325
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Otro nivel.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10326
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Andere Liga.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10327
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Outro nível.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10328
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Inna liga.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10329
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Другая лига.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10330
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "另一个联赛级别。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10331
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You're already looking beat.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8967
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Ya os veis derrotados.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8968
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr seht schon geschlagen aus.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8969
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Já parecem derrotados.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8970
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Już wyglądacie na pokonanych.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8971
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы уже выглядите побеждёнными.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8972
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们已经看起来被击败了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8973
   }

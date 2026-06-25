@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "We need a team night out",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7434
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Necesitamos una salida del equipo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7435
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Wir brauchen einen Team-Abend",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7436
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Precisamos de uma noite de equipa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7437
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Potrzebujemy wieczoru z zespołem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7438
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Нам нужен командный вечер",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7439
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "我们需要一个团队之夜",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7440
   }

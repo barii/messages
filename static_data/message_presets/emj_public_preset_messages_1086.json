@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Tell me about it",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7595
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Cuéntame",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7596
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Erzähl mir was",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7597
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Diz-me lá",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7598
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Powiedz mi",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7599
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Расскажи мне",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7600
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "可不是嘛",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7601
   }

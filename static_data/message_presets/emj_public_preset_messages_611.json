@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I disagree with that",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4270
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "No estoy de acuerdo con eso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4271
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ich bin damit nicht einverstanden",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4272
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Discordo disso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4273
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Nie zgadzam się z tym",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4274
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Я не согласен с этим",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4275
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我不同意",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4276
   }

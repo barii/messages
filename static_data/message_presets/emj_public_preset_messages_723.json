@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "You're so sweet",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5054
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Eres muy dulce",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5055
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Du bist so süß",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5056
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "És tão querido",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5057
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Jesteś taki słodki",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5058
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Ты такой милый",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5059
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "你真贴心",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5060
   }

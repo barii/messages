@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Your back four is a sieve.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9317
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vuestra defensa es un colador.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9318
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Eure Viererkette ist ein Sieb.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9319
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "A vossa defesa é um coador.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9320
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wasza obrona to sito.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9321
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Ваша защита — решето.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9322
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们的后防线是个筛子。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9323
   }

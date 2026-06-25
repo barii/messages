@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Trophy cabinet is full.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10542
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Vitrina de trofeos llena.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10543
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Trophäenvitrine voll.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10544
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Vitrine de troféus cheia.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10545
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Gablota z trofeami pełna.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10546
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Витрина с трофеями полная.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10547
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "奖杯柜满满的。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10548
   }

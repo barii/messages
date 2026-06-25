@@ -6,7 +6,7 @@
     "lang": "EN",
     "category": "NFL American Football Teams",
     "text": "Seattle Sounders FC",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🏈",
     "continent": "American"
@@ -18,7 +18,7 @@
     "lang": "ES",
     "category": "Equipos de Fútbol Americano de la NFL",
     "text": "Seattle Sounders FC",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🏈",
     "continent": "American"
@@ -30,7 +30,7 @@
     "lang": "DE",
     "category": "NFL American Football Teams",
     "text": "Seattle Sounders FC",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🏈",
     "continent": "American"
@@ -42,7 +42,7 @@
     "lang": "PL",
     "category": "Drużyny futbolu amerykańskiego NFL",
     "text": "Seattle Sounders FC",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🏈",
     "continent": "American"
@@ -54,7 +54,7 @@
     "lang": "RU",
     "category": "Команды Национальной футбольной лиги NFL",
     "text": "Seattle Sounders FC",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🏈",
     "continent": "American"
@@ -66,7 +66,7 @@
     "lang": "PT",
     "category": "Times de Futebol Americano da NFL",
     "text": "Seattle Sounders FC",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🏈",
     "continent": "American"
@@ -78,7 +78,7 @@
     "lang": "CN",
     "category": "NFL美式橄榄球队",
     "text": "Seattle Sounders FC",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🏈",
     "continent": "American"

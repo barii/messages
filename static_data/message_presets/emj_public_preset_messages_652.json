@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Be serious",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4557
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Sé serio",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4558
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Sei ernst",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4559
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Sê sério",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4560
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Bądź poważny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4561
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Будь серьёзным",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4562
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "认真点",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4563
   }

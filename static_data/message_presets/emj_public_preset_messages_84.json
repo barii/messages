@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "Log off and go outside",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 581
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "Desconéctate y sal a la calle",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 582
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Geh offline und raus",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 583
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Sai da internet e vai para a rua",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 584
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "Wyloguj się i wyjdź na zewnątrz",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 585
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Выйди в офлайн и на улицу",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 586
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "下线出去走走",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 587
   }

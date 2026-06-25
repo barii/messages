@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I miss the way things were",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2184
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Extraño cómo eran las cosas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2185
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich vermisse, wie die Dinge waren",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2186
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Tenho saudades de como as coisas eram",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2187
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Tęsknię za tym, jak było",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2188
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я скучаю по тому, как было",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2189
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我想念过去的样子",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2190
   }

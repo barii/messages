@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Coffee on me",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7637
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "El café va por mí",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7638
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Kaffee geht auf mich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7639
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "O café é por minha conta",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7640
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Kawa na mój koszt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7641
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Кофе с меня",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7642
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "咖啡我请",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7643
   }

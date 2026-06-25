@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Perhaps",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2996
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Quizá",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2997
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Vielleicht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2998
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Talvez",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2999
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Być może",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3000
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Возможно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3001
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "或许",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3002
   }

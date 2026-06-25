@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "No worries",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4900
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Sin problema",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4901
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Keine Sorge",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4902
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Sem preocupação",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4903
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Nie ma sprawy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4904
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Не парься",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4905
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "别担心",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4906
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Losers!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8855
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "¡Perdedores!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8856
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Verlierer!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8857
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Falhados!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8858
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Przegrani!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8859
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Неудачники!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8860
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "失败者!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8861
   }

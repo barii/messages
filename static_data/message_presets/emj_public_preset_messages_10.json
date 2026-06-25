@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're a safe place for people",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 63
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres un lugar seguro para la gente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 64
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist ein sicherer Ort für Menschen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 65
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És um sítio seguro para as pessoas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 66
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś bezpiecznym miejscem dla ludzi",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 67
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты безопасное место для людей",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 68
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你是人们的安全港",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 69
   }

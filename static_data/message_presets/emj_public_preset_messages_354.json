@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm Latino",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2471
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy latino",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2472
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin Latino",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2473
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou latino",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2474
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem Latino",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2475
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я латино",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2476
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是拉丁裔",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2477
   }

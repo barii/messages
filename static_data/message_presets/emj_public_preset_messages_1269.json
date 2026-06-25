@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "The worst performance ever.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8876
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "La peor actuación de la historia.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8877
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Die schlechteste Leistung aller Zeiten.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8878
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "A pior actuação de sempre.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8879
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Najgorszy występ w historii.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8880
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Худшая игра за всю историю.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8881
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "史上最烂的表现。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8882
   }

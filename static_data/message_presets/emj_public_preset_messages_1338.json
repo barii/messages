@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Your defence was opened up like a tin of beans.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9359
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vuestra defensa se abrió como una lata de conservas.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9360
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Eure Abwehr ist aufgegangen wie eine Konservendose.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9361
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "A vossa defesa abriu-se como uma lata de conservas.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9362
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wasza obrona została otwarta jak puszka konserw.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9363
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вашу защиту вскрыли как консервную банку.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9364
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们的防线被打开就像开罐头。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9365
   }

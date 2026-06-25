@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I'm sorry to hear that",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3892
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Lamento oír eso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3893
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Tut mir leid, das zu hören",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3894
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Lamento ouvir isso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3895
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Przykro mi to słyszeć",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3896
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Жаль слышать это",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3897
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "听到这个我很难过",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3898
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Swing and a miss.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11620
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Fallasteis.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11621
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Daneben.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11622
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Falharam.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11623
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Pudło.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11624
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Мимо.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11625
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "没打中。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11626
   }

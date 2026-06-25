@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I like you more than I should",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5810
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Me gustas más de lo que debería",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5811
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich mag dich mehr als ich sollte",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5812
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Gosto de ti mais do que deveria",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5813
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Podobasz mi się bardziej niż powinieneś",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5814
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Ты мне нравишься больше, чем должен",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5815
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我喜欢你比应该的更多",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5816
   }

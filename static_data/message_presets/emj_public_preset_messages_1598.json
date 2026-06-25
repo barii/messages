@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Always someone else's fault.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11179
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Siempre es culpa de otro.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11180
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Immer ist jemand anderes schuld.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11181
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "É sempre culpa de outro.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11182
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Zawsze ktoś inny winny.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11183
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Всегда кто-то другой виноват.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11184
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "总是别人的错。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11185
   }

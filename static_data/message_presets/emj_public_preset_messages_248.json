@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "We matched once",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1729
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Hicimos match una vez",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1730
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Wir hatten einmal einen Match",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1731
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Demos match uma vez",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1732
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Mieliśmy raz match",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1733
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "У нас был матч однажды",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1734
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我们匹配过一次",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1735
   }

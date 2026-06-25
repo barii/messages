@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "That was a masterclass in how to play football.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9863
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Eso fue una clase magistral de cómo jugar al fútbol.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9864
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Das war eine Lehrstunde, wie man Fußball spielt.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9865
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Foi uma aula de como jogar futebol.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9866
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "To była lekcja, jak grać w piłkę.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9867
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Это был мастер-класс по игре в футбол.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9868
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "那是一堂如何踢足球的大师课。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9869
   }

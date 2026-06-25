@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're so easy to talk to",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 70
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Es muy fácil hablar contigo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 71
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Mit dir ist es so leicht zu reden",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 72
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És tão fácil de falar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 73
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Tak łatwo z tobą rozmawiać",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 74
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "С тобой так легко разговаривать",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 75
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你很容易交谈",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 76
   }

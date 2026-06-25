@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "I'm exactly who you think I am",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1939
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Soy exactamente quien crees que soy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1940
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Ich bin genau, wer du denkst, dass ich bin",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1941
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Sou exatamente quem pensas que sou",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1942
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Jestem dokładnie tym, kim myślisz, że jestem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1943
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Я точно тот, кем ты меня считаешь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1944
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我正是你想的那个人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1945
   }

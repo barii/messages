@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Your team is a joke.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10773
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Vuestro equipo es un chiste.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10774
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Eure Mannschaft ist ein Witz.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10775
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "A vossa equipa é uma piada.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10776
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Wasza drużyna to żart.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10777
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Ваша команда — шутка.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10778
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们队就是个笑话。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10779
   }

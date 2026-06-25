@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "Your moods are exhausting",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6972
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Tus humores son agotadores",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6973
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Deine Stimmungen sind anstrengend",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6974
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Os teus humores são exaustivos",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6975
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Twoje nastroje są wyczerpujące",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6976
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Твои настроения изматывают",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6977
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你的情绪让人疲惫",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6978
   }

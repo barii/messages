@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Doing okay",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3507
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Yendo bien",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3508
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Geht so",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3509
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "A correr bem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3510
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Idzie ok",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3511
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Иду нормально",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3512
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "过得还行",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3513
   }

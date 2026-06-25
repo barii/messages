@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Winning mentality.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10577
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Mentalidad ganadora.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10578
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Siegermentalität.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10579
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Mentalidade vencedora.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10580
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Mentalność zwycięzcy.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10581
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Менталитет победителей.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10582
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "胜利者心态。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10583
   }

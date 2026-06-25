@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Okay buddy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4592
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Vale, amigo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4593
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Ok Kumpel",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4594
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Ok, amigo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4595
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Ok kolego",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4596
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Окей, дружок",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4597
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "好的,伙计",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4598
   }

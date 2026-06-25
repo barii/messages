@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "We're short staffed and it shows",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7427
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Estamos faltos de personal y se nota",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7428
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Wir sind unterbesetzt und das merkt man",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7429
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Estamos com poucos funcionários e nota-se",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7430
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Brakuje nam personelu i to widać",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7431
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "У нас не хватает людей, и это видно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7432
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "我们人手不足,这很明显",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7433
   }

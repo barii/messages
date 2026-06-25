@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Look at you go",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5642
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Mírate",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5643
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Schau dich an",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5644
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Olha-te a ir",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5645
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Patrz, jak idziesz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5646
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Посмотрите на тебя",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5647
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "看看你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5648
   }

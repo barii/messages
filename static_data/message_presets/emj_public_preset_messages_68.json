@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "That isn't it",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 469
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "No es eso",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 470
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Das ist es nicht",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 471
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Não é isso",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 472
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "To nie to",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 473
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Это не то",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 474
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "不是这样",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 475
   }

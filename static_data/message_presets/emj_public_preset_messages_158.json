@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you religious?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1099
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Eres religioso?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1100
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Bist du religiös?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1101
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "És religioso?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1102
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Czy jesteś religijny?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1103
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты религиозный?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1104
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你有宗教信仰吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1105
   }

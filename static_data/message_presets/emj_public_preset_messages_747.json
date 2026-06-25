@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Legendary",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5222
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Legendario",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5223
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Legendär",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5224
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Lendário",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5225
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Legendarnie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5226
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Легендарно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5227
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "传奇",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5228
   }

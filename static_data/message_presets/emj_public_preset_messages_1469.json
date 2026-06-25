@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Could've scored 5.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10276
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Podríamos haber marcado 5.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10277
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Hätten 5 schießen können.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10278
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Podíamos ter marcado 5.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10279
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Mogliśmy strzelić 5.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10280
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Могли забить 5.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10281
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们本可以进5个。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10282
   }

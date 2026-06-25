@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Embarrassing.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8981
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vergonzoso.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8982
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Peinlich.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8983
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vergonhoso.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8984
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wstyd.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8985
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Стыдно.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8986
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "丢人。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8987
   }

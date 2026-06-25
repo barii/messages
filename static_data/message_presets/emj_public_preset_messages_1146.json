@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "How's everything?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8015
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "¿Cómo va todo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8016
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Wie läuft alles?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8017
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Como vai tudo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8018
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Jak wszystko?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8019
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Как всё?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8020
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "一切都好吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8021
   }

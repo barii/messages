@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Happy Monday",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8302
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Feliz Lunes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8303
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Frohen Montag",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8304
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Feliz Segunda",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8305
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Wesołego poniedziałku",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8306
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "Счастливого понедельника",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8307
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "周一快乐",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8308
   }

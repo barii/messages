@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Living for the lunch break",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7588
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Vivo por la pausa del almuerzo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7589
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Lebe für die Mittagspause",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7590
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Vivo pela pausa do almoço",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7591
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Żyję dla przerwy obiadowej",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7592
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Живу ради обеденного перерыва",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7593
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "活着就为了午餐休息",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7594
   }

@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Travel much?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12145
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Travel much?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12146
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Travel much?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12147
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Travel much?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12148
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Travel much?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12149
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Travel much?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12150
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Travel much?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12151
   }

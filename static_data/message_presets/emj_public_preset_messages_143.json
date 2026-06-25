@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you busy?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 994
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Estás ocupado?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 995
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Bist du beschäftigt?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 996
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás ocupado?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 997
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Jesteś zajęty?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 998
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты занят?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 999
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你忙吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1000
   }

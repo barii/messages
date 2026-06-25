@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "Are you single?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6118
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "¿Estás soltero?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6119
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Bist du Single?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6120
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Estás solteiro?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6121
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Jesteś singlem?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6122
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Ты свободен?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6123
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "你单身吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6124
   }

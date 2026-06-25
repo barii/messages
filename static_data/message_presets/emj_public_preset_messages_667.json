@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Whatever",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4662
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Lo que sea",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4663
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Was auch immer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4664
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Tanto faz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4665
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Wszystko jedno",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4666
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Как угодно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4667
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "随便",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4668
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Have a good evening",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7735
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Que tengas una buena tarde",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7736
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Hab einen schönen Abend",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7737
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Tem uma boa noite",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7738
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Miłego wieczoru",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7739
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Хорошего вечера",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7740
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "祝你今晚愉快",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7741
   }

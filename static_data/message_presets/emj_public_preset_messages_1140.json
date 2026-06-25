@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "How have you been?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7973
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "¿Cómo has estado?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7974
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Wie ging es dir?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7975
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Como tens estado?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7976
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Co u ciebie ostatnio?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7977
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Как у тебя дела?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7978
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "你最近怎么样?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7979
   }

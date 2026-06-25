@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "Be so for real right now",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 455
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "Tómatelo en serio ya",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 456
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Sei jetzt mal echt",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 457
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Sê sério agora",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 458
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "Bądź teraz szczery",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 459
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Будь серьёзным сейчас",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 460
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "现在认真点",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 461
   }

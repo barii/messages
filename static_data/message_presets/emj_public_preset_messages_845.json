@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I think I love you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5908
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Creo que te amo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5909
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich glaube, ich liebe dich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5910
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Acho que te amo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5911
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Chyba cię kocham",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5912
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Думаю, я тебя люблю",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5913
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我想我爱你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5914
   }

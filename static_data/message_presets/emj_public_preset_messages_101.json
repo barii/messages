@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "You're not as smart as you think",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 700
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "No eres tan listo como crees",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 701
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Du bist nicht so schlau, wie du denkst",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 702
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Não és tão esperto como pensas",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 703
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "Nie jesteś tak mądry, jak myślisz",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 704
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Ты не такой умный, как думаешь",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 705
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "你没有自己想的那么聪明",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 706
   }

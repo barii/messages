@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Wishing you the best year yet",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8120
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Te deseo el mejor año",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8121
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Wünsche dir das beste Jahr",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8122
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Desejo-te o melhor ano",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8123
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Życzę najlepszego roku",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8124
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "Желаю тебе лучшего года",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8125
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "祝你拥有最好的一年",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8126
   }

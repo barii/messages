@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Burnt out",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3626
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Quemado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3627
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ausgebrannt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3628
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Esgotado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3629
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Wypalony",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3630
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Выгорел",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3631
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "倦怠",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3632
   }

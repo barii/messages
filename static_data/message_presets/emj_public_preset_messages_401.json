@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm bad at replying, sorry in advance",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2800
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy malo contestando, lo siento de antemano",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2801
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin schlecht im Antworten, sorry im Voraus",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2802
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou mau a responder, desculpa de antemão",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2803
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem słaby w odpisywaniu, przepraszam z góry",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2804
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я плох в ответах, извини заранее",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2805
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我不擅长回复消息,提前道歉",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2806
   }

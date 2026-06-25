@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Stop please",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4326
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Para, por favor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4327
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Stopp bitte",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4328
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Para, por favor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4329
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Stop proszę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4330
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Стоп, пожалуйста",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4331
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "停,拜托",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4332
   }

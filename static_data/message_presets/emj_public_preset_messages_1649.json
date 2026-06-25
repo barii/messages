@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "The ref bailed you out.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11536
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "El árbitro os salvó.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11537
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Der Schiri hat euch rausgehauen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11538
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "O árbitro safou-vos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11539
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Sędzia was uratował.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11540
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Судья вас спас.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11541
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "裁判救了你们。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11542
   }

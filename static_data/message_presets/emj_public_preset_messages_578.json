@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I'm not telling you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4039
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "No te lo voy a decir",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4040
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ich sage es dir nicht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4041
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Não te vou contar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4042
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Nie powiem ci",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4043
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Не скажу тебе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4044
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我不告诉你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4045
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Appreciate it",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4816
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Lo aprecio",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4817
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Schätze ich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4818
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Agradeço",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4819
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Doceniam",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4820
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Ценю это",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4821
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "感谢",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4822
   }

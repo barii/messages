@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Happy Birthday from your secret admirer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8253
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Feliz Cumpleaños de tu admirador secreto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8254
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Alles Gute zum Geburtstag von deinem heimlichen Verehrer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8255
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Parabéns do teu admirador secreto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8256
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Wszystkiego najlepszego od twojego tajemniczego wielbiciela",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8257
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "С днём рождения от твоего тайного поклонника",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8258
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "生日快乐,来自你的秘密仰慕者",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8259
   }

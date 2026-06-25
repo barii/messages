@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Have the day you deserve",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4753
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Que tengas el día que mereces",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4754
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Hab den Tag, den du verdienst",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4755
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Tem o dia que mereces",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4756
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Miej dzień, na jaki zasługujesz",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4757
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Имей тот день, который ты заслуживаешь",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4758
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "祝你有该有的一天",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4759
   }

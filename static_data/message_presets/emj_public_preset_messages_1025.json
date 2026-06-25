@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "You handled that meeting like a pro",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7168
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Manejaste esa reunión como un profesional",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7169
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Du hast dieses Meeting wie ein Profi gehandhabt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7170
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Lidaste com aquela reunião como um profissional",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7171
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Poradziłeś sobie z tym spotkaniem jak profesjonalista",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7172
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Ты вёл эту встречу как профессионал",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7173
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "你像专业人士一样处理了那次会议",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7174
   }

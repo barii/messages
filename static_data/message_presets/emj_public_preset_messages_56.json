@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're a treasure",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 385
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres un tesoro",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 386
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist ein Schatz",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 387
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És um tesouro",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 388
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś skarbem",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 389
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты сокровище",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 390
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你是个宝藏",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 391
   }

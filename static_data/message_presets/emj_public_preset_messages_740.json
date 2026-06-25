@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "I'm screaming",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5173
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Estoy gritando",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5174
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Ich schreie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5175
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Estou aos gritos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5176
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Krzyczę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5177
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Я кричу",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5178
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我在尖叫",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5179
   }

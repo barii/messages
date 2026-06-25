@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Where's your jump shot?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12152
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Where's your jump shot?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12153
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Where's your jump shot?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12154
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Where's your jump shot?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12155
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Where's your jump shot?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12156
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Where's your jump shot?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12157
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Where's your jump shot?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12158
   }

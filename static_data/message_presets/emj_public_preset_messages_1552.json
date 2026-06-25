@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Settle down.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10857
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Tranquilos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10858
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Setzt euch.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10859
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Acalma-te lá.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10860
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Wyluzujcie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10861
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Расслабьтесь.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10862
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "放松。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10863
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Take a break",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6454
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Tómate un descanso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6455
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Mach eine Pause",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6456
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Faz uma pausa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6457
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Zrób sobie przerwę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6458
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Сделай перерыв",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6459
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "休息一下",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6460
   }

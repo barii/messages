@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm a cat person",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2772
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy más de gatos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2773
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin ein Katzenmensch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2774
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou pessoa de gato",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2775
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem osobą od kotów",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2776
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я люблю кошек",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2777
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是猫派",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2778
   }

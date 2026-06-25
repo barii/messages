@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "The office aircon is set to arctic again",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7539
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "El aire de la oficina está en modo ártico otra vez",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7540
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Die Bürokliman ist wieder auf arktisch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7541
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "O ar condicionado do escritório está em modo ártico outra vez",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7542
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Klimatyzacja w biurze znowu jest na arktyczną",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7543
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Кондиционер в офисе снова на арктическом режиме",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7544
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "办公室空调又开到北极模式了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7545
   }

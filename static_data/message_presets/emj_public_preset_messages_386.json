@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm into fitness",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2695
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Me va el fitness",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2696
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin fit-affin",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2697
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Curto fitness",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2698
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Lubię fitness",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2699
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я в фитнесе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2700
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我喜欢健身",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2701
   }

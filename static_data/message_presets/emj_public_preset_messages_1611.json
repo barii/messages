@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "We have one bad day, you have a bad season.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11270
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Nosotros tenemos un mal día, vosotros una mala temporada.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11271
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Wir haben einen schlechten Tag, ihr habt eine schlechte Saison.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11272
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Nós temos um dia mau, vocês têm uma época má.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11273
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "My mamy jeden zły dzień, wy macie zły sezon.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11274
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "У нас плохой день, у вас плохой сезон.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11275
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "我们一天不好,你们一个赛季不好。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11276
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Can we talk later?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3731
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "¿Hablamos luego?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3732
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Können wir später reden?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3733
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Falamos depois?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3734
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Możemy pogadać później?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3735
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Можем поговорить позже?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3736
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我们晚点聊?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3737
   }

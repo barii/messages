@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "Cold",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1617
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Frío",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1618
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Kalt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1619
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Frio",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1620
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Zimno",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1621
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Холодно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1622
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "冷",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1623
   }

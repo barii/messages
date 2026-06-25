@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I'm playing",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4137
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Estoy jugando",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4138
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ich spiele",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4139
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Estou a gozar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4140
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Żartuję sobie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4141
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Я играю",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4142
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我在玩",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4143
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Thanks a lot",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4781
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Muchísimas gracias",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4782
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Vielen Dank",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4783
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Muito obrigado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4784
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Wielkie dzięki",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4785
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Огромное спасибо",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4786
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "非常感谢",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4787
   }

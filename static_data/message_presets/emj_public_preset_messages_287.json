@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm happy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2002
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Estoy feliz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2003
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin glücklich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2004
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Estou feliz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2005
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem szczęśliwy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2006
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я счастлив",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2007
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我开心",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2008
   }

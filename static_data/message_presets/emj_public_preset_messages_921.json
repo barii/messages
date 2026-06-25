@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Stop being so hard on yourself",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6440
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Deja de ser tan duro contigo mismo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6441
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Hör auf, so hart zu dir zu sein",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6442
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Para de ser tão duro contigo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6443
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Przestań być dla siebie tak surowy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6444
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Перестань быть таким суровым к себе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6445
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "别再对自己这么苛刻",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6446
   }

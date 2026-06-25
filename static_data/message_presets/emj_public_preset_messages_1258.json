@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You only sing when you are winning.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8799
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Solo cantáis cuando ganáis.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8800
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr singt nur, wenn ihr gewinnt.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8801
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Só cantam quando estão a ganhar.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8802
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Śpiewacie tylko, kiedy wygrywacie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8803
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы поёте только когда выигрываете.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8804
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们只在赢的时候唱歌。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8805
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Cut off anyone who isn't adding to your life",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6615
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Aleja a quien no aporte a tu vida",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6616
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Schneide jeden ab, der nichts zu deinem Leben beiträgt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6617
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Corta quem não está a acrescentar à tua vida",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6618
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Odetnij każdego, kto nie wnosi do twojego życia",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6619
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Отрежь любого, кто ничего не добавляет в твою жизнь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6620
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "切断任何不为你的生活增添价值的人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6621
   }

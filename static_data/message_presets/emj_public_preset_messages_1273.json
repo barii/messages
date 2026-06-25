@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Your manager looks defeated.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8904
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vuestro entrenador parece derrotado.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8905
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Euer Trainer sieht geschlagen aus.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8906
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "O vosso treinador parece derrotado.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8907
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wasz trener wygląda na pokonanego.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8908
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Ваш тренер выглядит побеждённым.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8909
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们教练看起来被击垮了。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8910
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Stop spiraling",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6545
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Deja de darle vueltas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6546
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Hör auf zu spiralen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6547
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Para de espiralizar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6548
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Przestań spiralizować",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6549
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Перестань крутиться",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6550
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "别再陷入恶性循环",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6551
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Don't take it personally",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6566
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "No te lo tomes personal",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6567
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Nimm es nicht persönlich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6568
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Não leves a peito",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6569
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Nie bierz tego do siebie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6570
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Не принимай на свой счёт",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6571
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "别放在心上",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6572
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Thinking of you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8064
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Pensando en ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8065
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Denke an dich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8066
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "A pensar em ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8067
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Myślę o tobie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8068
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Думаю о тебе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8069
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "想着你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8070
   }

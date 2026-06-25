@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You interrupt people too much",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6888
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Interrumpes demasiado a la gente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6889
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du unterbrichst Leute zu oft",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6890
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Interrompes as pessoas demasiado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6891
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Za często przerywasz ludziom",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6892
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Ты слишком часто перебиваешь людей",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6893
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你太常打断别人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6894
   }

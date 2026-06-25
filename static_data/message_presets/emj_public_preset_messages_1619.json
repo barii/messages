@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You need a hobby.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11326
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Necesitáis una afición.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11327
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ihr braucht ein Hobby.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11328
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Precisam de um passatempo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11329
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Potrzebujecie hobby.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11330
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Вам нужно хобби.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11331
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们需要个爱好。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11332
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Cool",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4613
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Genial",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4614
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Cool",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4615
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Fixe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4616
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Spoko",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4617
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Круто",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4618
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "酷",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4619
   }

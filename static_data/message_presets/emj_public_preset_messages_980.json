@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "I expected more from you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6853
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Esperaba más de ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6854
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Ich habe mehr von dir erwartet",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6855
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Esperava mais de ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6856
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Oczekiwałem od ciebie więcej",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6857
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Я ожидал от тебя большего",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6858
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "我对你期望更多",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6859
   }

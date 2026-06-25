@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're appreciated",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 322
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres apreciado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 323
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du wirst geschätzt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 324
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És apreciado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 325
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś doceniany",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 326
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты ценен",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 327
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你被珍视着",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 328
   }

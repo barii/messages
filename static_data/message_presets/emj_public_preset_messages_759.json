@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "I have your back",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5306
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Te cubro",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5307
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Ich hab deinen Rücken",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5308
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Tens-me a teu lado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5309
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Mam twoje plecy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5310
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Я тебя прикрою",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5311
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我罩着你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5312
   }

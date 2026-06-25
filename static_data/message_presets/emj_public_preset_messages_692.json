@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "That means a lot",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4837
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Significa mucho",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4838
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Das bedeutet mir viel",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4839
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Significa muito",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4840
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "To wiele znaczy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4841
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Это много значит",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4842
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "意义重大",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4843
   }

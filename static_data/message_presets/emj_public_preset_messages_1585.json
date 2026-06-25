@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Your trophy cabinet is collecting dust.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11088
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Vuestra vitrina de trofeos está acumulando polvo.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11089
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Eure Trophäenvitrine setzt Staub an.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11090
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "A vossa vitrine de troféus está a apanhar pó.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11091
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Wasza gablota z trofeami zbiera kurz.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11092
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Ваша витрина с трофеями собирает пыль.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11093
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们的奖杯柜在积灰。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11094
   }

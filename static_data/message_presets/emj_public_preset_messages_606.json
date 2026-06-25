@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I didn't realize",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4235
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "No me había dado cuenta",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4236
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Mir war das nicht klar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4237
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Não tinha percebido",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4238
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Nie zdawałem sobie sprawy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4239
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Я не осознавал",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4240
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我没意识到",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4241
   }

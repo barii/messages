@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Oh stop",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5586
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Ay para",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5587
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Oh hör auf",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5588
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Oh para",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5589
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Och przestań",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5590
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Ой прекрати",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5591
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "啊别这样",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5592
   }

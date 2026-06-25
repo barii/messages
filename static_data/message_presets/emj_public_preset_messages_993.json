@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You never really change",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6944
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Nunca cambias realmente",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6945
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du veränderst dich nie wirklich",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6946
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Nunca mudas mesmo",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6947
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Nigdy się tak naprawdę nie zmieniasz",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6948
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Ты никогда по-настоящему не меняешься",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6949
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你从未真正改变",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6950
   }

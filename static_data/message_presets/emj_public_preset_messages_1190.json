@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Hope the rest of your year is amazing",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8323
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Espero que el resto de tu año sea increíble",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8324
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Hoffe, der Rest deines Jahres ist unglaublich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8325
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Espero que o resto do teu ano seja incrível",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8326
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Mam nadzieję, że reszta twojego roku jest niesamowita",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8327
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "Надеюсь, остаток твоего года будет потрясающим",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8328
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "希望你今年余下的时间都很棒",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8329
   }

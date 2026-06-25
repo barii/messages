@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I'm flattered but",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6272
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Me halagas pero",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6273
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich bin geschmeichelt aber",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6274
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Estou lisonjeado mas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6275
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Jestem zaszczycony, ale",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6276
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Я польщён, но",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6277
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我很受宠若惊但",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6278
   }

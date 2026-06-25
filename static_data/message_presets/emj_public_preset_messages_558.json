@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "It is what it is",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3899
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Es lo que hay",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3900
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Es ist wie es ist",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3901
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "É o que é",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3902
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Jest jak jest",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3903
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Это то, что есть",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3904
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "事情就是这样",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3905
   }

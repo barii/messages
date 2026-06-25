@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Keep dreaming.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10675
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Seguid soñando.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10676
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Träumt weiter.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10677
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Continuem a sonhar.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10678
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Marzcie dalej.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10679
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Продолжайте мечтать.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10680
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "继续做梦吧。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10681
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "We'll see in May.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11207
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Nos veremos en mayo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11208
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Wir sehen uns im Mai.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11209
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Vemo-nos em Maio.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11210
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Zobaczymy się w maju.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11211
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Увидимся в мае.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11212
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "五月份见。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11213
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "You're not alone in that",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7602
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "No estás solo en eso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7603
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Du bist damit nicht allein",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7604
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Não estás sozinho nisso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7605
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Nie jesteś sam w tym",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7606
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Ты в этом не один",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7607
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "你不是一个人在这种感觉",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7608
   }

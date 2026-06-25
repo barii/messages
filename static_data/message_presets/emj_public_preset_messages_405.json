@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I don't like phone calls",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2828
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "No me gustan las llamadas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2829
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich mag keine Anrufe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2830
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Não gosto de chamadas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2831
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Nie lubię telefonów",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2832
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я не люблю звонки",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2833
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我不喜欢打电话",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2834
   }

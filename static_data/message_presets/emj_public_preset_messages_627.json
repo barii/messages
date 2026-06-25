@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Sounds like a you problem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4382
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Suena a un problema tuyo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4383
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Klingt nach einem Dir-Problem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4384
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Parece um problema teu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4385
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Brzmi jak twój problem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4386
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Звучит как твоя проблема",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4387
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "听起来是你的问题",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4388
   }

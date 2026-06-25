@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "History is on our side.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10556
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "La historia está de nuestro lado.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10557
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Die Geschichte ist auf unserer Seite.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10558
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "A história está do nosso lado.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10559
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Historia jest po naszej stronie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10560
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "История на нашей стороне.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10561
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "历史站在我们这边。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10562
   }

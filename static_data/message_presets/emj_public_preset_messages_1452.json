@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We're flying.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10157
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Estamos volando.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10158
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir fliegen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10159
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Estamos a voar.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10160
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Lecimy.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10161
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы летим.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10162
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们在飞。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10163
   }

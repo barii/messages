@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You're inconsistent",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6965
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Eres inconsistente",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6966
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du bist inkonsequent",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6967
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "És inconsistente",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6968
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Jesteś niekonsekwentny",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6969
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Ты непоследователен",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6970
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你不一致",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6971
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Enough",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4333
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Basta",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4334
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Genug",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4335
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Chega",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4336
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Wystarczy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4337
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Хватит",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4338
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "够了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4339
   }

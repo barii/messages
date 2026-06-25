@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I'm alright",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3493
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Estoy bien",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3494
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Mir geht's gut",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3495
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Estou bem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3496
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Mam się dobrze",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3497
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "У меня всё нормально",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3498
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我还行",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3499
   }

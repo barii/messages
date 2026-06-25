@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "I'm closer than you think",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1911
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Estoy más cerca de lo que crees",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1912
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Ich bin näher, als du denkst",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1913
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Estou mais perto do que pensas",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1914
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Jestem bliżej, niż myślisz",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1915
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Я ближе, чем ты думаешь",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1916
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我比你想的近",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1917
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "Texting you takes my whole personality",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8568
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "Escribirte ocupa toda mi personalidad",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8569
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Dir zu schreiben nimmt meine ganze Persönlichkeit ein",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8570
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "Mandar-te mensagens ocupa toda a minha personalidade",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8571
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Pisanie do ciebie zajmuje całą moją osobowość",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8572
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Писать тебе занимает всю мою личность",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8573
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "给你发消息占据了我整个人格",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8574
   }

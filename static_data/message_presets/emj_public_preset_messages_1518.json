@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We're the best team in the country.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10619
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Somos el mejor equipo del país.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10620
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir sind die beste Mannschaft des Landes.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10621
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Somos a melhor equipa do país.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10622
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Jesteśmy najlepszą drużyną w kraju.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10623
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы лучшая команда в стране.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10624
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们是全国最佳球队。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10625
   }

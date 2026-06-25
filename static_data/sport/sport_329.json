@@ -6,7 +6,7 @@
     "lang": "EN",
     "category": "Mexican Football Teams",
     "text": "Tigres UANL",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇲🇽",
     "continent": "European"
@@ -18,7 +18,7 @@
     "lang": "ES",
     "category": "Equipos de Fútbol Mexicanos",
     "text": "Tigres UANL",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇲🇽",
     "continent": "European"
@@ -30,7 +30,7 @@
     "lang": "DE",
     "category": "Mexikanische Fußballmannschaften",
     "text": "Tigres UANL",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇲🇽",
     "continent": "European"
@@ -42,7 +42,7 @@
     "lang": "PL",
     "category": "Meksykańskie drużyny piłkarskie",
     "text": "Tigres UANL",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇲🇽",
     "continent": "European"
@@ -54,7 +54,7 @@
     "lang": "RU",
     "category": "Мексиканские футбольные команды",
     "text": "Tigres UANL",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇲🇽",
     "continent": "European"
@@ -66,7 +66,7 @@
     "lang": "PT",
     "category": "Times de futebol mexicanos",
     "text": "Tigres UANL",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇲🇽",
     "continent": "European"
@@ -78,7 +78,7 @@
     "lang": "CN",
     "category": "墨西哥足球队",
     "text": "Tigres UANL",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇲🇽",
     "continent": "European"

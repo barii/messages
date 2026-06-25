@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm into manifesting",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2751
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Me va lo de manifestar",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2752
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin in Manifestation",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2753
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Curto manifestação",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2754
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Lubię manifestację",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2755
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я в манифестации",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2756
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我喜欢显化",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2757
   }

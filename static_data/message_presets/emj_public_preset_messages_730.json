@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Yay",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5103
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "¡Bien!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5104
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Yay",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5105
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Boa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5106
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Hura",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5107
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Ура",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5108
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "耶",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5109
   }

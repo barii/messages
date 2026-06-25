@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "You did that",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5516
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Lo lograste",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5517
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Du hast es geschafft",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5518
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Conseguiste",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5519
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Zrobiłeś to",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5520
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Ты сделал это",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5521
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "你成功了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5522
   }

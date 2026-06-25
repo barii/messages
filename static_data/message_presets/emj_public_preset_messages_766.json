@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Hahaha",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5355
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Jajaja",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5356
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Hahaha",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5357
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Hahaha",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5358
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Hahaha",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5359
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Хахаха",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5360
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "哈哈哈",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5361
   }

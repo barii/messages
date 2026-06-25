@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "Not the main character",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 602
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "No eres el protagonista",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 603
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Nicht der Hauptcharakter",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 604
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Não és o protagonista",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 605
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "Nie jesteś głównym bohaterem",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 606
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Не главный герой",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 607
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "不是主角",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 608
   }

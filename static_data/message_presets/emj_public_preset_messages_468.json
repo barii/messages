@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Fair point",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3269
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Buen punto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3270
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Guter Punkt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3271
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Bom ponto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3272
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Słuszna uwaga",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3273
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Хорошая точка",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3274
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "好观点",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3275
   }

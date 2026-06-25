@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We mullered you.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10192
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Os hemos machacado.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10193
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir haben euch zerlegt.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10194
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Esmagámos-vos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10195
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Zmiażdżyliśmy was.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10196
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы вас уделали.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10197
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们揍惨了你们。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10198
   }

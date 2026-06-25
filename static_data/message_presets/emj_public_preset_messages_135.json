@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Did I do something?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 938
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Hice algo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 939
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Habe ich was getan?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 940
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Fiz alguma coisa?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 941
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Coś zrobiłem?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 942
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Я что-то сделал?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 943
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "我做了什么吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 944
   }

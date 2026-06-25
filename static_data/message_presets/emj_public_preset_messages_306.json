@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm thriving honestly",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2135
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Estoy prosperando, sinceramente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2136
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Mir geht's eigentlich super",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2137
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Estou a prosperar, sinceramente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2138
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Szczerze mówiąc, dobrze sobie radzę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2139
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Честно, у меня всё процветает",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2140
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "说实话我过得很好",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2141
   }

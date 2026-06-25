@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Lmao",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5334
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Lmao",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5335
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Lmao",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5336
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Lmao",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5337
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Lmao",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5338
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Lmao",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5339
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "Lmao",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5340
   }

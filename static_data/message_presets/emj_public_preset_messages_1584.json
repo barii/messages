@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Wake me up when you win the league.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11081
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Despertadme cuando ganéis la liga.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11082
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Weckt mich, wenn ihr die Liga gewinnt.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11083
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Acordem-me quando ganharem a liga.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11084
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Obudźcie mnie, kiedy wygracie ligę.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11085
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Разбудите меня, когда выиграете лигу.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11086
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "等你们赢联赛的时候叫醒我。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11087
   }

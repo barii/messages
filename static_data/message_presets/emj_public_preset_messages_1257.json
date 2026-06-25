@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You have a big stadium, but you are still a small club.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8792
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Tenéis un estadio grande, pero seguís siendo un club pequeño.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8793
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr habt ein großes Stadion, aber seid trotzdem ein kleiner Verein.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8794
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Têm um estádio grande, mas continuam a ser um clube pequeno.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8795
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Macie duży stadion, ale wciąż jesteście małym klubem.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8796
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "У вас большой стадион, но вы всё ещё маленький клуб.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8797
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们有大球场,但还是个小俱乐部。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8798
   }

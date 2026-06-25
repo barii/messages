@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm quite private",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2198
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy bastante reservado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2199
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin ziemlich privat",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2200
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou bastante reservado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2201
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem dość prywatny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2202
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я довольно скрытный",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2203
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我相当私密",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2204
   }

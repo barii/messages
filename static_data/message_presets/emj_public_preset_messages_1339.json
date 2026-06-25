@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Your strikers couldn't score in an empty net.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9366
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vuestros delanteros no marcarían ni en una portería vacía.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9367
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Eure Stürmer würden nicht mal in ein leeres Tor treffen.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9368
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Os vossos avançados não marcavam nem numa baliza vazia.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9369
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wasi napastnicy nie strzeliliby gola do pustej bramki.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9370
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Ваши нападающие не забили бы в пустые ворота.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9371
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们的前锋对着空门都进不了球。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9372
   }

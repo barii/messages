@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Feelings aren't facts",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6524
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Los sentimientos no son hechos",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6525
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Gefühle sind keine Fakten",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6526
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Sentimentos não são factos",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6527
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Uczucia to nie fakty",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6528
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Чувства - это не факты",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6529
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "感觉不是事实",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6530
   }

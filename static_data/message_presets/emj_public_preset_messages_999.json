@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You're unreliable lately",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6986
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Has sido poco confiable últimamente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6987
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du bist in letzter Zeit unzuverlässig",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6988
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Tens andado pouco fiável",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6989
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Ostatnio jesteś niewiarygodny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6990
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "В последнее время ты ненадёжный",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6991
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你最近不可靠",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6992
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm Latinx",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2485
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy latinx",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2486
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin Latinx",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2487
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou latinx",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2488
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem Latinx",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2489
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я латинкс",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2490
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是拉丁裔",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2491
   }

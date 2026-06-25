@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I keep my emotions close",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2282
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Guardo mis emociones",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2283
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich halte meine Emotionen zurück",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2284
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Guardo as minhas emoções",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2285
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Trzymam emocje przy sobie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2286
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я держу эмоции при себе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2287
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我把情绪藏在心里",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2288
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Will never see the success that we have seen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8953
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Nunca veréis el éxito que nosotros hemos visto.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8954
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Werdet nie den Erfolg sehen, den wir gesehen haben.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8955
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Nunca vão ver o sucesso que nós vimos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8956
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Nigdy nie zobaczycie sukcesu, jaki my widzieliśmy.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8957
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Никогда не увидите успеха, который видели мы.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8958
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "永远看不到我们见过的成功。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8959
   }

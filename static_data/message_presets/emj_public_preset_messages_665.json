@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "The audacity",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4648
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Qué cara",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4649
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Die Frechheit",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4650
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "A audácia",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4651
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Ta bezczelność",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4652
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Какая наглость",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4653
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "好大胆",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4654
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You are all talk and no action.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8771
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Sois todo palabras y nada de acción.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8772
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr seid nur Gerede und keine Taten.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8773
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "São só conversa e nada de acção.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8774
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Tylko gadacie, a nic nie robicie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8775
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы все только говорите, и ничего не делаете.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8776
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们全都是嘴上功夫,没行动。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8777
   }

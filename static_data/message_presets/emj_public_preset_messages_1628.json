@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Another L.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11389
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Another L.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11390
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Another L.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11391
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Another L.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11392
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Another L.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11393
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Another L.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11394
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "Another L.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11395
   }

@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Did you forget your playbook?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12446
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Did you forget your playbook?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12447
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Did you forget your playbook?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12448
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Did you forget your playbook?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12449
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Did you forget your playbook?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12450
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Did you forget your playbook?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12451
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Did you forget your playbook?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12452
   }

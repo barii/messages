@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm not really into travel",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2618
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "No me va mucho viajar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2619
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Reisen ist nicht so mein Ding",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2620
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Não curto muito viajar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2621
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Nie przepadam za podróżami",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2622
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Меня не особо привлекают путешествия",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2623
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我不太喜欢旅行",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2624
   }

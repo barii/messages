@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm working on myself",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2233
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Estoy trabajando en mí mismo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2234
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich arbeite an mir",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2235
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Estou a trabalhar em mim",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2236
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Pracuję nad sobą",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2237
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я работаю над собой",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2238
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我在改善自己",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2239
   }

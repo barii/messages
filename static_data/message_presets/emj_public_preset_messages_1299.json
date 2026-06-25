@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Behave.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9086
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Comportaos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9087
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Benehmt euch.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9088
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Tem juízo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9089
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Zachowuj się.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9090
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Ведите себя прилично.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9091
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "规矩点。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9092
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "Way off",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1631
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Muy lejos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1632
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Weit daneben",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1633
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Muito longe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1634
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Daleko",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1635
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Очень далеко",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1636
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "差远了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1637
   }

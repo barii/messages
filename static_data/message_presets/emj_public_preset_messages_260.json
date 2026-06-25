@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "We're coworkers",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1813
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Somos compañeros de trabajo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1814
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Wir sind Kollegen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1815
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Somos colegas de trabalho",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1816
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Jesteśmy współpracownikami",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1817
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Мы коллеги",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1818
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我们是同事",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1819
   }

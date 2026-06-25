@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "True",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3276
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Cierto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3277
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Wahr",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3278
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Verdade",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3279
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Prawda",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3280
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Правда",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3281
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "真的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3282
   }

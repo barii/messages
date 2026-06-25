@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "A world class team.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9989
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Un equipo de clase mundial.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9990
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Eine Weltklassemannschaft.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9991
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Uma equipa de classe mundial.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9992
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Drużyna światowej klasy.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9993
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Команда мирового класса.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9994
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "世界级球队。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9995
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We're on another level.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10339
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Estamos en otro nivel.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10340
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir sind auf einem anderen Niveau.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10341
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Estamos noutro nível.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10342
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Jesteśmy na innym poziomie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10343
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы на другом уровне.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10344
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们在另一个水平上。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10345
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Bye",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7784
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Chau",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7785
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Tschüss",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7786
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Adeus",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7787
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Pa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7788
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Пока",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7789
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "拜拜",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7790
   }

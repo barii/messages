@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "You're handsome",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6020
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Eres guapo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6021
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Du bist hübsch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6022
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "És bonito",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6023
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Jesteś przystojny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6024
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Ты симпатичный",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6025
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "你很帅",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6026
   }

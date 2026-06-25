@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "All gone quiet at full time.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11144
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Todo en silencio al final del partido.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11145
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Alles ruhig zum Schlusspfiff.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11146
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Tudo calado ao final do jogo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11147
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Cisza na koniec meczu.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11148
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Все тихо в конце матча.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11149
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "全场结束就都安静了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11150
   }

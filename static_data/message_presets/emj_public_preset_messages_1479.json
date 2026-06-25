@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "You can't live with us.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10346
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "No podéis con nosotros.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10347
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Ihr könnt mit uns nicht mithalten.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10348
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Não conseguem viver connosco.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10349
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Nie możecie z nami żyć.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10350
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Вы не можете с нами тягаться.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10351
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "你们跟不上我们。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10352
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're enough",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 329
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres suficiente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 330
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist genug",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 331
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És suficiente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 332
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś wystarczający",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 333
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты достаточен",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 334
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你已经足够",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 335
   }

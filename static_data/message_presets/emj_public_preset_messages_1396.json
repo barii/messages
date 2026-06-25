@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You think you're a big club, you're not.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9765
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Creéis que sois un gran club, no lo sois.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9766
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr denkt, ihr seid ein großer Verein, seid ihr nicht.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9767
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Acham que são um clube grande, não são.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9768
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Myślicie, że jesteście dużym klubem, nie jesteście.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9769
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Думаете, что вы большой клуб, нет вы не такие.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9770
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们以为自己是大俱乐部,其实不是。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9771
   }

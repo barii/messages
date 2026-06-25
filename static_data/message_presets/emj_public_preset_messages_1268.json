@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Cheats!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8869
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "¡Tramposos!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8870
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Betrüger!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8871
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Aldrabões!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8872
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Oszuści!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8873
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Жулики!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8874
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "骗子!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8875
   }

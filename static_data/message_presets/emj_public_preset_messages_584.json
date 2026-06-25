@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Getting colder",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4081
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Frío",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4082
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Kälter",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4083
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Frio",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4084
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Zimniej",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4085
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Холоднее",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4086
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "更冷",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4087
   }

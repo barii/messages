@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Hey, you wish you were us!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11732
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Hey, you wish you were us!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11733
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Hey, you wish you were us!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11734
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Hey, you wish you were us!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11735
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Hey, you wish you were us!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11736
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Hey, you wish you were us!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11737
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Hey, you wish you were us!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11738
   }

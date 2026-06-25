@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "That was my fault",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4963
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Fue mi culpa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4964
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Das war mein Fehler",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4965
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "A culpa foi minha",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4966
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "To była moja wina",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4967
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Это была моя вина",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4968
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "是我的错",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4969
   }

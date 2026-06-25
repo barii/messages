@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "No idea what your defenders were doing.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9352
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "No tengo idea de qué hacían vuestros defensas.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9353
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Keine Ahnung, was eure Verteidiger gemacht haben.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9354
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Não faço ideia do que os vossos defesas estavam a fazer.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9355
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Nie wiem, co robili wasi obrońcy.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9356
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Не знаю, что делали ваши защитники.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9357
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "完全不知道你们后卫在干什么。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9358
   }

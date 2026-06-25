@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Take care",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7763
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Cuídate",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7764
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Pass auf dich auf",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7765
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Cuida-te",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7766
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Uważaj na siebie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7767
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Береги себя",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7768
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "照顾好自己",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7769
   }

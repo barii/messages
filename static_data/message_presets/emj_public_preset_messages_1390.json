@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Absolute pub team.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9723
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Equipo de bar absoluto.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9724
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Absolute Kreisliga.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9725
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Equipa de bairro absoluta.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9726
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Kompletna drużyna z osiedla.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9727
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Абсолютно дворовая команда.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9728
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "彻底的酒吧队。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9729
   }

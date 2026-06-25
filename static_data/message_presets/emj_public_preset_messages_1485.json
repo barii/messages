@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Our striker is on fire.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10388
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Nuestro delantero está en racha.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10389
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Unser Stürmer ist in Form.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10390
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "O nosso avançado está em fase.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10391
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Nasz napastnik jest w formie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10392
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Наш нападающий в форме.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10393
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们的前锋状态正佳。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10394
   }

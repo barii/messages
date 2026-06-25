@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "It has been a while",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7896
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Ha pasado un buen rato",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7897
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Es ist schon eine Weile her",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7898
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Já passou algum tempo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7899
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Trochę czasu minęło",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7900
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Прошло немало времени",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7901
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "有段时间了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7902
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Better days are coming",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6419
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Vienen días mejores",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6420
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Bessere Tage kommen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6421
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Dias melhores estão a chegar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6422
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Lepsze dni nadchodzą",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6423
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Лучшие дни впереди",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6424
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "更好的日子在前方",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6425
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "So close",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1652
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Muy cerca",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1653
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Ganz nah",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1654
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Tão perto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1655
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Tak blisko",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1656
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Так близко",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1657
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "好近",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1658
   }

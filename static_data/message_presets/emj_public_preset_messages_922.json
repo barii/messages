@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Rest is productive",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6447
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Descansar es productivo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6448
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Ruhe ist produktiv",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6449
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Descansar é produtivo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6450
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Odpoczynek jest produktywny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6451
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Отдых продуктивен",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6452
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "休息是有生产力的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6453
   }

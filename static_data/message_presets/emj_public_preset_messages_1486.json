@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Our midfield ran the game.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10395
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Nuestro centro del campo dominó el partido.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10396
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Unser Mittelfeld hat das Spiel beherrscht.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10397
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "O nosso meio-campo dominou o jogo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10398
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Nasz środek pola dominował w meczu.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10399
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Наша полузащита вела игру.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10400
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们的中场主导了比赛。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10401
   }

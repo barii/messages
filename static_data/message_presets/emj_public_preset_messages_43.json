@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're doing amazing",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 294
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Lo estás haciendo increíble",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 295
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du machst es großartig",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 296
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "Estás a ir incrível",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 297
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Świetnie ci idzie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 298
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "У тебя всё отлично",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 299
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你做得很棒",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 300
   }

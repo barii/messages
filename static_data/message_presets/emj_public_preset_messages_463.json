@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I see",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3234
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Ya veo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3235
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Verstehe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3236
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Estou a ver",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3237
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Rozumiem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3238
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Понимаю",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3239
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我懂了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3240
   }

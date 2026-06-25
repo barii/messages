@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "I'll give you three guesses",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1582
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Te doy tres oportunidades",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1583
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Ich gebe dir drei Versuche",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1584
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Dou-te três tentativas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1585
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Dam ci trzy próby",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1586
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Я дам тебе три попытки",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1587
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我给你三次机会",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1588
   }

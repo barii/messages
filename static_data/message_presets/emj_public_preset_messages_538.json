@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "In a meeting",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3759
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "En una reunión",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3760
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "In einem Meeting",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3761
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Numa reunião",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3762
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Jestem na spotkaniu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3763
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "На встрече",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3764
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "在开会",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3765
   }

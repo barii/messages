@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Excuse me",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3325
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Perdona",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3326
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Entschuldigung",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3327
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Desculpa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3328
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Przepraszam",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3329
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Извини",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3330
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "不好意思",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3331
   }

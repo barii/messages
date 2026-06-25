@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Absolute Swiss cheese at the back.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9324
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Queso suizo absoluto atrás.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9325
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Absoluter Schweizer Käse hinten.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9326
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Queijo suíço absoluto atrás.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9327
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Absolutny szwajcarski ser z tyłu.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9328
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Абсолютный швейцарский сыр в защите.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9329
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "后防完全像瑞士奶酪。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9330
   }

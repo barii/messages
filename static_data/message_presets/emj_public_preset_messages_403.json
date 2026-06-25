@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm better in person",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2814
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy mejor en persona",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2815
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin besser persönlich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2816
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou melhor pessoalmente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2817
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem lepszy osobiście",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2818
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я лучше лично",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2819
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我面对面更好",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2820
   }

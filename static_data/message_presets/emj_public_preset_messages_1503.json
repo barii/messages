@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Main character behaviour.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10514
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Comportamiento de protagonista.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10515
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Hauptcharakter-Verhalten.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10516
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Comportamento de protagonista.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10517
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Zachowanie głównego bohatera.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10518
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Поведение главного героя.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10519
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "主角行为。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10520
   }

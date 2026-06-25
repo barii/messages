@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Comfortable.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10059
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Cómodo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10060
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Souverän.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10061
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Confortável.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10062
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Komfortowo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10063
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Комфортно.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10064
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "轻松。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10065
   }

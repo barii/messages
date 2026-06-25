@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Life be like that",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3913
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "La vida es así",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3914
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Das Leben halt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3915
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "A vida é assim",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3916
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Życie tak ma",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3917
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Жизнь такая",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3918
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "生活就这样",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3919
   }

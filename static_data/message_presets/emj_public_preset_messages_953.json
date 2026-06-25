@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Stop putting it off",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6664
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Deja de aplazarlo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6665
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Hör auf, es aufzuschieben",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6666
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Para de adiar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6667
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Przestań to odkładać",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6668
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Перестань откладывать",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6669
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "别再拖延",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6670
   }

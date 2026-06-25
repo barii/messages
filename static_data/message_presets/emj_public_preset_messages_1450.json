@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Check the table.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10143
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Mira la clasificación.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10144
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Checkt die Tabelle.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10145
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Vejam a tabela.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10146
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Sprawdź tabelę.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10147
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Проверь таблицу.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10148
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "查查积分榜。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10149
   }

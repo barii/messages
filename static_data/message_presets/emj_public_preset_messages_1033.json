@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "I need a coffee",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7224
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Necesito un café",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7225
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Ich brauche einen Kaffee",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7226
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Preciso de um café",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7227
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Potrzebuję kawy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7228
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Мне нужен кофе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7229
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "我需要一杯咖啡",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7230
   }

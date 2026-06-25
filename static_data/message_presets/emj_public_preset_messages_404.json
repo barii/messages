@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm better over text",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2821
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy mejor por mensaje",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2822
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin besser per Text",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2823
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou melhor por mensagem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2824
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem lepszy w wiadomościach",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2825
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я лучше в сообщениях",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2826
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我发短信更好",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2827
   }

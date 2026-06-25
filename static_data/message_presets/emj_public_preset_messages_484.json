@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Shut up no way",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3381
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Cállate, no puede ser",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3382
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Halt die Klappe, niemals",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3383
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Cala-te, não pode ser",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3384
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Zamknij się, nie ma mowy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3385
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Заткнись, не может быть",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3386
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "闭嘴,不可能",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3387
   }

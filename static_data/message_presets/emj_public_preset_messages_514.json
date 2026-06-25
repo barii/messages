@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Tired",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3591
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Cansado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3592
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Müde",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3593
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Cansado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3594
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Zmęczony",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3595
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Уставший",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3596
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "累",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3597
   }

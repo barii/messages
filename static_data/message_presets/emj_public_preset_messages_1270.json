@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You'll never win anything.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8883
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Nunca ganaréis nada.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8884
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr werdet nie etwas gewinnen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8885
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Nunca vão ganhar nada.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8886
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Nigdy nic nie wygracie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8887
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы никогда ничего не выиграете.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8888
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们永远赢不了任何东西。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8889
   }

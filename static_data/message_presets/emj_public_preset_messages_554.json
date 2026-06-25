@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Brutal",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3871
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Brutal",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3872
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Brutal",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3873
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Brutal",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3874
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Brutalne",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3875
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Брутально",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3876
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "残忍",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3877
   }

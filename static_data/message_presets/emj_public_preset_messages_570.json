@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Vibes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3983
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Vibras",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3984
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Vibes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3985
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Vibrações",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3986
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Wibracje",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3987
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Вайбы",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3988
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "氛围",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3989
   }

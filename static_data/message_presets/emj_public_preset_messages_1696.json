@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Keep your eye on the ball... if you can!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11865
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Keep your eye on the ball... if you can!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11866
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Keep your eye on the ball... if you can!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11867
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Keep your eye on the ball... if you can!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11868
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Keep your eye on the ball... if you can!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11869
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Keep your eye on the ball... if you can!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11870
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Keep your eye on the ball... if you can!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11871
   }

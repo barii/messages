@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Shush.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10878
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Chist.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10879
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Pscht.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10880
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Caluda.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10881
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Ciii.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10882
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Тшш.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10883
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "嘘。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10884
   }

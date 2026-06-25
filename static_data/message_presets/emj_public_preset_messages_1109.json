@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Sleep well",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7756
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Que descanses",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7757
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Schlaf gut",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7758
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Dorme bem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7759
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Śpij dobrze",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7760
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Спи спокойно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7761
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "好好睡",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7762
   }

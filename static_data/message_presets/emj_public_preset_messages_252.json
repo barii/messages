@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "We have mutual friends",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1757
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Tenemos amigos en común",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1758
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Wir haben gemeinsame Freunde",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1759
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Temos amigos em comum",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1760
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Mamy wspólnych znajomych",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1761
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "У нас есть общие друзья",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1762
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我们有共同朋友",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1763
   }

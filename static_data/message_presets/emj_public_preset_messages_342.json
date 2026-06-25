@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm lesbian",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2387
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy lesbiana",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2388
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin lesbisch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2389
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou lésbica",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2390
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem lesbijką",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2391
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я лесбиянка",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2392
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是女同",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2393
   }

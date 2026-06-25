@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Did I ask?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4403
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "¿Te pregunté?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4404
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Hab ich gefragt?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4405
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Eu perguntei?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4406
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Pytałem cię?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4407
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Я спрашивал?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4408
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "我问了吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4409
   }

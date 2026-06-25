@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "Just had to tell you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6223
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Solo tenía que decírtelo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6224
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Musste es dir einfach sagen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6225
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Tinha de te dizer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6226
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Musiałem ci to powiedzieć",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6227
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Просто должен был тебе сказать",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6228
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我必须告诉你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6229
   }

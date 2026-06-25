@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You owe someone an apology",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7077
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Le debes una disculpa a alguien",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7078
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du schuldest jemandem eine Entschuldigung",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7079
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Deves um pedido de desculpa a alguém",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7080
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Jesteś komuś winien przeprosiny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7081
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Ты должен кому-то извинения",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7082
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你欠某人一个道歉",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7083
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Are you serious?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3360
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "¿Es en serio?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3361
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ist das dein Ernst?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3362
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Estás a falar a sério?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3363
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Mówisz poważnie?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3364
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Ты серьёзно?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3365
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "你认真的吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3366
   }

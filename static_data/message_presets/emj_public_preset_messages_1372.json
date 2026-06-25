@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Is that all you've got?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9597
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "¿Eso es todo lo que tenéis?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9598
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ist das alles, was ihr habt?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9599
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "É tudo o que conseguem?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9600
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Czy to wszystko, co macie?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9601
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Это всё, что у вас есть?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9602
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "这就是你们的全部吗?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9603
   }

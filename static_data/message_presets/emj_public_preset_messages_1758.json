@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Better luck next season!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12299
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Better luck next season!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12300
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Better luck next season!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12301
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Better luck next season!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12302
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Better luck next season!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12303
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Better luck next season!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12304
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Better luck next season!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12305
   }

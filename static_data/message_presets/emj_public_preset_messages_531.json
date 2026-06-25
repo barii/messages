@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "One sec",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3710
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Un seg",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3711
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Eine Sek",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3712
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Um segundo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3713
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Sekunda",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3714
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Секунду",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3715
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "稍等",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3716
   }

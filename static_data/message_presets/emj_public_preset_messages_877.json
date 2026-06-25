@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "Can I take you on a date?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6132
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "¿Te puedo invitar a una cita?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6133
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Darf ich dich auf ein Date einladen?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6134
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Posso convidar-te para sair?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6135
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Mogę zaprosić cię na randkę?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6136
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Можно пригласить тебя на свидание?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6137
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我能约你出去吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6138
   }

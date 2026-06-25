@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "This is scary but I want you to know",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6209
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Da miedo pero quiero que lo sepas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6210
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Das ist beängstigend, aber ich will, dass du es weißt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6211
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "É assustador mas quero que saibas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6212
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "To straszne, ale chcę, żebyś wiedział",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6213
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Это страшно, но я хочу, чтобы ты знал",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6214
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "这很可怕但我想让你知道",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6215
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Do you want to see me?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1260
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Quieres verme?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1261
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Willst du mich sehen?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1262
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Queres ver-me?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1263
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Chcesz mnie zobaczyć?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1264
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Хочешь меня увидеть?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1265
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你想见我吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1266
   }

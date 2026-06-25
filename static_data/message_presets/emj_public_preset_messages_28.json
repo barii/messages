@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You have so much rizz",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 189
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Tienes mucho rizz",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 190
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du hast so viel Rizz",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 191
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "Tens tanto rizz",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 192
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Masz tyle rizz",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 193
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "У тебя столько rizz",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 194
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你太有魅力了",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 195
   }

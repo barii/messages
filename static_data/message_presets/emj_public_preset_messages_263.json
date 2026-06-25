@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "We had a moment once",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1834
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Tuvimos un momento una vez",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1835
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Wir hatten mal einen Moment",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1836
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Tivemos um momento uma vez",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1837
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Mieliśmy raz moment",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1838
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "У нас был момент однажды",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1839
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我们有过一个瞬间",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1840
   }

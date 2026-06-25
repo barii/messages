@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Embarrassing for you.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11424
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Vergonzoso para vosotros.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11425
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Peinlich für euch.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11426
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Vergonhoso para vocês.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11427
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Wstyd dla was.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11428
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Стыдно за вас.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11429
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们真丢人。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11430
   }

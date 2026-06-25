@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Take it down a notch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4501
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Baja el tono",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4502
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Schalt einen Gang runter",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4503
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Baixa o tom",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4504
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Zluzuj",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4505
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Спокойнее",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4506
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "降低音量",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4507
   }

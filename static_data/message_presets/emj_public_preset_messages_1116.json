@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "See you soon",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7805
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Hasta pronto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7806
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Bis bald",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7807
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Até breve",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7808
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Do zobaczenia wkrótce",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7809
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "До встречи",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7810
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "待会儿见",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7811
   }

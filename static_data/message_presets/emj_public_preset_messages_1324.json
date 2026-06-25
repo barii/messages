@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You're going down and you know you are.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9261
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Os vais a segunda y lo sabéis.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9262
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr steigt ab und ihr wisst es.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9263
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vão descer e sabem disso.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9264
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Spadacie i sami o tym wiecie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9265
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы вылетаете и сами это знаете.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9266
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们要降级了,自己也知道。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9267
   }

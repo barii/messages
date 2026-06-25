@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Cheesy but I'm into it",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5740
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Cursi pero me gusta",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5741
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Kitschig aber ich mag's",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5742
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Foleiro mas gosto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5743
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Tandetne, ale podoba mi się",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5744
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Банально, но мне нравится",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5745
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "俗气但我喜欢",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5746
   }

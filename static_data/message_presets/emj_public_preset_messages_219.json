@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Why are you ignoring me?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1526
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Por qué me ignoras?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1527
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Warum ignorierst du mich?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1528
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Porque me estás a ignorar?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1529
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Dlaczego mnie ignorujesz?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1530
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Почему ты меня игнорируешь?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1531
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你为什么不理我?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1532
   }

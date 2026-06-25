@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you kidding?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1295
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Es broma?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1296
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Verarschst du mich?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1297
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "A sério?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1298
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Żartujesz sobie?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1299
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Шутишь?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1300
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你在逗我吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1301
   }

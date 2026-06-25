@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Yes please",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2870
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Sí, por favor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2871
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ja bitte",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2872
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Sim, por favor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2873
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Tak proszę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2874
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Да, пожалуйста",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2875
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "好的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2876
   }

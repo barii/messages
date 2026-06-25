@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "It's fine, really",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5012
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "No pasa nada, en serio",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5013
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Es ist okay, wirklich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5014
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Está tudo bem, a sério",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5015
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Naprawdę nic się nie stało",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5016
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Всё нормально, правда",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5017
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "真的没事",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5018
   }

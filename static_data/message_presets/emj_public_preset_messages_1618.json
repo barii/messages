@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You're too online about this.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11319
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Estáis demasiado conectados con esto.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11320
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ihr seid zu online dabei.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11321
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Estão demasiado online com isto.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11322
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Jesteście zbyt online w tej sprawie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11323
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Вы слишком онлайн с этим.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11324
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们对这事太上头了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11325
   }

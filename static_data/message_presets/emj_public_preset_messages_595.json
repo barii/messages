@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I didn't mean it like that",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4158
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "No quería decirlo así",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4159
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "So meinte ich das nicht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4160
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Não quis dizer assim",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4161
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Nie miałem tego na myśli tak",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4162
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Я не это имел в виду",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4163
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我不是那个意思",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4164
   }

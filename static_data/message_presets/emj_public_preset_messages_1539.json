@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Laughable effort today.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10766
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Esfuerzo risible hoy.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10767
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Lächerlicher Einsatz heute.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10768
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Esforço risível hoje.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10769
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Śmieszny wysiłek dzisiaj.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10770
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Жалкие усилия сегодня.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10771
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "今天这表现真可笑。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10772
   }

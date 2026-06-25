@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Whoever made coffee, thank you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7546
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Quien sea que hizo el café, gracias",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7547
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Wer Kaffee gemacht hat, danke",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7548
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Quem quer que tenha feito o café, obrigado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7549
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Kto zrobił kawę, dziękuję",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7550
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Кто бы ни сделал кофе - спасибо",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7551
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "不管是谁泡的咖啡,谢谢",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7552
   }

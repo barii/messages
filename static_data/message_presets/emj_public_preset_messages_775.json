@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Why is this so funny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5418
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "¿Por qué es tan gracioso?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5419
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Warum ist das so lustig",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5420
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Porque é que isto é tão engraçado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5421
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Dlaczego to jest takie zabawne",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5422
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Почему это так смешно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5423
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "为什么这么好笑",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5424
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You didn't have a single shot on target.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9387
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "No habéis tenido ni un solo tiro a portería.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9388
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr hattet keinen einzigen Torschuss.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9389
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Não tiveram um único remate à baliza.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9390
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Nie mieliście ani jednego strzału na bramkę.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9391
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "У вас не было ни одного удара в створ.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9392
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们一脚射正都没有。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9393
   }

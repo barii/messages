@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "So proud of you",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5082
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Muy orgulloso de ti",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5083
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "So stolz auf dich",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5084
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Tão orgulhoso de ti",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5085
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Bardzo dumny z ciebie",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5086
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Так горжусь тобой",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5087
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "非常为你骄傲",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5088
   }

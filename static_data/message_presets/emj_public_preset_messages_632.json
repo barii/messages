@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "That's creepy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4417
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Qué raro",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4418
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Das ist gruselig",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4419
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Isso é estranho",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4420
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "To dziwne",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4421
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Это жутко",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4422
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "好奇怪",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4423
   }

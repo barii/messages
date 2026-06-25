@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Your manager hasn't got a clue.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9408
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vuestro entrenador no tiene ni idea.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9409
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Euer Trainer hat keine Ahnung.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9410
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "O vosso treinador não tem ideia.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9411
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wasz trener nie ma pojęcia.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9412
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Ваш тренер понятия не имеет.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9413
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们教练根本不懂。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9414
   }

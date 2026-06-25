@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "We're around the same age",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1904
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Tenemos más o menos la misma edad",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1905
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Wir sind ungefähr gleich alt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1906
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Temos mais ou menos a mesma idade",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1907
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Jesteśmy w mniej więcej tym samym wieku",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1908
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Мы примерно одного возраста",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1909
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我们年龄差不多",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1910
   }

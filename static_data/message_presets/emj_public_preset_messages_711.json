@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "I owe you an apology",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4970
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Te debo una disculpa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4971
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Ich schulde dir eine Entschuldigung",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4972
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Devo-te um pedido de desculpas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4973
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Jestem ci winien przeprosiny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4974
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Я должен тебе извинения",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4975
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我欠你一个道歉",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4976
   }

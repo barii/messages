@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm a work in progress",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2261
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy un trabajo en progreso",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2262
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin ein Werk in Arbeit",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2263
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou um trabalho em progresso",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2264
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem w trakcie pracy nad sobą",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2265
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я в процессе работы над собой",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2266
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是一项进行中的工作",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2267
   }

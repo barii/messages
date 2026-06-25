@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Give yourself some grace",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6433
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Date un respiro",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6434
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Gib dir etwas Gnade",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6435
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Dá-te um respiro",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6436
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Daj sobie trochę luzu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6437
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Дай себе немного снисхождения",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6438
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "给自己一些宽容",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6439
   }

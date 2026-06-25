@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Where was this energy at full time.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11116
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "¿Dónde estaba esta energía al final del partido?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11117
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Wo war diese Energie zum Schlusspfiff?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11118
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Onde estava esta energia ao final do jogo?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11119
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Gdzie była ta energia na koniec meczu?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11120
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Где была эта энергия в конце матча?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11121
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "全场结束时这股劲哪去了?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11122
   }

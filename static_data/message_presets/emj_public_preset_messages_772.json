@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Not me laughing at this",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5397
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Yo no me estoy riendo de esto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5398
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Nicht ich, der darüber lacht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5399
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Não sou eu a rir-me disto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5400
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Nie ja śmiejąc się z tego",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5401
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Не я смеюсь над этим",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5402
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "不是我在笑这个",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5403
   }

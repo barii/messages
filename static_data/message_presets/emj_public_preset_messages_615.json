@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Please stop messaging me",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4298
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Por favor deja de escribirme",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4299
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Bitte hör auf, mir zu schreiben",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4300
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Por favor para de me mandar mensagens",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4301
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Proszę przestań do mnie pisać",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4302
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Пожалуйста, перестань мне писать",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4303
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "请不要再给我发消息",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4304
   }

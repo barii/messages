@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Almost the weekend",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7574
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Casi es el fin de semana",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7575
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Fast Wochenende",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7576
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Quase fim de semana",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7577
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Prawie weekend",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7578
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Почти выходные",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7579
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "快到周末了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7580
   }

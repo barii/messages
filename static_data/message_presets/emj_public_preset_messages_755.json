@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Don't give up",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5278
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "No te rindas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5279
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Gib nicht auf",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5280
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Não desistas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5281
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Nie poddawaj się",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5282
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Не сдавайся",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5283
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "别放弃",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5284
   }

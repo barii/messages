@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm trans",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2359
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy trans",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2360
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin trans",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2361
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou trans",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2362
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem trans",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2363
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я транс",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2364
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是跨性别",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2365
   }

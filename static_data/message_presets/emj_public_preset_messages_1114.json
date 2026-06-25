@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Bye for now",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7791
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Hasta luego",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7792
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Bis dann",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7793
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Adeus por agora",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7794
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Pa na razie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7795
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Пока пока",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7796
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "暂时再见",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7797
   }

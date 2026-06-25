@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "I appreciate you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4823
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Te lo agradezco",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4824
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Ich schätze dich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4825
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Agradeço-te",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4826
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Doceniam cię",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4827
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Я ценю тебя",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4828
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我感谢你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4829
   }

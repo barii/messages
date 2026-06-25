@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Not right now",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3696
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Ahora no",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3697
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Jetzt nicht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3698
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Agora não",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3699
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Nie teraz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3700
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Не сейчас",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3701
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "现在不行",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3702
   }

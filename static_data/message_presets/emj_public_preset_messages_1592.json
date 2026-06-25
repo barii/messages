@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Not so loud now are you.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11137
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "No tan altos ahora, ¿verdad?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11138
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Jetzt nicht mehr so laut, oder?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11139
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Não tão alto agora, pois não?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11140
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Już nie tak głośno, prawda?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11141
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Не так громко теперь, да?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11142
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "现在没那么大声了吧?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11143
   }

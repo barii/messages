@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Would you say yes if I asked you out?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1274
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Dirías que sí si te pidiera salir?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1275
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Würdest du ja sagen, wenn ich dich fragen würde?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1276
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Dirias que sim se eu te convidasse para sair?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1277
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Powiedziałbyś tak, gdybym cię zaprosił?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1278
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты бы сказал да, если бы я пригласил тебя на свидание?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1279
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "如果我约你出去你会答应吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1280
   }

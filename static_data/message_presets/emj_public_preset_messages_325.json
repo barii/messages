@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm not always great at communicating",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2268
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "No siempre soy bueno comunicándome",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2269
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin nicht immer gut in Kommunikation",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2270
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Nem sempre sou bom a comunicar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2271
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Nie zawsze jestem dobry w komunikacji",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2272
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я не всегда хорош в коммуникации",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2273
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我不总是擅长沟通",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2274
   }

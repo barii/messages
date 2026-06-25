@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Where was your team today.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9534
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "¿Dónde estaba vuestro equipo hoy?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9535
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Wo war eure Mannschaft heute?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9536
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Onde estava a vossa equipa hoje?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9537
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Gdzie była dziś wasza drużyna?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9538
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Где была ваша команда сегодня?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9539
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们队今天在哪?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9540
   }

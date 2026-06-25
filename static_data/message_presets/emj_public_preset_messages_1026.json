@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Your presentation was incredible",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7175
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Tu presentación fue increíble",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7176
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Deine Präsentation war unglaublich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7177
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "A tua apresentação foi incrível",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7178
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Twoja prezentacja była niesamowita",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7179
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Твоя презентация была невероятной",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7180
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "你的演讲太棒了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7181
   }

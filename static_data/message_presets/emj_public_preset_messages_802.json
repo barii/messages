@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Flattery will get you everywhere",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5607
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Halagar te llevará a todas partes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5608
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Schmeicheleien bringen dich überall hin",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5609
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Os elogios vão levar-te longe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5610
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Pochlebstwa zaprowadzą cię wszędzie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5611
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Лесть тебя далеко заведёт",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5612
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "甜言蜜语会让你走得很远",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5613
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Bottlers.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9632
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vendepuercos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9633
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Versager.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9634
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Falhados na altura.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9635
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Tchórze.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9636
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Слабаки.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9637
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "懦夫。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9638
   }

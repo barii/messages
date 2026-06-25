@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Whatever you say.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10906
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Lo que vosotros digáis.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10907
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Wenn ihr das sagt.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10908
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "O que tu disseres.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10909
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Cokolwiek powiecie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10910
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Как скажете.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10911
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "随你们怎么说。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10912
   }

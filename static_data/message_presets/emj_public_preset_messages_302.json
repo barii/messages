@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm bored",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2107
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Estoy aburrido",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2108
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Mir ist langweilig",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2109
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Estou aborrecido",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2110
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem znudzony",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2111
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Мне скучно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2112
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我无聊",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2113
   }

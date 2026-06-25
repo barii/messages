@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "I've known you forever",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1841
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Te conozco desde siempre",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1842
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Ich kenne dich schon ewig",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1843
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Conheço-te há séculos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1844
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Znam cię od zawsze",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1845
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Я знаю тебя целую вечность",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1846
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我认识你很久了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1847
   }

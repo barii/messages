@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You need a girlfriend.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11333
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Necesitáis una novia.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11334
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ihr braucht eine Freundin.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11335
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Precisam de uma namorada.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11336
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Potrzebujecie dziewczyny.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11337
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Вам нужна девушка.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11338
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们需要个女朋友。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11339
   }

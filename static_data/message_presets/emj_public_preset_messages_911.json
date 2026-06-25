@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "It will work out, I promise",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6370
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Va a salir bien, te lo prometo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6371
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Es wird klappen, ich verspreche es",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6372
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Vai correr bem, prometo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6373
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Wszystko się ułoży, obiecuję",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6374
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Всё получится, обещаю",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6375
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "会成功的,我保证",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6376
   }

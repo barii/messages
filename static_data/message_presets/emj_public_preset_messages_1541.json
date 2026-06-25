@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Your team is a mess.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10780
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Vuestro equipo es un desastre.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10781
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Eure Mannschaft ist ein Chaos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10782
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "A vossa equipa é uma confusão.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10783
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Wasza drużyna to bałagan.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10784
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Ваша команда — бардак.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10785
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们队一团糟。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10786
   }

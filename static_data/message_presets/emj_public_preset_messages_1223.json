@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "Looking at your profile sent me",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8554
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "Mirar tu perfil me mató",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8555
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Auf dein Profil zu schauen hat mich umgehauen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8556
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "Olhar para o teu perfil deu cabo de mim",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8557
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Patrzenie na twój profil mnie zabiło",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8558
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Смотреть на твой профиль меня доконало",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8559
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "看你的资料让我崩溃了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8560
   }

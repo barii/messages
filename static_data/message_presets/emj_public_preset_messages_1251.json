@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Will never win a trophy.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8750
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Nunca ganaréis un trofeo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8751
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Werdet nie einen Pokal gewinnen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8752
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Nunca vão ganhar um troféu.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8753
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Nigdy nie zdobędziecie trofeum.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8754
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Никогда не выиграете трофей.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8755
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "永远赢不了一个奖杯。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8756
   }

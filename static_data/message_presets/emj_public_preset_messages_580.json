@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "You wish you were me",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4053
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Quisieras ser yo",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4054
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Du wünschst, du wärst ich",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4055
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Quem me dera ser tu",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4056
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Chciałbyś być mną",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4057
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Ты бы хотел быть мной",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4058
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "你希望你是我",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4059
   }

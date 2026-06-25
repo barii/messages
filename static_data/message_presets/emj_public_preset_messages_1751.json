@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Alma Mater!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12250
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Alma Mater!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12251
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Alma Mater!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12252
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Alma Mater!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12253
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Alma Mater!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12254
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Alma Mater!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12255
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Alma Mater!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12256
   }

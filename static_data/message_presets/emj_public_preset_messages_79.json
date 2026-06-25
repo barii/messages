@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "You have no rizz",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 546
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "No tienes rizz",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 547
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Du hast keinen Rizz",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 548
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Não tens rizz",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 549
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "Nie masz rizz",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 550
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "У тебя нет rizz",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 551
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "你没有魅力",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 552
   }

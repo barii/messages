@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Want to talk?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1197
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Quieres hablar?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1198
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Magst du reden?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1199
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Queres falar?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1200
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Chcesz pogadać?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1201
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Хочешь поговорить?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1202
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "想聊聊吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1203
   }

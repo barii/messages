@@ -6,7 +6,7 @@
     "lang": "EN",
     "category": "French Football Teams",
     "text": "FC Nantes",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇫🇷",
     "continent": "European"
@@ -18,7 +18,7 @@
     "lang": "ES",
     "category": "Equipos de Fútbol Franceses",
     "text": "FC Nantes",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇫🇷",
     "continent": "European"
@@ -30,7 +30,7 @@
     "lang": "DE",
     "category": "Französische Fußballmannschaften",
     "text": "FC Nantes",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇫🇷",
     "continent": "European"
@@ -42,7 +42,7 @@
     "lang": "PL",
     "category": "Francuskie drużyny piłkarskie",
     "text": "FC Nantes",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇫🇷",
     "continent": "European"
@@ -54,7 +54,7 @@
     "lang": "RU",
     "category": "Французские футбольные команды",
     "text": "FC Nantes",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇫🇷",
     "continent": "European"
@@ -66,7 +66,7 @@
     "lang": "PT",
     "category": "Times de futebol franceses",
     "text": "FC Nantes",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇫🇷",
     "continent": "European"
@@ -78,7 +78,7 @@
     "lang": "CN",
     "category": "法国足球队",
     "text": "FC Nantes",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇫🇷",
     "continent": "European"

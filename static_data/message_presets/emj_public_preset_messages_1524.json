@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "You wish you were us.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10661
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Quisierais ser nosotros.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10662
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Ihr wünschtet, ihr wärt wir.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10663
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Quem me dera ser nós.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10664
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Chcielibyście być nami.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10665
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Вы бы хотели быть нами.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10666
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "你们恨不得是我们。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10667
   }

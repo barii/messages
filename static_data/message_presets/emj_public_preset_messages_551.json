@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "That hurts",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3850
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Eso duele",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3851
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Das tut weh",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3852
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Isso dói",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3853
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "To boli",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3854
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Это больно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3855
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "好痛",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3856
   }

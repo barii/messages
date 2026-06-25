@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm bi",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2394
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy bi",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2395
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin bi",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2396
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou bi",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2397
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem bi",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2398
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я би",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2399
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是双性恋",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2400
   }

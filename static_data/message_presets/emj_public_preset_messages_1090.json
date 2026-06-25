@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Sending you strength",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7623
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Te mando fuerza",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7624
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Sende dir Stärke",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7625
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "A mandar-te força",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7626
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Wysyłam ci siłę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7627
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Шлю тебе силы",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7628
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "给你送上力量",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7629
   }

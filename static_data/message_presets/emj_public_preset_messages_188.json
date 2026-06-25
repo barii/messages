@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Did that really happen?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1309
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Eso pasó de verdad?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1310
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Ist das wirklich passiert?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1311
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Isso aconteceu mesmo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1312
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Czy to naprawdę się stało?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1313
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Это правда произошло?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1314
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "那真的发生了吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1315
   }

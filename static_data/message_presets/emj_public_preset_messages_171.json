@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Do you have a minute?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1190
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Tienes un minuto?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1191
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Hast du eine Minute?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1192
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Tens um minuto?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1193
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Masz chwilę?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1194
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "У тебя есть минута?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1195
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你有一分钟吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1196
   }

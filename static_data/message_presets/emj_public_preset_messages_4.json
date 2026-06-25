@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're so thoughtful",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 21
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres muy considerado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 22
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist so rücksichtsvoll",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 23
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És tão atencioso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 24
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś bardzo troskliwy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 25
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты такой внимательный",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 26
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你很贴心",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 27
   }

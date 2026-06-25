@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "I'm done with this",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4739
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Ya basta",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4740
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Ich bin damit fertig",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4741
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Já chega",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4742
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Skończyłem z tym",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4743
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Я с этим закончил",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4744
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "我受够了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4745
   }

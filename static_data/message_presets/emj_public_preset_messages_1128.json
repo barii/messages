@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Long time no speak",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7889
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Cuánto tiempo sin hablar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7890
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Lange nicht gesehen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7891
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Há quanto tempo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7892
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Dawno cię nie słyszałem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7893
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Давно не общались",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7894
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "好久没聊了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7895
   }

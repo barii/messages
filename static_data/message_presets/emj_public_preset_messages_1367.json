@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You looked clueless out there.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9562
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Parecíais perdidos ahí fuera.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9563
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr saht ahnungslos aus.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9564
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Pareciam perdidos em campo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9565
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wyglądaliście na zagubionych na boisku.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9566
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Выглядели потерянными на поле.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9567
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们在场上看起来很迷茫。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9568
   }

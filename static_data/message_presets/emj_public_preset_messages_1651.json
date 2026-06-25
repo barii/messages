@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You defended for 90 minutes that's not football.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11550
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Habéis defendido 90 minutos, eso no es fútbol.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11551
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ihr habt 90 Minuten verteidigt, das ist kein Fußball.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11552
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Defenderam durante 90 minutos, isso não é futebol.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11553
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Broniliście się przez 90 minut, to nie jest piłka nożna.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11554
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Вы оборонялись 90 минут, это не футбол.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11555
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们防守了90分钟,这不是足球。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11556
   }

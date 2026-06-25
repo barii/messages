@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Take your time",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5313
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Tómate tu tiempo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5314
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Lass dir Zeit",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5315
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Tem o teu tempo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5316
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Nie spiesz się",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5317
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Не спеши",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5318
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "慢慢来",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5319
   }

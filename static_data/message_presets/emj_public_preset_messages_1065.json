@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Team morale needs work",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7448
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "La moral del equipo necesita mejorar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7449
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Die Teammoral braucht Arbeit",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7450
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "A moral da equipa precisa de trabalho",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7451
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Morale zespołu wymaga pracy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7452
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Командному моральному духу нужна работа",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7453
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "团队士气需要改进",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7454
   }

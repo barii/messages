@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "They can't read your mind",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6720
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "No te pueden leer la mente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6721
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Sie können deine Gedanken nicht lesen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6722
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Eles não te conseguem ler a mente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6723
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Nie potrafią czytać w twoich myślach",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6724
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Они не могут читать твои мысли",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6725
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "他们不能读你的心思",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6726
   }

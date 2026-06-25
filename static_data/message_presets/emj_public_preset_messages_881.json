@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "Date night",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6160
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Cita nocturna",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6161
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Date Night",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6162
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Noite de encontro",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6163
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Randka wieczorem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6164
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Свидание вечером",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6165
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "约会之夜",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6166
   }

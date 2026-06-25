@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I think you might be the one",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6181
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Creo que podrías ser el indicado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6182
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich glaube, du könntest der Richtige sein",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6183
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Acho que podes ser o tal",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6184
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Myślę, że możesz być tym jedynym",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6185
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Думаю, ты можешь быть тем самым",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6186
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我觉得你可能是那个对的人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6187
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "I'm older than you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1890
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Soy mayor que tú",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1891
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Ich bin älter als du",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1892
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Sou mais velho que tu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1893
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Jestem od ciebie starszy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1894
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Я старше тебя",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1895
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我比你大",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1896
   }

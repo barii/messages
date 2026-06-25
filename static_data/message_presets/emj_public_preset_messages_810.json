@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Compliment received, thank you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5663
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Cumplido recibido, gracias",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5664
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Kompliment erhalten, danke",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5665
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Elogio recebido, obrigado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5666
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Komplement przyjęty, dziękuję",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5667
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Комплимент принят, спасибо",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5668
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "称赞收到,谢谢",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5669
   }

@@ -6,7 +6,7 @@
     "lang": "EN",
     "category": "National football teams",
     "text": "South Korean football team",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇰🇷",
     "continent": "European"
@@ -18,7 +18,7 @@
     "lang": "ES",
     "category": "Selección nacional de fútbol",
     "text": "Equipo de fútbol de Corea Del Sur",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇰🇷",
     "continent": "European"
@@ -30,7 +30,7 @@
     "lang": "DE",
     "category": "Nationale Fußballmannschaft",
     "text": "Südkoreanische Fußballmannschaft",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇰🇷",
     "continent": "European"
@@ -42,7 +42,7 @@
     "lang": "PL",
     "category": "Narodowa drużyna piłkarska",
     "text": "Południowokoreańska drużyna piłkarska",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇰🇷",
     "continent": "European"
@@ -54,7 +54,7 @@
     "lang": "RU",
     "category": "национальная сборная по футболу",
     "text": "Южнокорейская футбольная команда",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇰🇷",
     "continent": "European"
@@ -66,7 +66,7 @@
     "lang": "PT",
     "category": "Seleção nacional de futebol",
     "text": "Seleção Sul-Coreana de futebol",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇰🇷",
     "continent": "European"
@@ -78,7 +78,7 @@
     "lang": "CN",
     "category": "国家足球队",
     "text": "韩国足球队",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇰🇷",
     "continent": "European"

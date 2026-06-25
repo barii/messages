@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "No creativity, no goals, no chance.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9401
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Sin creatividad, sin goles, sin posibilidades.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9402
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Keine Kreativität, keine Tore, keine Chance.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9403
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Sem criatividade, sem golos, sem hipótese.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9404
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Brak kreatywności, brak goli, brak szans.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9405
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Без креатива, без голов, без шансов.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9406
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "没创造力,没进球,没机会。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9407
   }

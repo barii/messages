@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You've gone quiet now.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11130
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Os habéis quedado callados ahora.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11131
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Jetzt seid ihr ruhig geworden.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11132
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Já se calaram agora.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11133
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Teraz się uciszyliście.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11134
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Сейчас замолчали.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11135
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "现在你们安静了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11136
   }

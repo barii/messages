@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I hate routine",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2639
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Odio la rutina",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2640
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich hasse Routine",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2641
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Odeio rotina",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2642
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Nienawidzę rutyny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2643
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я ненавижу рутину",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2644
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我讨厌日常",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2645
   }

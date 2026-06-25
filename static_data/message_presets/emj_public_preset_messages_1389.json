@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Park football out there.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9716
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Fútbol de parque ahí fuera.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9717
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Bolzplatzfußball.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9718
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Futebol de pelada.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9719
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Piłka osiedlowa na boisku.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9720
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Дворовой футбол на поле.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9721
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "公园足球罢了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9722
   }

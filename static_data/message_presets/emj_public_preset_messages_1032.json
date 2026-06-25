@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Is it Friday yet?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7217
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "¿Ya es viernes?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7218
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Ist schon Freitag?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7219
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Já é sexta?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7220
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Już piątek?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7221
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Уже пятница?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7222
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "已经星期五了吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7223
   }

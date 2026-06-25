@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You go quiet when things get hard",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7000
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Te quedas callado cuando las cosas se ponen difíciles",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7001
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du wirst still, wenn Dinge schwierig werden",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7002
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Ficas calado quando as coisas ficam difíceis",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7003
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Milczysz, gdy sprawy stają się trudne",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7004
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Ты замыкаешься, когда становится трудно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7005
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "事情艰难时你会沉默",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7006
   }

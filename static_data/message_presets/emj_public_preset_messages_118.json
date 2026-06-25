@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Have you eaten today?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 819
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Has comido hoy?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 820
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Hast du heute gegessen?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 821
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Comeste hoje?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 822
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Jadłeś dziś?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 823
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты ел сегодня?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 824
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你今天吃饭了吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 825
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Slay",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5229
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Slay",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5230
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Slay",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5231
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Slay",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5232
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Slay",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5233
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Slay",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5234
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "Slay",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5235
   }

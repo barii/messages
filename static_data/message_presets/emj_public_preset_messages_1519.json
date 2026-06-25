@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Tell me we're not the best.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10626
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Decid que no somos los mejores.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10627
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Sagt mir, dass wir nicht die Besten sind.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10628
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Digam que não somos os melhores.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10629
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Powiedz, że nie jesteśmy najlepsi.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10630
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Скажите, что мы не лучшие.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10631
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "说我们不是最棒的看看。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10632
   }

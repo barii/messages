@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "You will never guess",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1659
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Nunca lo adivinarás",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1660
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Du wirst es nie erraten",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1661
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Nunca vais adivinhar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1662
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Nigdy nie zgadniesz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1663
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Ты никогда не угадаешь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1664
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "你永远猜不到",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1665
   }

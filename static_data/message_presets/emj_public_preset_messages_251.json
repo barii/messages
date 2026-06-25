@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "We met through mutual friends",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1750
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Nos conocimos por amigos en común",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1751
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Wir haben uns über gemeinsame Freunde kennengelernt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1752
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Conhecemo-nos através de amigos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1753
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Poznaliśmy się przez wspólnych znajomych",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1754
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Мы познакомились через общих друзей",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1755
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我们通过共同朋友认识",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1756
   }

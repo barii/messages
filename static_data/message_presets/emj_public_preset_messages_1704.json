@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Is your bat made of rubber?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11921
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Is your bat made of rubber?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11922
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Is your bat made of rubber?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11923
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Is your bat made of rubber?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11924
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Is your bat made of rubber?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11925
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Is your bat made of rubber?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11926
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Is your bat made of rubber?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11927
   }

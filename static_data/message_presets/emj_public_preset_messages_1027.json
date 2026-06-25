@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "You crushed that today",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7182
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "La rompiste hoy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7183
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Du hast heute alles gegeben",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7184
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Arrasaste hoje",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7185
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Dziś rozwaliłeś",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7186
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Ты порвал сегодня",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7187
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "你今天太厉害了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7188
   }

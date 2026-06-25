@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Job done.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10073
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Trabajo hecho.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10074
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Erledigt.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10075
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Trabalho feito.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10076
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Robota wykonana.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10077
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Работа сделана.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10078
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "搞定。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10079
   }

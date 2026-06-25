@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "You're the worst",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 434
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "Eres lo peor",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 435
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Du bist das Schlimmste",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 436
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "És o pior",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 437
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "Jesteś najgorszy",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 438
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Ты худший",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 439
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "你是最糟的",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 440
   }

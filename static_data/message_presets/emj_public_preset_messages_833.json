@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "You're always on my mind",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5824
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Siempre estás en mi mente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5825
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Du bist immer in meinen Gedanken",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5826
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Estás sempre na minha cabeça",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5827
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Zawsze jesteś w mojej głowie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5828
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Ты всегда у меня в голове",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5829
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "你一直在我心里",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5830
   }

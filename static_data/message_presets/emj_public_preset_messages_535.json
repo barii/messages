@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Catch you in a bit",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3738
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Te alcanzo en un rato",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3739
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Hole dich gleich wieder ein",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3740
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Apanho-te daqui a pouco",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3741
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Złapię cię za chwilę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3742
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Поймаю тебя через секунду",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3743
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "稍后联系你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3744
   }

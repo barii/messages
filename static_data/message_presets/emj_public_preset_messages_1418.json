@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We are so much better than you will ever be.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9919
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Somos mucho mejores de lo que jamás seréis.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9920
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir sind viel besser, als ihr es je sein werdet.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9921
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Somos muito melhores do que alguma vez serão.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9922
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Jesteśmy o wiele lepsi niż kiedykolwiek będziecie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9923
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы намного лучше, чем вы когда-либо будете.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9924
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们比你们好太多了,你们永远也赶不上。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9925
   }

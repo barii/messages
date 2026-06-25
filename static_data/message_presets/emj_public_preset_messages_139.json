@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Did you forget about me?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 966
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Te has olvidado de mí?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 967
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Hast du mich vergessen?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 968
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Esqueceste-te de mim?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 969
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Zapomniałeś o mnie?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 970
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты забыл обо мне?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 971
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你忘了我吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 972
   }

@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Hold that line!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12208
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Hold that line!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12209
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Hold that line!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12210
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Hold that line!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12211
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Hold that line!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12212
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Hold that line!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12213
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Hold that line!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12214
   }

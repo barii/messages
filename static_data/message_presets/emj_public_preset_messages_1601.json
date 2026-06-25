@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "It's a long season.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11200
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Es una larga temporada.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11201
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Es ist eine lange Saison.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11202
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "É uma longa época.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11203
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "To długi sezon.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11204
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Это долгий сезон.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11205
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "这是个漫长的赛季。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11206
   }

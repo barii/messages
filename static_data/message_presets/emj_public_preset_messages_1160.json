@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "New year, same me",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8113
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Año nuevo, el mismo yo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8114
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Neues Jahr, dasselbe Ich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8115
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Ano novo, mesmo eu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8116
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Nowy rok, ten sam ja",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8117
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "Новый год, тот же я",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8118
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "新年还是同一个我",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8119
   }

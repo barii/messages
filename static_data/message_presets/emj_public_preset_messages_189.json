@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Is that true?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1316
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Eso es cierto?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1317
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Stimmt das?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1318
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Isso é verdade?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1319
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Czy to prawda?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1320
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Это правда?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1321
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "那是真的吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1322
   }

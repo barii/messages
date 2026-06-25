@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm gay",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2380
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy gay",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2381
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin schwul",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2382
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou gay",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2383
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem gejem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2384
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я гей",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2385
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是男同",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2386
   }

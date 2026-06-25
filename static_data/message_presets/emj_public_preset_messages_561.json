@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "We move",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3920
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Seguimos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3921
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Wir machen weiter",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3922
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Seguimos em frente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3923
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Idziemy dalej",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3924
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Идём дальше",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3925
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我们继续",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3926
   }

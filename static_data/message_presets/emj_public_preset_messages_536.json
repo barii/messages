@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Talk in a sec",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3745
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Hablamos en un segundo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3746
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Spreche in einer Sekunde",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3747
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Falamos num segundo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3748
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Pogadamy za sekundę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3749
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Поговорим через секунду",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3750
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "马上聊",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3751
   }

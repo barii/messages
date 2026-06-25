@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Have I done something wrong?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 931
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿He hecho algo mal?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 932
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Habe ich etwas falsch gemacht?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 933
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Fiz alguma coisa de errado?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 934
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Czy zrobiłem coś nie tak?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 935
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Я что-то сделал не так?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 936
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "我做错什么了吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 937
   }

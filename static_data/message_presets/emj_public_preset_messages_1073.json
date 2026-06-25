@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "We dropped the ball today",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7504
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "La cagamos hoy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7505
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Wir haben heute alles vergeigt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7506
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Estragámos tudo hoje",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7507
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Dziś nawaliliśmy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7508
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Мы провалили сегодня",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7509
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "我们今天搞砸了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7510
   }

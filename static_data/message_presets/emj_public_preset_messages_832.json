@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I can't stop thinking about you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5817
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "No puedo dejar de pensar en ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5818
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich kann nicht aufhören, an dich zu denken",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5819
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Não consigo parar de pensar em ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5820
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Nie mogę przestać o tobie myśleć",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5821
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Не могу перестать думать о тебе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5822
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我无法停止想你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5823
   }

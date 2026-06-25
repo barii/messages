@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You were dismissive in that conversation",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7028
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Fuiste desdeñoso en esa conversación",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7029
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du warst abweisend in diesem Gespräch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7030
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Foste dispensativo naquela conversa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7031
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Byłeś lekceważący w tej rozmowie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7032
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Ты был пренебрежителен в том разговоре",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7033
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你在那段对话中很轻蔑",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7034
   }

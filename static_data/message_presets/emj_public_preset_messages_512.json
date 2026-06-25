@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I've been better",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3577
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "He estado mejor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3578
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Mir ging es schon mal besser",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3579
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Já estive melhor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3580
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Bywało lepiej",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3581
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Бывало и лучше",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3582
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我以前更好",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3583
   }

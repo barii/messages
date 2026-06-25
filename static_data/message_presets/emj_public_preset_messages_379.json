@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I love spontaneity",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2646
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Me encanta la espontaneidad",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2647
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich liebe Spontanität",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2648
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Adoro espontaneidade",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2649
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Uwielbiam spontaniczność",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2650
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я люблю спонтанность",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2651
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我喜欢自发性",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2652
   }

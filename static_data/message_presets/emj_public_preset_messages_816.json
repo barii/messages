@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "That was awful, do it again",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5705
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Fue horrible, hazlo otra vez",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5706
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Das war schrecklich, mach das nochmal",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5707
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Foi horrível, fá-lo outra vez",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5708
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "To było okropne, zrób to jeszcze raz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5709
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Это было ужасно, сделай это снова",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5710
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "太糟糕了,再来一次",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5711
   }

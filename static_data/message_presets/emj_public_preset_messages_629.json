@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Okay and",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4396
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Vale, ¿y?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4397
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Okay und?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4398
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Ok, e?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4399
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Ok i co?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4400
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Окей, и?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4401
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "好,然后呢?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4402
   }

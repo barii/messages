@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "You see me more than you realize",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1918
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Me ves más de lo que crees",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1919
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Du siehst mich öfter, als dir bewusst ist",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1920
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Vês-me mais do que percebes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1921
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Widzisz mnie częściej, niż zdajesz sobie sprawę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1922
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Ты видишь меня чаще, чем осознаёшь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1923
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "你比意识到的更常见到我",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1924
   }

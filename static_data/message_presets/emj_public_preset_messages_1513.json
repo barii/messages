@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Championship mentality.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10584
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Mentalidad de campeones.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10585
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Meistermentalität.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10586
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Mentalidade de campeão.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10587
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Mentalność mistrza.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10588
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Менталитет чемпионов.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10589
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "冠军心态。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10590
   }

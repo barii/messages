@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Calm down.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10843
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Calmaos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10844
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Beruhigt euch.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10845
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Tem calma.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10846
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Uspokójcie się.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10847
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Успокойтесь.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10848
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "冷静点。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10849
   }

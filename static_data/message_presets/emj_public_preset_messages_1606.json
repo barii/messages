@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "We always come good.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11235
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Siempre nos recuperamos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11236
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Wir kommen immer zurück.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11237
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Voltamos sempre.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11238
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Zawsze wracamy na tory.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11239
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Мы всегда возвращаемся.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11240
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "我们总会反弹。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11241
   }

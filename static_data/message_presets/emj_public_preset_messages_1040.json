@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Surviving over there",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7273
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Sobreviviendo por aquí",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7274
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Überlebe hier drüben",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7275
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "A sobreviver por aqui",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7276
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Przeżywam tutaj",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7277
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Выживаю тут",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7278
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "在这边生存着",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7279
   }

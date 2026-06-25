@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Some people just aren't your people",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6762
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Hay gente que simplemente no es para ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6763
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Manche Menschen sind einfach nicht deine Menschen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6764
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Algumas pessoas simplesmente não são para ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6765
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Niektórzy ludzie po prostu nie są twoimi ludźmi",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6766
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Некоторые люди просто не твои",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6767
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "有些人就不是你的人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6768
   }

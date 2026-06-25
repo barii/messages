@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Did you know it was me?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 987
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Sabías que era yo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 988
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Hast du gewusst, dass ich es war?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 989
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Sabias que era eu?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 990
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Wiedziałeś, że to ja?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 991
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты знал, что это я?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 992
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你知道是我吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 993
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Sent me",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5411
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Me mató",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5412
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Bringt mich um",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5413
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Matou-me",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5414
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Zabiło mnie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5415
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Убило меня",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5416
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "让我笑死了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5417
   }

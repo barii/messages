@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Do you want to vent?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1211
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Quieres desahogarte?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1212
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Willst du dich auslassen?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1213
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Queres desabafar?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1214
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Chcesz się wyżalić?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1215
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Хочешь выговориться?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1216
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你想倾诉一下吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1217
   }

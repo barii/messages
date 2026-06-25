@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I'm married",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6244
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Estoy casado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6245
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich bin verheiratet",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6246
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Sou casado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6247
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Jestem żonaty",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6248
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Я женат",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6249
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我结婚了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6250
   }

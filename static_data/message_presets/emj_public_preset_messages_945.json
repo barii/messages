@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Stop letting people drain you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6608
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Deja que la gente te drene",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6609
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Lass dich nicht von Menschen aussaugen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6610
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Para de deixar as pessoas drenarem-te",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6611
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Przestań pozwalać, by ludzie cię wyczerpywali",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6612
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Перестань позволять людям тебя истощать",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6613
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "别再让人耗尽你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6614
   }

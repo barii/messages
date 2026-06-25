@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "Bet you can't guess who this is",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1575
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "A que no adivinas quién es",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1576
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Wette, du kannst nicht raten, wer das ist",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1577
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Aposto que não adivinhas quem é",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1578
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Założę się, że nie zgadniesz, kto to",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1579
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Спорим, ты не угадаешь, кто это",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1580
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我打赌你猜不到是谁",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1581
   }

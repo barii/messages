@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're one of one",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 392
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres único en tu especie",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 393
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist einzigartig",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 394
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És único",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 395
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś jedyny w swoim rodzaju",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 396
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты один такой",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 397
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你是独一无二的",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 398
   }

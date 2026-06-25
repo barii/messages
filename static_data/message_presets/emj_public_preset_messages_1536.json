@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "No… We are the best team the world has ever seen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10745
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "No… somos el mejor equipo que el mundo haya visto jamás.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10746
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Nein… wir sind die beste Mannschaft, die die Welt je gesehen hat.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10747
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Não… somos a melhor equipa que o mundo já viu.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10748
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Nie… jesteśmy najlepszą drużyną, jaką świat kiedykolwiek widział.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10749
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Нет… мы лучшая команда, которую видел мир.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10750
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "不…我们才是世界见过的最棒的球队。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10751
   }

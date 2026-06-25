@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Give me a minute",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3717
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Dame un minuto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3718
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Gib mir eine Minute",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3719
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Dá-me um minuto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3720
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Daj mi minutę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3721
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Дай мне минуту",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3722
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "给我一分钟",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3723
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Talk to me at the end of the season.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11214
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Habladme al final de la temporada.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11215
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Sprich mit mir am Ende der Saison.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11216
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Fala comigo no fim da época.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11217
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Pogadaj ze mną pod koniec sezonu.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11218
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Поговорите со мной в конце сезона.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11219
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "赛季结束时再跟我说话。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11220
   }

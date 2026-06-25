@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You have never achieved nothing.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10752
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Nunca habéis conseguido nada.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10753
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ihr habt nie etwas erreicht.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10754
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Nunca conquistaram nada.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10755
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Nigdy nic nie osiągnęliście.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10756
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Вы никогда ничего не достигали.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10757
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们从来没取得过什么。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10758
   }

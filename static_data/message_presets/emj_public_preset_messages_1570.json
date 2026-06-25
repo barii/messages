@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Don't make me laugh.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10983
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "No me hagáis reír.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10984
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Bringt mich nicht zum Lachen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10985
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Não me faças rir.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10986
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Nie rozśmieszajcie mnie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10987
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Не смешите меня.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10988
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "别让我笑。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10989
   }

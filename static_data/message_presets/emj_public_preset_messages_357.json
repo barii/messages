@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm mixed",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2492
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy mestizo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2493
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin gemischt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2494
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou mestiço",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2495
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem mieszany",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2496
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я смешанный",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2497
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是混血",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2498
   }

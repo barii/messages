@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "I love you but you can be a lot",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7084
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Te quiero pero puedes ser demasiado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7085
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Ich liebe dich, aber du kannst zu viel sein",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7086
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Adoro-te mas consegues ser demais",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7087
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Kocham cię, ale potrafisz być przesadny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7088
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Я тебя люблю, но ты можешь быть слишком",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7089
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "我爱你但你可能让人受不了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7090
   }

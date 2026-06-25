@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "Touch grass please",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 567
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "Toca pasto, por favor",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 568
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Geh mal an die frische Luft",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 569
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Toca relva, por favor",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 570
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "Dotknij trawy, proszę",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 571
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Дотронься до травы, пожалуйста",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 572
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "请去摸摸草",
-    "premium": "true",
+    "premium": true,
     "positive": false,
     "id": 573
   }

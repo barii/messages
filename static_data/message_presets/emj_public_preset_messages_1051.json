@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "I have a crush on someone in the office",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7350
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Estoy enamorado de alguien de la oficina",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7351
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Ich bin in jemanden im Büro verknallt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7352
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Tenho um fraquinho por alguém no escritório",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7353
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Podkochuję się w kimś w biurze",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7354
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Я влюблён в кого-то в офисе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7355
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "我喜欢办公室里的某个人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7356
   }

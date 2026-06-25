@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "Humble yourself",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 658
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "Humíllate un poco",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 659
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Bleib mal auf dem Boden",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 660
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Humilha-te",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 661
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "Zachowaj pokorę",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 662
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Будь скромнее",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 663
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "谦虚点",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 664
   }

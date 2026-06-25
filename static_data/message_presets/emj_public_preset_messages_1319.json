@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Absolutely outclassed.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9226
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Totalmente superados.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9227
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Komplett überlegen geschlagen.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9228
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Foram completamente superados.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9229
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Całkowicie przewyższeni.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9230
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Абсолютно переиграны.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9231
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "完全被压制。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9232
   }

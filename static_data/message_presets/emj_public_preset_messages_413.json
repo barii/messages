@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Sure thing",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2884
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Claro que sí",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2885
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Auf jeden Fall",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2886
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Com certeza",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2887
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Pewnie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2888
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Точно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2889
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "好的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2890
   }

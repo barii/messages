@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "Getting warmer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1589
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Caliente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1590
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Wärmer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1591
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "A aquecer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1592
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Cieplej",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1593
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Теплее",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1594
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "更暖了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1595
   }

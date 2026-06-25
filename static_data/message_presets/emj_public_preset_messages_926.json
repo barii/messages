@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Drink some water",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6475
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Bebe agua",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6476
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Trink etwas Wasser",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6477
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Bebe água",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6478
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Napij się wody",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6479
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Выпей воды",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6480
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "喝点水",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6481
   }

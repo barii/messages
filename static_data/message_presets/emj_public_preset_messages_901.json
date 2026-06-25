@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I had no idea you felt that way",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6300
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "No tenía idea de que sentías eso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6301
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich hatte keine Ahnung, dass du so empfindest",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6302
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Não fazia ideia que sentias isso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6303
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Nie miałem pojęcia, że tak się czujesz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6304
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Я понятия не имел, что ты так чувствуешь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6305
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我不知道你有这种感觉",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6306
   }

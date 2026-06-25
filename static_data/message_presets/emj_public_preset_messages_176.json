@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Do you want to hang out?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1225
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Quieres pasar el rato?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1226
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Wollen wir abhängen?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1227
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Queres sair?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1228
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Chcesz się gdzieś wybrać?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1229
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Хочешь потусить?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1230
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "想出来玩吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1231
   }

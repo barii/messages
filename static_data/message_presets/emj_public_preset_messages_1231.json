@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "I'm free Saturday, you're welcome",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8610
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "Estoy libre el sábado, de nada",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8611
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Ich habe Samstag frei, gern geschehen",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8612
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "Estou livre sábado, de nada",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8613
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Jestem wolny w sobotę, proszę bardzo",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8614
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Я свободен в субботу, пожалуйста",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8615
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "我周六有空,不用谢",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8616
   }

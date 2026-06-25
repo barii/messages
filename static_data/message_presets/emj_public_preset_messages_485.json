@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "For real",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3388
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "En serio",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3389
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Im Ernst",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3390
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "A sério",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3391
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Naprawdę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3392
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Серьёзно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3393
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "认真的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3394
   }

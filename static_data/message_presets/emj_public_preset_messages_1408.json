@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Easy win for us.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9849
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Victoria fácil para nosotros.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9850
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Leichter Sieg für uns.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9851
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Vitória fácil para nós.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9852
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Łatwe zwycięstwo dla nas.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9853
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Лёгкая победа для нас.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9854
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们轻松取胜。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9855
   }

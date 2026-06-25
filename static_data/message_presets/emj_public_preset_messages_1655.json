@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Bless.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11578
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Bendito.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11579
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ach Gottchen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11580
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Coitadinho.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11581
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Biedaczku.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11582
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Бедненькие.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11583
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "可怜。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11584
   }

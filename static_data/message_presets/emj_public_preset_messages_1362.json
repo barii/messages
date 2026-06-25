@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You didn't turn up.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9527
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "No os habéis presentado.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9528
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr seid nicht aufgetreten.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9529
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Não apareceram.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9530
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Nie pojawiliście się.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9531
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы не появились.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9532
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们没来比赛。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9533
   }

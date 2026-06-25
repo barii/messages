@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Our little league team is better than you!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11816
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Our little league team is better than you!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11817
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Our little league team is better than you!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11818
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Our little league team is better than you!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11819
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Our little league team is better than you!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11820
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Our little league team is better than you!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11821
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Our little league team is better than you!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11822
   }

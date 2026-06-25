@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You should know better",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6860
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Deberías saberlo mejor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6861
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du solltest es besser wissen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6862
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Devias saber melhor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6863
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Powinieneś wiedzieć lepiej",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6864
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Тебе следовало знать лучше",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6865
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你应该知道得更清楚",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6866
   }

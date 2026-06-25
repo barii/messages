@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Do you believe in second chances?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1127
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Crees en las segundas oportunidades?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1128
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Glaubst du an zweite Chancen?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1129
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Acreditas em segundas oportunidades?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1130
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Wierzysz w drugie szanse?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1131
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты веришь во вторые шансы?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1132
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你相信第二次机会吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1133
   }

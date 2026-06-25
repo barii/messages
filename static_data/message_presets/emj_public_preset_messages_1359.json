@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Couldn't fill your own stadium.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9506
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Ni siquiera podéis llenar vuestro propio estadio.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9507
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr kriegt nicht mal euer eigenes Stadion voll.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9508
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Nem conseguem encher o vosso próprio estádio.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9509
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Nie potraficie nawet wypełnić własnego stadionu.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9510
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Не можете заполнить даже свой стадион.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9511
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "连自己的球场都填不满。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9512
   }

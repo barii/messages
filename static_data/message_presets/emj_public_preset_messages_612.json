@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "That isn't how I see it",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4277
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "No es como yo lo veo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4278
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "So sehe ich das nicht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4279
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Não é assim que eu vejo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4280
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Nie tak to widzę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4281
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Это не так, как я вижу",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4282
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我不是这样看的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4283
   }

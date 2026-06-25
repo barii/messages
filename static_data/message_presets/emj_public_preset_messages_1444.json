@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Another win, another day.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10101
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Otra victoria, otro día.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10102
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Noch ein Sieg, noch ein Tag.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10103
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Mais uma vitória, mais um dia.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10104
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Kolejne zwycięstwo, kolejny dzień.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10105
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Ещё одна победа, ещё один день.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10106
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "又一场胜利,又一天。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10107
   }

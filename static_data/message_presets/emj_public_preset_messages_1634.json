@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Sad behaviour this.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11431
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Triste este comportamiento.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11432
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Trauriges Verhalten.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11433
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Triste este comportamento.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11434
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Smutne zachowanie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11435
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Грустное поведение.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11436
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "可悲的行为。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11437
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "We have met in person",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1967
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Nos hemos visto en persona",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1968
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Wir haben uns persönlich getroffen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1969
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Já nos encontrámos pessoalmente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1970
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Spotkaliśmy się osobiście",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1971
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Мы встречались лично",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1972
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我们见过面",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1973
   }

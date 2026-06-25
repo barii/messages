@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Own goal…. hooray!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8862
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Gol en propia puerta…. ¡hurra!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8863
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Eigentor… hurra!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8864
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Auto-golo… viva!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8865
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Gol samobójczy… hura!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8866
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Автогол… ура!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8867
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "乌龙球…好棒啊!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8868
   }

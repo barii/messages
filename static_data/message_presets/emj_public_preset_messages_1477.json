@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Different level.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10332
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Otro nivel.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10333
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Anderes Niveau.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10334
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Outro nível.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10335
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Inny poziom.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10336
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Другой уровень.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10337
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "另一个水平。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10338
   }

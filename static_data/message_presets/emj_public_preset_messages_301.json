@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I've been lonely lately",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2100
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Me he sentido solo últimamente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2101
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich war in letzter Zeit einsam",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2102
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Tenho-me sentido sozinho ultimamente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2103
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Ostatnio czuję się samotny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2104
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Мне в последнее время одиноко",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2105
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我最近感到孤独",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2106
   }

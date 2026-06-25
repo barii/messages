@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Absolute winners!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10003
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "¡Ganadores absolutos!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10004
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Absolute Gewinner!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10005
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Vencedores absolutos!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10006
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Absolutni zwycięzcy!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10007
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Абсолютные победители!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10008
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "彻底的胜利者!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10009
   }

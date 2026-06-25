@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "L take.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11382
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "L take.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11383
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "L take.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11384
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "L take.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11385
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "L take.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11386
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "L take.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11387
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "L take.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11388
   }

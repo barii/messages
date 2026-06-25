@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Leave it out.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10969
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Dejadlo ya.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10970
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Lasst es.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10971
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Deixa-te disso.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10972
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Zostawcie to.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10973
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Оставьте.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10974
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "得了吧。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10975
   }

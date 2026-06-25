@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You weren't saying that at the weekend.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11102
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "No decíais eso el fin de semana.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11103
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Am Wochenende habt ihr das nicht gesagt.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11104
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Não diziam isso no fim-de-semana.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11105
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Nie mówiliście tego w weekend.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11106
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Вы этого не говорили на выходных.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11107
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "周末你们可不是这么说的。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11108
   }

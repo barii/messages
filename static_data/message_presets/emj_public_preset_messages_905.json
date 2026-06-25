@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "You wouldn't believe who's messaging you",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6328
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "No creerías quién te está mensajeando",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6329
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Du würdest nicht glauben, wer dir schreibt",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6330
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Não acreditarias quem te está a mandar mensagens",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6331
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Nie uwierzyłbyś, kto do ciebie pisze",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6332
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Ты не поверишь, кто тебе пишет",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6333
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "你不会相信谁在给你发消息",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6334
   }

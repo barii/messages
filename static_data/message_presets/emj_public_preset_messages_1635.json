@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "This is sad.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11438
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Esto es triste.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11439
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Das ist traurig.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11440
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Isto é triste.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11441
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "To jest smutne.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11442
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Это печально.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11443
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "这真可悲。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11444
   }

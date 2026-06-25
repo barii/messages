@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Back to the drawing board!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12439
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Back to the drawing board!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12440
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Back to the drawing board!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12441
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Back to the drawing board!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12442
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Back to the drawing board!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12443
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Back to the drawing board!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12444
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Back to the drawing board!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12445
   }

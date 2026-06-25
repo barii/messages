@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Live your life",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4690
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Vive tu vida",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4691
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Lebe dein Leben",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4692
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Vive a tua vida",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4693
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Żyj swoim życiem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4694
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Живи своей жизнью",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4695
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "过你的生活",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4696
   }

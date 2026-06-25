@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Catch you later",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7819
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Te veo luego",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7820
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Bis später",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7821
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Falamos depois",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7822
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Pisz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7823
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Увидимся",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7824
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "回头见",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7825
   }

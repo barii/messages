@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "I have a feeling I know who this is",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5775
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Tengo la sensación de saber quién es",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5776
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Ich habe das Gefühl, ich weiß, wer das ist",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5777
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Tenho a sensação de saber quem é",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5778
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Mam wrażenie, że wiem, kto to",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5779
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "У меня есть чувство, что я знаю, кто это",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5780
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我有种感觉知道这是谁",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5781
   }

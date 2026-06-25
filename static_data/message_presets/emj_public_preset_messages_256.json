@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "I'm a friend of a friend",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1785
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Soy un amigo de un amigo",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1786
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Ich bin ein Freund eines Freundes",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1787
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Sou amigo de um amigo",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1788
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Jestem przyjacielem przyjaciela",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1789
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Я друг друга",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1790
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我是朋友的朋友",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1791
   }

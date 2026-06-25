@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Take the leap",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6706
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Da el paso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6707
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Wag den Sprung",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6708
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Dá o passo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6709
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Zrób ten krok",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6710
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Сделай прыжок",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6711
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "迈出那一步",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6712
   }

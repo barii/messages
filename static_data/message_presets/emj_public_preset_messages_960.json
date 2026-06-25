@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Talk to them about it",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6713
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Habla con ellos sobre esto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6714
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Sprich mit ihnen darüber",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6715
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Fala com eles sobre isto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6716
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Porozmawiaj z nimi o tym",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6717
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Поговори с ними об этом",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6718
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "和他们谈谈",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6719
   }

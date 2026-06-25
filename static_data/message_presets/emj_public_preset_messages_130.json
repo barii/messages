@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Is everything okay?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 903
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Va todo bien?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 904
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Ist alles okay?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 905
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Está tudo bem?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 906
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Wszystko w porządku?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 907
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Всё в порядке?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 908
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "一切都好吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 909
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you stressed?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 840
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Estás estresado?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 841
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Bist du gestresst?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 842
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás stressado?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 843
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Jesteś zestresowany?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 844
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты в стрессе?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 845
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你压力大吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 846
   }

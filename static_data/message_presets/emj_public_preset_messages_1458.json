@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We pumped you.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10199
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Os hemos hundido.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10200
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir haben euch zertrümmert.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10201
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Massacrámos-vos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10202
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Daliśmy wam baty.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10203
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы вас разнесли.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10204
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们碾压了你们。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10205
   }

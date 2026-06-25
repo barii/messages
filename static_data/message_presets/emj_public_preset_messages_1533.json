@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You're all talk and no action.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10724
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Sois todo palabras y nada de acción.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10725
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ihr seid nur Gerede und keine Taten.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10726
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "São só conversa e nada de acção.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10727
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Tylko gadanie i żadnej akcji.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10728
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Только разговоры и никаких действий.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10729
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "只会说不会做。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10730
   }

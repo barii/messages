@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Happy Easter",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8155
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Feliz Pascua",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8156
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Frohe Ostern",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8157
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Feliz Páscoa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8158
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Wesołych Świąt Wielkanocnych",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8159
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "С Пасхой",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8160
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "复活节快乐",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8161
   }

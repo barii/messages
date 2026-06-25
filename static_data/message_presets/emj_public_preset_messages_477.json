@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Pardon",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3332
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "¿Cómo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3333
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Wie bitte",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3334
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Como?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3335
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Słucham",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3336
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Прости?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3337
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "请再说?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3338
   }

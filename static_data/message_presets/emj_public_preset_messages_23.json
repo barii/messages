@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You always dress well",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 154
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Siempre vistes bien",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 155
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du ziehst dich immer gut an",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 156
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "Vestes-te sempre bem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 157
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Zawsze się dobrze ubierasz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 158
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты всегда хорошо одет",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 159
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你总是穿得很好",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 160
   }

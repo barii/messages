@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Shoot the ball, bricklayer!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12103
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Shoot the ball, bricklayer!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12104
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Shoot the ball, bricklayer!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12105
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Shoot the ball, bricklayer!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12106
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Shoot the ball, bricklayer!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12107
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Shoot the ball, bricklayer!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12108
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Shoot the ball, bricklayer!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12109
   }

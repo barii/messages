@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We don't just talk, we win.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10563
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "No solo hablamos, ganamos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10564
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir reden nicht nur, wir gewinnen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10565
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Não só falamos, ganhamos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10566
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Nie tylko gadamy, my wygrywamy.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10567
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы не просто говорим, мы выигрываем.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10568
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们不只是嘴上说,我们真的赢。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10569
   }

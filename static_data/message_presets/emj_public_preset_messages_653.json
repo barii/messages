@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Act your age",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4564
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Actúa tu edad",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4565
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Verhalte dich deinem Alter entsprechend",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4566
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Age conforme a tua idade",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4567
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Zachowuj się odpowiednio do wieku",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4568
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Веди себя по возрасту",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4569
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "按你的年龄行事",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4570
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Yikes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3829
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Vaya",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3830
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Oje",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3831
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Eita",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3832
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Auć",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3833
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Йикс",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3834
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "哎呀",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3835
   }

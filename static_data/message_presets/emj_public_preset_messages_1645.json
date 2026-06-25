@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You're getting sacked in the morning.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11508
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Os van a despedir por la mañana.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11509
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ihr werdet morgen entlassen.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11510
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Vão ser despedidos de manhã.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11511
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Zwolnią was rano.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11512
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Вас уволят утром.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11513
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们明早就要被解雇了。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11514
   }

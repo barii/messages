@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Trust yourself",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6384
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Confía en ti mismo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6385
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Vertraue dir selbst",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6386
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Confia em ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6387
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Zaufaj sobie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6388
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Доверяй себе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6389
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "相信自己",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6390
   }

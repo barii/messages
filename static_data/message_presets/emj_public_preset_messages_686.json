@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Tysm",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4795
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Tysm",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4796
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Tysm",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4797
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Tysm",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4798
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Tysm",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4799
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Tysm",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4800
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "Tysm",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4801
   }

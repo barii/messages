@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Is your team allergic to the ball?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9611
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "¿Vuestro equipo es alérgico a la pelota?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9612
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ist eure Mannschaft allergisch gegen den Ball?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9613
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "A vossa equipa é alérgica à bola?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9614
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Czy wasza drużyna ma alergię na piłkę?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9615
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "У вашей команды аллергия на мяч?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9616
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们队对球过敏吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9617
   }

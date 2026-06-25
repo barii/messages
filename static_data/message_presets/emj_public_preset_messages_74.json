@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "Always so extra",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 511
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "Siempre tan exagerado",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 512
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Immer so übertrieben",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 513
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Sempre tão exagerado",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 514
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "Zawsze taki przesadzony",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 515
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Всегда такой переигрывающий",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 516
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "总是这么做戏",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 517
   }

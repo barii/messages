@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Your keeper let in a worldie of a daisycutter.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9331
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vuestro portero ha encajado un golazo rastrero.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9332
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Euer Torwart hat einen Aufsetzer reingelassen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9333
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "O vosso guarda-redes sofreu um golo rasteiro.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9334
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wasz bramkarz wpuścił prostą piłkę.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9335
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Ваш вратарь пропустил простой удар.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9336
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们门将放进了个软绵绵的球。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9337
   }

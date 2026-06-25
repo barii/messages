@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Calm down",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4508
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Cálmate",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4509
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Beruhig dich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4510
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Acalma-te",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4511
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Uspokój się",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4512
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Успокойся",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4513
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "冷静",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4514
   }

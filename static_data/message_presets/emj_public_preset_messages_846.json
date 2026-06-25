@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I love you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5915
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Te amo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5916
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich liebe dich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5917
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Amo-te",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5918
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Kocham cię",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5919
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Я тебя люблю",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5920
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我爱你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5921
   }

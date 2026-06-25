@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Embarrassing to watch.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8652
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vergonzoso de ver.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8653
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Peinlich anzuschauen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8654
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vergonhoso de ver.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8655
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wstyd patrzeć.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8656
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Стыдно смотреть.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8657
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "看着就丢人。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8658
   }

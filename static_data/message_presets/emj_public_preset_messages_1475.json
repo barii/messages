@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Different class.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10318
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Otra clase.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10319
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Andere Klasse.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10320
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Outra classe.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10321
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Inna klasa.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10322
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Другой класс.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10323
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "另一档次。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10324
   }

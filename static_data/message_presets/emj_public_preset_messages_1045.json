@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Great meeting today, genuinely",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7308
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Gran reunión hoy, en serio",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7309
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Tolles Meeting heute, wirklich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7310
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Ótima reunião hoje, a sério",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7311
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Świetne spotkanie dzisiaj, naprawdę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7312
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Отличная встреча сегодня, честно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7313
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "今天的会议很棒,真的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7314
   }

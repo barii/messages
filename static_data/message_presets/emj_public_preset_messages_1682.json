@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Swing, batter, batter, swing!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11767
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Swing, batter, batter, swing!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11768
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Swing, batter, batter, swing!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11769
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Swing, batter, batter, swing!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11770
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Swing, batter, batter, swing!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11771
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Swing, batter, batter, swing!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11772
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Swing, batter, batter, swing!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11773
   }

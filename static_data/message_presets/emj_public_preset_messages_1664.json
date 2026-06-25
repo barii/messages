@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You don't know what you're talking about.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11641
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "No sabéis de lo que habláis.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11642
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ihr wisst nicht, wovon ihr redet.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11643
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Não sabem do que estão a falar.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11644
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Nie wiecie, o czym mówicie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11645
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Вы не знаете, о чём говорите.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11646
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们不知道自己在说什么。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11647
   }

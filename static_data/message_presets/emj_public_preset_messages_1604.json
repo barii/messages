@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Form is temporary.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11221
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "La forma es temporal.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11222
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Form ist temporär.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11223
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "A forma é temporária.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11224
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Forma jest tymczasowa.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11225
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Форма временна.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11226
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "状态是暂时的。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11227
   }

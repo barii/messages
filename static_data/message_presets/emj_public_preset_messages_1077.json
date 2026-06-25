@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Who keeps leaving the kitchen a mess?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7532
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "¿Quién deja la cocina así de sucia?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7533
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Wer hinterlässt die Küche immer so unordentlich?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7534
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Quem deixa a cozinha sempre uma confusão?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7535
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Kto ciągle zostawia bałagan w kuchni?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7536
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Кто постоянно оставляет беспорядок на кухне?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7537
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "是谁一直把厨房弄得一团糟?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7538
   }

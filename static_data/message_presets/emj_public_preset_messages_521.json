@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Restless",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3640
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Inquieto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3641
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ruhelos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3642
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Inquieto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3643
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Niespokojny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3644
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Беспокойно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3645
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "焦躁",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3646
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "I'm happy to reveal who I am",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5761
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Me alegra revelarte quién soy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5762
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Ich verrate gerne, wer ich bin",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5763
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Tenho todo o gosto em revelar quem sou",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5764
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Chętnie ujawnię, kim jestem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5765
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "С радостью раскрою, кто я",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5766
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我很乐意揭晓我是谁",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5767
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You're not looking too good right now.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8974
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "No os veis muy bien ahora mismo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8975
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr seht gerade nicht besonders gut aus.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8976
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Não estão com bom ar neste momento.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8977
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Nie wyglądacie teraz zbyt dobrze.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8978
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы сейчас выглядите неважно.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8979
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们现在看起来不太好。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8980
   }

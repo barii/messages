@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "We're average and we beat you.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11256
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Somos mediocres y os ganamos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11257
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Wir sind mittelmäßig und schlagen euch.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11258
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Somos medíocres e ganhámos-vos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11259
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Jesteśmy średni i wygraliśmy z wami.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11260
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Мы средние, но обыграли вас.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11261
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "我们平庸还赢了你们。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11262
   }

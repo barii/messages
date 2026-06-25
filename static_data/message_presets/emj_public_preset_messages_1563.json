@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Behave.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10934
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Comportaos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10935
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Benehmt euch.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10936
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Tem juízo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10937
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Zachowuj się.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10938
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Ведите себя прилично.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10939
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "规矩点。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10940
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "You always have my back at work",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7140
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Siempre me apoyas en el trabajo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7141
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Du hältst mir immer den Rücken frei bei der Arbeit",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7142
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Tens-me sempre as costas no trabalho",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7143
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Zawsze mnie wspierasz w pracy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7144
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Ты всегда меня поддерживаешь на работе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7145
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "你在工作上一直支持我",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7146
   }

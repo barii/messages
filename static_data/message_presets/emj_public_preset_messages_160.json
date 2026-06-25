@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Do you believe in soulmates?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1113
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Crees en las almas gemelas?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1114
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Glaubst du an Seelenverwandte?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1115
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Acreditas em almas gémeas?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1116
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Wierzysz w bratnie dusze?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1117
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты веришь в родственные души?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1118
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你相信灵魂伴侣吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1119
   }

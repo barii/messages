@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Why are you like this in the best way",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5670
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "¿Por qué eres así, pero en el buen sentido?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5671
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Warum bist du so im besten Sinne?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5672
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Porque és assim, mas do bom?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5673
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Dlaczego jesteś taki w najlepszy sposób?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5674
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Почему ты такой в хорошем смысле?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5675
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "你为什么这么好的方式?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5676
   }

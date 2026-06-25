@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You got mugged off.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9212
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Os han engañado.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9213
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr seid verarscht worden.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9214
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Foram enganados.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9215
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Daliście się okantować.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9216
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вас обвели вокруг пальца.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9217
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们被玩了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9218
   }

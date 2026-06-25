@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "That's a bit personal",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3668
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Es un poco personal",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3669
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Das ist etwas persönlich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3670
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Isso é um bocado pessoal",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3671
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "To trochę osobiste",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3672
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Это немного личное",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3673
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "这有点私人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3674
   }

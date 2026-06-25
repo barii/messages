@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Of course",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2891
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Por supuesto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2892
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Natürlich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2893
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Claro que sim",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2894
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Oczywiście",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2895
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Естественно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2896
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "当然",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2897
   }

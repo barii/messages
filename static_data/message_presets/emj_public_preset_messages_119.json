@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Did you sleep okay?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 826
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Has dormido bien?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 827
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Hast du gut geschlafen?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 828
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Dormiste bem?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 829
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Dobrze spałeś?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 830
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Хорошо спал?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 831
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你睡得好吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 832
   }

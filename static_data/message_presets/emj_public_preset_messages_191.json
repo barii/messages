@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "You sure about that?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1330
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Estás seguro de eso?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1331
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Bist du dir da sicher?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1332
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Tens a certeza disso?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1333
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Jesteś tego pewien?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1334
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты в этом уверен?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1335
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你确定吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1336
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Sure thing.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10913
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Claro que sí.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10914
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Sicher.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10915
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Claro.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10916
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Jasne.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10917
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Конечно.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10918
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "当然啦。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10919
   }

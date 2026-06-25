@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Aw that's so cute",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5033
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Aww qué tierno",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5034
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Aw das ist so süß",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5035
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Aww que querido",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5036
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Aww jakie to słodkie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5037
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Аввв как мило",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5038
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "啊真可爱",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5039
   }

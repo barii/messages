@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Pub team performance.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9709
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Actuación de equipo de bar.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9710
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Kreisliga-Auftritt.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9711
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Actuação de equipa de bairro.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9712
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Występ drużyny z baru.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9713
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Игра дворовой команды.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9714
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "酒吧队水平的表现。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9715
   }

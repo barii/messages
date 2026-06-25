@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "You need a map to find the basket!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12040
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "You need a map to find the basket!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12041
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "You need a map to find the basket!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12042
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "You need a map to find the basket!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12043
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "You need a map to find the basket!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12044
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "You need a map to find the basket!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12045
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "You need a map to find the basket!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12046
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Go outside.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11291
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Salid a la calle.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11292
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Geht raus.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11293
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Saiam à rua.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11294
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Wyjdźcie na zewnątrz.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11295
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Выйдите на улицу.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11296
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "出门走走吧。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11297
   }

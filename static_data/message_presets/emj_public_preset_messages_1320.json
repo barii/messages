@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "See you in the Championship.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9233
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "See you in the Championship.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9234
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "See you in the Championship.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9235
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "See you in the Championship.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9236
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "See you in the Championship.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9237
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "See you in the Championship.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9238
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "See you in the Championship.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9239
   }

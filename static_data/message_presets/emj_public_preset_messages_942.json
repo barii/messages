@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Protect your peace",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6587
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Protege tu paz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6588
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Schütze deinen Frieden",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6589
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Protege a tua paz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6590
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Chroń swój spokój",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6591
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Защищай свой покой",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6592
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "保护你的平静",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6593
   }

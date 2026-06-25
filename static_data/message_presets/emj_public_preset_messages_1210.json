@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "If you were a fruit you would be a fineapple",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8463
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "Si fueras una fruta serías una piñísima",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8464
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Wenn du eine Frucht wärst, wärst du eine Anananas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8465
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "Se fosses uma fruta serias um anan-lindo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8466
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Gdybyś był owocem, byłbyś ślicznasem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8467
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Если бы ты был фруктом, ты был бы прекрасным ананасиком",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8468
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "如果你是水果,你就是个完美菠萝",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8469
   }

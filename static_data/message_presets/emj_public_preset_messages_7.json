@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "Your energy is contagious",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 42
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Tu energía es contagiosa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 43
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Deine Energie ist ansteckend",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 44
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "A tua energia é contagiante",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 45
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Twoja energia jest zaraźliwa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 46
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Твоя энергия заразительна",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 47
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你的能量有感染力",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 48
   }

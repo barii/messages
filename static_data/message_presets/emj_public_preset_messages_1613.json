@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Touch grass.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11284
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Touch grass.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11285
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Touch grass.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11286
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Touch grass.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11287
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Touch grass.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11288
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Touch grass.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11289
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "Touch grass.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11290
   }

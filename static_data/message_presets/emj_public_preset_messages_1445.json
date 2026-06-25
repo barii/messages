@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Back to winning ways.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10108
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "De vuelta a las victorias.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10109
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Zurück auf der Erfolgsspur.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10110
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "De volta às vitórias.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10111
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Powrót na ścieżkę zwycięstw.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10112
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Возвращение к победам.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10113
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "回到胜利轨道。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10114
   }

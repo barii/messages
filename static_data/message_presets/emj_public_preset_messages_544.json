@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Unhinged",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 3801
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Sin filtro",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 3802
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Wahnsinn",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 3803
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Sem freio",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 3804
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Niezrównoważone",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 3805
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Неуравновешенно",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 3806
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "失控",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 3807
   }

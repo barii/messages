@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "What a goal!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10031
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "¡Qué gol!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10032
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Was für ein Tor!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10033
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Que golo!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10034
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Co za gol!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10035
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Какой гол!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10036
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "什么进球啊!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10037
   }

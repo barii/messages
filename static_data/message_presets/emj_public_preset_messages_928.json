@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Get some sleep",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6489
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Duerme un poco",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6490
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Schlaf etwas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6491
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Dorme um pouco",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6492
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Prześpij się",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6493
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Поспи",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6494
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "睡一觉",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6495
   }

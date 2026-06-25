@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You were really harsh today",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7021
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Fuiste muy duro hoy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7022
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du warst heute wirklich hart",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7023
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Foste mesmo duro hoje",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7024
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Byłeś dziś naprawdę surowy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7025
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Ты был сегодня очень резок",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7026
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你今天真的很刻薄",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7027
   }

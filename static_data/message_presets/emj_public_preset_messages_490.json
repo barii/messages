@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Wow",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3423
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Wow",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3424
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Wow",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3425
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Uau",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3426
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Wow",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3427
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Вау",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3428
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "哇",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3429
   }

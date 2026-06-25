@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Same to you and yours",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8330
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Lo mismo para ti y los tuyos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8331
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Dir und deinen Lieben auch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8332
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Igualmente para ti e os teus",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8333
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Tego samego tobie i twoim bliskim",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8334
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "И тебе и твоим близким",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8335
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "也祝你和你的家人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8336
   }

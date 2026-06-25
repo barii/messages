@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "You deserve recognition",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7161
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Te mereces reconocimiento",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7162
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Du verdienst Anerkennung",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7163
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Mereces reconhecimento",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7164
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Zasługujesz na uznanie",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7165
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Ты заслуживаешь признание",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7166
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "你应得到认可",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7167
   }

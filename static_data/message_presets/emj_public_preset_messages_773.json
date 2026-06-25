@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "This is sending me",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5404
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Esto me mata",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5405
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Das bringt mich um",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5406
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Isto está a matar-me",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5407
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "To mnie zabija",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5408
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Это меня убивает",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5409
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "这让我笑死了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5410
   }

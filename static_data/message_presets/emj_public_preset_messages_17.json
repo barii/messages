@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're so smart",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 112
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres muy inteligente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 113
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist so schlau",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 114
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És tão inteligente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 115
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś taki mądry",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 116
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты такой умный",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 117
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你很聪明",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 118
   }

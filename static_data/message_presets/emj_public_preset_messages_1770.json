@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Just like practice!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12383
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Just like practice!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12384
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Just like practice!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12385
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Just like practice!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12386
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Just like practice!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12387
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Just like practice!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12388
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Just like practice!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12389
   }

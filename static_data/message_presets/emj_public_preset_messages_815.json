@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Did that line actually work on someone before?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5698
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "¿Esa frase de verdad funcionó con alguien?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5699
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Hat diese Zeile wirklich schon mal bei jemandem funktioniert?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5700
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Essa cantada já funcionou com alguém antes?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5701
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Czy ten tekst naprawdę zadziałał na kogoś wcześniej?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5702
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Эта фраза правда сработала с кем-то раньше?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5703
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "这句话以前真的对人管用过吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5704
   }

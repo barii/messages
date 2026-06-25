@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you sure?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1323
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Seguro?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1324
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Bist du sicher?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1325
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Tens a certeza?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1326
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Jesteś pewien?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1327
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты уверен?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1328
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你确定吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1329
   }

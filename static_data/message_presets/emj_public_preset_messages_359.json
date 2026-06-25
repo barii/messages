@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm Middle Eastern",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2506
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy de Oriente Medio",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2507
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin Nahöstler",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2508
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou do Médio Oriente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2509
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem z Bliskiego Wschodu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2510
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я с Ближнего Востока",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2511
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是中东人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2512
   }

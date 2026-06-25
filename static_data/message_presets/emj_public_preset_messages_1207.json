@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "Are you a campfire because you're hot and I want some s'mores?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8442
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "¿Eres una fogata? Porque estás caliente y quiero acercarme",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8443
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Bist du ein Lagerfeuer? Denn du bist heiß und ich will näher ran",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8444
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "És uma fogueira? Porque és quente e quero chegar perto",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8445
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Jesteś ogniskiem? Bo jesteś gorący i chcę się zbliżyć",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8446
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Ты костёр? Потому что ты горячий и я хочу быть рядом",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8447
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "你是篝火吗?因为你很热,我想靠近",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8448
   }

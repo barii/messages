@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I'm seeing someone",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6230
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Estoy saliendo con alguien",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6231
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich bin mit jemandem zusammen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6232
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Estou a sair com alguém",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6233
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Spotykam się z kimś",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6234
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Я с кем-то встречаюсь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6235
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我正在和别人交往",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6236
   }

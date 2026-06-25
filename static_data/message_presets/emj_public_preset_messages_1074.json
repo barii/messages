@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "I love being at this company",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7511
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Me encanta estar en esta empresa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7512
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Ich liebe es, in diesem Unternehmen zu sein",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7513
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Adoro estar nesta empresa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7514
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Uwielbiam pracować w tej firmie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7515
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Мне нравится работать в этой компании",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7516
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "我喜欢在这家公司",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7517
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Sending good vibes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8281
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Te mando buenas vibras",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8282
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Sende dir gute Vibes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8283
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "A mandar-te boas vibrações",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8284
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Wysyłam dobre wibracje",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8285
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "Шлю хорошие вибрации",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8286
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "送上好的祝福",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8287
   }

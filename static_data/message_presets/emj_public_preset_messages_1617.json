@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You need to log off.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11312
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Tenéis que desconectar.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11313
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ihr müsst offline gehen.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11314
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Têm de desligar.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11315
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Musicie się wylogować.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11316
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Вам нужно отключиться.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11317
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们需要下线。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11318
   }

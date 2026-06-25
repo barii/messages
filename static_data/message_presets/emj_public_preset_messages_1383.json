@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Fell apart again.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9674
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Os habéis caído otra vez.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9675
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Wieder auseinandergefallen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9676
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Desabaram outra vez.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9677
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Znowu się rozpadliście.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9678
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Снова развалились.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9679
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "又一次崩塌了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9680
   }

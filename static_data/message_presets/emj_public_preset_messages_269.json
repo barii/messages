@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "I'm a guy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1876
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Soy un chico",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1877
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Ich bin ein Typ",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1878
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Sou um rapaz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1879
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Jestem facetem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1880
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Я парень",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1881
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我是男生",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1882
   }

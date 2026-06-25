@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Is that your best?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8694
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "¿Eso es lo mejor que sabéis hacer?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8695
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ist das euer Bestes?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8696
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "É o melhor que conseguem?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8697
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "To wasze najlepsze wykonanie?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8698
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Это ваше лучшее?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8699
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "这就是你们最好的水平?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8700
   }

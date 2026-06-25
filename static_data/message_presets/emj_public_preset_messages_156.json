@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you a night owl?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1085
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Eres nocturno?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1086
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Bist du ein Nachtmensch?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1087
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "És da noite?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1088
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Jesteś nocnym markiem?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1089
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты сова?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1090
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你是夜猫子吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1091
   }

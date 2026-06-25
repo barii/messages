@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Do you know who this is?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1358
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Sabes quién soy?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1359
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Weißt du, wer das ist?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1360
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Sabes quem é?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1361
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Wiesz, kto to?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1362
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты знаешь, кто это?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1363
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你知道这是谁吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1364
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "I really don't care",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4361
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Realmente no me importa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4362
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Es ist mir wirklich egal",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4363
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Realmente não me interessa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4364
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Naprawdę nie obchodzi mnie to",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4365
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Мне действительно всё равно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4366
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "我真的不在乎",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4367
   }

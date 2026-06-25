@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "You need to chill",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4522
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Tranquilízate",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4523
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Du musst dich beruhigen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4524
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Tens de acalmar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4525
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Musisz się uspokoić",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4526
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Тебе нужно успокоиться",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4527
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "你需要冷静",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4528
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Another clean sheet.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10094
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Otra portería a cero.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10095
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Noch ein weißes Trikot.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10096
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Mais uma baliza a zero.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10097
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Kolejne czyste konto.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10098
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Ещё один сухой матч.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10099
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "又一场零封。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10100
   }

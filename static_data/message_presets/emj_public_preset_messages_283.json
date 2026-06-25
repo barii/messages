@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "Ask me to reveal myself if you want to know",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1974
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Pídeme que me revele si quieres saber",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1975
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Bitte mich, mich zu offenbaren, wenn du es wissen willst",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1976
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Pede-me para me revelar se quiseres saber",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1977
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Poproś mnie, abym się ujawnił, jeśli chcesz wiedzieć",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1978
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Попроси меня раскрыться, если хочешь знать",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1979
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "如果你想知道就让我揭晓",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1980
   }

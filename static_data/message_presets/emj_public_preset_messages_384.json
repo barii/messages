@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm always reading something",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2681
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Siempre estoy leyendo algo",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2682
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich lese immer etwas",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2683
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Estou sempre a ler alguma coisa",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2684
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Zawsze coś czytam",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2685
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я всегда что-то читаю",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2686
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我总在读什么",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2687
   }

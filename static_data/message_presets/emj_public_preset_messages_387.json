@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm trying to get into the gym",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2702
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Estoy intentando ir al gimnasio",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2703
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich versuche, ins Fitnessstudio zu gehen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2704
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Estou a tentar começar a ir ao ginásio",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2705
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Próbuję zacząć chodzić na siłownię",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2706
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я пытаюсь начать ходить в спортзал",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2707
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我在尝试去健身房",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2708
   }

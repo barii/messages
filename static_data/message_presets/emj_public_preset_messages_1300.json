@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Have a word with yourself.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9093
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Echaos una pensada.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9094
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Denkt mal nach.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9095
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Tem juízo, vá.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9096
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Pomyślcie nad sobą.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9097
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Подумайте о себе.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9098
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "好好想想自己。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9099
   }

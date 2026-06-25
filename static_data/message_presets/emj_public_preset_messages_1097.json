@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Hey",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7672
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Hey",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7673
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Hey",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7674
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Ei",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7675
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Hej",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7676
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Хей",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7677
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "嘿",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7678
   }

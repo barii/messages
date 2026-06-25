@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're the friend everyone wishes they had",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 343
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres el amigo que todos querrían tener",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 344
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist der Freund, den sich jeder wünscht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 345
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És o amigo que toda a gente desejava ter",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 346
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś przyjacielem, jakiego każdy chciałby mieć",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 347
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты тот друг, которого все хотели бы иметь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 348
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你是每个人都希望拥有的朋友",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 349
   }

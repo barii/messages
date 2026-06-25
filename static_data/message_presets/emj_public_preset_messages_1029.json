@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Your work ethic is unmatched",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7196
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Tu ética de trabajo no tiene igual",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7197
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Deine Arbeitsmoral ist unübertroffen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7198
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "A tua ética de trabalho não tem igual",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7199
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Twoja etyka pracy jest niezrównana",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7200
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Твоя рабочая этика непревзойдённа",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7201
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "你的职业道德无与伦比",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7202
   }

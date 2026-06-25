@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You what.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9142
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "¿Cómo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9143
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Was bitte.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9144
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Hã?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9145
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Co proszę.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9146
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Что-что.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9147
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "啥?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9148
   }

@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Can't touch this!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12285
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Can't touch this!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12286
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Can't touch this!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12287
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Can't touch this!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12288
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Can't touch this!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12289
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Can't touch this!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12290
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Can't touch this!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12291
   }

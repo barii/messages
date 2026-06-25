@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "We're bad and we beat you.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11249
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Estamos mal y os ganamos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11250
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Wir sind schlecht und schlagen euch.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11251
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Estamos mal e ganhámos-vos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11252
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Jesteśmy słabi i wygraliśmy z wami.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11253
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Мы плохие, но обыграли вас.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11254
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "我们状态差还赢了你们。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11255
   }

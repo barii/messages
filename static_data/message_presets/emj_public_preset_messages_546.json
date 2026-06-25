@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Oh no",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3815
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Oh no",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3816
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Oh nein",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3817
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Oh não",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3818
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Och nie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3819
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "О нет",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3820
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "哦不",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3821
   }

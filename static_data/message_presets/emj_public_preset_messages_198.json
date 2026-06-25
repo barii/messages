@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Want to take a guess?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1379
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Quieres intentar adivinar?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1380
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Möchtest du raten?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1381
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Queres tentar adivinhar?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1382
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Chcesz spróbować zgadnąć?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1383
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Хочешь попробовать угадать?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1384
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "想试试猜吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1385
   }

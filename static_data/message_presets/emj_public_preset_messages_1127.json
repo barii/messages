@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Hey stranger",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7882
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Hola, desconocido",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7883
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Hey Fremder",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7884
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Olá estranho",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7885
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Hej obcy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7886
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Привет, незнакомец",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7887
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "嘿陌生人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7888
   }

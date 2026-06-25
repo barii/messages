@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You're not singing anymore.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10703
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Ya no estáis cantando.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10704
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ihr singt nicht mehr.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10705
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Já não estão a cantar.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10706
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Już nie śpiewacie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10707
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Вы больше не поёте.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10708
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们不再唱歌了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10709
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Smooth talker",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5621
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Qué labia",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5622
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Charmeur",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5623
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Falinhas mansas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5624
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Słodki gaduła",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5625
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Сладкоречивый",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5626
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "甜言蜜语家",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5627
   }

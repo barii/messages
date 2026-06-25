@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Manager out by Christmas.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9450
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Entrenador fuera antes de Navidad.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9451
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Trainer raus vor Weihnachten.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9452
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Treinador fora até ao Natal.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9453
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Trener wylatuje przed Bożym Narodzeniem.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9454
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Тренер уйдёт до Рождества.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9455
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "教练撑不到圣诞节。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9456
   }

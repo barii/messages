@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You give criticism but can't take it",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6958
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Das críticas pero no las aceptas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6959
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du teilst Kritik aus, kannst sie aber nicht nehmen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6960
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Dás críticas mas não as aceitas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6961
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Dajesz krytykę, ale nie potrafisz jej przyjąć",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6962
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Ты даёшь критику, но не можешь её принять",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6963
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你给批评但承受不了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6964
   }

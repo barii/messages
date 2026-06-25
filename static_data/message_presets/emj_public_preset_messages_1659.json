@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Good try.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11606
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Buen intento.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11607
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Schöner Versuch.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11608
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Boa tentativa.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11609
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Dobra próba.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11610
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Хорошая попытка.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11611
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "好尝试。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11612
   }

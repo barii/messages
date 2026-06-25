@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I think we would be good together",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5845
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Creo que seríamos buenos juntos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5846
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich denke, wir wären gut zusammen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5847
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Acho que daríamos bem juntos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5848
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Myślę, że byłoby nam dobrze razem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5849
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Думаю, нам было бы хорошо вместе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5850
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我觉得我们在一起会很好",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5851
   }

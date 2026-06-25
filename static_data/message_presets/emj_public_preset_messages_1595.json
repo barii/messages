@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Always the ref's fault.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11158
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Siempre la culpa del árbitro.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11159
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Immer ist der Schiri schuld.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11160
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Sempre a culpa do árbitro.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11161
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Zawsze wina sędziego.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11162
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Всегда вина судьи.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11163
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "总是怪裁判。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11164
   }

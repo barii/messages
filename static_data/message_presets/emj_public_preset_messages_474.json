@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "What?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3311
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "¿Qué?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3312
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Was?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3313
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "O quê?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3314
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Co?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3315
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Что?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3316
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "什么?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3317
   }

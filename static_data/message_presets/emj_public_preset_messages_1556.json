@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Quiet now.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10885
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Silencio ahora.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10886
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ruhe jetzt.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10887
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Caluda agora.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10888
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Cisza teraz.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10889
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Тихо.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10890
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "现在安静点。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10891
   }

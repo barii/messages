@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "Highkey think you're cute",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8589
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "Sin filtro creo que eres lindo",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8590
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Highkey finde ich dich süß",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8591
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "Highkey acho que és giro",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8592
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Highkey myślę, że jesteś słodki",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8593
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Хайкей думаю, ты милый",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8594
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "大方说我觉得你很可爱",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8595
   }

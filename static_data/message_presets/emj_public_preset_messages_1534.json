@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "We're not going down.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10731
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "No nos vamos a segunda.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10732
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Wir steigen nicht ab.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10733
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Não vamos descer.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10734
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Nie spadamy.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10735
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Мы не вылетаем.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10736
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "我们不会降级。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10737
   }

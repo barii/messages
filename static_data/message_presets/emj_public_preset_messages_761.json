@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "No pressure",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5320
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Sin presión",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5321
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Kein Druck",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5322
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Sem pressão",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5323
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Bez presji",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5324
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Без давления",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5325
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "别有压力",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5326
   }

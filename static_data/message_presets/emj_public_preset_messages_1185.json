@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Wishing you a great weekend",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8288
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Que tengas un gran fin de semana",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8289
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Wünsche dir ein tolles Wochenende",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8290
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Desejo-te um ótimo fim de semana",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8291
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Życzę świetnego weekendu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8292
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "Желаю отличных выходных",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8293
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "祝你周末愉快",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8294
   }

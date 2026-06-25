@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You make me a better person",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 252
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Me haces ser mejor persona",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 253
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du machst mich zu einem besseren Menschen",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 254
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "Tornas-me uma pessoa melhor",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 255
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Sprawiasz, że jestem lepszą osobą",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 256
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты делаешь меня лучше",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 257
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你让我成为更好的人",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 258
   }

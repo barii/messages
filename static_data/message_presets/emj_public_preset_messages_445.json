@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Sounds great",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3108
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Suena genial",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3109
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Klingt super",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3110
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Soa ótimo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3111
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Brzmi świetnie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3112
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Звучит отлично",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3113
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "听起来很棒",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3114
   }

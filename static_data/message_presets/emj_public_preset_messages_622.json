@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Not interested, sorry",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4347
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "No me interesa, lo siento",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4348
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Nicht interessiert, sorry",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4349
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Sem interesse, desculpa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4350
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Nie zainteresowany, sorry",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4351
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Не интересно, извини",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4352
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "没兴趣,抱歉",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4353
   }

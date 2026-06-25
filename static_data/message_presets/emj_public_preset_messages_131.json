@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Is everything good with you?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 910
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Te va todo bien?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 911
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Geht alles gut bei dir?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 912
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Está tudo bem contigo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 913
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Wszystko dobrze u ciebie?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 914
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "У тебя всё хорошо?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 915
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你那边一切都好吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 916
   }

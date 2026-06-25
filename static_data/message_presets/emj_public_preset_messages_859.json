@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "You're beautiful",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6006
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Eres precioso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6007
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Du bist schön",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6008
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "És lindo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6009
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Jesteś piękny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6010
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Ты красивый",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6011
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "你很美",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6012
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Someone keeps stealing my lunch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7525
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Alguien me sigue robando el almuerzo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7526
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Jemand klaut weiter mein Mittagessen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7527
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Alguém continua a roubar-me o almoço",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7528
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Ktoś ciągle kradnie mój lunch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7529
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Кто-то постоянно крадёт мой обед",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7530
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "有人一直偷我的午餐",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7531
   }

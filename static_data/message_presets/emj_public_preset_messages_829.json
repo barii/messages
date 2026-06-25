@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I like you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5796
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Me gustas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5797
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich mag dich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5798
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Gosto de ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5799
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Podobasz mi się",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5800
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Ты мне нравишься",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5801
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我喜欢你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5802
   }

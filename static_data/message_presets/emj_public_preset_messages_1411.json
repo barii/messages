@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "The greatest team the world has ever seen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9870
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "El mejor equipo que el mundo haya visto jamás.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9871
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Die größte Mannschaft, die die Welt je gesehen hat.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9872
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "A maior equipa que o mundo já viu.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9873
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Największa drużyna, jaką świat kiedykolwiek widział.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9874
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Величайшая команда, которую видел мир.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9875
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "世界见过的最伟大的球队。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9876
   }

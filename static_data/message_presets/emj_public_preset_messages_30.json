@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're great at what you do",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 203
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres genial en lo que haces",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 204
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist toll in dem, was du tust",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 205
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És ótimo no que fazes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 206
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś świetny w tym, co robisz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 207
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты отлично справляешься с тем, что делаешь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 208
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你做得很好",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 209
   }

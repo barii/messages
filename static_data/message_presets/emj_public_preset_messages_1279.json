@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You have to live with failures – it's your way of life.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8946
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Tenéis que vivir con los fracasos – es vuestro modo de vida.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8947
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr müsst mit Misserfolgen leben – das ist eure Lebensart.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8948
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Têm de viver com fracassos – é o vosso modo de vida.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8949
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Musicie żyć z porażkami – to wasz sposób na życie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8950
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вам приходится жить с поражениями — это ваш образ жизни.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8951
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们必须接受失败 — 这就是你们的生活方式。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8952
   }

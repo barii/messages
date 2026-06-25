@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Go for a walk.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11298
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Id a dar un paseo.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11299
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Geht spazieren.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11300
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Vão dar uma volta.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11301
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Idźcie na spacer.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11302
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Сходите прогуляйтесь.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11303
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "去散散步。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11304
   }

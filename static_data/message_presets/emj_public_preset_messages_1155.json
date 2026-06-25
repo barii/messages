@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Make today a good one",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8078
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Haz que hoy sea un buen día",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8079
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Mach den Tag zu einem guten",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8080
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Faz de hoje um bom dia",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8081
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Niech dzisiaj będzie dobry dzień",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8082
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Сделай этот день хорошим",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8083
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "把今天过得美好",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8084
   }

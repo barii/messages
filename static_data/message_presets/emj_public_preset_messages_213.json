@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Did we ever date?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1484
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Salimos alguna vez?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1485
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Hatten wir je was miteinander?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1486
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Já namorámos?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1487
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Czy kiedykolwiek się umawialiśmy?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1488
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Мы когда-нибудь встречались?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1489
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "我们以前约会过吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1490
   }

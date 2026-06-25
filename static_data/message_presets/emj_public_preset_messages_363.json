@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm African",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2534
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy africano",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2535
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin Afrikaner",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2536
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou africano",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2537
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem Afrykaninem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2538
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я африканец",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2539
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是非洲人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2540
   }

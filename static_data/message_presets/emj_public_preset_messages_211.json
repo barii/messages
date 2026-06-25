@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Did we meet at the gym?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1470
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Nos conocimos en el gimnasio?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1471
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Haben wir uns im Fitnessstudio kennengelernt?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1472
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Conhecemo-nos no ginásio?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1473
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Poznaliśmy się na siłowni?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1474
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Мы познакомились в спортзале?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1475
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "我们是在健身房认识的吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1476
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "We met recently",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1869
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Nos conocimos hace poco",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1870
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Wir haben uns kürzlich kennengelernt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1871
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Conhecemo-nos recentemente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1872
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Poznaliśmy się niedawno",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1873
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Мы недавно познакомились",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1874
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我们最近认识的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1875
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "I'm family",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1792
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Soy familia",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1793
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Ich bin Familie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1794
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Sou família",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1795
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Jestem rodziną",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1796
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Я семья",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1797
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我是家人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1798
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Sending love",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3934
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Te mando amor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3935
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Sende Liebe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3936
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "A mandar amor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3937
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Wysyłam miłość",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3938
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Шлю любовь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3939
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "送上爱",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3940
   }

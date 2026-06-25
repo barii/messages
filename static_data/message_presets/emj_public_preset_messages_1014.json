@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "I care about you, that's why I'm telling you this",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7091
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Me importas, por eso te lo digo",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7092
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Mir liegt etwas an dir, deshalb sage ich dir das",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7093
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Importo-me contigo, por isso te estou a dizer",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7094
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Zależy mi na tobie, dlatego ci to mówię",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7095
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Мне не всё равно, поэтому я тебе это говорю",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7096
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "我在乎你,所以我才告诉你这些",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7097
   }

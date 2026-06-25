@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Absolutely",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2905
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Absolutamente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2906
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Absolut",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2907
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Absolutamente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2908
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Absolutnie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2909
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Абсолютно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2910
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "绝对",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2911
   }

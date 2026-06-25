@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're doing better than you think",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 301
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Lo estás haciendo mejor de lo que crees",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 302
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du machst es besser, als du denkst",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 303
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "Estás a ir melhor do que pensas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 304
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Idzie ci lepiej, niż myślisz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 305
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "У тебя получается лучше, чем ты думаешь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 306
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你做得比你想的要好",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 307
   }

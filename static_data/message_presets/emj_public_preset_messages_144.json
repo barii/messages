@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you free?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1001
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Estás libre?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1002
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Hast du Zeit?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1003
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás livre?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1004
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Jesteś wolny?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1005
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты свободен?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1006
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你有空吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1007
   }

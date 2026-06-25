@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm sad",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2009
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Estoy triste",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2010
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin traurig",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2011
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Estou triste",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2012
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem smutny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2013
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Мне грустно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2014
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我难过",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2015
   }

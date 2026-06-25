@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "You're joking",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3416
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Bromeas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3417
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Du machst Witze",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3418
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Estás a brincar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3419
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Żartujesz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3420
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Ты шутишь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3421
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "你在开玩笑",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3422
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm Asian",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2464
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy asiático",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2465
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin asiatisch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2466
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou asiático",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2467
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem azjatą",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2468
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я азиат",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2469
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是亚洲人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2470
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I needed to hear that",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4207
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Necesitaba escuchar eso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4208
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Das musste ich hören",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4209
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Precisava de ouvir isso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4210
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Musiałem to usłyszeć",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4211
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Мне нужно было это услышать",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4212
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我需要听到这个",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4213
   }

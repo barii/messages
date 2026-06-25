@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "We want a pitcher, not a belly itcher!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11725
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "We want a pitcher, not a belly itcher!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11726
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "We want a pitcher, not a belly itcher!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11727
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "We want a pitcher, not a belly itcher!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11728
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "We want a pitcher, not a belly itcher!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11729
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "We want a pitcher, not a belly itcher!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11730
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "We want a pitcher, not a belly itcher!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11731
   }

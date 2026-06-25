@@ -6,7 +6,7 @@
     "lang": "EN",
     "category": "American sports",
     "text": "MLB Baseball Teams",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "⚾",
     "continent": "American"
@@ -18,7 +18,7 @@
     "lang": "ES",
     "category": "Deportes americanos",
     "text": " Equipos de Béisbol de la MLB",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "⚾",
     "continent": "American"
@@ -30,7 +30,7 @@
     "lang": "DE",
     "category": "Amerikanische Sportarten",
     "text": "MLB Baseball Teams",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "⚾",
     "continent": "American"
@@ -42,7 +42,7 @@
     "lang": "PL",
     "category": "Amerykańskie sporty",
     "text": "Drużyny baseballowe MLB",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "⚾",
     "continent": "American"
@@ -54,7 +54,7 @@
     "lang": "RU",
     "category": "Американские виды спорта",
     "text": "Команды бейсбольной лиги MLB",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "⚾",
     "continent": "American"
@@ -66,7 +66,7 @@
     "lang": "PT",
     "category": "Esportes americanos",
     "text": "Times de Beisebol da MLB",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "⚾",
     "continent": "American"
@@ -78,7 +78,7 @@
     "lang": "CN",
     "category": "美国体育",
     "text": "MLB棒球队",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "⚾",
     "continent": "American"

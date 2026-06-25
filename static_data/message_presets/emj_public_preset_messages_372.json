@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm a foodie",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2597
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy foodie",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2598
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin ein Foodie",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2599
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou foodie",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2600
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem foodie",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2601
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я фуди",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2602
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是美食爱好者",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2603
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Say less",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3157
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "No digas más",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3158
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Sag nicht mehr",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3159
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Não digas mais",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3160
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Nie mów więcej",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3161
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Не говори больше",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3162
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "不用多说",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3163
   }

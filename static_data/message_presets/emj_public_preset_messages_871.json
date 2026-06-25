@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "Looking good today",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6090
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Te ves bien hoy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6091
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Siehst heute gut aus",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6092
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Estás bem hoje",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6093
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Wyglądasz dziś dobrze",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6094
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Хорошо выглядишь сегодня",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6095
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "今天看起来不错",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6096
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Actions speak louder than words",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4494
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Las acciones valen más que las palabras",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4495
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Taten sagen mehr als Worte",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4496
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Ações falam mais alto que palavras",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4497
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Czyny mówią głośniej niż słowa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4498
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Действия говорят громче слов",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4499
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "行动比言语更重要",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4500
   }

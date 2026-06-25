@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Is something on your mind?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 896
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Te ronda algo por la cabeza?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 897
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Geht dir was durch den Kopf?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 898
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Tens algo na cabeça?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 899
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Czy coś cię gnębi?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 900
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Тебя что-то беспокоит?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 901
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你心里有事吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 902
   }

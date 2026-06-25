@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We've got the trophies, you've got the excuses.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10549
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Nosotros tenemos los trofeos, vosotros las excusas.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10550
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir haben die Pokale, ihr habt die Ausreden.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10551
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Nós temos os troféus, vocês têm as desculpas.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10552
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "My mamy trofea, wy macie wymówki.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10553
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "У нас трофеи, у вас оправдания.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10554
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们有奖杯,你们有借口。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10555
   }

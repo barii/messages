@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Do you want to grab a drink?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1239
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Quieres tomar algo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1240
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Wollen wir was trinken gehen?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1241
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Queres ir beber algo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1242
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Chcesz się napić czegoś?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1243
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Хочешь сходить выпить?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1244
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "想喝一杯吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1245
   }

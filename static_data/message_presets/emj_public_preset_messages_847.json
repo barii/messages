@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I love you too",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5922
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Yo también te amo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5923
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich liebe dich auch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5924
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Também te amo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5925
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Też cię kocham",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5926
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Я тоже тебя люблю",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5927
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我也爱你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5928
   }

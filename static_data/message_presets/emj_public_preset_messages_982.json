@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You can be really selfish sometimes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6867
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "A veces puedes ser muy egoísta",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6868
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du kannst manchmal sehr egoistisch sein",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6869
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Consegues ser muito egoísta às vezes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6870
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Możesz być czasem bardzo samolubny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6871
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Иногда ты можешь быть очень эгоистичным",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6872
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你有时真的很自私",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6873
   }

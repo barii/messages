@@ -6,7 +6,7 @@
     "lang": "EN",
     "category": "Argentine Football Teams",
     "text": "Rosario Central",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇦🇷",
     "continent": "European"
@@ -18,7 +18,7 @@
     "lang": "ES",
     "category": "Equipos de Fútbol Argentinos",
     "text": "Rosario Central",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇦🇷",
     "continent": "European"
@@ -30,7 +30,7 @@
     "lang": "DE",
     "category": "Argentinische Fußballmannschaften",
     "text": "Rosario Central",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇦🇷",
     "continent": "European"
@@ -42,7 +42,7 @@
     "lang": "PL",
     "category": "Argentyńskie drużyny piłkarskie",
     "text": "Rosario Central",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇦🇷",
     "continent": "European"
@@ -54,7 +54,7 @@
     "lang": "RU",
     "category": "Аргентинские футбольные команды",
     "text": "Rosario Central",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇦🇷",
     "continent": "European"
@@ -66,7 +66,7 @@
     "lang": "PT",
     "category": "Times de futebol argentinos",
     "text": "Rosario Central",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇦🇷",
     "continent": "European"
@@ -78,7 +78,7 @@
     "lang": "CN",
     "category": "阿根廷足球队",
     "text": "Rosario Central",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🇦🇷",
     "continent": "European"

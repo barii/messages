@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "That's true",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3283
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Es verdad",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3284
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Das stimmt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3285
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "É verdade",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3286
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "To prawda",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3287
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Это правда",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3288
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "那是真的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3289
   }

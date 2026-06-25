@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "In the bag.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10080
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "En el bolsillo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10081
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Eingetütet.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10082
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "No bolso.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10083
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "W kieszeni.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10084
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "В кармане.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10085
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "稳了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10086
   }

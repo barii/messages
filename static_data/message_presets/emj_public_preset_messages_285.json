@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "I'll reveal myself eventually",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1988
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Me revelaré eventualmente",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1989
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Ich werde mich irgendwann zu erkennen geben",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1990
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Vou-me revelar eventualmente",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1991
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "W końcu się ujawnię",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1992
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Я раскроюсь со временем",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1993
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我最终会揭晓",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1994
   }

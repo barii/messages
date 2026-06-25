@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We steamrolled you.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10213
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Os hemos arrollado.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10214
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir haben euch überrollt.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10215
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Atropelámos-vos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10216
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Przejechaliśmy się po was.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10217
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы вас раздавили.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10218
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们横扫了你们。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10219
   }

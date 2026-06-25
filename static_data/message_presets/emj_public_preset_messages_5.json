@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're such a good person",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 28
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres una persona tan buena",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 29
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist so ein guter Mensch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 30
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És uma pessoa tão boa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 31
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś tak dobrą osobą",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 32
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты такой хороший человек",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 33
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你是个很好的人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 34
   }

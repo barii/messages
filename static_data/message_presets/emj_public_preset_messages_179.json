@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you free this weekend?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1246
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Estás libre este fin de semana?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1247
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Hast du dieses Wochenende Zeit?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1248
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás livre este fim de semana?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1249
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Masz wolne w ten weekend?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1250
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты свободен в эти выходные?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1251
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "这个周末你有空吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1252
   }

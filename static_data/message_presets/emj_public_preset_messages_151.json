@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you in love?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1050
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Estás enamorado?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1051
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Bist du verliebt?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1052
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás apaixonado?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1053
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Jesteś zakochany?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1054
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты влюблён?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1055
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你恋爱了吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1056
   }

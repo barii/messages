@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Exhausted",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3605
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Agotado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3606
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Erschöpft",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3607
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Exausto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3608
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Wyczerpany",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3609
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Изнурён",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3610
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "筋疲力尽",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3611
   }

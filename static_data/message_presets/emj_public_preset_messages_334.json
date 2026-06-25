@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm a man",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2331
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy un hombre",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2332
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin ein Mann",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2333
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou um homem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2334
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem mężczyzną",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2335
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я мужчина",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2336
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是男人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2337
   }

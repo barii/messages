@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "So smooth",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5684
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Qué suave",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5685
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "So glatt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5686
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Tão suave",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5687
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Bardzo gładko",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5688
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Так гладко",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5689
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "太丝滑了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5690
   }

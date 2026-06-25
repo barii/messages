@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "Glad you're in my life",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 357
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Me alegra que estés en mi vida",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 358
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Froh, dass du in meinem Leben bist",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 359
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "Fico feliz por estares na minha vida",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 360
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Cieszę się, że jesteś w moim życiu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 361
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Рад, что ты в моей жизни",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 362
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "很高兴你在我的生活中",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 363
   }

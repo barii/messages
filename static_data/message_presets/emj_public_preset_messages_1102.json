@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Good evening",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7707
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Buenas noches",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7708
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Guten Abend",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7709
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Boa noite",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7710
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Dobry wieczór",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7711
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Добрый вечер",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7712
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "晚上好",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7713
   }

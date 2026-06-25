@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "We went to high school together",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1673
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Fuimos al instituto juntos",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1674
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Wir waren zusammen am Gymnasium",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1675
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Andámos no secundário juntos",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1676
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Chodziliśmy razem do liceum",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1677
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Мы ходили в старшую школу вместе",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1678
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我们一起上过高中",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1679
   }

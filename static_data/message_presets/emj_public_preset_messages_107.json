@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "You're not as kind as you pretend to be",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 742
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "No eres tan amable como aparentas",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 743
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Du bist nicht so nett, wie du vorgibst",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 744
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Não és tão simpático como finges",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 745
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "Nie jesteś tak miły, jak udajesz",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 746
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Ты не такой добрый, как притворяешься",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 747
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "你没有自己装的那么善良",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 748
   }

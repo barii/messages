@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Have the best day ever",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8071
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Que tengas el mejor día",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8072
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Hab den besten Tag",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8073
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Tem o melhor dia",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8074
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Miłego dnia",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8075
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Лучшего дня тебе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8076
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "祝你有最美好的一天",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8077
   }

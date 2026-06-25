@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I think I'm falling for you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5894
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Creo que me estoy enamorando de ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5895
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich glaube, ich verliebe mich in dich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5896
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Acho que me estou a apaixonar por ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5897
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Chyba się w tobie zakochuję",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5898
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Думаю, я влюбляюсь в тебя",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5899
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我想我在爱上你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5900
   }

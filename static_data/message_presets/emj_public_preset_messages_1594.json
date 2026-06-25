@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Always an excuse with you lot.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11151
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Siempre una excusa con vosotros.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11152
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Immer eine Ausrede bei euch.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11153
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Sempre uma desculpa convosco.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11154
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Zawsze wymówka u was.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11155
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Всегда оправдание у вас.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11156
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们总有借口。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11157
   }

@@ -6,7 +6,7 @@
     "lang": "EN",
     "category": "Sport",
     "text": "American sports",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🏀",
     "continent": "American"
@@ -18,7 +18,7 @@
     "lang": "ES",
     "category": "Sport",
     "text": "Deportes americanos",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🏀",
     "continent": "American"
@@ -30,7 +30,7 @@
     "lang": "DE",
     "category": "Sport",
     "text": "Amerikanische Sportarten",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🏀",
     "continent": "American"
@@ -42,7 +42,7 @@
     "lang": "PL",
     "category": "Sport",
     "text": "Amerykańskie sporty",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🏀",
     "continent": "American"
@@ -54,7 +54,7 @@
     "lang": "RU",
     "category": "Sport",
     "text": "Американские виды спорта",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🏀",
     "continent": "American"
@@ -66,7 +66,7 @@
     "lang": "PT",
     "category": "Sport",
     "text": "Esportes americanos",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🏀",
     "continent": "American"
@@ -78,7 +78,7 @@
     "lang": "CN",
     "category": "Sport",
     "text": "美国体育",
-    "premium": "false",
+    "premium": false,
     "positive": "true",
     "msg_emoji": "🏀",
     "continent": "American"

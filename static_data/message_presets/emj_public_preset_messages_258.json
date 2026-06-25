@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "I'm a family friend",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1799
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Soy un amigo de la familia",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1800
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Ich bin ein Familienfreund",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1801
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Sou amigo da família",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1802
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Jestem przyjacielem rodziny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1803
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Я друг семьи",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1804
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我是家庭朋友",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1805
   }

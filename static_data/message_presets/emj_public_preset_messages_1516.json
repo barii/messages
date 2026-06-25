@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We're the best, simple as.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10605
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Somos los mejores, así de simple.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10606
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir sind die Besten, ganz einfach.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10607
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Somos os melhores, é simples.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10608
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Jesteśmy najlepsi, po prostu.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10609
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы лучшие, просто и ясно.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10610
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们就是最棒的,就这么简单。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10611
   }

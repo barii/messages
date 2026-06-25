@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "Are you a parking ticket because you have fine written all over you?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8428
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "¿Eres una multa? Porque tienes 'guapo' escrito por todas partes",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8429
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Bist du ein Strafzettel? Denn du siehst absolut spitze aus",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8430
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "És uma multa? Porque tens 'bonito' escrito por todo o lado",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8431
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Jesteś mandatem? Bo masz 'pięknie' wypisane na sobie",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8432
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Ты штраф? Потому что у тебя 'прекрасно' написано по всему телу",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8433
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "你是罚单吗?因为你浑身都写着'美好'",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8434
   }

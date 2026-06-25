@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "I don't love being at this company anymore",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7518
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Ya no me encanta estar en esta empresa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7519
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Ich liebe es nicht mehr, in diesem Unternehmen zu sein",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7520
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Já não adoro estar nesta empresa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7521
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Już nie uwielbiam pracować w tej firmie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7522
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Мне больше не нравится работать в этой компании",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7523
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "我不再喜欢在这家公司了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7524
   }

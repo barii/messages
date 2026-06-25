@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Cute.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11564
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Mono.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11565
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Süß.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11566
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Querido.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11567
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Słodkie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11568
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Мило.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11569
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "可爱。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11570
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "European nights, we know all about them.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10472
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Noches europeas, lo sabemos todo sobre ellas.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10473
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Europäische Nächte, wir wissen alles darüber.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10474
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Noites europeias, sabemos tudo sobre elas.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10475
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Wieczory europejskie, wiemy o nich wszystko.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10476
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Европейские ночи, мы про них всё знаем.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10477
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "欧战之夜,我们都熟。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10478
   }

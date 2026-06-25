@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Stop it",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5383
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Para",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5384
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Hör auf",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5385
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Para com isso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5386
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Przestań",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5387
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Прекрати",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5388
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "停下来",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5389
   }

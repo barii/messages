@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Have a good night",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7749
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Que tengas buena noche",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7750
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Hab eine gute Nacht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7751
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Tem uma boa noite",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7752
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Dobrej nocy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7753
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Хорошей ночи",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7754
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "晚安",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7755
   }

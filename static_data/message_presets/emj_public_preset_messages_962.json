@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Communicate, don't assume",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6727
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Comunica, no asumas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6728
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Kommuniziere, vermute nicht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6729
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Comunica, não assumas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6730
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Komunikuj, nie zakładaj",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6731
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Общайся, не предполагай",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6732
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "沟通,别假设",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6733
   }

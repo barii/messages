@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "What's going on?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7987
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "¿Qué pasa?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7988
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Was ist los?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7989
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "O que se passa?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7990
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Co słychać?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7991
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Что происходит?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7992
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "怎么了?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7993
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Not my problem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4375
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "No es mi problema",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4376
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Nicht mein Problem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4377
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Não é problema meu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4378
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Nie mój problem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4379
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Не моя проблема",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4380
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "不是我的问题",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4381
   }

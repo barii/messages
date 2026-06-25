@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "That was basic",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 595
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "Eso fue básico",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 596
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Das war basic",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 597
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Isso foi básico",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 598
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "To było podstawowe",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 599
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Это было базово",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 600
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "那太基础了",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 601
   }

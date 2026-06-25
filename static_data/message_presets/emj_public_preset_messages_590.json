@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I'm joking",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4123
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Estoy bromeando",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4124
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ich mache Witze",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4125
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Estou a brincar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4126
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Żartuję",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4127
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Я шучу",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4128
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我在开玩笑",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4129
   }

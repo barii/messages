@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Won what exactly?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9730
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "¿Ganado qué exactamente?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9731
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Was genau gewonnen?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9732
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Ganharam o quê exactamente?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9733
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wygrałeś co dokładnie?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9734
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Что именно вы выиграли?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9735
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "到底赢了什么?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9736
   }

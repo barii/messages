@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Same old same old",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3514
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Lo de siempre",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3515
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Alles wie immer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3516
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Sempre na mesma",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3517
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Jak zawsze",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3518
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Как всегда",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3519
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "老样子",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3520
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Nothing up top.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9394
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Nada arriba.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9395
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Vorne nichts.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9396
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Nada lá em cima.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9397
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Nic na górze.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9398
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Ничего впереди.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9399
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "前场毫无作为。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9400
   }

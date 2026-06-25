@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Have a day off.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11340
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Tomaos un día libre.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11341
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Nehmt euch einen Tag frei.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11342
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Tirem um dia de folga.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11343
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Weźcie dzień wolny.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11344
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Возьмите выходной.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11345
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "歇一天吧。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11346
   }

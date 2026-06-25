@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "Getting colder",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1596
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Frío",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1597
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Kälter",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1598
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "A arrefecer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1599
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Zimniej",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1600
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Холоднее",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1601
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "更冷了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1602
   }

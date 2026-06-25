@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Absolute clowns.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9002
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Payasos absolutos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9003
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Absolute Clowns.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9004
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Palhaços absolutos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9005
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Absolutne klauny.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9006
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Абсолютные клоуны.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9007
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "彻底的小丑。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9008
   }

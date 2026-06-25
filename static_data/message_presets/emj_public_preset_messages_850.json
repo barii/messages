@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "You give me butterflies",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5943
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Me das mariposas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5944
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Du gibst mir Schmetterlinge",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5945
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Dás-me borboletas no estômago",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5946
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Dajesz mi motyle w brzuchu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5947
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "У меня от тебя бабочки в животе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5948
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "你让我心跳加速",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5949
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "We've been worse and still won.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11242
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Hemos estado peor y aún hemos ganado.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11243
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Wir waren schon schlechter und haben trotzdem gewonnen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11244
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Já estivemos pior e ganhámos na mesma.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11245
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Byliśmy w gorszej formie i wygraliśmy.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11246
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Мы были хуже и всё равно выиграли.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11247
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "我们更差的时候都赢过。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11248
   }

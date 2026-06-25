@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Log off mate.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11305
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Log off mate.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11306
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Log off mate.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11307
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Log off mate.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11308
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Log off mate.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11309
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Log off mate.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11310
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "Log off mate.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11311
   }

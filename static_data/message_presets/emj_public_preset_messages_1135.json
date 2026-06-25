@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Surprise",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7938
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Sorpresa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7939
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Überraschung",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7940
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Surpresa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7941
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Niespodzianka",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7942
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Сюрприз",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7943
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "惊喜",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7944
   }

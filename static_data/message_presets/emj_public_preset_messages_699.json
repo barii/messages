@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Of course",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4886
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Por supuesto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4887
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Klar doch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4888
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Claro",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4889
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Oczywiście",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4890
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Конечно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4891
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "当然",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4892
   }

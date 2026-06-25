@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "Lowkey think we should hang out",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8582
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "Por lo bajo creo que deberíamos vernos",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8583
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Lowkey glaube ich, wir sollten abhängen",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8584
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "Lowkey acho que devíamos sair",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8585
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Lowkey myślę, że powinniśmy się spotkać",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8586
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Лоукей думаю, нам стоит потусоваться",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8587
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "私下里我觉得我们应该一起出去",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8588
   }

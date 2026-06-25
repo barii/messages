@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Rough",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3864
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Duro",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3865
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Heftig",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3866
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Pesado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3867
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Ciężkie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3868
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Жёстко",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3869
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "残酷",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3870
   }

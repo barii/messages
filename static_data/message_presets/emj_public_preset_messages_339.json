@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm cis",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2366
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy cis",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2367
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin cis",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2368
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou cis",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2369
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem cis",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2370
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я цис",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2371
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是顺性别",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2372
   }

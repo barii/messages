@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "You're being weird",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 476
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "Estás siendo raro",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 477
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Du bist seltsam",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 478
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Estás estranho",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 479
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "Jesteś dziwny",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 480
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Ты странный",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 481
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "你在变怪",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 482
   }

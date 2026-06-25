@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Things are slipping a bit lately",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7455
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Las cosas se están descuidando últimamente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7456
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Die Dinge schlittern in letzter Zeit",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7457
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "As coisas têm escapado ultimamente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7458
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Sprawy ostatnio się sypią",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7459
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "В последнее время всё проседает",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7460
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "最近事情有点掉链子",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7461
   }

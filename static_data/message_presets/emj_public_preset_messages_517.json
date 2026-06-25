@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Stressed",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3612
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Estresado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3613
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Gestresst",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3614
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Stressado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3615
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Zestresowany",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3616
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "В стрессе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3617
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "压力大",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3618
   }

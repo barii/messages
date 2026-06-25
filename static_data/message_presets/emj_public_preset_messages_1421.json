@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Perfect basketball.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9940
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Perfect basketball.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9941
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Perfect basketball.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9942
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Perfect basketball.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9943
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Perfect basketball.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9944
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Perfect basketball.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9945
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "Perfect basketball.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9946
   }

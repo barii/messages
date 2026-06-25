@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Our trophy cabinets are very full.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9975
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Nuestras vitrinas de trofeos están muy llenas.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9976
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Unsere Trophäenvitrinen sind sehr voll.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9977
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "As nossas vitrines de troféus estão muito cheias.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9978
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Nasze gabloty z trofeami są bardzo pełne.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9979
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Наши витрины с трофеями очень полные.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9980
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们的奖杯柜非常满。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9981
   }

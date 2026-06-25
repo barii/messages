@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Nobody is coming to save you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6811
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Nadie va a venir a salvarte",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6812
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Niemand kommt, um dich zu retten",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6813
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Ninguém te vem salvar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6814
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Nikt nie przyjdzie cię uratować",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6815
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Никто не придёт тебя спасать",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6816
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "没人会来救你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6817
   }

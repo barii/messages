@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "I'm younger than you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1897
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Soy menor que tú",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1898
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Ich bin jünger als du",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1899
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Sou mais novo que tu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1900
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Jestem od ciebie młodszy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1901
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Я младше тебя",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1902
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我比你小",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1903
   }

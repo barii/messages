@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you joking?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1288
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Bromeas?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1289
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Machst du Witze?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1290
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás a brincar?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1291
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Żartujesz?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1292
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты шутишь?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1293
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你在开玩笑吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1294
   }

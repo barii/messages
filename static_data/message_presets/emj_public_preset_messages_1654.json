@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Adorable.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11571
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Adorable.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11572
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Goldig.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11573
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Adorável.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11574
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Urocze.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11575
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Очаровательно.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11576
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "可爱啊。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11577
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I want to see the world",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2611
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Quiero ver el mundo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2612
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich will die Welt sehen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2613
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Quero ver o mundo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2614
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Chcę zobaczyć świat",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2615
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я хочу увидеть мир",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2616
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我想看世界",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2617
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I'm so glad you said that",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6321
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Me alegra mucho que lo hayas dicho",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6322
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich bin so froh, dass du das gesagt hast",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6323
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Fico tão feliz por teres dito isso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6324
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Tak się cieszę, że to powiedziałeś",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6325
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Я так рад, что ты это сказал",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6326
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我很高兴你说了出来",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6327
   }

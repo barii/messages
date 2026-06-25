@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We cooked you.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10227
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Os hemos cocinado.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10228
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir haben euch fertiggemacht.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10229
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Cozinhámos-vos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10230
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Ugotowaliśmy was.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10231
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы вас приготовили.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10232
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们做掉了你们。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10233
   }

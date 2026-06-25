@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You should think about how that came across",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7063
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Deberías pensar en cómo sonó eso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7064
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du solltest darüber nachdenken, wie das rüberkam",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7065
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Devias pensar em como isso soou",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7066
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Powinieneś pomyśleć, jak to zabrzmiało",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7067
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Тебе стоит подумать, как это прозвучало",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7068
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你应该想想这听起来如何",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7069
   }

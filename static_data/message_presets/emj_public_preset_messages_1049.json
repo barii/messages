@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "I've read receipts on for a reason",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7336
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Tengo las confirmaciones de lectura activadas por algo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7337
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Ich habe Lesebestätigungen aus einem Grund an",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7338
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Tenho confirmações de leitura ligadas por uma razão",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7339
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Mam włączone potwierdzenia odczytu nie bez powodu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7340
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "У меня уведомления о прочтении включены не просто так",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7341
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "我开启已读回执是有原因的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7342
   }

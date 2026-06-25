@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "And?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10808
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "¿Y?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10809
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Und?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10810
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "E?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10811
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "I?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10812
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "И?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10813
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "然后呢?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10814
   }

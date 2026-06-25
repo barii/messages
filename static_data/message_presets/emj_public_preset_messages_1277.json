@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "A small and irrelevant club.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8932
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Un club pequeño e irrelevante.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8933
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ein kleiner und unbedeutender Verein.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8934
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Um clube pequeno e irrelevante.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8935
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Mały i nieistotny klub.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8936
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Маленький и незначительный клуб.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8937
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "一个又小又无关紧要的俱乐部。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8938
   }

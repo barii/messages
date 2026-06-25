@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Keep going",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5264
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Sigue así",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5265
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Mach weiter",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5266
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Continua",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5267
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Tak trzymaj",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5268
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Продолжай",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5269
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "继续",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5270
   }

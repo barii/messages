@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm an open book",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2212
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy un libro abierto",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2213
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin ein offenes Buch",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2214
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou um livro aberto",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2215
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem otwartą księgą",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2216
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я открытая книга",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2217
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是个开放的人",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2218
   }

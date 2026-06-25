@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you happy in your relationship?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1064
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Eres feliz en tu relación?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1065
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Bist du glücklich in deiner Beziehung?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1066
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás feliz na tua relação?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1067
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Czy jesteś szczęśliwy w swoim związku?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1068
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты счастлив в отношениях?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1069
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你在恋爱中开心吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1070
   }

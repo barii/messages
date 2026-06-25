@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "Cringe",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 532
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "Cringe",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 533
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Cringe",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 534
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Cringe",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 535
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "Cringe",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 536
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Кринж",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 537
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "尴尬",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 538
   }

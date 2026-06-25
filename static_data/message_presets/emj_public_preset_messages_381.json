@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "Music is my therapy",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2660
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "La música es mi terapia",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2661
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Musik ist meine Therapie",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2662
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Música é a minha terapia",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2663
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Muzyka jest moją terapią",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2664
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Музыка - моя терапия",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2665
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "音乐是我的治疗",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2666
   }

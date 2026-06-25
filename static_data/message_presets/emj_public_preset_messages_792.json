@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "You too",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5537
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Tú también",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5538
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Du auch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5539
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Tu também",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5540
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Ty też",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5541
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Ты тоже",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5542
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "你也是",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5543
   }

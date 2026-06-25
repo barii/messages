@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "So tired",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3598
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Muy cansado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3599
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "So müde",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3600
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Tão cansado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3601
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Tak zmęczony",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3602
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Очень уставший",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3603
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "好累",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3604
   }

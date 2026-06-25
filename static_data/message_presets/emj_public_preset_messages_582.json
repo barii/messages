@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Keep guessing",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4067
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Sigue adivinando",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4068
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Rate weiter",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4069
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Continua a adivinhar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4070
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Zgaduj dalej",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4071
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Продолжай угадывать",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4072
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "继续猜",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4073
   }

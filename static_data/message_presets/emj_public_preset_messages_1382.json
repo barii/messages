@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "No bottle when it mattered.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9667
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Sin coraje cuando importaba.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9668
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Keine Eier, wenn es zählte.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9669
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Sem coragem quando contava.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9670
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Bez jaj, kiedy się liczyło.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9671
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Без характера, когда было важно.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9672
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "关键时刻没胆量。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9673
   }

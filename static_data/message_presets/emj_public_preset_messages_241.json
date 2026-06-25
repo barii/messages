@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "We went to college together",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1680
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Fuimos a la universidad juntos",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1681
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Wir waren zusammen an der Hochschule",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1682
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Andámos no liceu juntos",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1683
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Chodziliśmy razem na studia",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1684
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Мы учились в колледже вместе",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1685
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "我们一起上过大学",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 1686
   }

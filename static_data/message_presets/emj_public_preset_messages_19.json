@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're creative",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 126
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres creativo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 127
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist kreativ",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 128
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És criativo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 129
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś kreatywny",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 130
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты творческий",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 131
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你有创造力",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 132
   }

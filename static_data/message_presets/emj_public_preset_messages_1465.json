@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We strolled through that.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10248
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Hemos paseado por ahí.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10249
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir sind durchspaziert.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10250
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Passámos por aí a passear.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10251
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Przeszliśmy spacerkiem.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10252
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы прогулялись по матчу.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10253
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们悠闲地走过。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10254
   }

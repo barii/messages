@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Can I tell you something?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1148
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Puedo contarte algo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1149
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Kann ich dir etwas sagen?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1150
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Posso contar-te uma coisa?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1151
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Mogę ci coś powiedzieć?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1152
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Можно тебе кое-что рассказать?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1153
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "我能告诉你件事吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1154
   }

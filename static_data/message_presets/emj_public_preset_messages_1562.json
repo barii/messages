@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Noted mate.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10927
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Tomado nota, tío.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10928
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Notiert, Kumpel.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10929
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Anotado, pá.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10930
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Zanotowane, kolego.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10931
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Принято, дружище.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10932
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "记下了,兄弟。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10933
   }

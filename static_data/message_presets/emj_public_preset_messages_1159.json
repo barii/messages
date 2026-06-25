@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "New year, new me",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8106
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Año nuevo, yo nuevo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8107
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Neues Jahr, neues Ich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8108
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Ano novo, eu novo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8109
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Nowy rok, nowy ja",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8110
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "Новый год, новый я",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8111
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "新年新我",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8112
   }

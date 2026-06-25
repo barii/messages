@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Happy Valentine's Day from your secret admirer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8141
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Feliz San Valentín de tu admirador secreto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8142
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Frohen Valentinstag von deinem heimlichen Verehrer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8143
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Feliz Dia dos Namorados do teu admirador secreto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8144
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Wesołego Walentego od twojego tajemniczego wielbiciela",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8145
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "С Днём святого Валентина от твоего тайного поклонника",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8146
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "情人节快乐,来自你的秘密仰慕者",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8147
   }

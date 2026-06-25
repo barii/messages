@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Sending you a hug",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3927
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Te mando un abrazo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3928
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Sende dir eine Umarmung",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3929
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "A mandar-te um abraço",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3930
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Wysyłam ci uściski",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3931
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Шлю тебе обнимашки",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3932
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "给你一个拥抱",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3933
   }

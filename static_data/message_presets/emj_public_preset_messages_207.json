@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Did we used to work together?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1442
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Trabajamos juntos antes?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1443
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Haben wir früher zusammen gearbeitet?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1444
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Trabalhámos juntos?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1445
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Pracowaliśmy kiedyś razem?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1446
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Мы раньше работали вместе?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1447
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "我们以前一起工作过吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1448
   }

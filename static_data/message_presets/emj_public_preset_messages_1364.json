@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Nothing from you today.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9541
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Nada de vosotros hoy.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9542
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Von euch heute nichts.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9543
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Nada de vocês hoje.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9544
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Nic od was dzisiaj.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9545
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Ничего от вас сегодня.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9546
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们今天毫无表现。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9547
   }

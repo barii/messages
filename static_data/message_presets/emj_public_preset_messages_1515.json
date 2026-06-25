@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Talk less, win more, like us.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10598
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Hablad menos, ganad más, como nosotros.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10599
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Weniger reden, mehr gewinnen, wie wir.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10600
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Falem menos, ganhem mais, como nós.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10601
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Mniej gadania, więcej wygrywania, jak my.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10602
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Меньше говорите, больше выигрывайте, как мы.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10603
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "少说话,多赢球,像我们一样。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10604
   }

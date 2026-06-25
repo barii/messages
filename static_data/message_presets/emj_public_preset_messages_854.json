@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "You make me feel seen",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5971
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Me haces sentir visto",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5972
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Du gibst mir das Gefühl, gesehen zu werden",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5973
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Fazes-me sentir visto",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5974
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Sprawiasz, że czuję się widziany",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5975
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Ты заставляешь меня чувствовать себя замеченным",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5976
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "你让我感到被看见",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5977
   }

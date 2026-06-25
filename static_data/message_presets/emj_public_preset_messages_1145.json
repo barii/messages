@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "How's life?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8008
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "¿Qué tal la vida?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8009
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Wie läuft's so?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8010
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Como vai a vida?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8011
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Jak życie?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8012
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Как жизнь?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8013
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "生活怎么样?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8014
   }

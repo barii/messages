@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You're dismissive when people share things",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6895
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Eres desdeñoso cuando la gente comparte cosas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6896
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du bist abweisend, wenn Menschen Dinge teilen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6897
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "És dispensativo quando as pessoas partilham coisas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6898
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Lekceważysz ludzi, gdy dzielą się rzeczami",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6899
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Ты пренебрежителен, когда люди делятся",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6900
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "当人们分享时你显得轻蔑",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6901
   }

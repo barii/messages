@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Joke club.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9023
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Club de chiste.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9024
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Witzverein.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9025
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Clube de palhaços.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9026
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Żart, a nie klub.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9027
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Шутка, а не клуб.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9028
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "笑话俱乐部。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9029
   }

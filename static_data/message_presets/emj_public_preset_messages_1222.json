@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "I'd unfollow my exes for you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8547
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "Dejaría de seguir a mis ex por ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8548
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Ich würde meinen Exen entfolgen für dich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8549
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "Deixava de seguir as minhas exes por ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8550
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Przestałbym obserwować moich byłych dla ciebie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8551
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Я бы отписался от своих бывших ради тебя",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8552
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "我会为你取关我的前任们",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8553
   }

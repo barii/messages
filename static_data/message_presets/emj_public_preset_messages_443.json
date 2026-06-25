@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Heard you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3094
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Te escuché",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3095
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Hab dich gehört",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3096
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Ouvi-te",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3097
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Słyszę cię",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3098
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Услышал тебя",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3099
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "听到你了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3100
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you home?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1008
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Estás en casa?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1009
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Bist du zu Hause?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1010
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás em casa?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1011
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Jesteś w domu?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1012
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты дома?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1013
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你在家吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1014
   }

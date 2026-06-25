@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm pansexual",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2408
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy pansexual",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2409
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin pansexuell",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2410
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou pansexual",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2411
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem panseksualny",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2412
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я пансексуал",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2413
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是泛性恋",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 2414
   }

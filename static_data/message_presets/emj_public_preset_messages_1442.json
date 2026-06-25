@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Another three points.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10087
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Otros tres puntos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10088
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Noch drei Punkte.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10089
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Mais três pontos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10090
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Kolejne trzy punkty.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10091
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Ещё три очка.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10092
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "又得三分。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10093
   }

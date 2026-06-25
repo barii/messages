@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Our bench is better than your team.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10416
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Nuestro banquillo es mejor que vuestro equipo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10417
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Unsere Bank ist besser als eure Mannschaft.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10418
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "O nosso banco é melhor que a vossa equipa.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10419
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Nasza ławka jest lepsza niż wasza drużyna.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10420
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Наша скамейка лучше вашей команды.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10421
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们的替补比你们的首发还好。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10422
   }

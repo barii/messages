@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "There's no one like you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 399
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "No hay nadie como tú",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 400
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Es gibt niemanden wie dich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 401
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "Não há ninguém como tu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 402
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Nie ma nikogo takiego jak ty",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 403
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Нет никого, как ты",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 404
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "没有人像你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 405
   }

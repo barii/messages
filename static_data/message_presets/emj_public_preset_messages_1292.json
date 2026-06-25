@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "What a mess.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9037
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Qué desastre.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9038
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Was für ein Chaos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9039
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Que desgraça.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9040
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Co za bałagan.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9041
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Какой бардак.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9042
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "真是一团糟。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9043
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Stop chasing closure",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6636
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Deja de buscar un cierre",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6637
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Hör auf, nach Closure zu suchen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6638
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Para de procurar fecho",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6639
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Przestań szukać zamknięcia",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6640
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Перестань искать закрытия",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6641
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "别再追求结束",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6642
   }

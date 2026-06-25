@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Not ready to talk about it",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3675
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "No estoy listo para hablar de eso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3676
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Nicht bereit, darüber zu reden",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3677
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Não estou pronto para falar disso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3678
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Nie jestem gotowy o tym mówić",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3679
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Не готов говорить об этом",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3680
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "还没准备好谈这个",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3681
   }

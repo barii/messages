@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Hard disagree",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4704
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Totalmente en desacuerdo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4705
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Stimme nicht zu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4706
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Discordo totalmente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4707
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Mocno się nie zgadzam",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4708
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Категорически не согласен",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4709
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "强烈不同意",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4710
   }

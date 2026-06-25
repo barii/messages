@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I don't overthink things",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2226
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "No le doy vueltas a las cosas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2227
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich überdenke Dinge nicht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2228
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Não penso demais nas coisas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2229
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Nie analizuję rzeczy nadmiernie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2230
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я не переосмысливаю вещи",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2231
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我不会过度思考事情",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2232
   }

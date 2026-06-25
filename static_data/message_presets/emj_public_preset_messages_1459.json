@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We dismantled you.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10206
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Os hemos desmantelado.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10207
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir haben euch auseinandergenommen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10208
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Desmontámos-vos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10209
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Rozłożyliśmy was.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10210
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы вас разобрали.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10211
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们肢解了你们。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10212
   }

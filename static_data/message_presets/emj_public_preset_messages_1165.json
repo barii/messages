@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "You're my Valentine whether you like it or not",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8148
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Eres mi San Valentín, te guste o no",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8149
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Du bist mein Valentin, ob es dir gefällt oder nicht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8150
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "És o meu Valentine queiras ou não",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8151
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Jesteś moim Walentym, czy ci się to podoba czy nie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8152
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "Ты мой Валентин, нравится тебе это или нет",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8153
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "不管你愿不愿意,你都是我的情人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8154
   }

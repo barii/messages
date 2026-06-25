@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Our manager is clueless",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7392
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Nuestro gerente no tiene idea",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7393
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Unser Manager hat keine Ahnung",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7394
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "O nosso gerente não percebe nada",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7395
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Nasz menedżer nie ma pojęcia",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7396
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Наш менеджер ничего не понимает",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7397
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "我们的经理毫无头绪",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7398
   }

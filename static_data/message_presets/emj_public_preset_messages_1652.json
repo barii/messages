@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Your bus is bigger than your stadium.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11557
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Vuestro autobús es más grande que vuestro estadio.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11558
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Euer Bus ist größer als euer Stadion.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11559
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "O vosso autocarro é maior que o vosso estádio.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11560
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Wasz autobus jest większy niż wasz stadion.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11561
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Ваш автобус больше вашего стадиона.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11562
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们的大巴比球场还大。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11563
   }

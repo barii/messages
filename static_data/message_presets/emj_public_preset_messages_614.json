@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "That's your perspective, not mine",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4291
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Esa es tu perspectiva, no la mía",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4292
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Das ist deine Perspektive, nicht meine",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4293
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Essa é a tua perspetiva, não a minha",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4294
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "To twoja perspektywa, nie moja",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4295
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Это твоя перспектива, не моя",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4296
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "那是你的视角,不是我的",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 4297
   }

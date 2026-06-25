@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Look at your own league position.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11018
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Mirad vuestra propia posición en la liga.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11019
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Schaut auf eure eigene Tabellenposition.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11020
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Olha a vossa posição na liga.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11021
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Spójrzcie na własną pozycję w lidze.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11022
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Посмотрите на свою позицию в лиге.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11023
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "看看你们自己的联赛排名。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11024
   }

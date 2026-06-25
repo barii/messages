@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Eat something",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6482
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Come algo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6483
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Iss etwas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6484
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Come alguma coisa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6485
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Zjedz coś",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6486
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Поешь чего-нибудь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6487
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "吃点东西",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6488
   }

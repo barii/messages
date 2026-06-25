@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Your team is a mess.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8834
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vuestro equipo es un desastre.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8835
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Eure Mannschaft ist ein Chaos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8836
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "A vossa equipa é uma confusão.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8837
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wasza drużyna to bałagan.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8838
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Ваша команда — бардак.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8839
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们队一团糟。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8840
   }

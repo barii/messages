@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Worst boss ever",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7378
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "El peor jefe del mundo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7379
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Schlimmster Chef aller Zeiten",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7380
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Pior chefe de sempre",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7381
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Najgorszy szef",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7382
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Худший босс",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7383
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "最糟的老板",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7384
   }

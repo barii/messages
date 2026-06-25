@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We are the most successful.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9842
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Somos los más exitosos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9843
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir sind die Erfolgreichsten.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9844
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Somos os mais bem-sucedidos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9845
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Jesteśmy najbardziej utytułowani.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9846
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы самые успешные.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9847
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们是最成功的。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9848
   }

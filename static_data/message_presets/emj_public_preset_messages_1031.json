@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Thank god it's Friday",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7210
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Gracias a Dios que es viernes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7211
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Gott sei Dank ist Freitag",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7212
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Graças a Deus é sexta-feira",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7213
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Dzięki Bogu jest piątek",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7214
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Слава Богу, что пятница",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7215
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "感谢上帝是星期五",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7216
   }

@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Our grandma could run faster!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12453
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Our grandma could run faster!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12454
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Our grandma could run faster!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12455
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Our grandma could run faster!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12456
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Our grandma could run faster!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12457
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Our grandma could run faster!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12458
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Our grandma could run faster!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12459
   }

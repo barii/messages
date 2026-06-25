@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We are the champions.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9884
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Somos los campeones.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9885
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir sind die Champions.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9886
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Somos os campeões.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9887
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Jesteśmy mistrzami.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9888
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы чемпионы.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9889
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们是冠军。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9890
   }

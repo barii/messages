@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Touch grass",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6461
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Toca pasto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6462
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Geh raus",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6463
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Toca relva",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6464
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Dotknij trawy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6465
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Дотронься до травы",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6466
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "去摸摸草",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6467
   }

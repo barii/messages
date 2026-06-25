@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're the funniest person I know",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 98
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres la persona más graciosa que conozco",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 99
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist der lustigste Mensch, den ich kenne",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 100
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És a pessoa mais engraçada que conheço",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 101
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś najzabawniejszą osobą, jaką znam",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 102
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты самый смешной человек, которого я знаю",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 103
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你是我认识的最搞笑的人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 104
   }

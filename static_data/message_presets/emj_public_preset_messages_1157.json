@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Happy New Year",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8092
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Feliz Año Nuevo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8093
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Frohes neues Jahr",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8094
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Feliz Ano Novo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8095
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Szczęśliwego Nowego Roku",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8096
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "С Новым годом",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8097
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "新年快乐",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8098
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I have fallen for you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5901
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Me he enamorado de ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5902
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich habe mich in dich verliebt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5903
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Apaixonei-me por ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5904
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Zakochałem się w tobie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5905
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Я влюбился в тебя",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5906
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我已经爱上你了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5907
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "Warm",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1603
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Tibio",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1604
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Warm",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1605
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Quente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1606
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Ciepło",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1607
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Тепло",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1608
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "暖",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1609
   }

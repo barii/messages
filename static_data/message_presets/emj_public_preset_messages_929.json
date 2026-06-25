@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Sleep on it",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6496
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Consúltalo con la almohada",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6497
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Schlaf eine Nacht darüber",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6498
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Dorme sobre isso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6499
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Prześpij się z tym",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6500
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Подумай об этом утром",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6501
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "睡一觉再说",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6502
   }

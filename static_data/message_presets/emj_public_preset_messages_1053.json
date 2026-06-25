@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "There's someone here I can't stop thinking about",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7364
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Hay alguien aquí en quien no puedo dejar de pensar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7365
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Hier ist jemand, an den ich nicht aufhören kann zu denken",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7366
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Há alguém aqui em quem não consigo parar de pensar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7367
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Jest tu ktoś, o kim nie mogę przestać myśleć",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7368
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Здесь есть кто-то, о ком я не могу перестать думать",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7369
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "这里有个让我无法不想的人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7370
   }

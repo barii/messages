@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "You will have to guess",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4060
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Tendrás que adivinar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4061
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Du wirst raten müssen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4062
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Vais ter de adivinhar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4063
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Będziesz musiał zgadywać",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4064
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Тебе придётся угадывать",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4065
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "你得猜",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4066
   }

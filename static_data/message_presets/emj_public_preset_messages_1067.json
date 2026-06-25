@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Communication has been off",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7462
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "La comunicación ha estado mal",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7463
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Die Kommunikation war schlecht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7464
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "A comunicação tem estado má",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7465
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Komunikacja kuleje",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7466
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "С коммуникацией плохо",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7467
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "沟通一直不太好",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7468
   }

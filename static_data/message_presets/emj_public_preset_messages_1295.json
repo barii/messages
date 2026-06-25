@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Absolute shocker.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9058
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Bochorno absoluto.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9059
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Absoluter Reinfall.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9060
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vergonha absoluta.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9061
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Absolutny wstyd.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9062
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Абсолютный позор.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9063
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "彻底丢人。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9064
   }

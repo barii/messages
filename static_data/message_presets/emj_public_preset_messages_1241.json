@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "I think my grandma could've scored against your defence.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8680
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Creo que mi abuela podría haber marcado contra vuestra defensa.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8681
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ich glaube, meine Oma hätte gegen eure Abwehr getroffen.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8682
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Acho que a minha avó podia ter marcado contra a vossa defesa.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8683
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Myślę, że moja babcia mogłaby strzelić waszej obronie.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8684
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Думаю, моя бабушка могла бы забить вашей защите.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8685
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "我觉得我奶奶都能在你们防线面前进球。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8686
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "Are you a bank loan because you have my interest?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8491
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "¿Eres un préstamo bancario? Porque tienes mi interés",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8492
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Bist du ein Bankkredit? Denn du hast mein Interesse",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8493
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "És um empréstimo bancário? Porque tens o meu interesse",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8494
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Jesteś pożyczką bankową? Bo masz moje zainteresowanie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8495
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Ты банковский кредит? Потому что у тебя мой интерес",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8496
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "你是银行贷款吗?因为你引起了我的兴趣",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8497
   }

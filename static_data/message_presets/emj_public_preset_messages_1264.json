@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Your trophy cabinet is empty, as usual.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8841
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vuestra vitrina de trofeos está vacía, como siempre.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8842
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Eure Trophäenvitrine ist wie immer leer.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8843
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "A vossa vitrine de troféus está vazia, como sempre.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8844
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wasza gablota z trofeami jest jak zwykle pusta.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8845
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Ваша витрина с трофеями пуста, как всегда.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8846
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们的奖杯柜一如既往地空着。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8847
   }

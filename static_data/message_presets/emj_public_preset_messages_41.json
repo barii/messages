@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "I admire you so much",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 280
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Te admiro muchísimo",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 281
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Ich bewundere dich so sehr",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 282
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "Admiro-te imenso",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 283
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Podziwiam cię ogromnie",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 284
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Я тобой так восхищаюсь",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 285
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "我非常欣赏你",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 286
   }

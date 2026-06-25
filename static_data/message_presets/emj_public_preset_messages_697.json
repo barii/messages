@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "You're welcome",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4872
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "De nada",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4873
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Gern geschehen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4874
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "De nada",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4875
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Proszę bardzo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4876
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Пожалуйста",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4877
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "不客气",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4878
   }

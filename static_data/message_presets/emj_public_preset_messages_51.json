@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "I'm so lucky to know you",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 350
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Tengo mucha suerte de conocerte",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 351
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Ich habe so viel Glück, dich zu kennen",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 352
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "Tenho tanta sorte em conhecer-te",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 353
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Mam tyle szczęścia, że cię znam",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 354
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Мне так повезло знать тебя",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 355
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "我很幸运能认识你",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 356
   }

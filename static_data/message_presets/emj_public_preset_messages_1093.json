@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Lunch on me",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7644
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "El almuerzo va por mí",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7645
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Mittagessen geht auf mich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7646
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "O almoço é por minha conta",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7647
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Lunch na mój koszt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7648
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Обед с меня",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7649
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "午餐我请",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7650
   }

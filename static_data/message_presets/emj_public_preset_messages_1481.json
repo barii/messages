@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "No contest.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10360
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Sin competencia.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10361
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Kein Vergleich.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10362
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Sem competição.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10363
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Bez konkurencji.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10364
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Никакого соревнования.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10365
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "毫无竞争。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10366
   }

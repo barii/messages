@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "We'll bounce back, you won't.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11277
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Nos recuperaremos, vosotros no.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11278
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Wir kommen zurück, ihr nicht.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11279
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Vamos recuperar, vocês não.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11280
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "My się odbijemy, wy nie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11281
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Мы вернёмся, вы нет.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11282
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "我们会反弹,你们不会。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11283
   }

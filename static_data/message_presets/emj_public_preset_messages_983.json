@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You're not always a great listener",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6874
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "No siempre eres un buen oyente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6875
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du bist nicht immer ein guter Zuhörer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6876
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Nem sempre és um bom ouvinte",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6877
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Nie zawsze jesteś dobrym słuchaczem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6878
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Ты не всегда хороший слушатель",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6879
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你不总是好的倾听者",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6880
   }

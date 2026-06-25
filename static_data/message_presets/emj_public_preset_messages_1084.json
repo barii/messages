@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "We're in this together",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7581
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Estamos juntos en esto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7582
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Wir sind zusammen in diesem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7583
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Estamos juntos nisto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7584
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Jesteśmy w tym razem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7585
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Мы в этом вместе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7586
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "我们一起在这里",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7587
   }

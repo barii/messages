@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Stop dating people who don't text back",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6734
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Deja de salir con gente que no te contesta",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6735
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Hör auf, Leute zu daten, die nicht zurückschreiben",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6736
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Para de sair com pessoas que não respondem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6737
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Przestań się umawiać z ludźmi, którzy nie odpisują",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6738
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Перестань встречаться с теми, кто не отвечает",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6739
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "别再和不回消息的人约会",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6740
   }

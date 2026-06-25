@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Make the call",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6699
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Haz la llamada",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6700
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Mach den Anruf",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6701
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Faz a chamada",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6702
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Wykonaj telefon",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6703
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Сделай звонок",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6704
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "打那个电话",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6705
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "We're done here",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4732
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Aquí terminamos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4733
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Wir sind hier fertig",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4734
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Acabámos aqui",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4735
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Skończyliśmy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4736
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Мы здесь закончили",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4737
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "我们到此为止",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4738
   }

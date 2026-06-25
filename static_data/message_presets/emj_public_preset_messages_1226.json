@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "If I had a nickel for every time I thought about you today",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8575
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "Si tuviera una moneda por cada vez que pensé en ti hoy",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8576
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Wenn ich für jedes Mal, dass ich heute an dich gedacht habe, eine Münze hätte",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8577
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "Se eu tivesse uma moeda por cada vez que pensei em ti hoje",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8578
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Gdybym miał monetę za każdy raz, gdy o tobie dziś pomyślałem",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8579
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Если бы у меня был пятак за каждый раз, когда я думал о тебе сегодня",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8580
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "如果我每次想到你都能得一个五分钱",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8581
   }

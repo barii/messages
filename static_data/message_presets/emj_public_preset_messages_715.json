@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "We're good",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4998
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Estamos bien",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4999
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Alles gut zwischen uns",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5000
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Estamos bem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5001
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Wszystko między nami ok",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5002
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "У нас всё хорошо",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5003
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我们没事",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5004
   }

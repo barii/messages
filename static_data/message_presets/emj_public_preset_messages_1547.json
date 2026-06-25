@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Ok mate.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10822
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Ok, tío.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10823
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ok Kumpel.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10824
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Ok, pá.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10825
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Ok, kolego.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10826
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Ок, дружище.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10827
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "Ok,兄弟。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10828
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Good morning",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7693
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Buenos días",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7694
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Guten Morgen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7695
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Bom dia",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7696
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Dzień dobry",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7697
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Доброе утро",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7698
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "早上好",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7699
   }

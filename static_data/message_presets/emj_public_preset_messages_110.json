@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "You feeling okay?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 763
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Te encuentras bien?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 764
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Fühlst du dich gut?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 765
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Sentes-te bem?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 766
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Czujesz się ok?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 767
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты нормально себя чувствуешь?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 768
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你感觉还好吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 769
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "You'll be us in your dreams.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10668
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Seréis nosotros en vuestros sueños.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10669
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "In euren Träumen werdet ihr wir sein.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10670
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Serão nós nos vossos sonhos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10671
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Będziecie nami w swoich snach.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10672
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Вы будете нами в своих снах.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10673
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "你们在梦里才是我们。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10674
   }

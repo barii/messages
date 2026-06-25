@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I'll do better",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4221
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Lo haré mejor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4222
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ich werde es besser machen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4223
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Vou fazer melhor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4224
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Będę robił lepiej",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4225
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Я буду делать лучше",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4226
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我会做得更好",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4227
   }

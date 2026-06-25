@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Sunday league stuff.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9702
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Cosas de liga de domingo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9703
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Sonntagsligaspiel.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9704
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Coisas de futebol de domingo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9705
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Liga niedzielna.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9706
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Дворовая лига.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9707
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "周日联赛水平。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9708
   }

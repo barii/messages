@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "Do you feel the same way?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6111
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "¿Sientes lo mismo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6112
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Empfindest du dasselbe?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6113
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Sentes o mesmo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6114
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Czujesz to samo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6115
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Ты чувствуешь то же самое?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6116
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "你也有同样的感觉吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6117
   }

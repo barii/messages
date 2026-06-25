@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Honestly don't know",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3647
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Honestamente no sé",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3648
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ehrlich gesagt weiß ich's nicht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3649
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Sinceramente não sei",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3650
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Szczerze nie wiem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3651
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Честно не знаю",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3652
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "说实话不知道",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3653
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I'm closer than you think",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6342
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Estoy más cerca de lo que crees",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6343
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich bin näher, als du denkst",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6344
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Estou mais perto do que pensas",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6345
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Jestem bliżej, niż myślisz",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6346
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Я ближе, чем ты думаешь",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6347
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我比你想的更近",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6348
   }

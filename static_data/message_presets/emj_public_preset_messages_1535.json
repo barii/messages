@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "We have a big stadium because were a big team.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10738
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Tenemos un estadio grande porque somos un equipo grande.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10739
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Wir haben ein großes Stadion, weil wir eine große Mannschaft sind.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10740
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Temos um estádio grande porque somos uma equipa grande.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10741
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Mamy duży stadion, bo jesteśmy dużą drużyną.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10742
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "У нас большой стадион, потому что мы большая команда.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10743
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "我们有大球场是因为我们是大球队。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10744
   }

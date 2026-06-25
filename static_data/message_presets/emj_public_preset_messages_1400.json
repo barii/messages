@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You're nothing special.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9793
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "No sois nada especial.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9794
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr seid nichts Besonderes.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9795
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Não são nada de especial.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9796
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Nie jesteście niczym wyjątkowym.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9797
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "В вас нет ничего особенного.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9798
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们没什么特别的。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9799
   }

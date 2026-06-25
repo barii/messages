@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Fair enough",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3262
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Bastante justo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3263
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ist fair",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3264
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Justo o suficiente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3265
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Wystarczająco sprawiedliwie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3266
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Достаточно справедливо",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3267
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "够公平",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3268
   }

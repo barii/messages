@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "This conversation is over",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4746
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Esta conversación se acabó",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4747
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Dieses Gespräch ist vorbei",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4748
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Esta conversa acabou",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4749
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Ta rozmowa się skończyła",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4750
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Этот разговор окончен",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4751
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "对话结束",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4752
   }

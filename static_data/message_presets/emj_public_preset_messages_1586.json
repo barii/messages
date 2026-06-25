@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You were quiet earlier.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11095
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Estabais callados antes.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11096
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Vorher wart ihr ruhig.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11097
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Estavam calados antes.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11098
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Wcześniej byliście cicho.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11099
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Раньше вы молчали.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11100
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "之前你们挺安静的。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11101
   }

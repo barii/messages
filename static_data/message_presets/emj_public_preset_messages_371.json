@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I love being out and about",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2590
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Me encanta salir y estar en movimiento",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2591
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich liebe es, unterwegs zu sein",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2592
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Adoro estar na rua",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2593
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Uwielbiam być na mieście",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2594
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Мне нравится быть в движении",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2595
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我喜欢出去走走",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2596
   }

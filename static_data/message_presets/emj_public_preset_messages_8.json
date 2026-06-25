@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You light up every room",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 49
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Iluminas cualquier habitación",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 50
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du erhellst jeden Raum",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 51
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "Iluminas qualquer sítio",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 52
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Rozświetlasz każde pomieszczenie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 53
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты освещаешь каждую комнату",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 54
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你点亮每个房间",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 55
   }

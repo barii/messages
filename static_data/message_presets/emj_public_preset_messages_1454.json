@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Champions in waiting.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10171
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Campeones en espera.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10172
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Champions in Wartestellung.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10173
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Campeões em espera.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10174
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Mistrzowie w oczekiwaniu.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10175
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Чемпионы в ожидании.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10176
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "准冠军。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10177
   }

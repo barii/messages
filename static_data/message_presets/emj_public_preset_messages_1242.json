@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "I've seen better performances at a school play.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8687
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "He visto mejores actuaciones en una obra escolar.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8688
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ich habe bessere Vorstellungen in einem Schultheater gesehen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8689
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Já vi melhores actuações numa peça da escola.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8690
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Widziałem lepsze występy w szkolnym przedstawieniu.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8691
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Я видел игру лучше в школьном спектакле.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8692
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "我看过比这更好的学校话剧。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8693
   }

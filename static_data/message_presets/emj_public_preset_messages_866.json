@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "You have the most beautiful eyes",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6055
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Tienes los ojos más hermosos",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6056
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Du hast die schönsten Augen",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6057
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Tens os olhos mais lindos",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6058
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Masz najpiękniejsze oczy",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6059
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "У тебя самые красивые глаза",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6060
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "你有最美的眼睛",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6061
   }

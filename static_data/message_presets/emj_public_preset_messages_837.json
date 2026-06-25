@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "Is it weird that I miss you?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5852
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "¿Es raro que te extrañe?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5853
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ist es seltsam, dass ich dich vermisse?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5854
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "É estranho que tenha saudades tuas?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5855
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Czy to dziwne, że za tobą tęsknię?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5856
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Это странно, что я скучаю по тебе?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5857
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我想你奇怪吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5858
   }

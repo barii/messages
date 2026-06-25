@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you anxious?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 847
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Tienes ansiedad?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 848
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Bist du ängstlich?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 849
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás ansioso?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 850
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Czujesz niepokój?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 851
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Тревожно?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 852
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你焦虑吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 853
   }

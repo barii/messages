@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Speak when you've won something.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11067
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Hablad cuando hayáis ganado algo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11068
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Redet, wenn ihr etwas gewonnen habt.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11069
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Falem quando ganharem alguma coisa.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11070
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Mówcie, kiedy coś wygracie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11071
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Говорите, когда что-нибудь выиграете.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11072
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "等你们赢过什么再说。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11073
   }

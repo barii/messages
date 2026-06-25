@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Have a word.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10941
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Echaos una pensada.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10942
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Denkt mal nach.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10943
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Tem juízo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10944
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Pomyślcie nad sobą.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10945
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Подумайте о себе.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10946
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "好好想想自己。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10947
   }

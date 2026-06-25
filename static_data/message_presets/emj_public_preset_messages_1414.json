@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We're unstoppable.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9891
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Somos imparables.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9892
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir sind unaufhaltsam.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9893
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Somos imparáveis.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9894
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Jesteśmy nie do zatrzymania.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9895
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы неудержимы.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9896
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们势不可挡。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9897
   }

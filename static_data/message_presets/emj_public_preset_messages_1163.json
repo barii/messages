@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Be my Valentine",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8134
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Sé mi San Valentín",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8135
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Sei mein Valentin",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8136
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Sê o meu Valentine",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8137
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Bądź moim Walentym",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8138
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "Будь моим Валентином",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8139
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "做我的情人吧",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8140
   }

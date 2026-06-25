@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You're flaky",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6979
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Eres poco confiable",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6980
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du bist unzuverlässig",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6981
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "És pouco fiável",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6982
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Jesteś niewiarygodny",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6983
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Ты ненадёжный",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6984
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你不可靠",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 6985
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "What have you ever achieved?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8911
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "¿Qué habéis conseguido alguna vez?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8912
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Was habt ihr je erreicht?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8913
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "O que é que vocês já conquistaram?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8914
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Co kiedykolwiek osiągnęliście?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8915
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Чего вы вообще добились?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8916
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们到底取得过什么成就?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8917
   }

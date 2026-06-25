@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "You're so annoying",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 441
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "Eres muy molesto",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 442
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Du bist so nervig",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 443
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "És tão chato",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 444
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "Jesteś taki irytujący",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 445
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Ты такой раздражающий",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 446
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "你太烦人了",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 447
   }

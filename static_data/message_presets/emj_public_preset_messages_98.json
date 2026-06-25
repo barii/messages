@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "I'd explain but I don't have the time",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 679
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "Te lo explicaría pero no tengo tiempo",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 680
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Ich würde es erklären, aber ich habe keine Zeit",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 681
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Explicava mas não tenho tempo",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 682
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "Wyjaśniłbym, ale nie mam czasu",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 683
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Я бы объяснил, но у меня нет времени",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 684
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "我会解释但我没时间",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 685
   }

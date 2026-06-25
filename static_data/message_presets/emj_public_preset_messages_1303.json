@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Do one.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9114
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Andad ya.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9115
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Hört auf.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9116
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Sai daí.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9117
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Dajcie spokój.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9118
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Прекратите.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9119
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "得了吧。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9120
   }

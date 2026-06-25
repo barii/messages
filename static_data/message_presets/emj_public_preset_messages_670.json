@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Do what you want",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4683
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Haz lo que quieras",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4684
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Mach was du willst",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4685
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Faz o que quiseres",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4686
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Rób, co chcesz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4687
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Делай что хочешь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4688
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "随你便",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4689
   }

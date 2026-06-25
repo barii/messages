@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Counting down to the weekend",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7252
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Cuenta atrás para el fin de semana",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7253
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Countdown zum Wochenende",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7254
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Contagem decrescente para o fim de semana",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7255
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Odliczanie do weekendu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7256
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Обратный отсчёт до выходных",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7257
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "倒数到周末",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7258
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "The score flattered you.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11529
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "El resultado os favoreció.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11530
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Das Ergebnis hat euch geschmeichelt.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11531
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "O resultado favoreceu-vos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11532
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Wynik wam pochlebił.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11533
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Счёт вам польстил.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11534
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "这比分给你们面子了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11535
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Dang",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3458
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Caray",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3459
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Mensch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3460
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Bolas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3461
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Cholera",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3462
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Блин",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3463
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "天哪",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3464
   }

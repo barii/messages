@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Iconic",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5215
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Icónico",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5216
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Ikonisch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5217
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Icónico",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5218
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Ikonicznie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5219
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Иконично",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5220
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "标志性",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5221
   }

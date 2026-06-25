@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You inspire me",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 266
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Me inspiras",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 267
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du inspirierst mich",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 268
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "Inspiras-me",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 269
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Inspirujesz mnie",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 270
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты вдохновляешь меня",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 271
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你激励着我",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 272
   }

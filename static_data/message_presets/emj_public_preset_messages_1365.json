@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "No fight, no quality, nothing.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9548
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Sin lucha, sin calidad, nada.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9549
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Kein Kampf, keine Qualität, nichts.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9550
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Sem luta, sem qualidade, nada.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9551
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Bez walki, bez jakości, nic.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9552
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Без борьбы, без качества, ничего.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9553
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "没拼搏,没质量,什么都没有。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9554
   }

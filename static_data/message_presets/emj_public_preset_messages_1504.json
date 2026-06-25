@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We're him.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10521
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "We're him.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10522
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "We're him.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10523
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "We're him.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10524
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "We're him.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10525
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "We're him.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10526
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "We're him.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10527
   }

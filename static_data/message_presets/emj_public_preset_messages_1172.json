@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Happy Holidays",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8197
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Felices Fiestas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8198
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Frohe Feiertage",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8199
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Boas Festas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8200
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Wesołych Świąt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8201
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "С праздниками",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8202
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "节日快乐",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8203
   }

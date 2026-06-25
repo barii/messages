@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Reply all is a war crime",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7329
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Responder a todos es un crimen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7330
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Allen antworten ist ein Verbrechen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7331
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Responder a todos é um crime",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7332
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Odpowiedz wszystkim to zbrodnia",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7333
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Ответить всем - преступление",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7334
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "全员回复是种犯罪",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7335
   }

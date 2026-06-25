@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Be kind to yourself",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6426
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Sé amable contigo mismo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6427
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Sei freundlich zu dir selbst",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6428
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Sê simpático contigo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6429
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Bądź dla siebie miły",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6430
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Будь добр к себе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6431
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "对自己好一点",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6432
   }

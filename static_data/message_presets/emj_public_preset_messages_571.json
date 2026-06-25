@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Pretty much",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3990
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Más o menos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3991
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "So ziemlich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3992
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Mais ou menos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3993
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Mniej więcej",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3994
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Более-менее",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3995
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "差不多",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3996
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Even on a bad day we beat you.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11263
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Hasta en un mal día os ganamos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11264
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Selbst an einem schlechten Tag schlagen wir euch.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11265
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Mesmo num dia mau ganhámos-vos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11266
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Nawet w słabym dniu wygraliśmy z wami.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11267
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Даже в плохой день мы обыграем вас.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11268
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "即使状态差我们也能赢你们。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11269
   }

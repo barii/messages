@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "I learn so much from you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 287
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Aprendo mucho de ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 288
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Ich lerne so viel von dir",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 289
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "Aprendo tanto contigo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 290
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Tyle się od ciebie uczę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 291
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Я так многому у тебя учусь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 292
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "我从你身上学到很多",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 293
   }

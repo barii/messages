@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Point taken",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4256
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Punto tomado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4257
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Punkt verstanden",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4258
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Ponto aceite",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4259
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Punkt przyjęty",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4260
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Понял точку",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4261
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "明白了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4262
   }

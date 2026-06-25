@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Another easy victory.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9828
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Otra victoria fácil.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9829
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Noch ein leichter Sieg.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9830
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Mais uma vitória fácil.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9831
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Kolejne łatwe zwycięstwo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9832
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Ещё одна лёгкая победа.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9833
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "又是一场轻松胜利。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9834
   }

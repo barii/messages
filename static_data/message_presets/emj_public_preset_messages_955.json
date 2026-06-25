@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Say what you need to say",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6678
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Di lo que tengas que decir",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6679
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Sag, was du sagen musst",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6680
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Diz o que tens de dizer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6681
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Powiedz to, co musisz powiedzieć",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6682
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Скажи то, что тебе нужно сказать",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6683
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "说出你需要说的话",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6684
   }

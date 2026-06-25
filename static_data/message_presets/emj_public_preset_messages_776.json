@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Crying laughing",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5425
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Llorando de risa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5426
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Lache mich tot",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5427
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "A chorar a rir",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5428
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Śmieję się do łez",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5429
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Плачу от смеха",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5430
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "笑哭了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5431
   }

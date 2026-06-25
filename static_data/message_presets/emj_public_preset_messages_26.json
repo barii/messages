@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "Your smile is contagious",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 175
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Tu sonrisa es contagiosa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 176
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Dein Lächeln ist ansteckend",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 177
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "O teu sorriso é contagiante",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 178
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Twój uśmiech jest zaraźliwy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 179
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Твоя улыбка заразительна",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 180
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你的笑容有感染力",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 181
   }

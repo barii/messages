@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm into spirituality",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2737
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy espiritual",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2738
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin spirituell",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2739
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou espiritual",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2740
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem duchowy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2741
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я духовный",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2742
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我有精神信仰",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2743
   }

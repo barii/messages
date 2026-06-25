@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "You couldn't hit water if you fell out of a boat!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11830
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "You couldn't hit water if you fell out of a boat!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11831
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "You couldn't hit water if you fell out of a boat!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11832
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "You couldn't hit water if you fell out of a boat!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11833
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "You couldn't hit water if you fell out of a boat!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11834
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "You couldn't hit water if you fell out of a boat!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11835
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "You couldn't hit water if you fell out of a boat!",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11836
   }

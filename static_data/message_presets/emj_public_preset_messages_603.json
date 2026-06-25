@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I'll work on it",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4214
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Trabajaré en ello",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4215
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ich arbeite daran",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4216
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Vou trabalhar nisso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4217
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Popracuję nad tym",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4218
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Я буду работать над этим",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4219
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我会努力的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4220
   }

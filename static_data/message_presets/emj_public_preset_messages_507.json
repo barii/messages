@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Existing",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3542
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Existiendo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3543
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Existiere",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3544
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "A existir",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3545
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Istnieję",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3546
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Существую",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3547
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "存在",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3548
   }

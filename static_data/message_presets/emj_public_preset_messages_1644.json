@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Sacked in the morning.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11501
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Despedido por la mañana.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11502
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Morgen entlassen.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11503
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Despedido de manhã.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11504
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Zwolniony rano.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11505
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Уволен утром.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11506
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "明早就被解雇。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11507
   }

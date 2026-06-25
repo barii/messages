@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Sorry, my bad",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4956
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Perdón, fue mi culpa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4957
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Sorry, mein Fehler",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4958
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Desculpa, falha minha",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4959
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Sorka, moja wina",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4960
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Извини, моя вина",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4961
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "抱歉,是我的错",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4962
   }

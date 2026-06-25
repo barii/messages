@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You were second to everything.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9576
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Segundos en todo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9577
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Bei allem zweiter Sieger.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9578
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Segundos em tudo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9579
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Drudzy do wszystkiego.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9580
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вторые во всём.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9581
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "在所有方面都落后。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9582
   }

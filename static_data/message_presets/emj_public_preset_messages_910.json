@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "You're going to be fine",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6363
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Vas a estar bien",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6364
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Es wird dir gut gehen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6365
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Vais ficar bem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6366
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Wszystko będzie dobrze",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6367
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "У тебя всё будет хорошо",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6368
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "你会没事的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6369
   }

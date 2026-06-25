@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "We're so much better than you.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10689
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Somos mucho mejores que vosotros.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10690
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Wir sind viel besser als ihr.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10691
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Somos muito melhores que vocês.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10692
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Jesteśmy o wiele lepsi od was.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10693
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Мы намного лучше вас.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10694
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "我们比你们好太多了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10695
   }

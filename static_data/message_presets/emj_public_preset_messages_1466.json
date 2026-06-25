@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We barely tried.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10255
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Apenas lo intentamos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10256
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir haben uns kaum angestrengt.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10257
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Mal nos esforçámos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10258
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Ledwo się staraliśmy.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10259
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы едва старались.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10260
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们几乎没努力。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10261
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "My pleasure",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4921
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Un placer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4922
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Mit Vergnügen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4923
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "O prazer é meu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4924
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Cała przyjemność po mojej stronie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4925
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "С удовольствием",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4926
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我的荣幸",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4927
   }

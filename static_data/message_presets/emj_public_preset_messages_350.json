@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "Love is love",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2443
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "El amor es amor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2444
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Liebe ist Liebe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2445
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Amor é amor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2446
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Miłość to miłość",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2447
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Любовь есть любовь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2448
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "爱就是爱",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2449
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Stop being dramatic",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4543
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Deja de ser tan dramático",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4544
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Hör auf, ein Drama zu machen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4545
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Para de ser dramático",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4546
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Przestań robić dramat",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4547
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Перестань делать драму",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4548
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "别再闹剧了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4549
   }

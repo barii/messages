@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Tell me you found that online without telling me",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5712
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Dime que lo sacaste de internet sin decírmelo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5713
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Sag mir, dass du das im Internet gefunden hast, ohne es mir zu sagen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5714
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Diz-me que foste buscar isso à internet sem me dizeres",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5715
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Powiedz, że znalazłeś to w internecie, nie mówiąc mi",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5716
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Скажи мне, что нашёл это в интернете, не говоря об этом",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5717
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "告诉我你在网上找到的而不直接说",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5718
   }

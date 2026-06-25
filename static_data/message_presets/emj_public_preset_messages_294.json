@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm tired",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2051
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Estoy cansado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2052
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin müde",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2053
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Estou cansado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2054
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem zmęczony",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2055
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я устал",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2056
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我累了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2057
   }

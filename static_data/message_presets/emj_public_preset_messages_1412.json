@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Too easy for us.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9877
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Demasiado fácil para nosotros.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9878
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Zu leicht für uns.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9879
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Demasiado fácil para nós.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9880
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Za łatwo dla nas.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9881
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Слишком легко для нас.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9882
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "对我们来说太简单了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9883
   }

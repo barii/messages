@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Failure is your way of life.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8659
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "El fracaso es vuestro modo de vida.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8660
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Versagen ist eure Lebensart.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8661
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "O fracasso é o vosso modo de vida.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8662
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Porażka to wasz sposób na życie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8663
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Поражение — ваш образ жизни.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8664
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "失败就是你们的生活方式。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8665
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "No way",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3339
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Ni de broma",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3340
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Auf keinen Fall",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3341
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "De maneira nenhuma",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3342
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Nie ma mowy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3343
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Ни за что",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3344
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "不可能",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3345
   }

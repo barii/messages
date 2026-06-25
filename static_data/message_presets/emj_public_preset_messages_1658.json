@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You tried.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11599
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Lo habéis intentado.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11600
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ihr habt es versucht.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11601
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Tentaram.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11602
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Próbowaliście.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11603
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Вы пытались.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11604
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们尝试了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11605
   }

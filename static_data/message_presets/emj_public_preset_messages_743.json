@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Love this",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5194
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Me encanta esto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5195
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Liebe das",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5196
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Adoro isto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5197
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Uwielbiam to",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5198
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Обожаю это",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5199
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "爱了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5200
   }

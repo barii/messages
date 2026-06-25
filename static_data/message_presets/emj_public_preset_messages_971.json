@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Start with the easiest thing",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6790
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Empieza por lo más fácil",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6791
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Beginne mit dem Einfachsten",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6792
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Começa pelo mais fácil",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6793
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Zacznij od najłatwiejszej rzeczy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6794
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Начни с самого лёгкого",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6795
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "从最简单的开始",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6796
   }

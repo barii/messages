@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "You always know what to say in meetings",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7189
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Siempre sabes qué decir en las reuniones",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7190
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Du weißt immer, was du in Meetings sagen sollst",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7191
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Sabes sempre o que dizer nas reuniões",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7192
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Zawsze wiesz, co powiedzieć na spotkaniach",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7193
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Ты всегда знаешь, что сказать на встречах",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7194
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "你总知道在会议上该说什么",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7195
   }

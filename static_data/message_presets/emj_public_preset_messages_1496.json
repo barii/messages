@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Sold out again.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10465
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Agotadas las entradas otra vez.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10466
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wieder ausverkauft.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10467
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Esgotado outra vez.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10468
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Znowu wyprzedane.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10469
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Снова все билеты проданы.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10470
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "又一次满座。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10471
   }

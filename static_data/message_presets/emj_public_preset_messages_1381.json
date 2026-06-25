@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You crumbled.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9660
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Os habéis derrumbado.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9661
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr seid zerbrochen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9662
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Desmoronaram-se.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9663
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Rozsypaliście się.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9664
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Рассыпались.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9665
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们崩溃了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9666
   }

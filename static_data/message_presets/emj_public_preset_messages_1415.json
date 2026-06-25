@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "You're no match for us.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9898
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "No sois rival para nosotros.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9899
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Ihr seid uns nicht gewachsen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9900
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Não são adversários para nós.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9901
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Nie jesteście dla nas żadnym przeciwnikiem.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9902
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Вы нам не соперник.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9903
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "你们根本不是我们的对手。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9904
   }

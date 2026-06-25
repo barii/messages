@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Title race? We're winning it.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10164
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "¿Carrera por el título? La estamos ganando.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10165
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Titelrennen? Wir gewinnen es.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10166
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Corrida pelo título? Estamos a ganhá-la.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10167
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Wyścig o tytuł? Wygrywamy go.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10168
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Гонка за титулом? Мы её выигрываем.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10169
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "争冠?我们正在赢。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10170
   }

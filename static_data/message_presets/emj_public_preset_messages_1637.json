@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Is there a fire drill?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11452
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "¿Hay un simulacro de incendio?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11453
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Gibt es einen Feueralarm?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11454
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Há um simulacro de incêndio?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11455
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Czy jest próba przeciwpożarowa?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11456
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Это пожарная тревога?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11457
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "有消防演习吗?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11458
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm Caribbean",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2541
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Soy caribeño",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2542
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin Karibe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2543
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Sou caribenho",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2544
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem z Karaibów",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2545
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я с Карибов",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2546
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我是加勒比人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2547
   }

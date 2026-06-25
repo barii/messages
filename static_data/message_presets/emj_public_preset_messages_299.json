@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm overwhelmed",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2086
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Estoy agobiado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2087
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin überfordert",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2088
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Estou sobrecarregado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2089
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem przytłoczony",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2090
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я перегружен",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2091
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我感到不知所措",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2092
   }

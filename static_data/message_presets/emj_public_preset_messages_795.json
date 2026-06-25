@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Same to you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5558
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Lo mismo para ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5559
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Dir auch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5560
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "O mesmo para ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5561
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Tobie również",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5562
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "И тебе тоже",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5563
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "也祝你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5564
   }

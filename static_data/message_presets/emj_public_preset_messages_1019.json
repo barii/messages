@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "You make this place better",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7126
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Haces que este lugar sea mejor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7127
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Du machst diesen Ort besser",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7128
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Tornas este sítio melhor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7129
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Sprawiasz, że to miejsce jest lepsze",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7130
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Ты делаешь это место лучше",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7131
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "你让这个地方更好",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7132
   }

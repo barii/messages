@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Hi friend",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7875
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Hola, amigo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7876
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Hi Freund",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7877
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Olá amigo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7878
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Cześć przyjacielu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7879
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Привет, друг",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7880
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "嗨朋友",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7881
   }

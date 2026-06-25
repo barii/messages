@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "I'm so sorry",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4942
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Lo siento mucho",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4943
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Es tut mir so leid",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4944
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Desculpa imenso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4945
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Bardzo przepraszam",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4946
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Мне так жаль",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4947
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我很抱歉",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4948
   }

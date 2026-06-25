@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "You got this",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6356
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Tú puedes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6357
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Du schaffst das",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6358
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Tu consegues",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6359
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Dasz radę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6360
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "У тебя получится",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6361
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "你可以的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6362
   }

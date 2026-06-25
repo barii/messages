@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Damn",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3451
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Vaya",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3452
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Verdammt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3453
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Caramba",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3454
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Cholera",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3455
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Чёрт",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3456
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我去",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3457
   }

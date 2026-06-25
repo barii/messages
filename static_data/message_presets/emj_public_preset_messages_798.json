@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "I'm blushing",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5579
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Me estoy sonrojando",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5580
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Ich erröte",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5581
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Estou a corar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5582
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Rumienię się",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5583
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Я краснею",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5584
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我脸红了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5585
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Agreed agreed",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5495
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Totalmente de acuerdo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5496
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Stimme voll zu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5497
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Concordo totalmente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5498
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Całkowicie się zgadzam",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5499
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Полностью согласен",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5500
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "完全同意",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5501
   }

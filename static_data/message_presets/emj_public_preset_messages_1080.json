@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Whoever finished the milk, we need to talk",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7553
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Quien sea que terminó la leche, tenemos que hablar",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7554
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Wer die Milch leergemacht hat, wir müssen reden",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7555
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Quem quer que tenha acabado o leite, temos de falar",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7556
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Kto skończył mleko, musimy pogadać",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7557
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Кто бы ни закончил молоко - нам нужно поговорить",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7558
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "不管是谁喝完了牛奶,我们得谈谈",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 7559
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "I believe in you",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5285
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Creo en ti",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5286
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Ich glaube an dich",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5287
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Acredito em ti",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5288
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Wierzę w ciebie",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5289
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Я верю в тебя",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5290
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我相信你",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 5291
   }

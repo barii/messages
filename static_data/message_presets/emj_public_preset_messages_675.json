@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "You're wrong about that",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4718
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Estás equivocado en eso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4719
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Da liegst du falsch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4720
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Estás errado nisso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4721
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Mylisz się w tej kwestii",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4722
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Ты в этом не прав",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4723
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "你错了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4724
   }

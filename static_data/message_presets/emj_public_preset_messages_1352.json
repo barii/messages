@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Loud for a small club.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9457
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Mucho ruido para un club pequeño.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9458
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Laut für einen kleinen Verein.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9459
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Muito barulho para um clube pequeno.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9460
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Głośni jak na mały klub.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9461
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Шумные для маленького клуба.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9462
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "对小俱乐部来说够吵的。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9463
   }

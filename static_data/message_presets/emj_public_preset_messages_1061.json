@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "We need to talk about the workload",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7420
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Tenemos que hablar de la carga de trabajo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7421
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Wir müssen über die Arbeitsbelastung reden",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7422
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Temos de falar sobre a carga de trabalho",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7423
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Musimy pogadać o obciążeniu pracą",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7424
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Нам нужно поговорить о нагрузке",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7425
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "我们需要谈谈工作量",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7426
   }

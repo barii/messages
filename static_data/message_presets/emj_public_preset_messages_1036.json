@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "The Sunday scaries are real",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7245
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "El bajón del domingo es real",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7246
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Die Sonntagsangst ist real",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7247
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Os medos de domingo são reais",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7248
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Niedzielne lęki są prawdziwe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7249
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Воскресные тревоги реальны",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7250
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "周日恐惧症是真的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7251
   }

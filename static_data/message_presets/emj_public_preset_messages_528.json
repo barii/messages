@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I'll tell you later",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3689
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Te cuento luego",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3690
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Erzähle ich dir später",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3691
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Conto-te depois",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3692
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Powiem ci później",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3693
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Скажу позже",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3694
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "晚点告诉你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3695
   }

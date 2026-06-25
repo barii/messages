@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "Are you my phone charger because without you I'd die?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8505
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "¿Eres mi cargador? Porque sin ti me muero",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8506
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Bist du mein Handy-Ladegerät? Denn ohne dich würde ich sterben",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8507
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "És o meu carregador? Porque sem ti morria",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8508
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Jesteś moją ładowarką? Bo bez ciebie umrę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8509
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Ты моя зарядка? Потому что без тебя я умру",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8510
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "你是我的充电器吗?因为没有你我会死",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8511
   }

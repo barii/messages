@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Curate your circle",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6622
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Cuida tu círculo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6623
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Kuratiere deinen Kreis",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6624
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Cuida do teu círculo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6625
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Pielęgnuj swój krąg",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6626
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Курируй свой круг",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6627
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "管理好你的圈子",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6628
   }

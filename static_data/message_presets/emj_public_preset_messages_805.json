@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "You charmer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5628
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Qué encantador",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5629
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Du Charmeur",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5630
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Encantador",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5631
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Czaruś",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5632
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Очарователь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5633
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "你这个迷人的家伙",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5634
   }

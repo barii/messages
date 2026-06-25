@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I miss you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2177
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Te extraño",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2178
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich vermisse dich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2179
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Tenho saudades tuas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2180
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Tęsknię za tobą",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2181
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я скучаю по тебе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2182
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我想你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2183
   }

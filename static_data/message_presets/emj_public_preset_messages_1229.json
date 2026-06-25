@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "I'm going to need your number for science reasons",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8596
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "Voy a necesitar tu número por razones científicas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8597
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Ich brauche deine Nummer aus wissenschaftlichen Gründen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8598
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "Vou precisar do teu número por razões científicas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8599
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Będę potrzebował twojego numeru z naukowych powodów",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8600
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Мне нужен твой номер по научным причинам",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8601
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "我需要你的电话号码,出于科学原因",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8602
   }

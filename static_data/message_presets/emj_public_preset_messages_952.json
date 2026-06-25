@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Stop waiting for the right time, there's no right time",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6657
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Deja de esperar el momento perfecto, no existe",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6658
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Hör auf, auf den richtigen Zeitpunkt zu warten, es gibt keinen",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6659
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Para de esperar pela hora certa, não existe",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6660
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Przestań czekać na odpowiedni moment, nie ma takiego",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6661
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Перестань ждать подходящего времени, его нет",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6662
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "别再等合适的时机,没有合适的时机",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 6663
   }

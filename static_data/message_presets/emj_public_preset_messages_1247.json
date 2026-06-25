@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "That was a spectacular display of failure.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8722
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Eso fue un espectacular despliegue de fracaso.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8723
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Das war eine spektakuläre Vorstellung des Versagens.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8724
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Foi um espectacular espectáculo de fracasso.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8725
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "To był spektakularny pokaz porażki.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8726
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Это был зрелищный показ провала.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8727
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "那真是一场精彩的失败秀。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8728
   }

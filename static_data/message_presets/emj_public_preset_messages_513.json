@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Not great honestly",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3584
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "No muy bien, la verdad",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3585
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ehrlich gesagt nicht so gut",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3586
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Não muito bem, sinceramente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3587
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Szczerze nie najlepiej",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3588
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Честно, не очень",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3589
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "说实话不太好",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3590
   }

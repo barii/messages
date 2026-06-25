@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Huh",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3206
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "¿Eh?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3207
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Hä?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3208
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Hã?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3209
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Hę?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3210
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "А?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3211
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "嗯?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3212
   }

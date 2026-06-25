@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You crossed a line",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7049
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Cruzaste una línea",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7050
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du hast eine Grenze überschritten",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7051
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Cruzaste uma linha",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7052
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Przekroczyłeś granicę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7053
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Ты перешёл черту",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7054
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你越界了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7055
   }

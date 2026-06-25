@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Spooky season is upon us",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8183
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "La temporada del miedo está aquí",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8184
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Die Gruselsaison ist da",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8185
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "A época assustadora chegou",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8186
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Sezon strachu nadszedł",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8187
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "Жуткий сезон наступил",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8188
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "恐怖季节来了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8189
   }

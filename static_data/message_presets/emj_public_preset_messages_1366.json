@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You played like strangers.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9555
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Habéis jugado como desconocidos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9556
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr habt gespielt wie Fremde.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9557
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Jogaram como desconhecidos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9558
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Graliście jak obcy.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9559
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Играли как чужие.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9560
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们踢得像陌生人一样。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9561
   }

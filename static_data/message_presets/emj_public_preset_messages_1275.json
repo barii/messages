@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You're looking nervous.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8918
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Os veis nerviosos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8919
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr seht nervös aus.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8920
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Estão nervosos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8921
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wyglądacie na zdenerwowanych.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8922
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы выглядите нервными.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8923
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们看起来很紧张。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8924
   }

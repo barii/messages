@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "I feel the same way",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6279
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Siento lo mismo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6280
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Ich empfinde dasselbe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6281
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Sinto o mesmo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6282
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Czuję to samo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6283
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Я чувствую то же самое",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6284
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "我有同样的感觉",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6285
   }

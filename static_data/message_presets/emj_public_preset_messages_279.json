@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Hints",
     "text": "You know me well",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1946
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pistas",
     "text": "Me conoces bien",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1947
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Tipps",
     "text": "Du kennst mich gut",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1948
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Dicas",
     "text": "Conheces-me bem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1949
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Wskazówki",
     "text": "Znasz mnie dobrze",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1950
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы",
     "text": "Ты знаешь меня хорошо",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1951
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "提示用语",
     "text": "你了解我",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1952
   }

@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Where's your superstar now?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12390
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Where's your superstar now?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12391
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Where's your superstar now?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12392
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Where's your superstar now?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12393
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Where's your superstar now?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12394
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Where's your superstar now?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12395
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Where's your superstar now?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 12396
   }

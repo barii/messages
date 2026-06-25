@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "I feel you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5530
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Te entiendo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5531
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Ich fühle dich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5532
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Sinto-te",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5533
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Czuję cię",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5534
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Я тебя понимаю",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5535
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我懂你",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5536
   }

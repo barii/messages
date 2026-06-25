@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Happy Halloween",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8169
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Feliz Halloween",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8170
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Frohes Halloween",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8171
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Feliz Halloween",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8172
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Wesołego Halloween",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8173
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "С Хеллоуином",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8174
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "万圣节快乐",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8175
   }

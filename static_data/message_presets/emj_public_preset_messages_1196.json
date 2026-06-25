@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Aw thank you, you too",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8365
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Aw gracias, igualmente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8366
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Aw danke, dir auch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8367
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Aw obrigado, para ti também",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8368
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Aw dzięki, ty też",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8369
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "Спасибо, и тебе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8370
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "啊谢谢,你也是",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8371
   }

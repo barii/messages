@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Where were your fans today.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9492
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "¿Dónde estaban vuestros aficionados hoy?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9493
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Wo waren eure Fans heute?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9494
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Onde estavam os vossos adeptos hoje?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9495
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Gdzie byli wasi kibice dzisiaj?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9496
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Где были ваши фанаты сегодня?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9497
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们球迷今天去哪了?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9498
   }

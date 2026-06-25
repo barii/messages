@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Win something then talk.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11074
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Ganad algo y entonces hablad.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11075
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Gewinnt etwas und dann redet.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11076
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Ganhem algo e depois falem.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11077
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Wygrajcie coś i wtedy mówcie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11078
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Сначала что-то выиграйте, потом говорите.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11079
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "先赢点东西再说。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11080
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "So real",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5453
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Tan real",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5454
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "So echt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5455
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Tão real",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5456
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Tak prawdziwe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5457
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Так реально",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5458
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "好真实",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5459
   }

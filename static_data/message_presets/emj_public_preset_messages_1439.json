@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Professional job.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10066
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Trabajo profesional.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10067
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Professionelle Arbeit.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10068
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Trabalho profissional.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10069
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Profesjonalna robota.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10070
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Профессиональная работа.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10071
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "专业级表现。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10072
   }

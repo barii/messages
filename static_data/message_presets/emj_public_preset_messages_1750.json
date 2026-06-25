@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Fight on!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12243
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Fight on!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12244
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Fight on!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12245
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Fight on!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12246
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Fight on!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12247
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Fight on!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12248
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Fight on!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12249
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Vibing",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3549
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Viviendo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3550
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Vibe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3551
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Na vibe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3552
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Wibracje",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3553
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Вайблю",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3554
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "感受",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3555
   }

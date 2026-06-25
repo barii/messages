@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Whatever you say",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4606
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Lo que tú digas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4607
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Wie du meinst",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4608
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "O que tu disseres",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4609
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Cokolwiek powiesz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4610
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Что бы ты ни говорил",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4611
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "随便你说",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4612
   }

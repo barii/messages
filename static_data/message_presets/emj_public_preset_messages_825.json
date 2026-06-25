@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "I'd love to know who you are",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5768
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Me encantaría saber quién eres",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5769
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Ich würde gerne wissen, wer du bist",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5770
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Adorava saber quem és",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5771
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Chętnie poznam, kim jesteś",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5772
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Хотел бы знать, кто ты",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5773
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我很想知道你是谁",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5774
   }

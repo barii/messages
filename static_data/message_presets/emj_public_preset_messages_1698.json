@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Grounded out? More like grounded at home!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11879
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Grounded out? More like grounded at home!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11880
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Grounded out? More like grounded at home!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11881
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Grounded out? More like grounded at home!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11882
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Grounded out? More like grounded at home!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11883
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Grounded out? More like grounded at home!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11884
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Grounded out? More like grounded at home!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11885
   }

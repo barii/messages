@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "We love to see it",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5208
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Nos encanta verlo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5209
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Wir lieben es zu sehen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5210
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Adoramos ver isto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5211
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Uwielbiamy to widzieć",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5212
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Любим это видеть",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5213
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我们爱看",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5214
   }

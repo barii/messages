@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "That was cringe",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 525
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "Eso fue vergüenza ajena",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 526
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Das war peinlich",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 527
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Isso foi cringe",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 528
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "To był cringe",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 529
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Это был кринж",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 530
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "那很尴尬",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 531
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you tired?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 861
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Estás cansado?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 862
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Bist du müde?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 863
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás cansado?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 864
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Jesteś zmęczony?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 865
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты устал?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 866
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你累吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 867
   }

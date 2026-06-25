@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Do you want to meet up?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1218
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Quieres que quedemos?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1219
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Wollen wir uns treffen?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1220
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Queres encontrar-te comigo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1221
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Chcesz się spotkać?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1222
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Хочешь встретиться?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1223
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "想见个面吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1224
   }

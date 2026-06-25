@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Management needs to do better",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7399
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "La gerencia tiene que mejorar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7400
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Das Management muss sich verbessern",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7401
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "A gerência tem de melhorar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7402
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Zarząd musi się poprawić",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7403
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Менеджменту нужно лучше",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7404
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "管理层需要改进",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7405
   }

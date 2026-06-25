@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Actual lol",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5439
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Jaja real",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5440
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Wirklich lol",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5441
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Mesmo kkk",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5442
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Prawdziwe xd",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5443
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Настоящий лол",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5444
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "真笑了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5445
   }

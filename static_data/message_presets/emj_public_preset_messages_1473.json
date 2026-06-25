@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We owned that game.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10304
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Hemos dominado ese partido.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10305
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir haben das Spiel beherrscht.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10306
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Dominámos aquele jogo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10307
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Dominowaliśmy w tym meczu.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10308
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы доминировали в матче.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10309
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们主导了那场比赛。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10310
   }

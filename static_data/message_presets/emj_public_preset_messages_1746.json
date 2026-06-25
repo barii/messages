@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Who's your daddy?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12215
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Who's your daddy?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12216
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Who's your daddy?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12217
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Who's your daddy?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12218
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Who's your daddy?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12219
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Who's your daddy?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12220
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Who's your daddy?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 12221
   }

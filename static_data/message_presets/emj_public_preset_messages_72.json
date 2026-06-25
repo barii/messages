@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "You're being dramatic",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 497
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "Estás siendo dramático",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 498
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Du machst ein Drama",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 499
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Estás a ser dramático",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 500
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "Robisz dramat",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 501
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Ты делаешь драму",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 502
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "你在闹剧",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 503
   }

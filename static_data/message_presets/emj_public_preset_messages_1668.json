@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Still bitter about it then.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11669
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Aún resentidos, ya veo.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11670
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Immer noch verbittert deswegen, sehe ich.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11671
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Ainda amargos com isso, vejo.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11672
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Wciąż gorzcy, widzę.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11673
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Всё ещё обижены, я вижу.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11674
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "看来还在生闷气。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11675
   }

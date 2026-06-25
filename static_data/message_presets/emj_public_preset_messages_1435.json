@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Easy.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10038
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Fácil.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10039
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Einfach.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10040
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Fácil.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10041
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Łatwo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10042
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Легко.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10043
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "简单。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10044
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you overwhelmed?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 854
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Te sientes agobiado?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 855
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Bist du überfordert?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 856
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás sobrecarregado?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 857
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Czujesz się przytłoczony?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 858
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты перегружен?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 859
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你感到不知所措吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 860
   }

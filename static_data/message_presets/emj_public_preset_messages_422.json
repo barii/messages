@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "No thanks",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2947
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "No, gracias",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2948
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Nein danke",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2949
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Não, obrigado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2950
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Nie dzięki",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2951
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Нет, спасибо",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2952
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "不,谢谢",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2953
   }

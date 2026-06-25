@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "It depends",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3038
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Depende",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3039
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Es kommt drauf an",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3040
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Depende",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3041
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "To zależy",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3042
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Это зависит",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3043
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "要看情况",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3044
   }

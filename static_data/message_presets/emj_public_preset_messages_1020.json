@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "This office would fall apart without you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7133
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Esta oficina se vendría abajo sin ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7134
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Dieses Büro würde ohne dich auseinanderfallen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7135
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Este escritório ia abaixo sem ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7136
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "To biuro by się rozpadło bez ciebie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7137
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Этот офис развалился бы без тебя",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7138
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "没有你这个办公室会崩溃",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7139
   }

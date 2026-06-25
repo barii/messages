@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "That's insane",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3787
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Es de locos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3788
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Das ist wahnsinnig",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3789
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Isso é insano",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3790
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "To obłędne",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3791
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Это безумно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3792
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "太疯狂了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3793
   }

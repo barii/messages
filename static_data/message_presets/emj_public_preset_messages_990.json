@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Criticism",
     "text": "You always have to be right",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6923
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Críticas",
     "text": "Siempre tienes que tener la razón",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6924
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kritik",
     "text": "Du musst immer recht haben",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6925
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Críticas",
     "text": "Tens sempre de ter razão",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6926
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Krytycyzm",
     "text": "Zawsze musisz mieć rację",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6927
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Критика",
     "text": "Ты всегда должен быть прав",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6928
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "批评",
     "text": "你总是必须正确",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6929
   }

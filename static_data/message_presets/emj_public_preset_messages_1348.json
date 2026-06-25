@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Sacked in the morning.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9429
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Despedido por la mañana.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9430
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Morgen entlassen.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9431
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Despedido de manhã.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9432
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Zwolniony rano.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9433
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Уволен утром.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9434
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "明早就被解雇。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9435
   }

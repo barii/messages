@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "I have so many tabs open it's concerning",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7238
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Tengo tantas pestañas abiertas que es preocupante",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7239
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Ich habe so viele Tabs offen, es ist besorgniserregend",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7240
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Tenho tantos separadores abertos que é preocupante",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7241
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Mam tyle otwartych zakładek, że to niepokojące",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7242
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "У меня открыто столько вкладок, что это тревожно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7243
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "我开了这么多标签页,有点令人担心",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7244
   }

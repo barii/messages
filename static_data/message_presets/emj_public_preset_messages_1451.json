@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "The table doesn't lie.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10150
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "La tabla no miente.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10151
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Die Tabelle lügt nicht.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10152
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "A tabela não mente.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10153
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Tabela nie kłamie.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10154
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Таблица не врёт.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10155
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "积分榜不会撒谎。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10156
   }

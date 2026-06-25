@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you okay?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 756
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Estás bien?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 757
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Geht's dir gut?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 758
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás bem?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 759
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Wszystko w porządku?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 760
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты в порядке?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 761
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你还好吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 762
   }

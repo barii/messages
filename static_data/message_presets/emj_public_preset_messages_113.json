@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "How are you really doing?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 784
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Cómo estás de verdad?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 785
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Wie geht's dir wirklich?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 786
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Como estás mesmo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 787
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Jak naprawdę się masz?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 788
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Как ты на самом деле?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 789
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你真的怎么样?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 790
   }

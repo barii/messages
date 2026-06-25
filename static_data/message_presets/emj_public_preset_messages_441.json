@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Noted",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3080
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Anotado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3081
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Notiert",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3082
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Anotado",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3083
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Zanotowane",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3084
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Учту",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3085
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "记下了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3086
   }

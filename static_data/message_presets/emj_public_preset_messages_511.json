@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Could be worse",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3570
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Podría ser peor",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3571
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Es könnte schlimmer sein",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3572
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Podia ser pior",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3573
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Mogłoby być gorzej",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3574
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Могло быть и хуже",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3575
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "还可能更糟",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3576
   }

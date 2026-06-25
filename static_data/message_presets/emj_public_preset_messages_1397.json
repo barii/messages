@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You're rubbish.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9772
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Sois basura.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9773
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr seid mies.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9774
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "São fracos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9775
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Jesteście do bani.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9776
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы отстой.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9777
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们太垃圾了。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9778
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you for real?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1302
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿De verdad?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1303
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Im Ernst?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1304
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "A sério mesmo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1305
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Naprawdę?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1306
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Серьёзно?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1307
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "真的吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1308
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Your gaffer is gone.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9436
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vuestro míster está acabado.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9437
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Euer Trainer ist weg.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9438
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "O vosso treinador está acabado.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9439
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wasz trener jest skończony.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9440
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Ваш тренер всё.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9441
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们的教练完了。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9442
   }

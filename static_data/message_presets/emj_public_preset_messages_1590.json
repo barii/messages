@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You weren't chirping then.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11123
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "No estabais piando entonces.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11124
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Da habt ihr nicht gezwitschert.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11125
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Não estavam a piar então.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11126
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Wtedy nie tweetowaliście.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11127
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Тогда вы не чирикали.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11128
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "那时候你们怎么没叽叽喳喳?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11129
   }

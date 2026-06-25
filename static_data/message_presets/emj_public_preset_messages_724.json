@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "I'm so happy for you",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5061
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Me alegro mucho por ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5062
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Ich freue mich so für dich",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5063
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Estou tão feliz por ti",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5064
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Tak się cieszę za ciebie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5065
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Я так рад за тебя",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5066
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "我为你感到高兴",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5067
   }

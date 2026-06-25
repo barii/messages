@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Do you believe in fate?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1120
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Crees en el destino?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1121
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Glaubst du an Schicksal?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1122
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Acreditas no destino?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1123
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Wierzysz w przeznaczenie?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1124
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты веришь в судьбу?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1125
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你相信命运吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1126
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You shouldn't talk, you weren't too good either.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10696
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "No deberíais hablar, vosotros tampoco fuisteis tan buenos.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10697
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ihr solltet nicht reden, ihr wart auch nicht so gut.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10698
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Não deviam falar, vocês também não foram lá grande coisa.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10699
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Nie powinniście gadać, sami też nie byliście za dobrzy.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10700
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Вам не стоит говорить, вы тоже были не очень.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10701
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们没资格说,你们也没好到哪去。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10702
   }

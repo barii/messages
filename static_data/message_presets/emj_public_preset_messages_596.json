@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "That came out wrong",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4165
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Eso salió mal",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4166
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Das kam falsch rüber",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4167
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Saiu mal",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4168
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "To wyszło źle",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4169
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Это вышло не так",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4170
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "话说错了",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4171
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You are not in our league.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8960
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "No estáis en nuestra liga.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8961
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr seid nicht in unserer Liga.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8962
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Não estão na nossa liga.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8963
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Nie jesteście w naszej lidze.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8964
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы не в нашей лиге.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8965
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们不在我们的水平。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8966
   }

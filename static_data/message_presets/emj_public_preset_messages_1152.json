@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Sending good vibes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8057
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Te mando buenas vibras",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8058
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Schicke dir gute Vibes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8059
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "A mandar-te boas vibrações",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8060
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Wysyłam dobre wibracje",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8061
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Шлю тебе хорошие вибрации",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8062
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "给你送上好的祝福",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8063
   }

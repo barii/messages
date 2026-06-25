@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You have achieved nothing.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8673
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "No habéis logrado nada.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8674
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr habt nichts erreicht.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8675
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Não conquistaram nada.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8676
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Niczego nie osiągnęliście.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8677
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы ничего не достигли.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8678
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们什么都没赢过。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8679
   }

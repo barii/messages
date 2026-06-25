@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You're not on the same level as us.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8813
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "No estáis al mismo nivel que nosotros.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8814
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr seid nicht auf demselben Niveau wie wir.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8815
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Não estão ao nosso nível.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8816
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Nie jesteście na tym samym poziomie co my.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8817
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы не на нашем уровне.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8818
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们跟我们不在同一个水平。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8819
   }

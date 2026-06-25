@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you alone?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1029
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Estás solo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1030
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Bist du alleine?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1031
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás sozinho?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1032
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Jesteś sam?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1033
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты один?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1034
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你一个人吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1035
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "You're exactly what I've been looking for",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6195
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Eres exactamente lo que he estado buscando",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6196
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Du bist genau das, wonach ich gesucht habe",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6197
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "És exatamente o que tenho andado à procura",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6198
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Jesteś dokładnie tym, czego szukałem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6199
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Ты именно то, что я искал",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6200
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "你正是我一直在寻找的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6201
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Maybe another time",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3682
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Quizá en otro momento",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3683
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Vielleicht ein anderes Mal",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3684
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Talvez noutra altura",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3685
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Może innym razem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3686
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Может в другой раз",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3687
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "改天吧",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3688
   }

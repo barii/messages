@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I have anxiety lately",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2079
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Tengo ansiedad últimamente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2080
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich habe in letzter Zeit Angstgefühle",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2081
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Tenho tido ansiedade ultimamente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2082
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Ostatnio mam lęki",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2083
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "У меня в последнее время тревога",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2084
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我最近有焦虑",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2085
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You have such a beautiful soul",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 35
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Tienes un alma hermosa",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 36
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du hast so eine schöne Seele",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 37
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "Tens uma alma tão linda",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 38
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Masz piękną duszę",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 39
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "У тебя такая красивая душа",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 40
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你有美丽的灵魂",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 41
   }

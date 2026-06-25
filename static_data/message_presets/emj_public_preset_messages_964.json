@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "If they wanted to, they would",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6741
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Si quisieran, lo harían",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6742
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Wenn sie wollten, würden sie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6743
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Se quisessem, fariam",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6744
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Gdyby chcieli, zrobiliby to",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6745
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Если бы они хотели, они бы это сделали",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6746
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "如果他们想,他们会的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6747
   }

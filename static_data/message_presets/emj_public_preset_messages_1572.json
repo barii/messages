@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You joking.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10997
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "¿Estáis de broma?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10998
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Macht ihr Witze?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10999
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Estás a brincar?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11000
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Żartujecie?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11001
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Шутите?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11002
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们开玩笑呢?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11003
   }

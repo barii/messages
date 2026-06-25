@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Counting down to lunch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7259
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Cuenta atrás para el almuerzo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7260
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Countdown zur Mittagspause",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7261
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Contagem decrescente para o almoço",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7262
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Odliczanie do lunchu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7263
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Обратный отсчёт до обеда",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7264
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "倒数到午餐",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7265
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Imagine supporting your team.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11417
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Imaginad apoyar a vuestro equipo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11418
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Stellt euch vor, eure Mannschaft zu unterstützen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11419
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Imaginem apoiar a vossa equipa.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11420
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Wyobraźcie sobie, że kibicujecie swojej drużynie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11421
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Представьте поддерживать свою команду.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11422
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "想象一下支持你们的球队。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11423
   }

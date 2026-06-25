@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Take a walk",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6503
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Sal a caminar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6504
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Geh spazieren",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6505
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Vai dar uma volta",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6506
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Idź na spacer",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6507
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Прогуляйся",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6508
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "去散步",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6509
   }

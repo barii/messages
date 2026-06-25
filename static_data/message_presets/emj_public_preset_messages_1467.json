@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We didn't even get out of second gear.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10262
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Ni siquiera salimos de segunda marcha.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10263
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir sind nicht mal aus dem zweiten Gang gekommen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10264
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Nem saímos da segunda velocidade.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10265
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Nie wyszliśmy nawet z drugiego biegu.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10266
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Даже не вышли со второй передачи.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10267
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们连二档都没出。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10268
   }

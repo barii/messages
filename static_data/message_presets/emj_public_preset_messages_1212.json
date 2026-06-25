@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Chat-up Lines",
     "text": "I'm not a photographer but I can picture us together",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8477
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Frases de chat",
     "text": "No soy fotógrafo, pero puedo imaginarnos juntos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8478
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Flirtspruch",
     "text": "Ich bin kein Fotograf, aber ich kann uns zusammen sehen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8479
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Linhas de conversa",
     "text": "Não sou fotógrafo mas consigo imaginar-nos juntos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8480
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Linie czatu",
     "text": "Nie jestem fotografem, ale mogę nas sobie wyobrazić razem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8481
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Заигрывание",
     "text": "Я не фотограф, но я могу представить нас вместе",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8482
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "搭讪用语",
     "text": "我不是摄影师,但我能想象我们在一起",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8483
   }

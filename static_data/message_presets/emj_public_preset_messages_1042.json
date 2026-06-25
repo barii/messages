@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "Another meeting about a meeting",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7287
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Otra reunión para hablar de la reunión",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7288
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Noch ein Meeting über ein Meeting",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7289
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Outra reunião sobre uma reunião",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7290
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Kolejne spotkanie o spotkaniu",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7291
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Ещё одна встреча про встречу",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7292
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "又一个关于会议的会议",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7293
   }

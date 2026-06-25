@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Winners win.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10570
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Los ganadores ganan.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10571
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Gewinner gewinnen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10572
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Os vencedores ganham.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10573
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Zwycięzcy wygrywają.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10574
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Победители выигрывают.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10575
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "赢家就是赢家。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10576
   }

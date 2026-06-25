@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Sorry about that",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4949
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Perdona por eso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4950
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Tut mir leid",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4951
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Desculpa por isso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4952
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Przepraszam za to",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4953
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Извини за это",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4954
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "对此抱歉",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4955
   }

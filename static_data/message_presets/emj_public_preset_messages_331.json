@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I don't trust easily",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2310
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "No confío fácilmente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2311
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich vertraue nicht leicht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2312
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Não confio facilmente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2313
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Nie ufam łatwo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2314
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я нелегко доверяю",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2315
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我不容易信任",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2316
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "The wheels on your bus go round and round.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11480
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Las ruedas de vuestro autobús giran y giran.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11481
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Die Räder eures Busses drehen sich.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11482
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "As rodas do vosso autocarro andam à roda.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11483
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Koła waszego autobusu kręcą się i kręcą.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11484
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Колёса вашего автобуса крутятся.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11485
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们大巴的轮子转啊转。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 11486
   }

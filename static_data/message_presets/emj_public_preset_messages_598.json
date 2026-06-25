@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "I'm not sure how to respond to that",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4179
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "No sé cómo responder a eso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4180
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ich weiß nicht, wie ich darauf antworten soll",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4181
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Não sei como responder a isso",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4182
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Nie wiem, jak na to odpowiedzieć",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4183
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Не знаю, как на это ответить",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4184
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "我不知道该怎么回答",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4185
   }

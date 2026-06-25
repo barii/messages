@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "Facts",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5467
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Datos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5468
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Fakten",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5469
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Factos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5470
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Fakty",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5471
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Факты",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5472
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "事实",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5473
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "You've won nothing.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9744
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "No habéis ganado nada.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9745
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Ihr habt nichts gewonnen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9746
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Não ganharam nada.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9747
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Nic nie wygraliście.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9748
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вы ничего не выиграли.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9749
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们什么都没赢过。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9750
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Chaos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3808
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Caos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3809
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Chaos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3810
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Caos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3811
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Chaos",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3812
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Хаос",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3813
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "混乱",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3814
   }

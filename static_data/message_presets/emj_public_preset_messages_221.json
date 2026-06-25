@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are we good?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1540
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Estamos bien?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1541
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Ist alles gut zwischen uns?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1542
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estamos bem?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1543
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Wszystko ok między nami?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1544
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "У нас всё нормально?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1545
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "我们没事吧?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1546
   }

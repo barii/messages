@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "Ok?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10815
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "¿Ok?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10816
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ok?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10817
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Ok?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10818
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Ok?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10819
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Ок?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10820
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "Ok?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10821
   }

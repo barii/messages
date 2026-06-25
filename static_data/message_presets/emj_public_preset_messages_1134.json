@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Greetings from the void",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7931
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Saludos desde el vacío",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7932
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Grüße aus dem Nichts",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7933
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Saudações do vazio",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7934
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Pozdrowienia z pustki",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7935
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Привет из пустоты",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7936
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "来自虚空的问候",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7937
   }

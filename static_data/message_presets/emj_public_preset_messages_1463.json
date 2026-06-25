@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We played you off the park.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10234
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Os hemos jugado de fuera del campo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10235
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir haben euch vom Platz gespielt.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10236
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Jogámos-vos para fora do campo.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10237
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Wygraliśmy z wami na boisku.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10238
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы вас обыграли на поле.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10239
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们把你们玩弄于股掌之间。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10240
   }

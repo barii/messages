@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Work",
     "text": "What a great team effort",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7483
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Trabajo",
     "text": "Qué gran trabajo en equipo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7484
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Arbeit",
     "text": "Was für eine tolle Teamleistung",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7485
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Trabalho",
     "text": "Que ótimo trabalho de equipa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7486
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Praca",
     "text": "Co za świetna praca zespołowa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7487
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Работа",
     "text": "Какая отличная командная работа",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7488
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "工作",
     "text": "多么棒的团队合作",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 7489
   }

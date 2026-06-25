@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Insult",
     "text": "That was weird",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 483
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Insulto",
     "text": "Eso fue raro",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 484
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Beleidigung",
     "text": "Das war seltsam",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 485
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Insulto",
     "text": "Isso foi estranho",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 486
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Obraza",
     "text": "To było dziwne",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 487
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Оскорбление",
     "text": "Это было странно",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 488
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "侮辱",
     "text": "那很奇怪",
-    "premium": "false",
+    "premium": false,
     "positive": false,
     "id": 489
   }

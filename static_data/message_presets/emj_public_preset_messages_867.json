@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "Your smile is everything",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6062
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "Tu sonrisa lo es todo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6063
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Dein Lächeln ist alles",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6064
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "O teu sorriso é tudo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6065
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Twój uśmiech to wszystko",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6066
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Твоя улыбка - это всё",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6067
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "你的笑容就是一切",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6068
   }

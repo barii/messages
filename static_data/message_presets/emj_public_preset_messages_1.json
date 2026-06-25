@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Compliment",
     "text": "You're an amazing person",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 0
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Cumplido",
     "text": "Eres una persona increíble",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Kompliment",
     "text": "Du bist ein toller Mensch",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Elogio",
     "text": "És uma pessoa incrível",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Komplement",
     "text": "Jesteś niesamowitą osobą",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Комплимент",
     "text": "Ты потрясающий человек",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "称赞",
     "text": "你是个很棒的人",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6
   }

@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "Home run? More like home run-away!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11795
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "Home run? More like home run-away!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11796
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "Home run? More like home run-away!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11797
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "Home run? More like home run-away!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11798
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "Home run? More like home run-away!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11799
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "Home run? More like home run-away!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11800
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "Home run? More like home run-away!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11801
   }

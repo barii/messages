@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Trick or treat?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8176
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "¿Dulce o truco?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8177
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Süßes oder Saures?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8178
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Doçura ou travessura?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8179
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Cukierek albo psikus?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8180
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "Сладость или гадость?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8181
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "不给糖就捣蛋?",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8182
   }

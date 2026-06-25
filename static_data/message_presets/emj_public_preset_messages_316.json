@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I take a while to open up",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2205
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Tardo en abrirme",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2206
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich brauche eine Weile, um mich zu öffnen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2207
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Demoro a abrir-me",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2208
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Otwieram się powoli",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2209
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я медленно открываюсь",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2210
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我需要一段时间才能敞开心扉",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2211
   }

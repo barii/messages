@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You're all mouth.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10717
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Sois todo boca.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10718
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ihr seid nur Gerede.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10719
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "São só conversa.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10720
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Sama gęba.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10721
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Одни разговоры.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10722
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "都是嘴上功夫。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10723
   }

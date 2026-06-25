@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Do we go to college together?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1498
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Vamos al instituto juntos?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1499
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Gehen wir zusammen ans Gymnasium?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1500
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Andamos no liceu juntos?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1501
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Chodzimy razem do liceum?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1502
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Мы учимся в школе вместе?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1503
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "我们一起上高中吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 1504
   }

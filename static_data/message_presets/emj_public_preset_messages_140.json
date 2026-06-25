@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Question",
     "text": "Are you happy to hear from me?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 973
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Pregunta",
     "text": "¿Te alegra saber de mí?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 974
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Frage",
     "text": "Freust du dich, von mir zu hören?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 975
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Questão",
     "text": "Estás feliz por teres notícias minhas?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 976
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pytanie",
     "text": "Cieszysz się, że piszę do ciebie?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 977
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Вопрос",
     "text": "Ты рад слышать меня?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 978
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "疑问",
     "text": "你听到我消息开心吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 979
   }

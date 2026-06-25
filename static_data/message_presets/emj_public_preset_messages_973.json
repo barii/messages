@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Stop making excuses",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6804
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Deja de poner excusas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6805
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Hör auf, Ausreden zu finden",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6806
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Para de arranjar desculpas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6807
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Przestań szukać wymówek",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6808
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Перестань искать оправдания",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6809
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "别再找借口",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6810
   }

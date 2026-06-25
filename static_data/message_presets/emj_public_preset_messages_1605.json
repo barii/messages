@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "We'll be fine.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11228
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Estaremos bien.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11229
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Wir werden schon.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11230
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Vamos ficar bem.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11231
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Damy radę.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11232
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Мы справимся.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11233
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "我们会没事的。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11234
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You what.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11004
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "¿Cómo?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11005
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Was bitte.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11006
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Hã?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11007
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Co proszę.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11008
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Что-что.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11009
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "啥?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11010
   }

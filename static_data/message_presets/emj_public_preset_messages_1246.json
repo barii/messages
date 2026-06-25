@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Relegation looms.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8715
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "El descenso se acerca.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8716
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Der Abstieg droht.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8717
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "A descida aproxima-se.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8718
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Spadek się zbliża.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8719
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Вылет приближается.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8720
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "降级在即。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8721
   }

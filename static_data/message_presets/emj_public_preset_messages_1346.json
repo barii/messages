@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Insult",
     "text": "Your manager looked lost.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9415
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "Vuestro entrenador parecía perdido.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9416
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Beleidigung",
     "text": "Euer Trainer sah verloren aus.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9417
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Insulto",
     "text": "O vosso treinador parecia perdido.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9418
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Obraza",
     "text": "Wasz trener wyglądał na zagubionego.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9419
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Оскорбление",
     "text": "Ваш тренер выглядел потерянным.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9420
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "侮辱",
     "text": "你们教练看起来很迷茫。",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 9421
   }

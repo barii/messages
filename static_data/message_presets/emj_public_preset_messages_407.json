@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Yes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2842
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Sí",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2843
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Ja",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2844
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Sim",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2845
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Tak",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2846
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Да",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2847
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "是",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2848
   }

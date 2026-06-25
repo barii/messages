@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Seasonal",
     "text": "Happy Hanukkah",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8211
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Estacional",
     "text": "Feliz Janucá",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8212
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Zeitlich begrenzt",
     "text": "Frohes Chanukka",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8213
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Sazonal",
     "text": "Feliz Hanucá",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8214
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Sezonowy",
     "text": "Wesołej Chanuki",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8215
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Сезонные",
     "text": "С Ханукой",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8216
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "节日问候",
     "text": "光明节快乐",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 8217
   }

@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Friendly",
     "text": "No notes",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5474
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: amistoso",
     "text": "Sin notas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5475
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Freundlich",
     "text": "Keine Anmerkungen",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5476
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: amigável",
     "text": "Sem notas",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5477
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: przyjazny",
     "text": "Bez uwag",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5478
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Дружелюбный",
     "text": "Без комментариев",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5479
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：友善用语",
     "text": "没什么可说的",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 5480
   }

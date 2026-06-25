@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "That isn't okay",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4438
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Eso no está bien",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4439
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Das ist nicht okay",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4440
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Isso não está certo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4441
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "To nie ok",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4442
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Это не нормально",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4443
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "这不对",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4444
   }

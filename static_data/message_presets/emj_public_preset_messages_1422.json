@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "Perfect performance.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9947
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Actuación perfecta.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9948
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Perfekte Leistung.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9949
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Actuação perfeita.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9950
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Idealny występ.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9951
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Идеальная игра.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9952
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "完美表现。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9953
   }

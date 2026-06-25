@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Greetings",
     "text": "Hope this message makes you smile",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8085
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Saludos",
     "text": "Espero que este mensaje te saque una sonrisa",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8086
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Begrüßungen",
     "text": "Hoffe, diese Nachricht zaubert dir ein Lächeln ins Gesicht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8087
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Cumprimentos",
     "text": "Espero que esta mensagem te faça sorrir",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8088
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Pozdrowienia",
     "text": "Mam nadzieję, że ta wiadomość cię uśmiechnie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8089
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Поздравления",
     "text": "Надеюсь, это сообщение заставит тебя улыбнуться",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8090
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "问候语",
     "text": "希望这条消息能让你微笑",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 8091
   }

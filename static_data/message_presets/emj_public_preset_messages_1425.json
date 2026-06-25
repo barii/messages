@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We can't stop winning trophies.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9968
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "No podemos parar de ganar trofeos.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9969
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir können nicht aufhören, Pokale zu gewinnen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9970
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Não conseguimos parar de ganhar troféus.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9971
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "Nie możemy przestać wygrywać trofeów.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9972
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы не можем перестать выигрывать трофеи.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9973
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们停不下来赢奖杯。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 9974
   }

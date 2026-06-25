@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "We're top, you're not.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10129
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "Estamos arriba, vosotros no.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10130
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "Wir sind oben, ihr nicht.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10131
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "Estamos no topo, vocês não.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10132
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "My jesteśmy na górze, wy nie.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10133
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "Мы наверху, вы нет.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10134
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "我们在上面,你们不是。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 10135
   }

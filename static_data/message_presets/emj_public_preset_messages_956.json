@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Advice/Suggestion",
     "text": "Apply for it",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6685
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Consejos/sugerencia",
     "text": "Postúlate",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6686
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Empfehlung/Vorschlag",
     "text": "Bewirb dich darauf",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6687
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Conselho/Sugestão",
     "text": "Candidata-te",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6688
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Porada/sugestia",
     "text": "Aplikuj na to",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6689
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Советы/рекомендации",
     "text": "Подай заявку",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6690
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "建议",
     "text": "去申请",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6691
   }

@@ -6,7 +6,7 @@
     "category": "American sports",
     "sport": "true",
     "text": "It's all over!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11718
   },
@@ -17,7 +17,7 @@
     "category": "Deportes americanos",
     "sport": "true",
     "text": "It's all over!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11719
   },
@@ -28,7 +28,7 @@
     "category": "Amerikanische Sportarten",
     "sport": "true",
     "text": "It's all over!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11720
   },
@@ -39,7 +39,7 @@
     "category": "Esportes americanos",
     "sport": "true",
     "text": "It's all over!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11721
   },
@@ -50,7 +50,7 @@
     "category": "Amerykańskie sporty",
     "sport": "true",
     "text": "It's all over!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11722
   },
@@ -61,7 +61,7 @@
     "category": "Американские виды спорта",
     "sport": "true",
     "text": "It's all over!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11723
   },
@@ -72,7 +72,7 @@
     "category": "美国体育",
     "sport": "true",
     "text": "It's all over!",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11724
   }

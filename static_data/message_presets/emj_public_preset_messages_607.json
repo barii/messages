@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "That's fair, actually",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4242
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "La verdad, es justo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4243
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Das ist fair, ehrlich gesagt",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4244
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Tens razão, na verdade",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4245
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "To sprawiedliwe, właściwie",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4246
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Это справедливо, честно",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4247
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "其实公平",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4248
   }

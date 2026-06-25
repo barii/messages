@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Not at all",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2961
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Para nada",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2962
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Überhaupt nicht",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2963
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "De todo",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2964
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Wcale",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2965
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Совсем нет",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2966
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "完全不",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2967
   }

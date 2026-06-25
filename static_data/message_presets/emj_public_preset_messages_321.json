@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Personal",
     "text": "I'm in therapy and it's helping",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2240
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Personal",
     "text": "Estoy en terapia y me está ayudando",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2241
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Persönliches",
     "text": "Ich bin in Therapie und es hilft",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2242
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Pessoal",
     "text": "Estou em terapia e está a ajudar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2243
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Płaszczyzna osobista",
     "text": "Jestem w terapii i to pomaga",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2244
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Персональные",
     "text": "Я в терапии, и это помогает",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2245
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "个人话题",
     "text": "我在做心理治疗,很有帮助",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 2246
   }

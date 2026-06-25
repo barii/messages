@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Mood",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3955
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Mood",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3956
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Mood",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3957
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Mood",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3958
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Mood",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3959
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Mood",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3960
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "Mood",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 3961
   }

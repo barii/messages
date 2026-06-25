@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Boasting",
     "text": "The squad just hits different.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10535
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Presumir",
     "text": "The squad just hits different.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10536
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Prahlerei",
     "text": "The squad just hits different.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10537
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Vangloriar",
     "text": "The squad just hits different.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10538
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Przechwałka",
     "text": "The squad just hits different.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10539
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Хвастовство",
     "text": "The squad just hits different.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10540
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "自夸",
     "text": "The squad just hits different.",
-    "premium": "true",
+    "premium": true,
     "positive": true,
     "id": 10541
   }

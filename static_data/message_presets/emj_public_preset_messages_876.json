@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Love/Flirt",
     "text": "Are you seeing anyone?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6125
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Amor/Ligue",
     "text": "¿Estás saliendo con alguien?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6126
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Liebe/Flirten",
     "text": "Triffst du gerade jemanden?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6127
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Amor/Namoriscar",
     "text": "Andas a sair com alguém?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6128
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Miłość/Flirt",
     "text": "Spotykasz się z kimś?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6129
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Любовь/Флирт",
     "text": "Ты с кем-то встречаешься?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6130
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "爱/挑逗",
     "text": "你在和谁交往吗?",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 6131
   }

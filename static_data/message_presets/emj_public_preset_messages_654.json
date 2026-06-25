@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Unfriendly",
     "text": "Read the room",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4571
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: antipático",
     "text": "Lee la situación",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4572
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Unfreundlich",
     "text": "Lies die Stimmung",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4573
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: hostil",
     "text": "Lê o ambiente",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4574
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: nieprzyjazny",
     "text": "Czytaj atmosferę",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4575
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Недружелюбный",
     "text": "Читай атмосферу",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4576
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：不友善用语",
     "text": "看场合",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4577
   }

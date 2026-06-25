@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Was just joking",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4144
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Solo bromeaba",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4145
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "War nur ein Scherz",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4146
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Estava só a brincar",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4147
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Tylko żartowałem",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4148
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Просто шутил",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4149
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "刚才开玩笑",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4150
   }

@@ -7,7 +7,7 @@
     "sport": "true",
     "header": "Reply",
     "text": "You must go home.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11494
   },
@@ -19,7 +19,7 @@
     "sport": "true",
     "header": "Respuesta",
     "text": "Tenéis que iros a casa.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11495
   },
@@ -31,7 +31,7 @@
     "sport": "true",
     "header": "Antwort",
     "text": "Ihr müsst nach Hause gehen.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11496
   },
@@ -43,7 +43,7 @@
     "sport": "true",
     "header": "Resposta",
     "text": "Têm de ir para casa.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11497
   },
@@ -55,7 +55,7 @@
     "sport": "true",
     "header": "Odpowiedź",
     "text": "Musicie iść do domu.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11498
   },
@@ -67,7 +67,7 @@
     "sport": "true",
     "header": "Ответ",
     "text": "Вам нужно идти домой.",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11499
   },
@@ -79,7 +79,7 @@
     "sport": "true",
     "header": "回复",
     "text": "你们必须回家。",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 11500
   }

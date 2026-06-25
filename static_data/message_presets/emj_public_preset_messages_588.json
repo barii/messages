@@ -5,7 +5,7 @@
     "lang": "EN",
     "category": "Reply: Neutral",
     "text": "Not even close",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4109
   },
@@ -15,7 +15,7 @@
     "lang": "ES",
     "category": "Respuesta: neutral",
     "text": "Para nada cerca",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4110
   },
@@ -25,7 +25,7 @@
     "lang": "DE",
     "category": "Antwort: Neutral",
     "text": "Nicht mal nah",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4111
   },
@@ -35,7 +35,7 @@
     "lang": "PT",
     "category": "Resposta: neutra",
     "text": "Nem perto",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4112
   },
@@ -45,7 +45,7 @@
     "lang": "PL",
     "category": "Powtórka: neutralny",
     "text": "Nawet nie blisko",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4113
   },
@@ -55,7 +55,7 @@
     "lang": "RU",
     "category": "Ответ: Нейтральный",
     "text": "Даже не близко",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4114
   },
@@ -65,7 +65,7 @@
     "lang": "CN",
     "category": "回复：中性用语",
     "text": "完全不近",
-    "premium": "false",
+    "premium": false,
     "positive": true,
     "id": 4115
   }
