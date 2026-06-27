@@ -3,20 +3,17 @@
 
 ```bash
 gcloud storage cp --recursive gs://emojiwho-prod.appspot.com/static_data ./static_data
-gcloud storage cp --recursive gs://emojiwho-prod.appspot.com/message_presets ./message_presets
 ```
 
 ## Upload
 
 ```bash
 gcloud storage cp -m --recursive ./static_data gs://emojiwho-prod.appspot.com/
-gcloud storage cp -m  --recursive ./message_presets gs://emojiwho-prod.appspot.com/
 ```
 
 ## Sync upload
 ```bash
 gcloud storage rsync --recursive ./static_data gs://emojiwho-prod.appspot.com/static_data
-gcloud storage rsync --recursive ./message_presets gs://emojiwho-prod.appspot.com/message_presets
 ```
 
 # Staging
@@ -25,20 +22,17 @@ gcloud storage rsync --recursive ./message_presets gs://emojiwho-prod.appspot.co
 
 ```bash
 gcloud storage cp --recursive gs://emj-staging.appspot.com/static_data ./static_data
-gcloud storage cp --recursive gs://emj-staging.appspot.com/message_presets ./message_presets
 ```
 
 ## Upload
 
 ```bash
 gcloud storage cp -m --recursive ./static_data gs://emj-staging.appspot.com/
-gcloud storage cp -m --recursive ./message_presets gs://emj-staging.appspot.com/
 ```
 
 ## Sync upload
 ```bash
 gcloud storage rsync --recursive ./static_data gs://emj-staging.appspot.com/static_data
-gcloud storage rsync --recursive ./message_presets gs://emj-staging.appspot.com/message_presets
 ```
 
 # Dev
@@ -47,19 +41,16 @@ gcloud storage rsync --recursive ./message_presets gs://emj-staging.appspot.com/
 
 ```bash
 gcloud storage cp --recursive gs://emojiwho-dev-784d0.appspot.com/static_data ./static_data
-gcloud storage cp --recursive gs://emojiwho-dev-784d0.appspot.com/message_presets ./message_presets
 ```
 
 ## Upload
 
 ```bash
 gcloud storage cp -m --recursive ./static_data gs://emojiwho-dev-784d0.appspot.com/
-gcloud storage cp -m --recursive ./message_presets gs://emojiwho-dev-784d0.appspot.com/
 ```
 
 ## Sync upload
 ```bash
 gcloud storage rsync --recursive ./static_data gs://emojiwho-dev-784d0.appspot.com/static_data
-gcloud storage rsync --recursive ./message_presets gs://emojiwho-dev-784d0.appspot.com/message_presets
 
 ```
