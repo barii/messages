@@ -1,0 +1,86 @@
+[
+  {
+    "id": 3542,
+    "preset_id": 506,
+    "cat_emoji": "⚾",
+    "lang": "EN",
+    "category": "MLB Baseball Teams",
+    "text": "Chicago Cubs",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  },
+  {
+    "id": 3543,
+    "preset_id": 506,
+    "cat_emoji": "⚾",
+    "lang": "ES",
+    "category": " Equipos de Béisbol de la MLB",
+    "text": "Chicago Cubs",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  },
+  {
+    "id": 3544,
+    "preset_id": 506,
+    "cat_emoji": "⚾",
+    "lang": "DE",
+    "category": "MLB Baseball Teams",
+    "text": "Chicago Cubs",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  },
+  {
+    "id": 3545,
+    "preset_id": 506,
+    "cat_emoji": "⚾",
+    "lang": "PL",
+    "category": "Drużyny baseballowe MLB",
+    "text": "Chicago Cubs",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  },
+  {
+    "id": 3546,
+    "preset_id": 506,
+    "cat_emoji": "⚾",
+    "lang": "RU",
+    "category": "Команды бейсбольной лиги MLB",
+    "text": "Chicago Cubs",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  },
+  {
+    "id": 3547,
+    "preset_id": 506,
+    "cat_emoji": "⚾",
+    "lang": "PT",
+    "category": "Times de Beisebol da MLB",
+    "text": "Chicago Cubs",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  },
+  {
+    "id": 3548,
+    "preset_id": 506,
+    "cat_emoji": "⚾",
+    "lang": "CN",
+    "category": "MLB棒球队",
+    "text": "Chicago Cubs",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  }
+]

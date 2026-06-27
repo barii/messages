@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1536,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "No… We are the best team the world has ever seen.",
+    "premium": false,
+    "positive": true,
+    "id": 10745
+  },
+  {
+    "preset_id": 1536,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "No… somos el mejor equipo que el mundo haya visto jamás.",
+    "premium": false,
+    "positive": true,
+    "id": 10746
+  },
+  {
+    "preset_id": 1536,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Nein… wir sind die beste Mannschaft, die die Welt je gesehen hat.",
+    "premium": false,
+    "positive": true,
+    "id": 10747
+  },
+  {
+    "preset_id": 1536,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Não… somos a melhor equipa que o mundo já viu.",
+    "premium": false,
+    "positive": true,
+    "id": 10748
+  },
+  {
+    "preset_id": 1536,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Nie… jesteśmy najlepszą drużyną, jaką świat kiedykolwiek widział.",
+    "premium": false,
+    "positive": true,
+    "id": 10749
+  },
+  {
+    "preset_id": 1536,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Нет… мы лучшая команда, которую видел мир.",
+    "premium": false,
+    "positive": true,
+    "id": 10750
+  },
+  {
+    "preset_id": 1536,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "不…我们才是世界见过的最棒的球队。",
+    "premium": false,
+    "positive": true,
+    "id": 10751
+  }
+]

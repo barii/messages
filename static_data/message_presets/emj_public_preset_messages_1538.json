@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1538,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Is that your best?",
+    "premium": false,
+    "positive": true,
+    "id": 10759
+  },
+  {
+    "preset_id": 1538,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "¿Eso es lo mejor que sabéis hacer?",
+    "premium": false,
+    "positive": true,
+    "id": 10760
+  },
+  {
+    "preset_id": 1538,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ist das euer Bestes?",
+    "premium": false,
+    "positive": true,
+    "id": 10761
+  },
+  {
+    "preset_id": 1538,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "É o melhor que conseguem?",
+    "premium": false,
+    "positive": true,
+    "id": 10762
+  },
+  {
+    "preset_id": 1538,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Czy to wasze najlepsze wykonanie?",
+    "premium": false,
+    "positive": true,
+    "id": 10763
+  },
+  {
+    "preset_id": 1538,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Это ваше лучшее?",
+    "premium": false,
+    "positive": true,
+    "id": 10764
+  },
+  {
+    "preset_id": 1538,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "这是你们最好的水平?",
+    "premium": false,
+    "positive": true,
+    "id": 10765
+  }
+]

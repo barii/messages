@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1300,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Have a word with yourself.",
+    "premium": true,
+    "positive": true,
+    "id": 9093
+  },
+  {
+    "preset_id": 1300,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Echaos una pensada.",
+    "premium": true,
+    "positive": true,
+    "id": 9094
+  },
+  {
+    "preset_id": 1300,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Denkt mal nach.",
+    "premium": true,
+    "positive": true,
+    "id": 9095
+  },
+  {
+    "preset_id": 1300,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Tem juízo, vá.",
+    "premium": true,
+    "positive": true,
+    "id": 9096
+  },
+  {
+    "preset_id": 1300,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Pomyślcie nad sobą.",
+    "premium": true,
+    "positive": true,
+    "id": 9097
+  },
+  {
+    "preset_id": 1300,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Подумайте о себе.",
+    "premium": true,
+    "positive": true,
+    "id": 9098
+  },
+  {
+    "preset_id": 1300,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "好好想想自己。",
+    "premium": true,
+    "positive": true,
+    "id": 9099
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 679,
+    "preset_id": 97,
+    "cat_emoji": "🇫🇷",
+    "lang": "EN",
+    "category": "French Football Teams",
+    "text": "Stade de Reims",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 680,
+    "preset_id": 97,
+    "cat_emoji": "🇫🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Franceses",
+    "text": "Stade de Reims",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 681,
+    "preset_id": 97,
+    "cat_emoji": "🇫🇷",
+    "lang": "DE",
+    "category": "Französische Fußballmannschaften",
+    "text": "Stade de Reims",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 682,
+    "preset_id": 97,
+    "cat_emoji": "🇫🇷",
+    "lang": "PL",
+    "category": "Francuskie drużyny piłkarskie",
+    "text": "Stade de Reims",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 683,
+    "preset_id": 97,
+    "cat_emoji": "🇫🇷",
+    "lang": "RU",
+    "category": "Французские футбольные команды",
+    "text": "Stade de Reims",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 684,
+    "preset_id": 97,
+    "cat_emoji": "🇫🇷",
+    "lang": "PT",
+    "category": "Times de futebol franceses",
+    "text": "Stade de Reims",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 685,
+    "preset_id": 97,
+    "cat_emoji": "🇫🇷",
+    "lang": "CN",
+    "category": "法国足球队",
+    "text": "Stade de Reims",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  }
+]

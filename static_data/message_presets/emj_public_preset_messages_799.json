@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 799,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Oh stop",
+    "premium": false,
+    "positive": true,
+    "id": 5586
+  },
+  {
+    "preset_id": 799,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Ay para",
+    "premium": false,
+    "positive": true,
+    "id": 5587
+  },
+  {
+    "preset_id": 799,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Oh hör auf",
+    "premium": false,
+    "positive": true,
+    "id": 5588
+  },
+  {
+    "preset_id": 799,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Oh para",
+    "premium": false,
+    "positive": true,
+    "id": 5589
+  },
+  {
+    "preset_id": 799,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Och przestań",
+    "premium": false,
+    "positive": true,
+    "id": 5590
+  },
+  {
+    "preset_id": 799,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Ой прекрати",
+    "premium": false,
+    "positive": true,
+    "id": 5591
+  },
+  {
+    "preset_id": 799,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "啊别这样",
+    "premium": false,
+    "positive": true,
+    "id": 5592
+  }
+]

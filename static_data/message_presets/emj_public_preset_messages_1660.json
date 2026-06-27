@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1660,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Nice try.",
+    "premium": false,
+    "positive": true,
+    "id": 11613
+  },
+  {
+    "preset_id": 1660,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Buen intento.",
+    "premium": false,
+    "positive": true,
+    "id": 11614
+  },
+  {
+    "preset_id": 1660,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Netter Versuch.",
+    "premium": false,
+    "positive": true,
+    "id": 11615
+  },
+  {
+    "preset_id": 1660,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Boa tentativa.",
+    "premium": false,
+    "positive": true,
+    "id": 11616
+  },
+  {
+    "preset_id": 1660,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Niezła próba.",
+    "premium": false,
+    "positive": true,
+    "id": 11617
+  },
+  {
+    "preset_id": 1660,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Неплохая попытка.",
+    "premium": false,
+    "positive": true,
+    "id": 11618
+  },
+  {
+    "preset_id": 1660,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "不错的尝试。",
+    "premium": false,
+    "positive": true,
+    "id": 11619
+  }
+]

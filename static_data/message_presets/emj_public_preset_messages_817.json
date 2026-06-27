@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 817,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Tell me you found that online without telling me",
+    "premium": false,
+    "positive": true,
+    "id": 5712
+  },
+  {
+    "preset_id": 817,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Dime que lo sacaste de internet sin decírmelo",
+    "premium": false,
+    "positive": true,
+    "id": 5713
+  },
+  {
+    "preset_id": 817,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Sag mir, dass du das im Internet gefunden hast, ohne es mir zu sagen",
+    "premium": false,
+    "positive": true,
+    "id": 5714
+  },
+  {
+    "preset_id": 817,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Diz-me que foste buscar isso à internet sem me dizeres",
+    "premium": false,
+    "positive": true,
+    "id": 5715
+  },
+  {
+    "preset_id": 817,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Powiedz, że znalazłeś to w internecie, nie mówiąc mi",
+    "premium": false,
+    "positive": true,
+    "id": 5716
+  },
+  {
+    "preset_id": 817,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Скажи мне, что нашёл это в интернете, не говоря об этом",
+    "premium": false,
+    "positive": true,
+    "id": 5717
+  },
+  {
+    "preset_id": 817,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "告诉我你在网上找到的而不直接说",
+    "premium": false,
+    "positive": true,
+    "id": 5718
+  }
+]

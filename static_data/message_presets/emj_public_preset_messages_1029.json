@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1029,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Your work ethic is unmatched",
+    "premium": false,
+    "positive": true,
+    "id": 7196
+  },
+  {
+    "preset_id": 1029,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Tu ética de trabajo no tiene igual",
+    "premium": false,
+    "positive": true,
+    "id": 7197
+  },
+  {
+    "preset_id": 1029,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Deine Arbeitsmoral ist unübertroffen",
+    "premium": false,
+    "positive": true,
+    "id": 7198
+  },
+  {
+    "preset_id": 1029,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "A tua ética de trabalho não tem igual",
+    "premium": false,
+    "positive": true,
+    "id": 7199
+  },
+  {
+    "preset_id": 1029,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Twoja etyka pracy jest niezrównana",
+    "premium": false,
+    "positive": true,
+    "id": 7200
+  },
+  {
+    "preset_id": 1029,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Твоя рабочая этика непревзойдённа",
+    "premium": false,
+    "positive": true,
+    "id": 7201
+  },
+  {
+    "preset_id": 1029,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "你的职业道德无与伦比",
+    "premium": false,
+    "positive": true,
+    "id": 7202
+  }
+]

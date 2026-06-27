@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 885,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You're my type completely",
+    "premium": false,
+    "positive": true,
+    "id": 6188
+  },
+  {
+    "preset_id": 885,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Eres exactamente mi tipo",
+    "premium": false,
+    "positive": true,
+    "id": 6189
+  },
+  {
+    "preset_id": 885,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Du bist genau mein Typ",
+    "premium": false,
+    "positive": true,
+    "id": 6190
+  },
+  {
+    "preset_id": 885,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "És exatamente o meu tipo",
+    "premium": false,
+    "positive": true,
+    "id": 6191
+  },
+  {
+    "preset_id": 885,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Jesteś dokładnie w moim typie",
+    "premium": false,
+    "positive": true,
+    "id": 6192
+  },
+  {
+    "preset_id": 885,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты полностью мой тип",
+    "premium": false,
+    "positive": true,
+    "id": 6193
+  },
+  {
+    "preset_id": 885,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你完全是我的菜",
+    "premium": false,
+    "positive": true,
+    "id": 6194
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 739,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Stop, this is amazing",
+    "premium": false,
+    "positive": true,
+    "id": 5166
+  },
+  {
+    "preset_id": 739,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Espera, esto es increíble",
+    "premium": false,
+    "positive": true,
+    "id": 5167
+  },
+  {
+    "preset_id": 739,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Stop, das ist der Wahnsinn",
+    "premium": false,
+    "positive": true,
+    "id": 5168
+  },
+  {
+    "preset_id": 739,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Para, isto é incrível",
+    "premium": false,
+    "positive": true,
+    "id": 5169
+  },
+  {
+    "preset_id": 739,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Stop, to jest niesamowite",
+    "premium": false,
+    "positive": true,
+    "id": 5170
+  },
+  {
+    "preset_id": 739,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Стоп, это потрясающе",
+    "premium": false,
+    "positive": true,
+    "id": 5171
+  },
+  {
+    "preset_id": 739,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "停,这太棒了",
+    "premium": false,
+    "positive": true,
+    "id": 5172
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 621,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Not interested",
+    "premium": false,
+    "positive": true,
+    "id": 4340
+  },
+  {
+    "preset_id": 621,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "No me interesa",
+    "premium": false,
+    "positive": true,
+    "id": 4341
+  },
+  {
+    "preset_id": 621,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Nicht interessiert",
+    "premium": false,
+    "positive": true,
+    "id": 4342
+  },
+  {
+    "preset_id": 621,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Sem interesse",
+    "premium": false,
+    "positive": true,
+    "id": 4343
+  },
+  {
+    "preset_id": 621,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Nie zainteresowany",
+    "premium": false,
+    "positive": true,
+    "id": 4344
+  },
+  {
+    "preset_id": 621,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Не интересно",
+    "premium": false,
+    "positive": true,
+    "id": 4345
+  },
+  {
+    "preset_id": 621,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "没兴趣",
+    "premium": false,
+    "positive": true,
+    "id": 4346
+  }
+]

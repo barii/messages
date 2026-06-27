@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 144,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you free?",
+    "premium": false,
+    "positive": true,
+    "id": 1001
+  },
+  {
+    "preset_id": 144,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Estás libre?",
+    "premium": false,
+    "positive": true,
+    "id": 1002
+  },
+  {
+    "preset_id": 144,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Hast du Zeit?",
+    "premium": false,
+    "positive": true,
+    "id": 1003
+  },
+  {
+    "preset_id": 144,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás livre?",
+    "premium": false,
+    "positive": true,
+    "id": 1004
+  },
+  {
+    "preset_id": 144,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jesteś wolny?",
+    "premium": false,
+    "positive": true,
+    "id": 1005
+  },
+  {
+    "preset_id": 144,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты свободен?",
+    "premium": false,
+    "positive": true,
+    "id": 1006
+  },
+  {
+    "preset_id": 144,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你有空吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1007
+  }
+]

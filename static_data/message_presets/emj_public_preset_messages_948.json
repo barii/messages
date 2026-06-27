@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 948,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Stop explaining yourself to people who don't get it",
+    "premium": false,
+    "positive": true,
+    "id": 6629
+  },
+  {
+    "preset_id": 948,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Deja de explicarte ante gente que no lo va a entender",
+    "premium": false,
+    "positive": true,
+    "id": 6630
+  },
+  {
+    "preset_id": 948,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Hör auf, dich vor Menschen zu erklären, die es nicht verstehen",
+    "premium": false,
+    "positive": true,
+    "id": 6631
+  },
+  {
+    "preset_id": 948,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Para de te explicar a quem não vai perceber",
+    "premium": false,
+    "positive": true,
+    "id": 6632
+  },
+  {
+    "preset_id": 948,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Przestań się tłumaczyć ludziom, którzy nie zrozumieją",
+    "premium": false,
+    "positive": true,
+    "id": 6633
+  },
+  {
+    "preset_id": 948,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Перестань объясняться перед людьми, которые не поймут",
+    "premium": false,
+    "positive": true,
+    "id": 6634
+  },
+  {
+    "preset_id": 948,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "别再对不会理解的人解释自己",
+    "premium": false,
+    "positive": true,
+    "id": 6635
+  }
+]

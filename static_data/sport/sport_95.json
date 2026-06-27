@@ -1,0 +1,86 @@
+[
+  {
+    "id": 665,
+    "preset_id": 95,
+    "cat_emoji": "🇫🇷",
+    "lang": "EN",
+    "category": "French Football Teams",
+    "text": "Le Havre AC",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 666,
+    "preset_id": 95,
+    "cat_emoji": "🇫🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Franceses",
+    "text": "Le Havre AC",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 667,
+    "preset_id": 95,
+    "cat_emoji": "🇫🇷",
+    "lang": "DE",
+    "category": "Französische Fußballmannschaften",
+    "text": "Le Havre AC",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 668,
+    "preset_id": 95,
+    "cat_emoji": "🇫🇷",
+    "lang": "PL",
+    "category": "Francuskie drużyny piłkarskie",
+    "text": "Le Havre AC",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 669,
+    "preset_id": 95,
+    "cat_emoji": "🇫🇷",
+    "lang": "RU",
+    "category": "Французские футбольные команды",
+    "text": "Le Havre AC",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 670,
+    "preset_id": 95,
+    "cat_emoji": "🇫🇷",
+    "lang": "PT",
+    "category": "Times de futebol franceses",
+    "text": "Le Havre AC",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  },
+  {
+    "id": 671,
+    "preset_id": 95,
+    "cat_emoji": "🇫🇷",
+    "lang": "CN",
+    "category": "法国足球队",
+    "text": "Le Havre AC",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇫🇷",
+    "continent": "European"
+  }
+]

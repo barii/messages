@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1224,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "You unmatched me in my dreams last night, what was that about",
+    "premium": true,
+    "positive": true,
+    "id": 8561
+  },
+  {
+    "preset_id": 1224,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "Anoche me hiciste unmatch en mis sueños, ¿qué fue eso?",
+    "premium": true,
+    "positive": true,
+    "id": 8562
+  },
+  {
+    "preset_id": 1224,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Du hast mich gestern Nacht in meinen Träumen geunmatcht, was war das?",
+    "premium": true,
+    "positive": true,
+    "id": 8563
+  },
+  {
+    "preset_id": 1224,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "Desfizeste o nosso match nos meus sonhos ontem, o que foi isso?",
+    "premium": true,
+    "positive": true,
+    "id": 8564
+  },
+  {
+    "preset_id": 1224,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Anulowałeś nasz match w moich snach ostatniej nocy, co to było?",
+    "premium": true,
+    "positive": true,
+    "id": 8565
+  },
+  {
+    "preset_id": 1224,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Ты отменил наш матч в моих снах прошлой ночью, что это было?",
+    "premium": true,
+    "positive": true,
+    "id": 8566
+  },
+  {
+    "preset_id": 1224,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "昨晚你在我的梦里取消了我们的匹配,那是怎么回事?",
+    "premium": true,
+    "positive": true,
+    "id": 8567
+  }
+]

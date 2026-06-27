@@ -1,0 +1,86 @@
+[
+  {
+    "id": 2163,
+    "preset_id": 309,
+    "cat_emoji": "🇲🇦",
+    "lang": "EN",
+    "category": "Moroccan Football Teams",
+    "text": "Raja Casablanca",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2164,
+    "preset_id": 309,
+    "cat_emoji": "🇲🇦",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Marroquíes",
+    "text": "Raja Casablanca",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2165,
+    "preset_id": 309,
+    "cat_emoji": "🇲🇦",
+    "lang": "DE",
+    "category": "Marokkanische Fußballmannschaften",
+    "text": "Raja Casablanca",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2166,
+    "preset_id": 309,
+    "cat_emoji": "🇲🇦",
+    "lang": "PL",
+    "category": "Marokańskie drużyny piłkarskie",
+    "text": "Raja Casablanca",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2167,
+    "preset_id": 309,
+    "cat_emoji": "🇲🇦",
+    "lang": "RU",
+    "category": "Марокканские футбольные команды",
+    "text": "Raja Casablanca",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2168,
+    "preset_id": 309,
+    "cat_emoji": "🇲🇦",
+    "lang": "PT",
+    "category": "Times de futebol marroquinos",
+    "text": "Raja Casablanca",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2169,
+    "preset_id": 309,
+    "cat_emoji": "🇲🇦",
+    "lang": "CN",
+    "category": "摩洛哥足球队",
+    "text": "Raja Casablanca",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇦",
+    "continent": "European"
+  }
+]

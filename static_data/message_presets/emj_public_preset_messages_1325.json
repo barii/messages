@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1325,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "The trapdoor is open.",
+    "premium": true,
+    "positive": true,
+    "id": 9268
+  },
+  {
+    "preset_id": 1325,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "La trampilla está abierta.",
+    "premium": true,
+    "positive": true,
+    "id": 9269
+  },
+  {
+    "preset_id": 1325,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Die Falltür ist offen.",
+    "premium": true,
+    "positive": true,
+    "id": 9270
+  },
+  {
+    "preset_id": 1325,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "O alçapão está aberto.",
+    "premium": true,
+    "positive": true,
+    "id": 9271
+  },
+  {
+    "preset_id": 1325,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Klapa jest otwarta.",
+    "premium": true,
+    "positive": true,
+    "id": 9272
+  },
+  {
+    "preset_id": 1325,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Люк открыт.",
+    "premium": true,
+    "positive": true,
+    "id": 9273
+  },
+  {
+    "preset_id": 1325,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "活板门开着呢。",
+    "premium": true,
+    "positive": true,
+    "id": 9274
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 284,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "Maybe I'll tell you, maybe I'll not",
+    "premium": true,
+    "positive": true,
+    "id": 1981
+  },
+  {
+    "preset_id": 284,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Tal vez te lo diga, tal vez no",
+    "premium": true,
+    "positive": true,
+    "id": 1982
+  },
+  {
+    "preset_id": 284,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Vielleicht erzähle ich es dir, vielleicht auch nicht",
+    "premium": true,
+    "positive": true,
+    "id": 1983
+  },
+  {
+    "preset_id": 284,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Talvez te diga, talvez não",
+    "premium": true,
+    "positive": true,
+    "id": 1984
+  },
+  {
+    "preset_id": 284,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Może ci powiem, może nie",
+    "premium": true,
+    "positive": true,
+    "id": 1985
+  },
+  {
+    "preset_id": 284,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Может, скажу, может, нет",
+    "premium": true,
+    "positive": true,
+    "id": 1986
+  },
+  {
+    "preset_id": 284,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "也许告诉你,也许不",
+    "premium": true,
+    "positive": true,
+    "id": 1987
+  }
+]

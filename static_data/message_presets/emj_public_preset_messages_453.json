@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 453,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Bet",
+    "premium": false,
+    "positive": true,
+    "id": 3164
+  },
+  {
+    "preset_id": 453,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Bet",
+    "premium": false,
+    "positive": true,
+    "id": 3165
+  },
+  {
+    "preset_id": 453,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Bet",
+    "premium": false,
+    "positive": true,
+    "id": 3166
+  },
+  {
+    "preset_id": 453,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Bet",
+    "premium": false,
+    "positive": true,
+    "id": 3167
+  },
+  {
+    "preset_id": 453,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Bet",
+    "premium": false,
+    "positive": true,
+    "id": 3168
+  },
+  {
+    "preset_id": 453,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Bet",
+    "premium": false,
+    "positive": true,
+    "id": 3169
+  },
+  {
+    "preset_id": 453,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "Bet",
+    "premium": false,
+    "positive": true,
+    "id": 3170
+  }
+]

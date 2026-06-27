@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 112,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "How are you holding up?",
+    "premium": false,
+    "positive": true,
+    "id": 777
+  },
+  {
+    "preset_id": 112,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Cómo lo llevas?",
+    "premium": false,
+    "positive": true,
+    "id": 778
+  },
+  {
+    "preset_id": 112,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Wie hältst du dich?",
+    "premium": false,
+    "positive": true,
+    "id": 779
+  },
+  {
+    "preset_id": 112,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Como estás a aguentar?",
+    "premium": false,
+    "positive": true,
+    "id": 780
+  },
+  {
+    "preset_id": 112,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jak sobie radzisz?",
+    "premium": false,
+    "positive": true,
+    "id": 781
+  },
+  {
+    "preset_id": 112,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Как ты справляешься?",
+    "premium": false,
+    "positive": true,
+    "id": 782
+  },
+  {
+    "preset_id": 112,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你怎么撑着的?",
+    "premium": false,
+    "positive": true,
+    "id": 783
+  }
+]

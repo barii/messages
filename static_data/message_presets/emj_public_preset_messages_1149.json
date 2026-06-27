@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1149,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "You alright",
+    "premium": false,
+    "positive": true,
+    "id": 8036
+  },
+  {
+    "preset_id": 1149,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "¿Estás bien?",
+    "premium": false,
+    "positive": true,
+    "id": 8037
+  },
+  {
+    "preset_id": 1149,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Alles in Ordnung",
+    "premium": false,
+    "positive": true,
+    "id": 8038
+  },
+  {
+    "preset_id": 1149,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Tudo bem",
+    "premium": false,
+    "positive": true,
+    "id": 8039
+  },
+  {
+    "preset_id": 1149,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Wszystko w porządku?",
+    "premium": false,
+    "positive": true,
+    "id": 8040
+  },
+  {
+    "preset_id": 1149,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Всё хорошо",
+    "premium": false,
+    "positive": true,
+    "id": 8041
+  },
+  {
+    "preset_id": 1149,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "你还好吧",
+    "premium": false,
+    "positive": true,
+    "id": 8042
+  }
+]

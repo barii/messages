@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1729,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "You can't buy a bucket!",
+    "premium": false,
+    "positive": true,
+    "id": 12096
+  },
+  {
+    "preset_id": 1729,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "You can't buy a bucket!",
+    "premium": false,
+    "positive": true,
+    "id": 12097
+  },
+  {
+    "preset_id": 1729,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "You can't buy a bucket!",
+    "premium": false,
+    "positive": true,
+    "id": 12098
+  },
+  {
+    "preset_id": 1729,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "You can't buy a bucket!",
+    "premium": false,
+    "positive": true,
+    "id": 12099
+  },
+  {
+    "preset_id": 1729,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "You can't buy a bucket!",
+    "premium": false,
+    "positive": true,
+    "id": 12100
+  },
+  {
+    "preset_id": 1729,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "You can't buy a bucket!",
+    "premium": false,
+    "positive": true,
+    "id": 12101
+  },
+  {
+    "preset_id": 1729,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "You can't buy a bucket!",
+    "premium": false,
+    "positive": true,
+    "id": 12102
+  }
+]

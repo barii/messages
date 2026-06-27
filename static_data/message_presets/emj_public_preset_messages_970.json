@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 970,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "One thing at a time",
+    "premium": false,
+    "positive": true,
+    "id": 6783
+  },
+  {
+    "preset_id": 970,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Una cosa a la vez",
+    "premium": false,
+    "positive": true,
+    "id": 6784
+  },
+  {
+    "preset_id": 970,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Eins nach dem anderen",
+    "premium": false,
+    "positive": true,
+    "id": 6785
+  },
+  {
+    "preset_id": 970,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Uma coisa de cada vez",
+    "premium": false,
+    "positive": true,
+    "id": 6786
+  },
+  {
+    "preset_id": 970,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Jedna rzecz na raz",
+    "premium": false,
+    "positive": true,
+    "id": 6787
+  },
+  {
+    "preset_id": 970,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "По одному делу за раз",
+    "premium": false,
+    "positive": true,
+    "id": 6788
+  },
+  {
+    "preset_id": 970,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "一次一件事",
+    "premium": false,
+    "positive": true,
+    "id": 6789
+  }
+]

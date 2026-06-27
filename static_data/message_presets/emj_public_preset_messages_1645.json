@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1645,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You're getting sacked in the morning.",
+    "premium": true,
+    "positive": true,
+    "id": 11508
+  },
+  {
+    "preset_id": 1645,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Os van a despedir por la mañana.",
+    "premium": true,
+    "positive": true,
+    "id": 11509
+  },
+  {
+    "preset_id": 1645,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ihr werdet morgen entlassen.",
+    "premium": true,
+    "positive": true,
+    "id": 11510
+  },
+  {
+    "preset_id": 1645,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Vão ser despedidos de manhã.",
+    "premium": true,
+    "positive": true,
+    "id": 11511
+  },
+  {
+    "preset_id": 1645,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Zwolnią was rano.",
+    "premium": true,
+    "positive": true,
+    "id": 11512
+  },
+  {
+    "preset_id": 1645,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Вас уволят утром.",
+    "premium": true,
+    "positive": true,
+    "id": 11513
+  },
+  {
+    "preset_id": 1645,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们明早就要被解雇了。",
+    "premium": true,
+    "positive": true,
+    "id": 11514
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1046,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Worst meeting ever",
+    "premium": false,
+    "positive": true,
+    "id": 7315
+  },
+  {
+    "preset_id": 1046,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "La peor reunión de la historia",
+    "premium": false,
+    "positive": true,
+    "id": 7316
+  },
+  {
+    "preset_id": 1046,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Schlimmstes Meeting aller Zeiten",
+    "premium": false,
+    "positive": true,
+    "id": 7317
+  },
+  {
+    "preset_id": 1046,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Pior reunião de sempre",
+    "premium": false,
+    "positive": true,
+    "id": 7318
+  },
+  {
+    "preset_id": 1046,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Najgorsze spotkanie w historii",
+    "premium": false,
+    "positive": true,
+    "id": 7319
+  },
+  {
+    "preset_id": 1046,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Худшая встреча в истории",
+    "premium": false,
+    "positive": true,
+    "id": 7320
+  },
+  {
+    "preset_id": 1046,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "史上最糟会议",
+    "premium": false,
+    "positive": true,
+    "id": 7321
+  }
+]

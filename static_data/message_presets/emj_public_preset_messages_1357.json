@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1357,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Where were your fans today.",
+    "premium": true,
+    "positive": true,
+    "id": 9492
+  },
+  {
+    "preset_id": 1357,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "¿Dónde estaban vuestros aficionados hoy?",
+    "premium": true,
+    "positive": true,
+    "id": 9493
+  },
+  {
+    "preset_id": 1357,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Wo waren eure Fans heute?",
+    "premium": true,
+    "positive": true,
+    "id": 9494
+  },
+  {
+    "preset_id": 1357,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Onde estavam os vossos adeptos hoje?",
+    "premium": true,
+    "positive": true,
+    "id": 9495
+  },
+  {
+    "preset_id": 1357,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Gdzie byli wasi kibice dzisiaj?",
+    "premium": true,
+    "positive": true,
+    "id": 9496
+  },
+  {
+    "preset_id": 1357,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Где были ваши фанаты сегодня?",
+    "premium": true,
+    "positive": true,
+    "id": 9497
+  },
+  {
+    "preset_id": 1357,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们球迷今天去哪了?",
+    "premium": true,
+    "positive": true,
+    "id": 9498
+  }
+]

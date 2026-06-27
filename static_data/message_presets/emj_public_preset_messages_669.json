@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 669,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Sure, whatever",
+    "premium": false,
+    "positive": true,
+    "id": 4676
+  },
+  {
+    "preset_id": 669,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Claro, lo que sea",
+    "premium": false,
+    "positive": true,
+    "id": 4677
+  },
+  {
+    "preset_id": 669,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Klar, was auch immer",
+    "premium": false,
+    "positive": true,
+    "id": 4678
+  },
+  {
+    "preset_id": 669,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Claro, tanto faz",
+    "premium": false,
+    "positive": true,
+    "id": 4679
+  },
+  {
+    "preset_id": 669,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Pewnie, wszystko jedno",
+    "premium": false,
+    "positive": true,
+    "id": 4680
+  },
+  {
+    "preset_id": 669,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Конечно, как угодно",
+    "premium": false,
+    "positive": true,
+    "id": 4681
+  },
+  {
+    "preset_id": 669,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "好,随便",
+    "premium": false,
+    "positive": true,
+    "id": 4682
+  }
+]

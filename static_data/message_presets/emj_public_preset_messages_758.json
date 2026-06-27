@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 758,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I'm in your corner",
+    "premium": false,
+    "positive": true,
+    "id": 5299
+  },
+  {
+    "preset_id": 758,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Estoy de tu lado",
+    "premium": false,
+    "positive": true,
+    "id": 5300
+  },
+  {
+    "preset_id": 758,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Ich stehe hinter dir",
+    "premium": false,
+    "positive": true,
+    "id": 5301
+  },
+  {
+    "preset_id": 758,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Estou do teu lado",
+    "premium": false,
+    "positive": true,
+    "id": 5302
+  },
+  {
+    "preset_id": 758,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Jestem po twojej stronie",
+    "premium": false,
+    "positive": true,
+    "id": 5303
+  },
+  {
+    "preset_id": 758,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Я на твоей стороне",
+    "premium": false,
+    "positive": true,
+    "id": 5304
+  },
+  {
+    "preset_id": 758,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我支持你",
+    "premium": false,
+    "positive": true,
+    "id": 5305
+  }
+]

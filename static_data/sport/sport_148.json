@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1036,
+    "preset_id": 148,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "EN",
+    "category": "English Football Teams",
+    "text": "Chelsea",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1037,
+    "preset_id": 148,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Ingleses",
+    "text": "Chelsea",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1038,
+    "preset_id": 148,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "DE",
+    "category": "Englische Fußballmannschaften",
+    "text": "Chelsea",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1039,
+    "preset_id": 148,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "PL",
+    "category": "Angielskie drużyny piłkarskie",
+    "text": "Chelsea",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1040,
+    "preset_id": 148,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "RU",
+    "category": "Английские футбольные команды",
+    "text": "Chelsea",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1041,
+    "preset_id": 148,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "PT",
+    "category": "Times de futebol ingleses",
+    "text": "Chelsea",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 1042,
+    "preset_id": 148,
+    "cat_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "lang": "CN",
+    "category": "英格兰足球队",
+    "text": "Chelsea",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "European"
+  }
+]

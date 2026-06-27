@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 16,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "Your sense of humor is unmatched",
+    "premium": false,
+    "positive": true,
+    "id": 105
+  },
+  {
+    "preset_id": 16,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Tu sentido del humor no tiene igual",
+    "premium": false,
+    "positive": true,
+    "id": 106
+  },
+  {
+    "preset_id": 16,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Dein Humor ist unübertroffen",
+    "premium": false,
+    "positive": true,
+    "id": 107
+  },
+  {
+    "preset_id": 16,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "O teu sentido de humor não tem igual",
+    "premium": false,
+    "positive": true,
+    "id": 108
+  },
+  {
+    "preset_id": 16,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Twoje poczucie humoru jest niezrównane",
+    "premium": false,
+    "positive": true,
+    "id": 109
+  },
+  {
+    "preset_id": 16,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Твоё чувство юмора непревзойдённо",
+    "premium": false,
+    "positive": true,
+    "id": 110
+  },
+  {
+    "preset_id": 16,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你的幽默感无与伦比",
+    "premium": false,
+    "positive": true,
+    "id": 111
+  }
+]

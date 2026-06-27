@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 562,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Sending you a hug",
+    "premium": false,
+    "positive": true,
+    "id": 3927
+  },
+  {
+    "preset_id": 562,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Te mando un abrazo",
+    "premium": false,
+    "positive": true,
+    "id": 3928
+  },
+  {
+    "preset_id": 562,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Sende dir eine Umarmung",
+    "premium": false,
+    "positive": true,
+    "id": 3929
+  },
+  {
+    "preset_id": 562,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "A mandar-te um abraço",
+    "premium": false,
+    "positive": true,
+    "id": 3930
+  },
+  {
+    "preset_id": 562,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Wysyłam ci uściski",
+    "premium": false,
+    "positive": true,
+    "id": 3931
+  },
+  {
+    "preset_id": 562,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Шлю тебе обнимашки",
+    "premium": false,
+    "positive": true,
+    "id": 3932
+  },
+  {
+    "preset_id": 562,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "给你一个拥抱",
+    "premium": false,
+    "positive": true,
+    "id": 3933
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1022,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Thank you for everything you do here",
+    "premium": false,
+    "positive": true,
+    "id": 7147
+  },
+  {
+    "preset_id": 1022,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Gracias por todo lo que haces aquí",
+    "premium": false,
+    "positive": true,
+    "id": 7148
+  },
+  {
+    "preset_id": 1022,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Danke für alles, was du hier tust",
+    "premium": false,
+    "positive": true,
+    "id": 7149
+  },
+  {
+    "preset_id": 1022,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Obrigado por tudo o que fazes aqui",
+    "premium": false,
+    "positive": true,
+    "id": 7150
+  },
+  {
+    "preset_id": 1022,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Dziękuję za wszystko, co tu robisz",
+    "premium": false,
+    "positive": true,
+    "id": 7151
+  },
+  {
+    "preset_id": 1022,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Спасибо за всё, что ты здесь делаешь",
+    "premium": false,
+    "positive": true,
+    "id": 7152
+  },
+  {
+    "preset_id": 1022,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "谢谢你在这里所做的一切",
+    "premium": false,
+    "positive": true,
+    "id": 7153
+  }
+]

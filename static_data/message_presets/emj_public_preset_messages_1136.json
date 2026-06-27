@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1136,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Guess who",
+    "premium": false,
+    "positive": true,
+    "id": 7945
+  },
+  {
+    "preset_id": 1136,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Adivina quién",
+    "premium": false,
+    "positive": true,
+    "id": 7946
+  },
+  {
+    "preset_id": 1136,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Rate mal",
+    "premium": false,
+    "positive": true,
+    "id": 7947
+  },
+  {
+    "preset_id": 1136,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Adivinha quem",
+    "premium": false,
+    "positive": true,
+    "id": 7948
+  },
+  {
+    "preset_id": 1136,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Zgadnij kto",
+    "premium": false,
+    "positive": true,
+    "id": 7949
+  },
+  {
+    "preset_id": 1136,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Угадай кто",
+    "premium": false,
+    "positive": true,
+    "id": 7950
+  },
+  {
+    "preset_id": 1136,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "猜猜是谁",
+    "premium": false,
+    "positive": true,
+    "id": 7951
+  }
+]

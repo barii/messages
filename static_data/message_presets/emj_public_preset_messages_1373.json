@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1373,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "That the best you can do?",
+    "premium": false,
+    "positive": true,
+    "id": 9604
+  },
+  {
+    "preset_id": 1373,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "¿Eso es lo mejor que sabéis hacer?",
+    "premium": false,
+    "positive": true,
+    "id": 9605
+  },
+  {
+    "preset_id": 1373,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ist das das Beste, was ihr könnt?",
+    "premium": false,
+    "positive": true,
+    "id": 9606
+  },
+  {
+    "preset_id": 1373,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "É o melhor que conseguem?",
+    "premium": false,
+    "positive": true,
+    "id": 9607
+  },
+  {
+    "preset_id": 1373,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Czy to wasze najlepsze wykonanie?",
+    "premium": false,
+    "positive": true,
+    "id": 9608
+  },
+  {
+    "preset_id": 1373,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Это ваше лучшее?",
+    "premium": false,
+    "positive": true,
+    "id": 9609
+  },
+  {
+    "preset_id": 1373,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "这是你们最好的水平?",
+    "premium": false,
+    "positive": true,
+    "id": 9610
+  }
+]

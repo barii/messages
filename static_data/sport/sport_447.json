@@ -1,0 +1,86 @@
+[
+  {
+    "id": 3129,
+    "preset_id": 447,
+    "cat_emoji": "🇵🇾",
+    "lang": "EN",
+    "category": "Paraguayan Football Teams",
+    "text": "Sportivo Luqueño",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  },
+  {
+    "id": 3130,
+    "preset_id": 447,
+    "cat_emoji": "🇵🇾",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Paraguayos",
+    "text": "Sportivo Luqueño",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  },
+  {
+    "id": 3131,
+    "preset_id": 447,
+    "cat_emoji": "🇵🇾",
+    "lang": "DE",
+    "category": "Paraguayische Fußballmannschaften",
+    "text": "Sportivo Luqueño",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  },
+  {
+    "id": 3132,
+    "preset_id": 447,
+    "cat_emoji": "🇵🇾",
+    "lang": "PL",
+    "category": "Paragwajskie drużyny piłkarskie",
+    "text": "Sportivo Luqueño",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  },
+  {
+    "id": 3133,
+    "preset_id": 447,
+    "cat_emoji": "🇵🇾",
+    "lang": "RU",
+    "category": "Парагвайские футбольные команды",
+    "text": "Sportivo Luqueño",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  },
+  {
+    "id": 3134,
+    "preset_id": 447,
+    "cat_emoji": "🇵🇾",
+    "lang": "PT",
+    "category": "Times de futebol paraguaios",
+    "text": "Sportivo Luqueño",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  },
+  {
+    "id": 3135,
+    "preset_id": 447,
+    "cat_emoji": "🇵🇾",
+    "lang": "CN",
+    "category": "巴拉圭足球队",
+    "text": "Sportivo Luqueño",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  }
+]

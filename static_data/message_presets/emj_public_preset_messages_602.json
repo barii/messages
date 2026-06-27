@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 602,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I needed to hear that",
+    "premium": false,
+    "positive": true,
+    "id": 4207
+  },
+  {
+    "preset_id": 602,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Necesitaba escuchar eso",
+    "premium": false,
+    "positive": true,
+    "id": 4208
+  },
+  {
+    "preset_id": 602,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Das musste ich hören",
+    "premium": false,
+    "positive": true,
+    "id": 4209
+  },
+  {
+    "preset_id": 602,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Precisava de ouvir isso",
+    "premium": false,
+    "positive": true,
+    "id": 4210
+  },
+  {
+    "preset_id": 602,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Musiałem to usłyszeć",
+    "premium": false,
+    "positive": true,
+    "id": 4211
+  },
+  {
+    "preset_id": 602,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Мне нужно было это услышать",
+    "premium": false,
+    "positive": true,
+    "id": 4212
+  },
+  {
+    "preset_id": 602,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我需要听到这个",
+    "premium": false,
+    "positive": true,
+    "id": 4213
+  }
+]

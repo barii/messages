@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 974,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Nobody is coming to save you",
+    "premium": false,
+    "positive": true,
+    "id": 6811
+  },
+  {
+    "preset_id": 974,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Nadie va a venir a salvarte",
+    "premium": false,
+    "positive": true,
+    "id": 6812
+  },
+  {
+    "preset_id": 974,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Niemand kommt, um dich zu retten",
+    "premium": false,
+    "positive": true,
+    "id": 6813
+  },
+  {
+    "preset_id": 974,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Ninguém te vem salvar",
+    "premium": false,
+    "positive": true,
+    "id": 6814
+  },
+  {
+    "preset_id": 974,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Nikt nie przyjdzie cię uratować",
+    "premium": false,
+    "positive": true,
+    "id": 6815
+  },
+  {
+    "preset_id": 974,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Никто не придёт тебя спасать",
+    "premium": false,
+    "positive": true,
+    "id": 6816
+  },
+  {
+    "preset_id": 974,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "没人会来救你",
+    "premium": false,
+    "positive": true,
+    "id": 6817
+  }
+]

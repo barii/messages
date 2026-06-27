@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1128,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Long time no speak",
+    "premium": false,
+    "positive": true,
+    "id": 7889
+  },
+  {
+    "preset_id": 1128,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Cuánto tiempo sin hablar",
+    "premium": false,
+    "positive": true,
+    "id": 7890
+  },
+  {
+    "preset_id": 1128,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Lange nicht gesehen",
+    "premium": false,
+    "positive": true,
+    "id": 7891
+  },
+  {
+    "preset_id": 1128,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Há quanto tempo",
+    "premium": false,
+    "positive": true,
+    "id": 7892
+  },
+  {
+    "preset_id": 1128,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Dawno cię nie słyszałem",
+    "premium": false,
+    "positive": true,
+    "id": 7893
+  },
+  {
+    "preset_id": 1128,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Давно не общались",
+    "premium": false,
+    "positive": true,
+    "id": 7894
+  },
+  {
+    "preset_id": 1128,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "好久没聊了",
+    "premium": false,
+    "positive": true,
+    "id": 7895
+  }
+]

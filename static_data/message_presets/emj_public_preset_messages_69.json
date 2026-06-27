@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 69,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "You're being weird",
+    "premium": false,
+    "positive": false,
+    "id": 476
+  },
+  {
+    "preset_id": 69,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Estás siendo raro",
+    "premium": false,
+    "positive": false,
+    "id": 477
+  },
+  {
+    "preset_id": 69,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Du bist seltsam",
+    "premium": false,
+    "positive": false,
+    "id": 478
+  },
+  {
+    "preset_id": 69,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Estás estranho",
+    "premium": false,
+    "positive": false,
+    "id": 479
+  },
+  {
+    "preset_id": 69,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Jesteś dziwny",
+    "premium": false,
+    "positive": false,
+    "id": 480
+  },
+  {
+    "preset_id": 69,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Ты странный",
+    "premium": false,
+    "positive": false,
+    "id": 481
+  },
+  {
+    "preset_id": 69,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "你在变怪",
+    "premium": false,
+    "positive": false,
+    "id": 482
+  }
+]

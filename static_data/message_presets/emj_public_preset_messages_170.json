@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 170,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you free to chat?",
+    "premium": false,
+    "positive": true,
+    "id": 1183
+  },
+  {
+    "preset_id": 170,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Tienes tiempo para hablar?",
+    "premium": false,
+    "positive": true,
+    "id": 1184
+  },
+  {
+    "preset_id": 170,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Hast du Zeit zum Reden?",
+    "premium": false,
+    "positive": true,
+    "id": 1185
+  },
+  {
+    "preset_id": 170,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás livre para falar?",
+    "premium": false,
+    "positive": true,
+    "id": 1186
+  },
+  {
+    "preset_id": 170,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Masz teraz czas porozmawiać?",
+    "premium": false,
+    "positive": true,
+    "id": 1187
+  },
+  {
+    "preset_id": 170,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты свободен поговорить?",
+    "premium": false,
+    "positive": true,
+    "id": 1188
+  },
+  {
+    "preset_id": 170,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你有空聊天吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1189
+  }
+]

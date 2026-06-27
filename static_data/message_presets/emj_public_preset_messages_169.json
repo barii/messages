@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 169,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Will you keep this between us?",
+    "premium": false,
+    "positive": true,
+    "id": 1176
+  },
+  {
+    "preset_id": 169,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Esto quedará entre nosotros?",
+    "premium": false,
+    "positive": true,
+    "id": 1177
+  },
+  {
+    "preset_id": 169,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bleibt das unter uns?",
+    "premium": false,
+    "positive": true,
+    "id": 1178
+  },
+  {
+    "preset_id": 169,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Isto fica entre nós?",
+    "premium": false,
+    "positive": true,
+    "id": 1179
+  },
+  {
+    "preset_id": 169,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Zachowasz to dla siebie?",
+    "premium": false,
+    "positive": true,
+    "id": 1180
+  },
+  {
+    "preset_id": 169,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Это останется между нами?",
+    "premium": false,
+    "positive": true,
+    "id": 1181
+  },
+  {
+    "preset_id": 169,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "这事能保密吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1182
+  }
+]

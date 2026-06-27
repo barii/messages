@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 792,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "You too",
+    "premium": false,
+    "positive": true,
+    "id": 5537
+  },
+  {
+    "preset_id": 792,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Tú también",
+    "premium": false,
+    "positive": true,
+    "id": 5538
+  },
+  {
+    "preset_id": 792,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Du auch",
+    "premium": false,
+    "positive": true,
+    "id": 5539
+  },
+  {
+    "preset_id": 792,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Tu também",
+    "premium": false,
+    "positive": true,
+    "id": 5540
+  },
+  {
+    "preset_id": 792,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Ty też",
+    "premium": false,
+    "positive": true,
+    "id": 5541
+  },
+  {
+    "preset_id": 792,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Ты тоже",
+    "premium": false,
+    "positive": true,
+    "id": 5542
+  },
+  {
+    "preset_id": 792,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "你也是",
+    "premium": false,
+    "positive": true,
+    "id": 5543
+  }
+]

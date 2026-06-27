@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1451,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "The table doesn't lie.",
+    "premium": true,
+    "positive": true,
+    "id": 10150
+  },
+  {
+    "preset_id": 1451,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "La tabla no miente.",
+    "premium": true,
+    "positive": true,
+    "id": 10151
+  },
+  {
+    "preset_id": 1451,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Die Tabelle lügt nicht.",
+    "premium": true,
+    "positive": true,
+    "id": 10152
+  },
+  {
+    "preset_id": 1451,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "A tabela não mente.",
+    "premium": true,
+    "positive": true,
+    "id": 10153
+  },
+  {
+    "preset_id": 1451,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Tabela nie kłamie.",
+    "premium": true,
+    "positive": true,
+    "id": 10154
+  },
+  {
+    "preset_id": 1451,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Таблица не врёт.",
+    "premium": true,
+    "positive": true,
+    "id": 10155
+  },
+  {
+    "preset_id": 1451,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "积分榜不会撒谎。",
+    "premium": true,
+    "positive": true,
+    "id": 10156
+  }
+]

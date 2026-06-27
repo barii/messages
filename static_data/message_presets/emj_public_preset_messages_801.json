@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 801,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Now you're just being nice",
+    "premium": false,
+    "positive": true,
+    "id": 5600
+  },
+  {
+    "preset_id": 801,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Ahora solo estás siendo amable",
+    "premium": false,
+    "positive": true,
+    "id": 5601
+  },
+  {
+    "preset_id": 801,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Jetzt bist du nur nett",
+    "premium": false,
+    "positive": true,
+    "id": 5602
+  },
+  {
+    "preset_id": 801,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Agora estás só a ser simpático",
+    "premium": false,
+    "positive": true,
+    "id": 5603
+  },
+  {
+    "preset_id": 801,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Teraz po prostu jesteś miły",
+    "premium": false,
+    "positive": true,
+    "id": 5604
+  },
+  {
+    "preset_id": 801,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Сейчас ты просто милый",
+    "premium": false,
+    "positive": true,
+    "id": 5605
+  },
+  {
+    "preset_id": 801,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "你现在只是在恭维",
+    "premium": false,
+    "positive": true,
+    "id": 5606
+  }
+]

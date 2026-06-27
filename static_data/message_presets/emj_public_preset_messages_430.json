@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 430,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Could be",
+    "premium": false,
+    "positive": true,
+    "id": 3003
+  },
+  {
+    "preset_id": 430,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Podría ser",
+    "premium": false,
+    "positive": true,
+    "id": 3004
+  },
+  {
+    "preset_id": 430,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Könnte sein",
+    "premium": false,
+    "positive": true,
+    "id": 3005
+  },
+  {
+    "preset_id": 430,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Pode ser",
+    "premium": false,
+    "positive": true,
+    "id": 3006
+  },
+  {
+    "preset_id": 430,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Mogłoby być",
+    "premium": false,
+    "positive": true,
+    "id": 3007
+  },
+  {
+    "preset_id": 430,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Может быть",
+    "premium": false,
+    "positive": true,
+    "id": 3008
+  },
+  {
+    "preset_id": 430,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "可能吧",
+    "premium": false,
+    "positive": true,
+    "id": 3009
+  }
+]

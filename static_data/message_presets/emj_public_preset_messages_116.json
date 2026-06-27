@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 116,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you doing well?",
+    "premium": false,
+    "positive": true,
+    "id": 805
+  },
+  {
+    "preset_id": 116,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Te va bien?",
+    "premium": false,
+    "positive": true,
+    "id": 806
+  },
+  {
+    "preset_id": 116,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Geht's dir gut?",
+    "premium": false,
+    "positive": true,
+    "id": 807
+  },
+  {
+    "preset_id": 116,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás a ir bem?",
+    "premium": false,
+    "positive": true,
+    "id": 808
+  },
+  {
+    "preset_id": 116,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Dobrze ci się wiedzie?",
+    "premium": false,
+    "positive": true,
+    "id": 809
+  },
+  {
+    "preset_id": 116,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "У тебя всё хорошо?",
+    "premium": false,
+    "positive": true,
+    "id": 810
+  },
+  {
+    "preset_id": 116,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你过得好吗?",
+    "premium": false,
+    "positive": true,
+    "id": 811
+  }
+]

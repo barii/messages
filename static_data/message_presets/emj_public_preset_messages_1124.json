@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1124,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Wassup",
+    "premium": false,
+    "positive": true,
+    "id": 7861
+  },
+  {
+    "preset_id": 1124,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Wassup",
+    "premium": false,
+    "positive": true,
+    "id": 7862
+  },
+  {
+    "preset_id": 1124,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Wassup",
+    "premium": false,
+    "positive": true,
+    "id": 7863
+  },
+  {
+    "preset_id": 1124,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Wassup",
+    "premium": false,
+    "positive": true,
+    "id": 7864
+  },
+  {
+    "preset_id": 1124,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Wassup",
+    "premium": false,
+    "positive": true,
+    "id": 7865
+  },
+  {
+    "preset_id": 1124,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Wassup",
+    "premium": false,
+    "positive": true,
+    "id": 7866
+  },
+  {
+    "preset_id": 1124,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "Wassup",
+    "premium": false,
+    "positive": true,
+    "id": 7867
+  }
+]

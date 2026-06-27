@@ -1,0 +1,86 @@
+[
+  {
+    "id": 2079,
+    "preset_id": 297,
+    "cat_emoji": "🇨🇴",
+    "lang": "EN",
+    "category": "Columbian Football Teams",
+    "text": "Once Caldas",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2080,
+    "preset_id": 297,
+    "cat_emoji": "🇨🇴",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Colombianos",
+    "text": "Once Caldas",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2081,
+    "preset_id": 297,
+    "cat_emoji": "🇨🇴",
+    "lang": "DE",
+    "category": "Kolumbianische Fußballmannschaften",
+    "text": "Once Caldas",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2082,
+    "preset_id": 297,
+    "cat_emoji": "🇨🇴",
+    "lang": "PL",
+    "category": "Kolumbijskie drużyny piłkarskie",
+    "text": "Once Caldas",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2083,
+    "preset_id": 297,
+    "cat_emoji": "🇨🇴",
+    "lang": "RU",
+    "category": "Колумбийские футбольные команды",
+    "text": "Once Caldas",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2084,
+    "preset_id": 297,
+    "cat_emoji": "🇨🇴",
+    "lang": "PT",
+    "category": "Times de futebol colombianos",
+    "text": "Once Caldas",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 2085,
+    "preset_id": 297,
+    "cat_emoji": "🇨🇴",
+    "lang": "CN",
+    "category": "哥伦比亚足球队",
+    "text": "Once Caldas",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  }
+]

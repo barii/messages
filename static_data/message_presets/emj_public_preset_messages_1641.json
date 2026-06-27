@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1641,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "The wheels on your bus go round and round.",
+    "premium": true,
+    "positive": true,
+    "id": 11480
+  },
+  {
+    "preset_id": 1641,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Las ruedas de vuestro autobús giran y giran.",
+    "premium": true,
+    "positive": true,
+    "id": 11481
+  },
+  {
+    "preset_id": 1641,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Die Räder eures Busses drehen sich.",
+    "premium": true,
+    "positive": true,
+    "id": 11482
+  },
+  {
+    "preset_id": 1641,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "As rodas do vosso autocarro andam à roda.",
+    "premium": true,
+    "positive": true,
+    "id": 11483
+  },
+  {
+    "preset_id": 1641,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Koła waszego autobusu kręcą się i kręcą.",
+    "premium": true,
+    "positive": true,
+    "id": 11484
+  },
+  {
+    "preset_id": 1641,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Колёса вашего автобуса крутятся.",
+    "premium": true,
+    "positive": true,
+    "id": 11485
+  },
+  {
+    "preset_id": 1641,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们大巴的轮子转啊转。",
+    "premium": true,
+    "positive": true,
+    "id": 11486
+  }
+]

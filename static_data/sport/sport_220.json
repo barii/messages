@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1540,
+    "preset_id": 220,
+    "cat_emoji": "🇵🇹",
+    "lang": "EN",
+    "category": "Portuguese Football Teams",
+    "text": "Farense",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1541,
+    "preset_id": 220,
+    "cat_emoji": "🇵🇹",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Portugueses",
+    "text": "Farense",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1542,
+    "preset_id": 220,
+    "cat_emoji": "🇵🇹",
+    "lang": "DE",
+    "category": "Portugiesische Fußballmannschaften",
+    "text": "Farense",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1543,
+    "preset_id": 220,
+    "cat_emoji": "🇵🇹",
+    "lang": "PL",
+    "category": "Portugalskie drużyny piłkarskie",
+    "text": "Farense",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1544,
+    "preset_id": 220,
+    "cat_emoji": "🇵🇹",
+    "lang": "RU",
+    "category": "Португальские футбольные команды",
+    "text": "Farense",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1545,
+    "preset_id": 220,
+    "cat_emoji": "🇵🇹",
+    "lang": "PT",
+    "category": "Times de futebol portugueses",
+    "text": "Farense",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1546,
+    "preset_id": 220,
+    "cat_emoji": "🇵🇹",
+    "lang": "CN",
+    "category": "葡萄牙足球队",
+    "text": "Farense",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  }
+]

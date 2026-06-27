@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 11,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're so easy to talk to",
+    "premium": false,
+    "positive": true,
+    "id": 70
+  },
+  {
+    "preset_id": 11,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Es muy fácil hablar contigo",
+    "premium": false,
+    "positive": true,
+    "id": 71
+  },
+  {
+    "preset_id": 11,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Mit dir ist es so leicht zu reden",
+    "premium": false,
+    "positive": true,
+    "id": 72
+  },
+  {
+    "preset_id": 11,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És tão fácil de falar",
+    "premium": false,
+    "positive": true,
+    "id": 73
+  },
+  {
+    "preset_id": 11,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Tak łatwo z tobą rozmawiać",
+    "premium": false,
+    "positive": true,
+    "id": 74
+  },
+  {
+    "preset_id": 11,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "С тобой так легко разговаривать",
+    "premium": false,
+    "positive": true,
+    "id": 75
+  },
+  {
+    "preset_id": 11,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你很容易交谈",
+    "premium": false,
+    "positive": true,
+    "id": 76
+  }
+]

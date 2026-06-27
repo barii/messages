@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1237,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Embarrassing to watch.",
+    "premium": false,
+    "positive": true,
+    "id": 8652
+  },
+  {
+    "preset_id": 1237,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Vergonzoso de ver.",
+    "premium": false,
+    "positive": true,
+    "id": 8653
+  },
+  {
+    "preset_id": 1237,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Peinlich anzuschauen.",
+    "premium": false,
+    "positive": true,
+    "id": 8654
+  },
+  {
+    "preset_id": 1237,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Vergonhoso de ver.",
+    "premium": false,
+    "positive": true,
+    "id": 8655
+  },
+  {
+    "preset_id": 1237,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Wstyd patrzeć.",
+    "premium": false,
+    "positive": true,
+    "id": 8656
+  },
+  {
+    "preset_id": 1237,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Стыдно смотреть.",
+    "premium": false,
+    "positive": true,
+    "id": 8657
+  },
+  {
+    "preset_id": 1237,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "看着就丢人。",
+    "premium": false,
+    "positive": true,
+    "id": 8658
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 3164,
+    "preset_id": 452,
+    "cat_emoji": "🇵🇾",
+    "lang": "EN",
+    "category": "Paraguayan Football Teams",
+    "text": "Ameliano",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  },
+  {
+    "id": 3165,
+    "preset_id": 452,
+    "cat_emoji": "🇵🇾",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Paraguayos",
+    "text": "Ameliano",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  },
+  {
+    "id": 3166,
+    "preset_id": 452,
+    "cat_emoji": "🇵🇾",
+    "lang": "DE",
+    "category": "Paraguayische Fußballmannschaften",
+    "text": "Ameliano",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  },
+  {
+    "id": 3167,
+    "preset_id": 452,
+    "cat_emoji": "🇵🇾",
+    "lang": "PL",
+    "category": "Paragwajskie drużyny piłkarskie",
+    "text": "Ameliano",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  },
+  {
+    "id": 3168,
+    "preset_id": 452,
+    "cat_emoji": "🇵🇾",
+    "lang": "RU",
+    "category": "Парагвайские футбольные команды",
+    "text": "Ameliano",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  },
+  {
+    "id": 3169,
+    "preset_id": 452,
+    "cat_emoji": "🇵🇾",
+    "lang": "PT",
+    "category": "Times de futebol paraguaios",
+    "text": "Ameliano",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  },
+  {
+    "id": 3170,
+    "preset_id": 452,
+    "cat_emoji": "🇵🇾",
+    "lang": "CN",
+    "category": "巴拉圭足球队",
+    "text": "Ameliano",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  }
+]

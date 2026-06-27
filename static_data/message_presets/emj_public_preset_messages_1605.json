@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1605,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "We'll be fine.",
+    "premium": false,
+    "positive": true,
+    "id": 11228
+  },
+  {
+    "preset_id": 1605,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Estaremos bien.",
+    "premium": false,
+    "positive": true,
+    "id": 11229
+  },
+  {
+    "preset_id": 1605,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Wir werden schon.",
+    "premium": false,
+    "positive": true,
+    "id": 11230
+  },
+  {
+    "preset_id": 1605,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Vamos ficar bem.",
+    "premium": false,
+    "positive": true,
+    "id": 11231
+  },
+  {
+    "preset_id": 1605,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Damy radę.",
+    "premium": false,
+    "positive": true,
+    "id": 11232
+  },
+  {
+    "preset_id": 1605,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Мы справимся.",
+    "premium": false,
+    "positive": true,
+    "id": 11233
+  },
+  {
+    "preset_id": 1605,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "我们会没事的。",
+    "premium": false,
+    "positive": true,
+    "id": 11234
+  }
+]

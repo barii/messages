@@ -1,0 +1,86 @@
+[
+  {
+    "id": 2919,
+    "preset_id": 417,
+    "cat_emoji": "🇷🇺",
+    "lang": "EN",
+    "category": "Russian Football Teams",
+    "text": "Fakel Voronezh",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2920,
+    "preset_id": 417,
+    "cat_emoji": "🇷🇺",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Rusos",
+    "text": "Fakel Voronezh",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2921,
+    "preset_id": 417,
+    "cat_emoji": "🇷🇺",
+    "lang": "DE",
+    "category": "Russische Fußballmannschaften",
+    "text": "Fakel Voronezh",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2922,
+    "preset_id": 417,
+    "cat_emoji": "🇷🇺",
+    "lang": "PL",
+    "category": "Rosyjskie drużyny piłkarskie",
+    "text": "Fakel Voronezh",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2923,
+    "preset_id": 417,
+    "cat_emoji": "🇷🇺",
+    "lang": "RU",
+    "category": "Российские футбольные команды",
+    "text": "Fakel Voronezh",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2924,
+    "preset_id": 417,
+    "cat_emoji": "🇷🇺",
+    "lang": "PT",
+    "category": "Times de futebol russos",
+    "text": "Fakel Voronezh",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2925,
+    "preset_id": 417,
+    "cat_emoji": "🇷🇺",
+    "lang": "CN",
+    "category": "俄罗斯足球队",
+    "text": "Fakel Voronezh",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  }
+]

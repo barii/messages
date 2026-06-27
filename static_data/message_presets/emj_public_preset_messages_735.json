@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 735,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I can't wait",
+    "premium": false,
+    "positive": true,
+    "id": 5138
+  },
+  {
+    "preset_id": 735,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "No puedo esperar",
+    "premium": false,
+    "positive": true,
+    "id": 5139
+  },
+  {
+    "preset_id": 735,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Ich kann es kaum erwarten",
+    "premium": false,
+    "positive": true,
+    "id": 5140
+  },
+  {
+    "preset_id": 735,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Mal posso esperar",
+    "premium": false,
+    "positive": true,
+    "id": 5141
+  },
+  {
+    "preset_id": 735,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Nie mogę się doczekać",
+    "premium": false,
+    "positive": true,
+    "id": 5142
+  },
+  {
+    "preset_id": 735,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Не могу дождаться",
+    "premium": false,
+    "positive": true,
+    "id": 5143
+  },
+  {
+    "preset_id": 735,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "等不及了",
+    "premium": false,
+    "positive": true,
+    "id": 5144
+  }
+]

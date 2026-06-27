@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 42,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "I learn so much from you",
+    "premium": false,
+    "positive": true,
+    "id": 287
+  },
+  {
+    "preset_id": 42,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Aprendo mucho de ti",
+    "premium": false,
+    "positive": true,
+    "id": 288
+  },
+  {
+    "preset_id": 42,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Ich lerne so viel von dir",
+    "premium": false,
+    "positive": true,
+    "id": 289
+  },
+  {
+    "preset_id": 42,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Aprendo tanto contigo",
+    "premium": false,
+    "positive": true,
+    "id": 290
+  },
+  {
+    "preset_id": 42,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Tyle się od ciebie uczę",
+    "premium": false,
+    "positive": true,
+    "id": 291
+  },
+  {
+    "preset_id": 42,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Я так многому у тебя учусь",
+    "premium": false,
+    "positive": true,
+    "id": 292
+  },
+  {
+    "preset_id": 42,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "我从你身上学到很多",
+    "premium": false,
+    "positive": true,
+    "id": 293
+  }
+]

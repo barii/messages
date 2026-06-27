@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1250,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Will never have any success.",
+    "premium": false,
+    "positive": true,
+    "id": 8743
+  },
+  {
+    "preset_id": 1250,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Nunca tendréis éxito.",
+    "premium": false,
+    "positive": true,
+    "id": 8744
+  },
+  {
+    "preset_id": 1250,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Werdet nie Erfolg haben.",
+    "premium": false,
+    "positive": true,
+    "id": 8745
+  },
+  {
+    "preset_id": 1250,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Nunca terão qualquer sucesso.",
+    "premium": false,
+    "positive": true,
+    "id": 8746
+  },
+  {
+    "preset_id": 1250,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Nigdy nie odniesiecie żadnego sukcesu.",
+    "premium": false,
+    "positive": true,
+    "id": 8747
+  },
+  {
+    "preset_id": 1250,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Никогда не добьётесь успеха.",
+    "premium": false,
+    "positive": true,
+    "id": 8748
+  },
+  {
+    "preset_id": 1250,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "永远不会有任何成功。",
+    "premium": false,
+    "positive": true,
+    "id": 8749
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 596,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "That came out wrong",
+    "premium": false,
+    "positive": true,
+    "id": 4165
+  },
+  {
+    "preset_id": 596,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Eso salió mal",
+    "premium": false,
+    "positive": true,
+    "id": 4166
+  },
+  {
+    "preset_id": 596,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Das kam falsch rüber",
+    "premium": false,
+    "positive": true,
+    "id": 4167
+  },
+  {
+    "preset_id": 596,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Saiu mal",
+    "premium": false,
+    "positive": true,
+    "id": 4168
+  },
+  {
+    "preset_id": 596,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "To wyszło źle",
+    "premium": false,
+    "positive": true,
+    "id": 4169
+  },
+  {
+    "preset_id": 596,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Это вышло не так",
+    "premium": false,
+    "positive": true,
+    "id": 4170
+  },
+  {
+    "preset_id": 596,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "话说错了",
+    "premium": false,
+    "positive": true,
+    "id": 4171
+  }
+]

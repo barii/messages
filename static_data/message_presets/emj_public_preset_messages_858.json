@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 858,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You're stunning",
+    "premium": false,
+    "positive": true,
+    "id": 5999
+  },
+  {
+    "preset_id": 858,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Eres impresionante",
+    "premium": false,
+    "positive": true,
+    "id": 6000
+  },
+  {
+    "preset_id": 858,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Du bist atemberaubend",
+    "premium": false,
+    "positive": true,
+    "id": 6001
+  },
+  {
+    "preset_id": 858,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "És estonteante",
+    "premium": false,
+    "positive": true,
+    "id": 6002
+  },
+  {
+    "preset_id": 858,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Jesteś oszałamiający",
+    "premium": false,
+    "positive": true,
+    "id": 6003
+  },
+  {
+    "preset_id": 858,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты потрясающий",
+    "premium": false,
+    "positive": true,
+    "id": 6004
+  },
+  {
+    "preset_id": 858,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你令人惊艳",
+    "premium": false,
+    "positive": true,
+    "id": 6005
+  }
+]

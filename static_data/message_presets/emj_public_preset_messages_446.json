@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 446,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Works for me",
+    "premium": false,
+    "positive": true,
+    "id": 3115
+  },
+  {
+    "preset_id": 446,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Me funciona",
+    "premium": false,
+    "positive": true,
+    "id": 3116
+  },
+  {
+    "preset_id": 446,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Geht für mich klar",
+    "premium": false,
+    "positive": true,
+    "id": 3117
+  },
+  {
+    "preset_id": 446,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Funciona para mim",
+    "premium": false,
+    "positive": true,
+    "id": 3118
+  },
+  {
+    "preset_id": 446,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Pasuje mi",
+    "premium": false,
+    "positive": true,
+    "id": 3119
+  },
+  {
+    "preset_id": 446,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Подходит мне",
+    "premium": false,
+    "positive": true,
+    "id": 3120
+  },
+  {
+    "preset_id": 446,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "对我来说可以",
+    "premium": false,
+    "positive": true,
+    "id": 3121
+  }
+]

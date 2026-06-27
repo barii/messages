@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1361,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "No history, no trophies, no shame.",
+    "premium": true,
+    "positive": true,
+    "id": 9520
+  },
+  {
+    "preset_id": 1361,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Sin historia, sin trofeos, sin vergüenza.",
+    "premium": true,
+    "positive": true,
+    "id": 9521
+  },
+  {
+    "preset_id": 1361,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Keine Geschichte, keine Pokale, keine Scham.",
+    "premium": true,
+    "positive": true,
+    "id": 9522
+  },
+  {
+    "preset_id": 1361,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Sem história, sem troféus, sem vergonha.",
+    "premium": true,
+    "positive": true,
+    "id": 9523
+  },
+  {
+    "preset_id": 1361,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Bez historii, bez trofeów, bez wstydu.",
+    "premium": true,
+    "positive": true,
+    "id": 9524
+  },
+  {
+    "preset_id": 1361,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Без истории, без трофеев, без стыда.",
+    "premium": true,
+    "positive": true,
+    "id": 9525
+  },
+  {
+    "preset_id": 1361,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "没历史,没奖杯,没羞耻。",
+    "premium": true,
+    "positive": true,
+    "id": 9526
+  }
+]

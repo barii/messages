@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 276,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "You would never guess it was me",
+    "premium": false,
+    "positive": true,
+    "id": 1925
+  },
+  {
+    "preset_id": 276,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Nunca adivinarías que era yo",
+    "premium": false,
+    "positive": true,
+    "id": 1926
+  },
+  {
+    "preset_id": 276,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Du würdest nie erraten, dass ich es war",
+    "premium": false,
+    "positive": true,
+    "id": 1927
+  },
+  {
+    "preset_id": 276,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Nunca adivinharias que era eu",
+    "premium": false,
+    "positive": true,
+    "id": 1928
+  },
+  {
+    "preset_id": 276,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Nigdy byś nie zgadł, że to ja",
+    "premium": false,
+    "positive": true,
+    "id": 1929
+  },
+  {
+    "preset_id": 276,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Ты никогда бы не догадался, что это я",
+    "premium": false,
+    "positive": true,
+    "id": 1930
+  },
+  {
+    "preset_id": 276,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "你永远猜不到是我",
+    "premium": false,
+    "positive": true,
+    "id": 1931
+  }
+]

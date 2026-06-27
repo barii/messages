@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 355,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm Latina",
+    "premium": false,
+    "positive": true,
+    "id": 2478
+  },
+  {
+    "preset_id": 355,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Soy latina",
+    "premium": false,
+    "positive": true,
+    "id": 2479
+  },
+  {
+    "preset_id": 355,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin Latina",
+    "premium": false,
+    "positive": true,
+    "id": 2480
+  },
+  {
+    "preset_id": 355,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Sou latina",
+    "premium": false,
+    "positive": true,
+    "id": 2481
+  },
+  {
+    "preset_id": 355,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem Latina",
+    "premium": false,
+    "positive": true,
+    "id": 2482
+  },
+  {
+    "preset_id": 355,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я латина",
+    "premium": false,
+    "positive": true,
+    "id": 2483
+  },
+  {
+    "preset_id": 355,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我是拉丁裔",
+    "premium": false,
+    "positive": true,
+    "id": 2484
+  }
+]

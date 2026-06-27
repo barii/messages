@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1654,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Adorable.",
+    "premium": false,
+    "positive": true,
+    "id": 11571
+  },
+  {
+    "preset_id": 1654,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Adorable.",
+    "premium": false,
+    "positive": true,
+    "id": 11572
+  },
+  {
+    "preset_id": 1654,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Goldig.",
+    "premium": false,
+    "positive": true,
+    "id": 11573
+  },
+  {
+    "preset_id": 1654,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Adorável.",
+    "premium": false,
+    "positive": true,
+    "id": 11574
+  },
+  {
+    "preset_id": 1654,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Urocze.",
+    "premium": false,
+    "positive": true,
+    "id": 11575
+  },
+  {
+    "preset_id": 1654,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Очаровательно.",
+    "premium": false,
+    "positive": true,
+    "id": 11576
+  },
+  {
+    "preset_id": 1654,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "可爱啊。",
+    "premium": false,
+    "positive": true,
+    "id": 11577
+  }
+]

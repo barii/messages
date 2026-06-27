@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1409,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "No threat at all.",
+    "premium": false,
+    "positive": true,
+    "id": 9856
+  },
+  {
+    "preset_id": 1409,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Ninguna amenaza en absoluto.",
+    "premium": false,
+    "positive": true,
+    "id": 9857
+  },
+  {
+    "preset_id": 1409,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Überhaupt keine Bedrohung.",
+    "premium": false,
+    "positive": true,
+    "id": 9858
+  },
+  {
+    "preset_id": 1409,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Nenhuma ameaça.",
+    "premium": false,
+    "positive": true,
+    "id": 9859
+  },
+  {
+    "preset_id": 1409,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Żadnego zagrożenia w ogóle.",
+    "premium": false,
+    "positive": true,
+    "id": 9860
+  },
+  {
+    "preset_id": 1409,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Никакой угрозы.",
+    "premium": false,
+    "positive": true,
+    "id": 9861
+  },
+  {
+    "preset_id": 1409,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "毫无威胁。",
+    "premium": false,
+    "positive": true,
+    "id": 9862
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1528,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "We're so much better than you.",
+    "premium": false,
+    "positive": true,
+    "id": 10689
+  },
+  {
+    "preset_id": 1528,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Somos mucho mejores que vosotros.",
+    "premium": false,
+    "positive": true,
+    "id": 10690
+  },
+  {
+    "preset_id": 1528,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Wir sind viel besser als ihr.",
+    "premium": false,
+    "positive": true,
+    "id": 10691
+  },
+  {
+    "preset_id": 1528,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Somos muito melhores que vocês.",
+    "premium": false,
+    "positive": true,
+    "id": 10692
+  },
+  {
+    "preset_id": 1528,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Jesteśmy o wiele lepsi od was.",
+    "premium": false,
+    "positive": true,
+    "id": 10693
+  },
+  {
+    "preset_id": 1528,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Мы намного лучше вас.",
+    "premium": false,
+    "positive": true,
+    "id": 10694
+  },
+  {
+    "preset_id": 1528,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "我们比你们好太多了。",
+    "premium": false,
+    "positive": true,
+    "id": 10695
+  }
+]

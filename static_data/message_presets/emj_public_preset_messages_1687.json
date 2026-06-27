@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1687,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Better call your mom, you struck out!",
+    "premium": true,
+    "positive": true,
+    "id": 11802
+  },
+  {
+    "preset_id": 1687,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Better call your mom, you struck out!",
+    "premium": true,
+    "positive": true,
+    "id": 11803
+  },
+  {
+    "preset_id": 1687,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Better call your mom, you struck out!",
+    "premium": true,
+    "positive": true,
+    "id": 11804
+  },
+  {
+    "preset_id": 1687,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Better call your mom, you struck out!",
+    "premium": true,
+    "positive": true,
+    "id": 11805
+  },
+  {
+    "preset_id": 1687,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Better call your mom, you struck out!",
+    "premium": true,
+    "positive": true,
+    "id": 11806
+  },
+  {
+    "preset_id": 1687,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Better call your mom, you struck out!",
+    "premium": true,
+    "positive": true,
+    "id": 11807
+  },
+  {
+    "preset_id": 1687,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Better call your mom, you struck out!",
+    "premium": true,
+    "positive": true,
+    "id": 11808
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 3052,
+    "preset_id": 436,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "EN",
+    "category": "Scottish Football Teams",
+    "text": "Motherwell",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3053,
+    "preset_id": 436,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Escoceses",
+    "text": "Motherwell",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3054,
+    "preset_id": 436,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "DE",
+    "category": "Schottische Fußballmannschaften",
+    "text": "Motherwell",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3055,
+    "preset_id": 436,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "PL",
+    "category": "Szkockie drużyny piłkarskie",
+    "text": "Motherwell",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3056,
+    "preset_id": 436,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "RU",
+    "category": "Шотландские футбольные команды",
+    "text": "Motherwell",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3057,
+    "preset_id": 436,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "PT",
+    "category": "Times de futebol escoceses",
+    "text": "Motherwell",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3058,
+    "preset_id": 436,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "CN",
+    "category": "苏格兰足球队",
+    "text": "Motherwell",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  }
+]

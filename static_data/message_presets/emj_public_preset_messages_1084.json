@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1084,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "We're in this together",
+    "premium": false,
+    "positive": true,
+    "id": 7581
+  },
+  {
+    "preset_id": 1084,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Estamos juntos en esto",
+    "premium": false,
+    "positive": true,
+    "id": 7582
+  },
+  {
+    "preset_id": 1084,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Wir sind zusammen in diesem",
+    "premium": false,
+    "positive": true,
+    "id": 7583
+  },
+  {
+    "preset_id": 1084,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Estamos juntos nisto",
+    "premium": false,
+    "positive": true,
+    "id": 7584
+  },
+  {
+    "preset_id": 1084,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Jesteśmy w tym razem",
+    "premium": false,
+    "positive": true,
+    "id": 7585
+  },
+  {
+    "preset_id": 1084,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Мы в этом вместе",
+    "premium": false,
+    "positive": true,
+    "id": 7586
+  },
+  {
+    "preset_id": 1084,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "我们一起在这里",
+    "premium": false,
+    "positive": true,
+    "id": 7587
+  }
+]

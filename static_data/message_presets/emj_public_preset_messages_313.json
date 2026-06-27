@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 313,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I miss the way things were",
+    "premium": false,
+    "positive": true,
+    "id": 2184
+  },
+  {
+    "preset_id": 313,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Extraño cómo eran las cosas",
+    "premium": false,
+    "positive": true,
+    "id": 2185
+  },
+  {
+    "preset_id": 313,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich vermisse, wie die Dinge waren",
+    "premium": false,
+    "positive": true,
+    "id": 2186
+  },
+  {
+    "preset_id": 313,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Tenho saudades de como as coisas eram",
+    "premium": false,
+    "positive": true,
+    "id": 2187
+  },
+  {
+    "preset_id": 313,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Tęsknię za tym, jak było",
+    "premium": false,
+    "positive": true,
+    "id": 2188
+  },
+  {
+    "preset_id": 313,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я скучаю по тому, как было",
+    "premium": false,
+    "positive": true,
+    "id": 2189
+  },
+  {
+    "preset_id": 313,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我想念过去的样子",
+    "premium": false,
+    "positive": true,
+    "id": 2190
+  }
+]

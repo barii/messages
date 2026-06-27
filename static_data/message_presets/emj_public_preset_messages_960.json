@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 960,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Talk to them about it",
+    "premium": false,
+    "positive": true,
+    "id": 6713
+  },
+  {
+    "preset_id": 960,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Habla con ellos sobre esto",
+    "premium": false,
+    "positive": true,
+    "id": 6714
+  },
+  {
+    "preset_id": 960,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Sprich mit ihnen darüber",
+    "premium": false,
+    "positive": true,
+    "id": 6715
+  },
+  {
+    "preset_id": 960,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Fala com eles sobre isto",
+    "premium": false,
+    "positive": true,
+    "id": 6716
+  },
+  {
+    "preset_id": 960,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Porozmawiaj z nimi o tym",
+    "premium": false,
+    "positive": true,
+    "id": 6717
+  },
+  {
+    "preset_id": 960,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Поговори с ними об этом",
+    "premium": false,
+    "positive": true,
+    "id": 6718
+  },
+  {
+    "preset_id": 960,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "和他们谈谈",
+    "premium": false,
+    "positive": true,
+    "id": 6719
+  }
+]

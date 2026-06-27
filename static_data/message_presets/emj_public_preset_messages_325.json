@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 325,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm not always great at communicating",
+    "premium": false,
+    "positive": true,
+    "id": 2268
+  },
+  {
+    "preset_id": 325,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "No siempre soy bueno comunicándome",
+    "premium": false,
+    "positive": true,
+    "id": 2269
+  },
+  {
+    "preset_id": 325,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin nicht immer gut in Kommunikation",
+    "premium": false,
+    "positive": true,
+    "id": 2270
+  },
+  {
+    "preset_id": 325,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Nem sempre sou bom a comunicar",
+    "premium": false,
+    "positive": true,
+    "id": 2271
+  },
+  {
+    "preset_id": 325,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Nie zawsze jestem dobry w komunikacji",
+    "premium": false,
+    "positive": true,
+    "id": 2272
+  },
+  {
+    "preset_id": 325,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я не всегда хорош в коммуникации",
+    "premium": false,
+    "positive": true,
+    "id": 2273
+  },
+  {
+    "preset_id": 325,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我不总是擅长沟通",
+    "premium": false,
+    "positive": true,
+    "id": 2274
+  }
+]

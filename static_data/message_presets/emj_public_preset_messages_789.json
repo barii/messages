@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 789,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "You did that",
+    "premium": false,
+    "positive": true,
+    "id": 5516
+  },
+  {
+    "preset_id": 789,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Lo lograste",
+    "premium": false,
+    "positive": true,
+    "id": 5517
+  },
+  {
+    "preset_id": 789,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Du hast es geschafft",
+    "premium": false,
+    "positive": true,
+    "id": 5518
+  },
+  {
+    "preset_id": 789,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Conseguiste",
+    "premium": false,
+    "positive": true,
+    "id": 5519
+  },
+  {
+    "preset_id": 789,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Zrobiłeś to",
+    "premium": false,
+    "positive": true,
+    "id": 5520
+  },
+  {
+    "preset_id": 789,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Ты сделал это",
+    "premium": false,
+    "positive": true,
+    "id": 5521
+  },
+  {
+    "preset_id": 789,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "你成功了",
+    "premium": false,
+    "positive": true,
+    "id": 5522
+  }
+]

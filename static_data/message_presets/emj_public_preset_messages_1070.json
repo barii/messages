@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1070,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "What a great team effort",
+    "premium": false,
+    "positive": true,
+    "id": 7483
+  },
+  {
+    "preset_id": 1070,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Qué gran trabajo en equipo",
+    "premium": false,
+    "positive": true,
+    "id": 7484
+  },
+  {
+    "preset_id": 1070,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Was für eine tolle Teamleistung",
+    "premium": false,
+    "positive": true,
+    "id": 7485
+  },
+  {
+    "preset_id": 1070,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Que ótimo trabalho de equipa",
+    "premium": false,
+    "positive": true,
+    "id": 7486
+  },
+  {
+    "preset_id": 1070,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Co za świetna praca zespołowa",
+    "premium": false,
+    "positive": true,
+    "id": 7487
+  },
+  {
+    "preset_id": 1070,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Какая отличная командная работа",
+    "premium": false,
+    "positive": true,
+    "id": 7488
+  },
+  {
+    "preset_id": 1070,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "多么棒的团队合作",
+    "premium": false,
+    "positive": true,
+    "id": 7489
+  }
+]

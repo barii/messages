@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 946,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Cut off anyone who isn't adding to your life",
+    "premium": false,
+    "positive": true,
+    "id": 6615
+  },
+  {
+    "preset_id": 946,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Aleja a quien no aporte a tu vida",
+    "premium": false,
+    "positive": true,
+    "id": 6616
+  },
+  {
+    "preset_id": 946,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Schneide jeden ab, der nichts zu deinem Leben beiträgt",
+    "premium": false,
+    "positive": true,
+    "id": 6617
+  },
+  {
+    "preset_id": 946,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Corta quem não está a acrescentar à tua vida",
+    "premium": false,
+    "positive": true,
+    "id": 6618
+  },
+  {
+    "preset_id": 946,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Odetnij każdego, kto nie wnosi do twojego życia",
+    "premium": false,
+    "positive": true,
+    "id": 6619
+  },
+  {
+    "preset_id": 946,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Отрежь любого, кто ничего не добавляет в твою жизнь",
+    "premium": false,
+    "positive": true,
+    "id": 6620
+  },
+  {
+    "preset_id": 946,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "切断任何不为你的生活增添价值的人",
+    "premium": false,
+    "positive": true,
+    "id": 6621
+  }
+]

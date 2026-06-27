@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 877,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "Can I take you on a date?",
+    "premium": false,
+    "positive": true,
+    "id": 6132
+  },
+  {
+    "preset_id": 877,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "¿Te puedo invitar a una cita?",
+    "premium": false,
+    "positive": true,
+    "id": 6133
+  },
+  {
+    "preset_id": 877,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Darf ich dich auf ein Date einladen?",
+    "premium": false,
+    "positive": true,
+    "id": 6134
+  },
+  {
+    "preset_id": 877,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Posso convidar-te para sair?",
+    "premium": false,
+    "positive": true,
+    "id": 6135
+  },
+  {
+    "preset_id": 877,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Mogę zaprosić cię na randkę?",
+    "premium": false,
+    "positive": true,
+    "id": 6136
+  },
+  {
+    "preset_id": 877,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Можно пригласить тебя на свидание?",
+    "premium": false,
+    "positive": true,
+    "id": 6137
+  },
+  {
+    "preset_id": 877,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我能约你出去吗?",
+    "premium": false,
+    "positive": true,
+    "id": 6138
+  }
+]

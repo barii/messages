@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1009,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You need to look at how you treat people",
+    "premium": false,
+    "positive": true,
+    "id": 7056
+  },
+  {
+    "preset_id": 1009,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Necesitas mirar cómo tratas a la gente",
+    "premium": false,
+    "positive": true,
+    "id": 7057
+  },
+  {
+    "preset_id": 1009,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du musst dir anschauen, wie du Menschen behandelst",
+    "premium": false,
+    "positive": true,
+    "id": 7058
+  },
+  {
+    "preset_id": 1009,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Tens de ver como tratas as pessoas",
+    "premium": false,
+    "positive": true,
+    "id": 7059
+  },
+  {
+    "preset_id": 1009,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Musisz się zastanowić nad tym, jak traktujesz ludzi",
+    "premium": false,
+    "positive": true,
+    "id": 7060
+  },
+  {
+    "preset_id": 1009,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Тебе нужно посмотреть, как ты относишься к людям",
+    "premium": false,
+    "positive": true,
+    "id": 7061
+  },
+  {
+    "preset_id": 1009,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你需要看看你怎么对待别人",
+    "premium": false,
+    "positive": true,
+    "id": 7062
+  }
+]

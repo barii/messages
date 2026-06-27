@@ -1,0 +1,86 @@
+[
+  {
+    "id": 2807,
+    "preset_id": 401,
+    "cat_emoji": "🇭🇺",
+    "lang": "EN",
+    "category": "Hungarian Football Teams",
+    "text": "Debrecen",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2808,
+    "preset_id": 401,
+    "cat_emoji": "🇭🇺",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Húngaros",
+    "text": "Debrecen",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2809,
+    "preset_id": 401,
+    "cat_emoji": "🇭🇺",
+    "lang": "DE",
+    "category": "Ungarische Fußballmannschaften",
+    "text": "Debrecen",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2810,
+    "preset_id": 401,
+    "cat_emoji": "🇭🇺",
+    "lang": "PL",
+    "category": "Węgierskie drużyny piłkarskie",
+    "text": "Debrecen",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2811,
+    "preset_id": 401,
+    "cat_emoji": "🇭🇺",
+    "lang": "RU",
+    "category": "Венгерские футбольные команды",
+    "text": "Debrecen",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2812,
+    "preset_id": 401,
+    "cat_emoji": "🇭🇺",
+    "lang": "PT",
+    "category": "Times de futebol húngaros",
+    "text": "Debrecen",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2813,
+    "preset_id": 401,
+    "cat_emoji": "🇭🇺",
+    "lang": "CN",
+    "category": "匈牙利足球队",
+    "text": "Debrecen",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇺",
+    "continent": "European"
+  }
+]

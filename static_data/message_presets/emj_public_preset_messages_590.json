@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 590,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I'm joking",
+    "premium": false,
+    "positive": true,
+    "id": 4123
+  },
+  {
+    "preset_id": 590,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Estoy bromeando",
+    "premium": false,
+    "positive": true,
+    "id": 4124
+  },
+  {
+    "preset_id": 590,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ich mache Witze",
+    "premium": false,
+    "positive": true,
+    "id": 4125
+  },
+  {
+    "preset_id": 590,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Estou a brincar",
+    "premium": false,
+    "positive": true,
+    "id": 4126
+  },
+  {
+    "preset_id": 590,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Żartuję",
+    "premium": false,
+    "positive": true,
+    "id": 4127
+  },
+  {
+    "preset_id": 590,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Я шучу",
+    "premium": false,
+    "positive": true,
+    "id": 4128
+  },
+  {
+    "preset_id": 590,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我在开玩笑",
+    "premium": false,
+    "positive": true,
+    "id": 4129
+  }
+]

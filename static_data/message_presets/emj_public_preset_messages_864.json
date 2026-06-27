@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 864,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You're hot",
+    "premium": false,
+    "positive": true,
+    "id": 6041
+  },
+  {
+    "preset_id": 864,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Estás bueno",
+    "premium": false,
+    "positive": true,
+    "id": 6042
+  },
+  {
+    "preset_id": 864,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Du bist heiß",
+    "premium": false,
+    "positive": true,
+    "id": 6043
+  },
+  {
+    "preset_id": 864,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "És bom",
+    "premium": false,
+    "positive": true,
+    "id": 6044
+  },
+  {
+    "preset_id": 864,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Jesteś gorący",
+    "premium": false,
+    "positive": true,
+    "id": 6045
+  },
+  {
+    "preset_id": 864,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты горячий",
+    "premium": false,
+    "positive": true,
+    "id": 6046
+  },
+  {
+    "preset_id": 864,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你很性感",
+    "premium": false,
+    "positive": true,
+    "id": 6047
+  }
+]

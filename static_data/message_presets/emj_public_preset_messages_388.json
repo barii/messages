@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 388,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "Fitness isn't my thing",
+    "premium": false,
+    "positive": true,
+    "id": 2709
+  },
+  {
+    "preset_id": 388,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "El fitness no es lo mío",
+    "premium": false,
+    "positive": true,
+    "id": 2710
+  },
+  {
+    "preset_id": 388,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Fitness ist nicht mein Ding",
+    "premium": false,
+    "positive": true,
+    "id": 2711
+  },
+  {
+    "preset_id": 388,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Fitness não é a minha praia",
+    "premium": false,
+    "positive": true,
+    "id": 2712
+  },
+  {
+    "preset_id": 388,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Fitness to nie moja działka",
+    "premium": false,
+    "positive": true,
+    "id": 2713
+  },
+  {
+    "preset_id": 388,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Фитнес - не моё",
+    "premium": false,
+    "positive": true,
+    "id": 2714
+  },
+  {
+    "preset_id": 388,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "健身不是我的菜",
+    "premium": false,
+    "positive": true,
+    "id": 2715
+  }
+]

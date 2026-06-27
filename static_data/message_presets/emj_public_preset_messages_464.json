@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 464,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Makes sense",
+    "premium": false,
+    "positive": true,
+    "id": 3241
+  },
+  {
+    "preset_id": 464,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Tiene sentido",
+    "premium": false,
+    "positive": true,
+    "id": 3242
+  },
+  {
+    "preset_id": 464,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Macht Sinn",
+    "premium": false,
+    "positive": true,
+    "id": 3243
+  },
+  {
+    "preset_id": 464,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Faz sentido",
+    "premium": false,
+    "positive": true,
+    "id": 3244
+  },
+  {
+    "preset_id": 464,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Ma sens",
+    "premium": false,
+    "positive": true,
+    "id": 3245
+  },
+  {
+    "preset_id": 464,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Имеет смысл",
+    "premium": false,
+    "positive": true,
+    "id": 3246
+  },
+  {
+    "preset_id": 464,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "有道理",
+    "premium": false,
+    "positive": true,
+    "id": 3247
+  }
+]

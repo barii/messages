@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 385,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm not really a reader",
+    "premium": false,
+    "positive": true,
+    "id": 2688
+  },
+  {
+    "preset_id": 385,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "No soy muy lector",
+    "premium": false,
+    "positive": true,
+    "id": 2689
+  },
+  {
+    "preset_id": 385,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin nicht wirklich ein Leser",
+    "premium": false,
+    "positive": true,
+    "id": 2690
+  },
+  {
+    "preset_id": 385,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Não sou muito leitor",
+    "premium": false,
+    "positive": true,
+    "id": 2691
+  },
+  {
+    "preset_id": 385,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Nie jestem zbytnio czytelnikiem",
+    "premium": false,
+    "positive": true,
+    "id": 2692
+  },
+  {
+    "preset_id": 385,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я не особо читатель",
+    "premium": false,
+    "positive": true,
+    "id": 2693
+  },
+  {
+    "preset_id": 385,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我不太是个读者",
+    "premium": false,
+    "positive": true,
+    "id": 2694
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1642,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Going down, going down.",
+    "premium": true,
+    "positive": true,
+    "id": 11487
+  },
+  {
+    "preset_id": 1642,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "A segunda, a segunda.",
+    "premium": true,
+    "positive": true,
+    "id": 11488
+  },
+  {
+    "preset_id": 1642,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Geht runter, geht runter.",
+    "premium": true,
+    "positive": true,
+    "id": 11489
+  },
+  {
+    "preset_id": 1642,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Vão descer, vão descer.",
+    "premium": true,
+    "positive": true,
+    "id": 11490
+  },
+  {
+    "preset_id": 1642,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Spadacie, spadacie.",
+    "premium": true,
+    "positive": true,
+    "id": 11491
+  },
+  {
+    "preset_id": 1642,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Вылетаете, вылетаете.",
+    "premium": true,
+    "positive": true,
+    "id": 11492
+  },
+  {
+    "preset_id": 1642,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "降级,降级。",
+    "premium": true,
+    "positive": true,
+    "id": 11493
+  }
+]

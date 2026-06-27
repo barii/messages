@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1734,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "You call that a dunk?",
+    "premium": false,
+    "positive": true,
+    "id": 12131
+  },
+  {
+    "preset_id": 1734,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "You call that a dunk?",
+    "premium": false,
+    "positive": true,
+    "id": 12132
+  },
+  {
+    "preset_id": 1734,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "You call that a dunk?",
+    "premium": false,
+    "positive": true,
+    "id": 12133
+  },
+  {
+    "preset_id": 1734,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "You call that a dunk?",
+    "premium": false,
+    "positive": true,
+    "id": 12134
+  },
+  {
+    "preset_id": 1734,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "You call that a dunk?",
+    "premium": false,
+    "positive": true,
+    "id": 12135
+  },
+  {
+    "preset_id": 1734,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "You call that a dunk?",
+    "premium": false,
+    "positive": true,
+    "id": 12136
+  },
+  {
+    "preset_id": 1734,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "You call that a dunk?",
+    "premium": false,
+    "positive": true,
+    "id": 12137
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1090,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Sending you strength",
+    "premium": false,
+    "positive": true,
+    "id": 7623
+  },
+  {
+    "preset_id": 1090,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Te mando fuerza",
+    "premium": false,
+    "positive": true,
+    "id": 7624
+  },
+  {
+    "preset_id": 1090,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Sende dir Stärke",
+    "premium": false,
+    "positive": true,
+    "id": 7625
+  },
+  {
+    "preset_id": 1090,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "A mandar-te força",
+    "premium": false,
+    "positive": true,
+    "id": 7626
+  },
+  {
+    "preset_id": 1090,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Wysyłam ci siłę",
+    "premium": false,
+    "positive": true,
+    "id": 7627
+  },
+  {
+    "preset_id": 1090,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Шлю тебе силы",
+    "premium": false,
+    "positive": true,
+    "id": 7628
+  },
+  {
+    "preset_id": 1090,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "给你送上力量",
+    "premium": false,
+    "positive": true,
+    "id": 7629
+  }
+]

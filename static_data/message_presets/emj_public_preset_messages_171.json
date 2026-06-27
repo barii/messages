@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 171,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Do you have a minute?",
+    "premium": false,
+    "positive": true,
+    "id": 1190
+  },
+  {
+    "preset_id": 171,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Tienes un minuto?",
+    "premium": false,
+    "positive": true,
+    "id": 1191
+  },
+  {
+    "preset_id": 171,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Hast du eine Minute?",
+    "premium": false,
+    "positive": true,
+    "id": 1192
+  },
+  {
+    "preset_id": 171,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Tens um minuto?",
+    "premium": false,
+    "positive": true,
+    "id": 1193
+  },
+  {
+    "preset_id": 171,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Masz chwilę?",
+    "premium": false,
+    "positive": true,
+    "id": 1194
+  },
+  {
+    "preset_id": 171,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "У тебя есть минута?",
+    "premium": false,
+    "positive": true,
+    "id": 1195
+  },
+  {
+    "preset_id": 171,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你有一分钟吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1196
+  }
+]

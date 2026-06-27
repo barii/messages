@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 58,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "There's no one like you",
+    "premium": false,
+    "positive": true,
+    "id": 399
+  },
+  {
+    "preset_id": 58,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "No hay nadie como tú",
+    "premium": false,
+    "positive": true,
+    "id": 400
+  },
+  {
+    "preset_id": 58,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Es gibt niemanden wie dich",
+    "premium": false,
+    "positive": true,
+    "id": 401
+  },
+  {
+    "preset_id": 58,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Não há ninguém como tu",
+    "premium": false,
+    "positive": true,
+    "id": 402
+  },
+  {
+    "preset_id": 58,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Nie ma nikogo takiego jak ty",
+    "premium": false,
+    "positive": true,
+    "id": 403
+  },
+  {
+    "preset_id": 58,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Нет никого, как ты",
+    "premium": false,
+    "positive": true,
+    "id": 404
+  },
+  {
+    "preset_id": 58,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "没有人像你",
+    "premium": false,
+    "positive": true,
+    "id": 405
+  }
+]

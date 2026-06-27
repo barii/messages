@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1165,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "You're my Valentine whether you like it or not",
+    "premium": false,
+    "positive": true,
+    "id": 8148
+  },
+  {
+    "preset_id": 1165,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Eres mi San Valentín, te guste o no",
+    "premium": false,
+    "positive": true,
+    "id": 8149
+  },
+  {
+    "preset_id": 1165,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Du bist mein Valentin, ob es dir gefällt oder nicht",
+    "premium": false,
+    "positive": true,
+    "id": 8150
+  },
+  {
+    "preset_id": 1165,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "És o meu Valentine queiras ou não",
+    "premium": false,
+    "positive": true,
+    "id": 8151
+  },
+  {
+    "preset_id": 1165,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Jesteś moim Walentym, czy ci się to podoba czy nie",
+    "premium": false,
+    "positive": true,
+    "id": 8152
+  },
+  {
+    "preset_id": 1165,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "Ты мой Валентин, нравится тебе это или нет",
+    "premium": false,
+    "positive": true,
+    "id": 8153
+  },
+  {
+    "preset_id": 1165,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "不管你愿不愿意,你都是我的情人",
+    "premium": false,
+    "positive": true,
+    "id": 8154
+  }
+]

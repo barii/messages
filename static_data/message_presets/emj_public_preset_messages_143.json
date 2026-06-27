@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 143,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you busy?",
+    "premium": false,
+    "positive": true,
+    "id": 994
+  },
+  {
+    "preset_id": 143,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Estás ocupado?",
+    "premium": false,
+    "positive": true,
+    "id": 995
+  },
+  {
+    "preset_id": 143,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du beschäftigt?",
+    "premium": false,
+    "positive": true,
+    "id": 996
+  },
+  {
+    "preset_id": 143,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás ocupado?",
+    "premium": false,
+    "positive": true,
+    "id": 997
+  },
+  {
+    "preset_id": 143,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jesteś zajęty?",
+    "premium": false,
+    "positive": true,
+    "id": 998
+  },
+  {
+    "preset_id": 143,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты занят?",
+    "premium": false,
+    "positive": true,
+    "id": 999
+  },
+  {
+    "preset_id": 143,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你忙吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1000
+  }
+]

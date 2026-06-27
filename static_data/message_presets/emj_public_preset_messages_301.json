@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 301,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I've been lonely lately",
+    "premium": false,
+    "positive": true,
+    "id": 2100
+  },
+  {
+    "preset_id": 301,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Me he sentido solo últimamente",
+    "premium": false,
+    "positive": true,
+    "id": 2101
+  },
+  {
+    "preset_id": 301,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich war in letzter Zeit einsam",
+    "premium": false,
+    "positive": true,
+    "id": 2102
+  },
+  {
+    "preset_id": 301,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Tenho-me sentido sozinho ultimamente",
+    "premium": false,
+    "positive": true,
+    "id": 2103
+  },
+  {
+    "preset_id": 301,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Ostatnio czuję się samotny",
+    "premium": false,
+    "positive": true,
+    "id": 2104
+  },
+  {
+    "preset_id": 301,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Мне в последнее время одиноко",
+    "premium": false,
+    "positive": true,
+    "id": 2105
+  },
+  {
+    "preset_id": 301,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我最近感到孤独",
+    "premium": false,
+    "positive": true,
+    "id": 2106
+  }
+]

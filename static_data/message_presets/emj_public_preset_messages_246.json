@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 246,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We met online",
+    "premium": false,
+    "positive": true,
+    "id": 1715
+  },
+  {
+    "preset_id": 246,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Nos conocimos online",
+    "premium": false,
+    "positive": true,
+    "id": 1716
+  },
+  {
+    "preset_id": 246,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir haben uns online kennengelernt",
+    "premium": false,
+    "positive": true,
+    "id": 1717
+  },
+  {
+    "preset_id": 246,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Conhecemo-nos online",
+    "premium": false,
+    "positive": true,
+    "id": 1718
+  },
+  {
+    "preset_id": 246,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Poznaliśmy się online",
+    "premium": false,
+    "positive": true,
+    "id": 1719
+  },
+  {
+    "preset_id": 246,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы познакомились онлайн",
+    "premium": false,
+    "positive": true,
+    "id": 1720
+  },
+  {
+    "preset_id": 246,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们网上认识",
+    "premium": false,
+    "positive": true,
+    "id": 1721
+  }
+]

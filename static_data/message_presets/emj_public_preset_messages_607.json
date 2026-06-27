@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 607,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "That's fair, actually",
+    "premium": false,
+    "positive": true,
+    "id": 4242
+  },
+  {
+    "preset_id": 607,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "La verdad, es justo",
+    "premium": false,
+    "positive": true,
+    "id": 4243
+  },
+  {
+    "preset_id": 607,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Das ist fair, ehrlich gesagt",
+    "premium": false,
+    "positive": true,
+    "id": 4244
+  },
+  {
+    "preset_id": 607,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Tens razão, na verdade",
+    "premium": false,
+    "positive": true,
+    "id": 4245
+  },
+  {
+    "preset_id": 607,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "To sprawiedliwe, właściwie",
+    "premium": false,
+    "positive": true,
+    "id": 4246
+  },
+  {
+    "preset_id": 607,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Это справедливо, честно",
+    "premium": false,
+    "positive": true,
+    "id": 4247
+  },
+  {
+    "preset_id": 607,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "其实公平",
+    "premium": false,
+    "positive": true,
+    "id": 4248
+  }
+]

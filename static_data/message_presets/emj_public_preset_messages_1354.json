@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1354,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Act like you've been here before.",
+    "premium": false,
+    "positive": true,
+    "id": 9471
+  },
+  {
+    "preset_id": 1354,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Actuad como si ya hubierais estado aquí antes.",
+    "premium": false,
+    "positive": true,
+    "id": 9472
+  },
+  {
+    "preset_id": 1354,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Benehmt euch, als wärt ihr schon mal hier gewesen.",
+    "premium": false,
+    "positive": true,
+    "id": 9473
+  },
+  {
+    "preset_id": 1354,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Ajam como se já cá tivessem estado antes.",
+    "premium": false,
+    "positive": true,
+    "id": 9474
+  },
+  {
+    "preset_id": 1354,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Zachowujcie się, jakbyście już tu byli.",
+    "premium": false,
+    "positive": true,
+    "id": 9475
+  },
+  {
+    "preset_id": 1354,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Ведите себя так, как будто вы здесь уже были.",
+    "premium": false,
+    "positive": true,
+    "id": 9476
+  },
+  {
+    "preset_id": 1354,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "表现得像以前来过这里一样。",
+    "premium": false,
+    "positive": true,
+    "id": 9477
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1523,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "You can only dream of nights like ours.",
+    "premium": false,
+    "positive": true,
+    "id": 10654
+  },
+  {
+    "preset_id": 1523,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Solo podéis soñar con noches como las nuestras.",
+    "premium": false,
+    "positive": true,
+    "id": 10655
+  },
+  {
+    "preset_id": 1523,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Ihr könnt nur von Nächten wie unseren träumen.",
+    "premium": false,
+    "positive": true,
+    "id": 10656
+  },
+  {
+    "preset_id": 1523,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Só podem sonhar com noites como as nossas.",
+    "premium": false,
+    "positive": true,
+    "id": 10657
+  },
+  {
+    "preset_id": 1523,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Możecie tylko marzyć o nocach takich jak nasze.",
+    "premium": false,
+    "positive": true,
+    "id": 10658
+  },
+  {
+    "preset_id": 1523,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Вы можете только мечтать о ночах, как наши.",
+    "premium": false,
+    "positive": true,
+    "id": 10659
+  },
+  {
+    "preset_id": 1523,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "你们只能梦想着我们这样的夜晚。",
+    "premium": false,
+    "positive": true,
+    "id": 10660
+  }
+]

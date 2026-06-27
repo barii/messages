@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1002,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You disappear when people need you",
+    "premium": false,
+    "positive": true,
+    "id": 7007
+  },
+  {
+    "preset_id": 1002,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Desapareces cuando la gente te necesita",
+    "premium": false,
+    "positive": true,
+    "id": 7008
+  },
+  {
+    "preset_id": 1002,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du verschwindest, wenn Menschen dich brauchen",
+    "premium": false,
+    "positive": true,
+    "id": 7009
+  },
+  {
+    "preset_id": 1002,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Desapareces quando as pessoas precisam de ti",
+    "premium": false,
+    "positive": true,
+    "id": 7010
+  },
+  {
+    "preset_id": 1002,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Znikasz, gdy ludzie cię potrzebują",
+    "premium": false,
+    "positive": true,
+    "id": 7011
+  },
+  {
+    "preset_id": 1002,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты исчезаешь, когда людям нужен",
+    "premium": false,
+    "positive": true,
+    "id": 7012
+  },
+  {
+    "preset_id": 1002,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "人们需要你时你会消失",
+    "premium": false,
+    "positive": true,
+    "id": 7013
+  }
+]

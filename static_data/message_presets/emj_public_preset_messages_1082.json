@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1082,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Hang in there",
+    "premium": false,
+    "positive": true,
+    "id": 7567
+  },
+  {
+    "preset_id": 1082,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Resiste",
+    "premium": false,
+    "positive": true,
+    "id": 7568
+  },
+  {
+    "preset_id": 1082,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Halt durch",
+    "premium": false,
+    "positive": true,
+    "id": 7569
+  },
+  {
+    "preset_id": 1082,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Aguenta firme",
+    "premium": false,
+    "positive": true,
+    "id": 7570
+  },
+  {
+    "preset_id": 1082,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Wytrzymaj",
+    "premium": false,
+    "positive": true,
+    "id": 7571
+  },
+  {
+    "preset_id": 1082,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Держись",
+    "premium": false,
+    "positive": true,
+    "id": 7572
+  },
+  {
+    "preset_id": 1082,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "坚持住",
+    "premium": false,
+    "positive": true,
+    "id": 7573
+  }
+]

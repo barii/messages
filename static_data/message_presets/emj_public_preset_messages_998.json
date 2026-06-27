@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 998,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You're flaky",
+    "premium": false,
+    "positive": false,
+    "id": 6979
+  },
+  {
+    "preset_id": 998,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Eres poco confiable",
+    "premium": false,
+    "positive": false,
+    "id": 6980
+  },
+  {
+    "preset_id": 998,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du bist unzuverlässig",
+    "premium": false,
+    "positive": false,
+    "id": 6981
+  },
+  {
+    "preset_id": 998,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "És pouco fiável",
+    "premium": false,
+    "positive": false,
+    "id": 6982
+  },
+  {
+    "preset_id": 998,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Jesteś niewiarygodny",
+    "premium": false,
+    "positive": false,
+    "id": 6983
+  },
+  {
+    "preset_id": 998,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты ненадёжный",
+    "premium": false,
+    "positive": false,
+    "id": 6984
+  },
+  {
+    "preset_id": 998,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你不可靠",
+    "premium": false,
+    "positive": false,
+    "id": 6985
+  }
+]

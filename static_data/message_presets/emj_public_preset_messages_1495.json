@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1495,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We follow our team everywhere.",
+    "premium": false,
+    "positive": true,
+    "id": 10458
+  },
+  {
+    "preset_id": 1495,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Seguimos a nuestro equipo a todas partes.",
+    "premium": false,
+    "positive": true,
+    "id": 10459
+  },
+  {
+    "preset_id": 1495,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir folgen unserer Mannschaft überall hin.",
+    "premium": false,
+    "positive": true,
+    "id": 10460
+  },
+  {
+    "preset_id": 1495,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Seguimos a nossa equipa para todo o lado.",
+    "premium": false,
+    "positive": true,
+    "id": 10461
+  },
+  {
+    "preset_id": 1495,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Idziemy za naszą drużyną wszędzie.",
+    "premium": false,
+    "positive": true,
+    "id": 10462
+  },
+  {
+    "preset_id": 1495,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Мы следуем за командой везде.",
+    "premium": false,
+    "positive": true,
+    "id": 10463
+  },
+  {
+    "preset_id": 1495,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们跟着球队走遍天下。",
+    "premium": false,
+    "positive": true,
+    "id": 10464
+  }
+]

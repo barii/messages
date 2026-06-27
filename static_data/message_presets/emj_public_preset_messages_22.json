@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 22,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're stylish",
+    "premium": false,
+    "positive": true,
+    "id": 147
+  },
+  {
+    "preset_id": 22,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Tienes estilo",
+    "premium": false,
+    "positive": true,
+    "id": 148
+  },
+  {
+    "preset_id": 22,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist stylisch",
+    "premium": false,
+    "positive": true,
+    "id": 149
+  },
+  {
+    "preset_id": 22,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Tens estilo",
+    "premium": false,
+    "positive": true,
+    "id": 150
+  },
+  {
+    "preset_id": 22,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś stylowy",
+    "premium": false,
+    "positive": true,
+    "id": 151
+  },
+  {
+    "preset_id": 22,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты стильный",
+    "premium": false,
+    "positive": true,
+    "id": 152
+  },
+  {
+    "preset_id": 22,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你很时尚",
+    "premium": false,
+    "positive": true,
+    "id": 153
+  }
+]

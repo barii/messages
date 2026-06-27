@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1018,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Working with you is genuinely a pleasure",
+    "premium": false,
+    "positive": true,
+    "id": 7119
+  },
+  {
+    "preset_id": 1018,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Trabajar contigo es un verdadero placer",
+    "premium": false,
+    "positive": true,
+    "id": 7120
+  },
+  {
+    "preset_id": 1018,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Mit dir zu arbeiten ist wirklich ein Vergnügen",
+    "premium": false,
+    "positive": true,
+    "id": 7121
+  },
+  {
+    "preset_id": 1018,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Trabalhar contigo é mesmo um prazer",
+    "premium": false,
+    "positive": true,
+    "id": 7122
+  },
+  {
+    "preset_id": 1018,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Praca z tobą jest naprawdę przyjemnością",
+    "premium": false,
+    "positive": true,
+    "id": 7123
+  },
+  {
+    "preset_id": 1018,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Работать с тобой - искреннее удовольствие",
+    "premium": false,
+    "positive": true,
+    "id": 7124
+  },
+  {
+    "preset_id": 1018,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "和你一起工作真的很愉快",
+    "premium": false,
+    "positive": true,
+    "id": 7125
+  }
+]

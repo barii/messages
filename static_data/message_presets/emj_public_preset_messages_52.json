@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 52,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "Glad you're in my life",
+    "premium": false,
+    "positive": true,
+    "id": 357
+  },
+  {
+    "preset_id": 52,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Me alegra que estés en mi vida",
+    "premium": false,
+    "positive": true,
+    "id": 358
+  },
+  {
+    "preset_id": 52,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Froh, dass du in meinem Leben bist",
+    "premium": false,
+    "positive": true,
+    "id": 359
+  },
+  {
+    "preset_id": 52,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Fico feliz por estares na minha vida",
+    "premium": false,
+    "positive": true,
+    "id": 360
+  },
+  {
+    "preset_id": 52,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Cieszę się, że jesteś w moim życiu",
+    "premium": false,
+    "positive": true,
+    "id": 361
+  },
+  {
+    "preset_id": 52,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Рад, что ты в моей жизни",
+    "premium": false,
+    "positive": true,
+    "id": 362
+  },
+  {
+    "preset_id": 52,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "很高兴你在我的生活中",
+    "premium": false,
+    "positive": true,
+    "id": 363
+  }
+]

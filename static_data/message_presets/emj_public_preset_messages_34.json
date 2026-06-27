@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 34,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're unstoppable",
+    "premium": false,
+    "positive": true,
+    "id": 231
+  },
+  {
+    "preset_id": 34,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres imparable",
+    "premium": false,
+    "positive": true,
+    "id": 232
+  },
+  {
+    "preset_id": 34,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist unaufhaltsam",
+    "premium": false,
+    "positive": true,
+    "id": 233
+  },
+  {
+    "preset_id": 34,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És imparável",
+    "premium": false,
+    "positive": true,
+    "id": 234
+  },
+  {
+    "preset_id": 34,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś nie do zatrzymania",
+    "premium": false,
+    "positive": true,
+    "id": 235
+  },
+  {
+    "preset_id": 34,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты неудержим",
+    "premium": false,
+    "positive": true,
+    "id": 236
+  },
+  {
+    "preset_id": 34,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你势不可挡",
+    "premium": false,
+    "positive": true,
+    "id": 237
+  }
+]

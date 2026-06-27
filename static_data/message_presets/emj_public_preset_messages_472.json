@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 472,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I said what I said",
+    "premium": false,
+    "positive": true,
+    "id": 3297
+  },
+  {
+    "preset_id": 472,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Dije lo que dije",
+    "premium": false,
+    "positive": true,
+    "id": 3298
+  },
+  {
+    "preset_id": 472,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ich habe gesagt, was ich gesagt habe",
+    "premium": false,
+    "positive": true,
+    "id": 3299
+  },
+  {
+    "preset_id": 472,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Disse o que disse",
+    "premium": false,
+    "positive": true,
+    "id": 3300
+  },
+  {
+    "preset_id": 472,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Powiedziałem, co powiedziałem",
+    "premium": false,
+    "positive": true,
+    "id": 3301
+  },
+  {
+    "preset_id": 472,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Сказал что сказал",
+    "premium": false,
+    "positive": true,
+    "id": 3302
+  },
+  {
+    "preset_id": 472,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我说了我说的",
+    "premium": false,
+    "positive": true,
+    "id": 3303
+  }
+]

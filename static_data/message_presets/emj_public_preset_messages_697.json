@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 697,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "You're welcome",
+    "premium": false,
+    "positive": true,
+    "id": 4872
+  },
+  {
+    "preset_id": 697,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "De nada",
+    "premium": false,
+    "positive": true,
+    "id": 4873
+  },
+  {
+    "preset_id": 697,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Gern geschehen",
+    "premium": false,
+    "positive": true,
+    "id": 4874
+  },
+  {
+    "preset_id": 697,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "De nada",
+    "premium": false,
+    "positive": true,
+    "id": 4875
+  },
+  {
+    "preset_id": 697,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Proszę bardzo",
+    "premium": false,
+    "positive": true,
+    "id": 4876
+  },
+  {
+    "preset_id": 697,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Пожалуйста",
+    "premium": false,
+    "positive": true,
+    "id": 4877
+  },
+  {
+    "preset_id": 697,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "不客气",
+    "premium": false,
+    "positive": true,
+    "id": 4878
+  }
+]

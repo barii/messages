@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 471,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Can't lie",
+    "premium": false,
+    "positive": true,
+    "id": 3290
+  },
+  {
+    "preset_id": 471,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "No puedo mentir",
+    "premium": false,
+    "positive": true,
+    "id": 3291
+  },
+  {
+    "preset_id": 471,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Kann nicht lügen",
+    "premium": false,
+    "positive": true,
+    "id": 3292
+  },
+  {
+    "preset_id": 471,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Não posso mentir",
+    "premium": false,
+    "positive": true,
+    "id": 3293
+  },
+  {
+    "preset_id": 471,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Nie mogę kłamać",
+    "premium": false,
+    "positive": true,
+    "id": 3294
+  },
+  {
+    "preset_id": 471,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Не могу врать",
+    "premium": false,
+    "positive": true,
+    "id": 3295
+  },
+  {
+    "preset_id": 471,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "不能撒谎",
+    "premium": false,
+    "positive": true,
+    "id": 3296
+  }
+]

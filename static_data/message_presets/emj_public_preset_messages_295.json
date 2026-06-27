@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 295,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm exhausted",
+    "premium": false,
+    "positive": true,
+    "id": 2058
+  },
+  {
+    "preset_id": 295,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Estoy agotado",
+    "premium": false,
+    "positive": true,
+    "id": 2059
+  },
+  {
+    "preset_id": 295,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin erschöpft",
+    "premium": false,
+    "positive": true,
+    "id": 2060
+  },
+  {
+    "preset_id": 295,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Estou exausto",
+    "premium": false,
+    "positive": true,
+    "id": 2061
+  },
+  {
+    "preset_id": 295,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem wyczerpany",
+    "premium": false,
+    "positive": true,
+    "id": 2062
+  },
+  {
+    "preset_id": 295,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я измотан",
+    "premium": false,
+    "positive": true,
+    "id": 2063
+  },
+  {
+    "preset_id": 295,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我筋疲力尽",
+    "premium": false,
+    "positive": true,
+    "id": 2064
+  }
+]

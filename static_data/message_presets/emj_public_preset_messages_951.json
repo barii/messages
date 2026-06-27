@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 951,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Just do it, you will feel better after",
+    "premium": true,
+    "positive": true,
+    "id": 6650
+  },
+  {
+    "preset_id": 951,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Hazlo ya, te sentirás mejor después",
+    "premium": true,
+    "positive": true,
+    "id": 6651
+  },
+  {
+    "preset_id": 951,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Mach es einfach, du wirst dich danach besser fühlen",
+    "premium": true,
+    "positive": true,
+    "id": 6652
+  },
+  {
+    "preset_id": 951,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Faz lá, vais sentir-te melhor depois",
+    "premium": true,
+    "positive": true,
+    "id": 6653
+  },
+  {
+    "preset_id": 951,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Po prostu to zrób, poczujesz się lepiej",
+    "premium": true,
+    "positive": true,
+    "id": 6654
+  },
+  {
+    "preset_id": 951,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Просто сделай это, потом почувствуешь себя лучше",
+    "premium": true,
+    "positive": true,
+    "id": 6655
+  },
+  {
+    "preset_id": 951,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "去做吧,之后你会感觉好些",
+    "premium": true,
+    "positive": true,
+    "id": 6656
+  }
+]

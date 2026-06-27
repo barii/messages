@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1631,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Imagine being you.",
+    "premium": false,
+    "positive": true,
+    "id": 11410
+  },
+  {
+    "preset_id": 1631,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Imaginad ser vosotros.",
+    "premium": false,
+    "positive": true,
+    "id": 11411
+  },
+  {
+    "preset_id": 1631,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Stellt euch vor, ihr zu sein.",
+    "premium": false,
+    "positive": true,
+    "id": 11412
+  },
+  {
+    "preset_id": 1631,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Imaginem ser vocês.",
+    "premium": false,
+    "positive": true,
+    "id": 11413
+  },
+  {
+    "preset_id": 1631,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Wyobraźcie sobie, że jesteście wami.",
+    "premium": false,
+    "positive": true,
+    "id": 11414
+  },
+  {
+    "preset_id": 1631,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Представьте быть вами.",
+    "premium": false,
+    "positive": true,
+    "id": 11415
+  },
+  {
+    "preset_id": 1631,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "想象一下做你们。",
+    "premium": false,
+    "positive": true,
+    "id": 11416
+  }
+]

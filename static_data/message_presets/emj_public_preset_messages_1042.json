@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1042,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Another meeting about a meeting",
+    "premium": false,
+    "positive": true,
+    "id": 7287
+  },
+  {
+    "preset_id": 1042,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Otra reunión para hablar de la reunión",
+    "premium": false,
+    "positive": true,
+    "id": 7288
+  },
+  {
+    "preset_id": 1042,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Noch ein Meeting über ein Meeting",
+    "premium": false,
+    "positive": true,
+    "id": 7289
+  },
+  {
+    "preset_id": 1042,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Outra reunião sobre uma reunião",
+    "premium": false,
+    "positive": true,
+    "id": 7290
+  },
+  {
+    "preset_id": 1042,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Kolejne spotkanie o spotkaniu",
+    "premium": false,
+    "positive": true,
+    "id": 7291
+  },
+  {
+    "preset_id": 1042,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Ещё одна встреча про встречу",
+    "premium": false,
+    "positive": true,
+    "id": 7292
+  },
+  {
+    "preset_id": 1042,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "又一个关于会议的会议",
+    "premium": false,
+    "positive": true,
+    "id": 7293
+  }
+]

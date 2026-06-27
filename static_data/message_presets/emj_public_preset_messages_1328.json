@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1328,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Tuesday nights in League One coming up.",
+    "premium": true,
+    "positive": true,
+    "id": 9289
+  },
+  {
+    "preset_id": 1328,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Tuesday nights in League One coming up.",
+    "premium": true,
+    "positive": true,
+    "id": 9290
+  },
+  {
+    "preset_id": 1328,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Tuesday nights in League One coming up.",
+    "premium": true,
+    "positive": true,
+    "id": 9291
+  },
+  {
+    "preset_id": 1328,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Tuesday nights in League One coming up.",
+    "premium": true,
+    "positive": true,
+    "id": 9292
+  },
+  {
+    "preset_id": 1328,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Tuesday nights in League One coming up.",
+    "premium": true,
+    "positive": true,
+    "id": 9293
+  },
+  {
+    "preset_id": 1328,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Tuesday nights in League One coming up.",
+    "premium": true,
+    "positive": true,
+    "id": 9294
+  },
+  {
+    "preset_id": 1328,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "Tuesday nights in League One coming up.",
+    "premium": true,
+    "positive": true,
+    "id": 9295
+  }
+]

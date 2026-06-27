@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1108,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Have a good night",
+    "premium": false,
+    "positive": true,
+    "id": 7749
+  },
+  {
+    "preset_id": 1108,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Que tengas buena noche",
+    "premium": false,
+    "positive": true,
+    "id": 7750
+  },
+  {
+    "preset_id": 1108,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Hab eine gute Nacht",
+    "premium": false,
+    "positive": true,
+    "id": 7751
+  },
+  {
+    "preset_id": 1108,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Tem uma boa noite",
+    "premium": false,
+    "positive": true,
+    "id": 7752
+  },
+  {
+    "preset_id": 1108,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Dobrej nocy",
+    "premium": false,
+    "positive": true,
+    "id": 7753
+  },
+  {
+    "preset_id": 1108,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Хорошей ночи",
+    "premium": false,
+    "positive": true,
+    "id": 7754
+  },
+  {
+    "preset_id": 1108,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "晚安",
+    "premium": false,
+    "positive": true,
+    "id": 7755
+  }
+]

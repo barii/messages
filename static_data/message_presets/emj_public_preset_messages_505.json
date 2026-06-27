@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 505,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Living",
+    "premium": false,
+    "positive": true,
+    "id": 3528
+  },
+  {
+    "preset_id": 505,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Viviendo",
+    "premium": false,
+    "positive": true,
+    "id": 3529
+  },
+  {
+    "preset_id": 505,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Lebe",
+    "premium": false,
+    "positive": true,
+    "id": 3530
+  },
+  {
+    "preset_id": 505,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "A viver",
+    "premium": false,
+    "positive": true,
+    "id": 3531
+  },
+  {
+    "preset_id": 505,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Żyję",
+    "premium": false,
+    "positive": true,
+    "id": 3532
+  },
+  {
+    "preset_id": 505,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Живу",
+    "premium": false,
+    "positive": true,
+    "id": 3533
+  },
+  {
+    "preset_id": 505,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "活着",
+    "premium": false,
+    "positive": true,
+    "id": 3534
+  }
+]

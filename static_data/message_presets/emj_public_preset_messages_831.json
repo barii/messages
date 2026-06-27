@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 831,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I like you more than I should",
+    "premium": false,
+    "positive": true,
+    "id": 5810
+  },
+  {
+    "preset_id": 831,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Me gustas más de lo que debería",
+    "premium": false,
+    "positive": true,
+    "id": 5811
+  },
+  {
+    "preset_id": 831,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich mag dich mehr als ich sollte",
+    "premium": false,
+    "positive": true,
+    "id": 5812
+  },
+  {
+    "preset_id": 831,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Gosto de ti mais do que deveria",
+    "premium": false,
+    "positive": true,
+    "id": 5813
+  },
+  {
+    "preset_id": 831,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Podobasz mi się bardziej niż powinieneś",
+    "premium": false,
+    "positive": true,
+    "id": 5814
+  },
+  {
+    "preset_id": 831,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты мне нравишься больше, чем должен",
+    "premium": false,
+    "positive": true,
+    "id": 5815
+  },
+  {
+    "preset_id": 831,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我喜欢你比应该的更多",
+    "premium": false,
+    "positive": true,
+    "id": 5816
+  }
+]

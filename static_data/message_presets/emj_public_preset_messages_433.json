@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 433,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I doubt it",
+    "premium": false,
+    "positive": true,
+    "id": 3024
+  },
+  {
+    "preset_id": 433,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Lo dudo",
+    "premium": false,
+    "positive": true,
+    "id": 3025
+  },
+  {
+    "preset_id": 433,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ich bezweifle es",
+    "premium": false,
+    "positive": true,
+    "id": 3026
+  },
+  {
+    "preset_id": 433,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Duvido",
+    "premium": false,
+    "positive": true,
+    "id": 3027
+  },
+  {
+    "preset_id": 433,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Wątpię",
+    "premium": false,
+    "positive": true,
+    "id": 3028
+  },
+  {
+    "preset_id": 433,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Сомневаюсь",
+    "premium": false,
+    "positive": true,
+    "id": 3029
+  },
+  {
+    "preset_id": 433,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我怀疑",
+    "premium": false,
+    "positive": true,
+    "id": 3030
+  }
+]

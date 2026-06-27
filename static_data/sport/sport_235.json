@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1645,
+    "preset_id": 235,
+    "cat_emoji": "🇪🇸",
+    "lang": "EN",
+    "category": "Spanish Football Teams",
+    "text": "Celta Vigo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1646,
+    "preset_id": 235,
+    "cat_emoji": "🇪🇸",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Españoles",
+    "text": "Celta Vigo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1647,
+    "preset_id": 235,
+    "cat_emoji": "🇪🇸",
+    "lang": "DE",
+    "category": "Spanische Fußballmannschaften",
+    "text": "Celta Vigo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1648,
+    "preset_id": 235,
+    "cat_emoji": "🇪🇸",
+    "lang": "PL",
+    "category": "Hiszpańskie drużyny piłkarskie",
+    "text": "Celta Vigo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1649,
+    "preset_id": 235,
+    "cat_emoji": "🇪🇸",
+    "lang": "RU",
+    "category": "Испанские футбольные команды",
+    "text": "Celta Vigo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1650,
+    "preset_id": 235,
+    "cat_emoji": "🇪🇸",
+    "lang": "PT",
+    "category": "Times de futebol espanhóis",
+    "text": "Celta Vigo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1651,
+    "preset_id": 235,
+    "cat_emoji": "🇪🇸",
+    "lang": "CN",
+    "category": "西班牙足球队",
+    "text": "Celta Vigo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  }
+]

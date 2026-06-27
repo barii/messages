@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1188,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Have a great weekend",
+    "premium": false,
+    "positive": true,
+    "id": 8309
+  },
+  {
+    "preset_id": 1188,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Que tengas un gran fin de semana",
+    "premium": false,
+    "positive": true,
+    "id": 8310
+  },
+  {
+    "preset_id": 1188,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Hab ein tolles Wochenende",
+    "premium": false,
+    "positive": true,
+    "id": 8311
+  },
+  {
+    "preset_id": 1188,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Tem um ótimo fim de semana",
+    "premium": false,
+    "positive": true,
+    "id": 8312
+  },
+  {
+    "preset_id": 1188,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Miłego weekendu",
+    "premium": false,
+    "positive": true,
+    "id": 8313
+  },
+  {
+    "preset_id": 1188,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "Хороших выходных",
+    "premium": false,
+    "positive": true,
+    "id": 8314
+  },
+  {
+    "preset_id": 1188,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "周末愉快",
+    "premium": false,
+    "positive": true,
+    "id": 8315
+  }
+]

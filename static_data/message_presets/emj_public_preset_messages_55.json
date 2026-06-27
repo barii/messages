@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 55,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're a gem",
+    "premium": true,
+    "positive": true,
+    "id": 378
+  },
+  {
+    "preset_id": 55,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres una joya",
+    "premium": true,
+    "positive": true,
+    "id": 379
+  },
+  {
+    "preset_id": 55,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist ein Juwel",
+    "premium": true,
+    "positive": true,
+    "id": 380
+  },
+  {
+    "preset_id": 55,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És uma joia",
+    "premium": true,
+    "positive": true,
+    "id": 381
+  },
+  {
+    "preset_id": 55,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś klejnotem",
+    "premium": true,
+    "positive": true,
+    "id": 382
+  },
+  {
+    "preset_id": 55,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты драгоценность",
+    "premium": true,
+    "positive": true,
+    "id": 383
+  },
+  {
+    "preset_id": 55,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你是颗宝石",
+    "premium": true,
+    "positive": true,
+    "id": 384
+  }
+]

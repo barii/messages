@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 484,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Shut up no way",
+    "premium": false,
+    "positive": true,
+    "id": 3381
+  },
+  {
+    "preset_id": 484,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Cállate, no puede ser",
+    "premium": false,
+    "positive": true,
+    "id": 3382
+  },
+  {
+    "preset_id": 484,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Halt die Klappe, niemals",
+    "premium": false,
+    "positive": true,
+    "id": 3383
+  },
+  {
+    "preset_id": 484,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Cala-te, não pode ser",
+    "premium": false,
+    "positive": true,
+    "id": 3384
+  },
+  {
+    "preset_id": 484,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Zamknij się, nie ma mowy",
+    "premium": false,
+    "positive": true,
+    "id": 3385
+  },
+  {
+    "preset_id": 484,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Заткнись, не может быть",
+    "premium": false,
+    "positive": true,
+    "id": 3386
+  },
+  {
+    "preset_id": 484,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "闭嘴,不可能",
+    "premium": false,
+    "positive": true,
+    "id": 3387
+  }
+]

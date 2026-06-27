@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1487,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Our gaffer is a genius.",
+    "premium": false,
+    "positive": true,
+    "id": 10402
+  },
+  {
+    "preset_id": 1487,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Nuestro entrenador es un genio.",
+    "premium": false,
+    "positive": true,
+    "id": 10403
+  },
+  {
+    "preset_id": 1487,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Unser Trainer ist ein Genie.",
+    "premium": false,
+    "positive": true,
+    "id": 10404
+  },
+  {
+    "preset_id": 1487,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "O nosso treinador é um génio.",
+    "premium": false,
+    "positive": true,
+    "id": 10405
+  },
+  {
+    "preset_id": 1487,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Nasz trener to geniusz.",
+    "premium": false,
+    "positive": true,
+    "id": 10406
+  },
+  {
+    "preset_id": 1487,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Наш тренер — гений.",
+    "premium": false,
+    "positive": true,
+    "id": 10407
+  },
+  {
+    "preset_id": 1487,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们的教练是个天才。",
+    "premium": false,
+    "positive": true,
+    "id": 10408
+  }
+]

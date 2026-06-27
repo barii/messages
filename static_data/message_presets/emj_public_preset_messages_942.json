@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 942,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Protect your peace",
+    "premium": false,
+    "positive": true,
+    "id": 6587
+  },
+  {
+    "preset_id": 942,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Protege tu paz",
+    "premium": false,
+    "positive": true,
+    "id": 6588
+  },
+  {
+    "preset_id": 942,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Schütze deinen Frieden",
+    "premium": false,
+    "positive": true,
+    "id": 6589
+  },
+  {
+    "preset_id": 942,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Protege a tua paz",
+    "premium": false,
+    "positive": true,
+    "id": 6590
+  },
+  {
+    "preset_id": 942,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Chroń swój spokój",
+    "premium": false,
+    "positive": true,
+    "id": 6591
+  },
+  {
+    "preset_id": 942,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Защищай свой покой",
+    "premium": false,
+    "positive": true,
+    "id": 6592
+  },
+  {
+    "preset_id": 942,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "保护你的平静",
+    "premium": false,
+    "positive": true,
+    "id": 6593
+  }
+]

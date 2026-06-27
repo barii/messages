@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1637,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Is there a fire drill?",
+    "premium": true,
+    "positive": true,
+    "id": 11452
+  },
+  {
+    "preset_id": 1637,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "¿Hay un simulacro de incendio?",
+    "premium": true,
+    "positive": true,
+    "id": 11453
+  },
+  {
+    "preset_id": 1637,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Gibt es einen Feueralarm?",
+    "premium": true,
+    "positive": true,
+    "id": 11454
+  },
+  {
+    "preset_id": 1637,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Há um simulacro de incêndio?",
+    "premium": true,
+    "positive": true,
+    "id": 11455
+  },
+  {
+    "preset_id": 1637,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Czy jest próba przeciwpożarowa?",
+    "premium": true,
+    "positive": true,
+    "id": 11456
+  },
+  {
+    "preset_id": 1637,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Это пожарная тревога?",
+    "premium": true,
+    "positive": true,
+    "id": 11457
+  },
+  {
+    "preset_id": 1637,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "有消防演习吗?",
+    "premium": true,
+    "positive": true,
+    "id": 11458
+  }
+]

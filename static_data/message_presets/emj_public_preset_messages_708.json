@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 708,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Sorry about that",
+    "premium": false,
+    "positive": true,
+    "id": 4949
+  },
+  {
+    "preset_id": 708,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Perdona por eso",
+    "premium": false,
+    "positive": true,
+    "id": 4950
+  },
+  {
+    "preset_id": 708,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Tut mir leid",
+    "premium": false,
+    "positive": true,
+    "id": 4951
+  },
+  {
+    "preset_id": 708,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Desculpa por isso",
+    "premium": false,
+    "positive": true,
+    "id": 4952
+  },
+  {
+    "preset_id": 708,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Przepraszam za to",
+    "premium": false,
+    "positive": true,
+    "id": 4953
+  },
+  {
+    "preset_id": 708,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Извини за это",
+    "premium": false,
+    "positive": true,
+    "id": 4954
+  },
+  {
+    "preset_id": 708,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "对此抱歉",
+    "premium": false,
+    "positive": true,
+    "id": 4955
+  }
+]

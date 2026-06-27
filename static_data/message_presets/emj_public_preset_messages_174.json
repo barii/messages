@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 174,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Do you want to vent?",
+    "premium": false,
+    "positive": true,
+    "id": 1211
+  },
+  {
+    "preset_id": 174,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Quieres desahogarte?",
+    "premium": false,
+    "positive": true,
+    "id": 1212
+  },
+  {
+    "preset_id": 174,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Willst du dich auslassen?",
+    "premium": false,
+    "positive": true,
+    "id": 1213
+  },
+  {
+    "preset_id": 174,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Queres desabafar?",
+    "premium": false,
+    "positive": true,
+    "id": 1214
+  },
+  {
+    "preset_id": 174,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Chcesz się wyżalić?",
+    "premium": false,
+    "positive": true,
+    "id": 1215
+  },
+  {
+    "preset_id": 174,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Хочешь выговориться?",
+    "premium": false,
+    "positive": true,
+    "id": 1216
+  },
+  {
+    "preset_id": 174,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你想倾诉一下吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1217
+  }
+]

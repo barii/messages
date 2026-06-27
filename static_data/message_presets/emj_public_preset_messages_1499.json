@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1499,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "You're obsessed with us.",
+    "premium": false,
+    "positive": true,
+    "id": 10486
+  },
+  {
+    "preset_id": 1499,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Estáis obsesionados con nosotros.",
+    "premium": false,
+    "positive": true,
+    "id": 10487
+  },
+  {
+    "preset_id": 1499,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Ihr seid besessen von uns.",
+    "premium": false,
+    "positive": true,
+    "id": 10488
+  },
+  {
+    "preset_id": 1499,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Estão obcecados connosco.",
+    "premium": false,
+    "positive": true,
+    "id": 10489
+  },
+  {
+    "preset_id": 1499,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Macie obsesję na naszym punkcie.",
+    "premium": false,
+    "positive": true,
+    "id": 10490
+  },
+  {
+    "preset_id": 1499,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Вы одержимы нами.",
+    "premium": false,
+    "positive": true,
+    "id": 10491
+  },
+  {
+    "preset_id": 1499,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "你们对我们着迷了。",
+    "premium": false,
+    "positive": true,
+    "id": 10492
+  }
+]

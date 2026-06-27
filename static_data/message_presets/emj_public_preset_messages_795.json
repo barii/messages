@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 795,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Same to you",
+    "premium": false,
+    "positive": true,
+    "id": 5558
+  },
+  {
+    "preset_id": 795,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Lo mismo para ti",
+    "premium": false,
+    "positive": true,
+    "id": 5559
+  },
+  {
+    "preset_id": 795,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Dir auch",
+    "premium": false,
+    "positive": true,
+    "id": 5560
+  },
+  {
+    "preset_id": 795,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "O mesmo para ti",
+    "premium": false,
+    "positive": true,
+    "id": 5561
+  },
+  {
+    "preset_id": 795,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Tobie również",
+    "premium": false,
+    "positive": true,
+    "id": 5562
+  },
+  {
+    "preset_id": 795,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "И тебе тоже",
+    "premium": false,
+    "positive": true,
+    "id": 5563
+  },
+  {
+    "preset_id": 795,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "也祝你",
+    "premium": false,
+    "positive": true,
+    "id": 5564
+  }
+]

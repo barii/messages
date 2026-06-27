@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1767,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Better put in the backups!",
+    "premium": false,
+    "positive": true,
+    "id": 12362
+  },
+  {
+    "preset_id": 1767,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Better put in the backups!",
+    "premium": false,
+    "positive": true,
+    "id": 12363
+  },
+  {
+    "preset_id": 1767,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Better put in the backups!",
+    "premium": false,
+    "positive": true,
+    "id": 12364
+  },
+  {
+    "preset_id": 1767,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Better put in the backups!",
+    "premium": false,
+    "positive": true,
+    "id": 12365
+  },
+  {
+    "preset_id": 1767,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Better put in the backups!",
+    "premium": false,
+    "positive": true,
+    "id": 12366
+  },
+  {
+    "preset_id": 1767,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Better put in the backups!",
+    "premium": false,
+    "positive": true,
+    "id": 12367
+  },
+  {
+    "preset_id": 1767,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Better put in the backups!",
+    "premium": false,
+    "positive": true,
+    "id": 12368
+  }
+]

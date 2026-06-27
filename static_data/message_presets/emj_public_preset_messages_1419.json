@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1419,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Perfect football.",
+    "premium": false,
+    "positive": true,
+    "id": 9926
+  },
+  {
+    "preset_id": 1419,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Fútbol perfecto.",
+    "premium": false,
+    "positive": true,
+    "id": 9927
+  },
+  {
+    "preset_id": 1419,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Perfekter Fußball.",
+    "premium": false,
+    "positive": true,
+    "id": 9928
+  },
+  {
+    "preset_id": 1419,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Futebol perfeito.",
+    "premium": false,
+    "positive": true,
+    "id": 9929
+  },
+  {
+    "preset_id": 1419,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Idealna piłka nożna.",
+    "premium": false,
+    "positive": true,
+    "id": 9930
+  },
+  {
+    "preset_id": 1419,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Идеальный футбол.",
+    "premium": false,
+    "positive": true,
+    "id": 9931
+  },
+  {
+    "preset_id": 1419,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "完美足球。",
+    "premium": false,
+    "positive": true,
+    "id": 9932
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 172,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Want to talk?",
+    "premium": false,
+    "positive": true,
+    "id": 1197
+  },
+  {
+    "preset_id": 172,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Quieres hablar?",
+    "premium": false,
+    "positive": true,
+    "id": 1198
+  },
+  {
+    "preset_id": 172,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Magst du reden?",
+    "premium": false,
+    "positive": true,
+    "id": 1199
+  },
+  {
+    "preset_id": 172,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Queres falar?",
+    "premium": false,
+    "positive": true,
+    "id": 1200
+  },
+  {
+    "preset_id": 172,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Chcesz pogadać?",
+    "premium": false,
+    "positive": true,
+    "id": 1201
+  },
+  {
+    "preset_id": 172,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Хочешь поговорить?",
+    "premium": false,
+    "positive": true,
+    "id": 1202
+  },
+  {
+    "preset_id": 172,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "想聊聊吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1203
+  }
+]

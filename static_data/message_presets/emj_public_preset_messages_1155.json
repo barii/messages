@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1155,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Make today a good one",
+    "premium": false,
+    "positive": true,
+    "id": 8078
+  },
+  {
+    "preset_id": 1155,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Haz que hoy sea un buen día",
+    "premium": false,
+    "positive": true,
+    "id": 8079
+  },
+  {
+    "preset_id": 1155,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Mach den Tag zu einem guten",
+    "premium": false,
+    "positive": true,
+    "id": 8080
+  },
+  {
+    "preset_id": 1155,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Faz de hoje um bom dia",
+    "premium": false,
+    "positive": true,
+    "id": 8081
+  },
+  {
+    "preset_id": 1155,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Niech dzisiaj będzie dobry dzień",
+    "premium": false,
+    "positive": true,
+    "id": 8082
+  },
+  {
+    "preset_id": 1155,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Сделай этот день хорошим",
+    "premium": false,
+    "positive": true,
+    "id": 8083
+  },
+  {
+    "preset_id": 1155,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "把今天过得美好",
+    "premium": false,
+    "positive": true,
+    "id": 8084
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 293,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm having a great day",
+    "premium": false,
+    "positive": true,
+    "id": 2044
+  },
+  {
+    "preset_id": 293,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Estoy teniendo un gran día",
+    "premium": false,
+    "positive": true,
+    "id": 2045
+  },
+  {
+    "preset_id": 293,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich habe einen tollen Tag",
+    "premium": false,
+    "positive": true,
+    "id": 2046
+  },
+  {
+    "preset_id": 293,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Estou a ter um ótimo dia",
+    "premium": false,
+    "positive": true,
+    "id": 2047
+  },
+  {
+    "preset_id": 293,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Mam świetny dzień",
+    "premium": false,
+    "positive": true,
+    "id": 2048
+  },
+  {
+    "preset_id": 293,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "У меня отличный день",
+    "premium": false,
+    "positive": true,
+    "id": 2049
+  },
+  {
+    "preset_id": 293,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我今天过得很棒",
+    "premium": false,
+    "positive": true,
+    "id": 2050
+  }
+]

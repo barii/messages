@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1539,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Laughable effort today.",
+    "premium": false,
+    "positive": true,
+    "id": 10766
+  },
+  {
+    "preset_id": 1539,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Esfuerzo risible hoy.",
+    "premium": false,
+    "positive": true,
+    "id": 10767
+  },
+  {
+    "preset_id": 1539,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Lächerlicher Einsatz heute.",
+    "premium": false,
+    "positive": true,
+    "id": 10768
+  },
+  {
+    "preset_id": 1539,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Esforço risível hoje.",
+    "premium": false,
+    "positive": true,
+    "id": 10769
+  },
+  {
+    "preset_id": 1539,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Śmieszny wysiłek dzisiaj.",
+    "premium": false,
+    "positive": true,
+    "id": 10770
+  },
+  {
+    "preset_id": 1539,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Жалкие усилия сегодня.",
+    "premium": false,
+    "positive": true,
+    "id": 10771
+  },
+  {
+    "preset_id": 1539,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "今天这表现真可笑。",
+    "premium": false,
+    "positive": true,
+    "id": 10772
+  }
+]

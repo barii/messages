@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1407,
+    "preset_id": 201,
+    "cat_emoji": "🇮🇹",
+    "lang": "EN",
+    "category": "Italian Football Teams",
+    "text": "Juventus",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1408,
+    "preset_id": 201,
+    "cat_emoji": "🇮🇹",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Italianos",
+    "text": "Juventus",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1409,
+    "preset_id": 201,
+    "cat_emoji": "🇮🇹",
+    "lang": "DE",
+    "category": "Italienische Fußballmannschaften",
+    "text": "Juventus",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1410,
+    "preset_id": 201,
+    "cat_emoji": "🇮🇹",
+    "lang": "PL",
+    "category": "Włoskie drużyny piłkarskie",
+    "text": "Juventus",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1411,
+    "preset_id": 201,
+    "cat_emoji": "🇮🇹",
+    "lang": "RU",
+    "category": "Итальянские футбольные команды",
+    "text": "Juventus",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1412,
+    "preset_id": 201,
+    "cat_emoji": "🇮🇹",
+    "lang": "PT",
+    "category": "Times de futebol italianos",
+    "text": "Juventus",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1413,
+    "preset_id": 201,
+    "cat_emoji": "🇮🇹",
+    "lang": "CN",
+    "category": "意大利足球队",
+    "text": "Juventus",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  }
+]

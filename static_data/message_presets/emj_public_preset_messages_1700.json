@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1700,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Try hitting the ball next time!",
+    "premium": false,
+    "positive": true,
+    "id": 11893
+  },
+  {
+    "preset_id": 1700,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Try hitting the ball next time!",
+    "premium": false,
+    "positive": true,
+    "id": 11894
+  },
+  {
+    "preset_id": 1700,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Try hitting the ball next time!",
+    "premium": false,
+    "positive": true,
+    "id": 11895
+  },
+  {
+    "preset_id": 1700,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Try hitting the ball next time!",
+    "premium": false,
+    "positive": true,
+    "id": 11896
+  },
+  {
+    "preset_id": 1700,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Try hitting the ball next time!",
+    "premium": false,
+    "positive": true,
+    "id": 11897
+  },
+  {
+    "preset_id": 1700,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Try hitting the ball next time!",
+    "premium": false,
+    "positive": true,
+    "id": 11898
+  },
+  {
+    "preset_id": 1700,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Try hitting the ball next time!",
+    "premium": false,
+    "positive": true,
+    "id": 11899
+  }
+]

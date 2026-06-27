@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1603,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Talk to me at the end of the season.",
+    "premium": false,
+    "positive": true,
+    "id": 11214
+  },
+  {
+    "preset_id": 1603,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Habladme al final de la temporada.",
+    "premium": false,
+    "positive": true,
+    "id": 11215
+  },
+  {
+    "preset_id": 1603,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Sprich mit mir am Ende der Saison.",
+    "premium": false,
+    "positive": true,
+    "id": 11216
+  },
+  {
+    "preset_id": 1603,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Fala comigo no fim da época.",
+    "premium": false,
+    "positive": true,
+    "id": 11217
+  },
+  {
+    "preset_id": 1603,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Pogadaj ze mną pod koniec sezonu.",
+    "premium": false,
+    "positive": true,
+    "id": 11218
+  },
+  {
+    "preset_id": 1603,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Поговорите со мной в конце сезона.",
+    "premium": false,
+    "positive": true,
+    "id": 11219
+  },
+  {
+    "preset_id": 1603,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "赛季结束时再跟我说话。",
+    "premium": false,
+    "positive": true,
+    "id": 11220
+  }
+]

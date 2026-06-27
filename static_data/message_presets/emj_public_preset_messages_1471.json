@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1471,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We toyed with you.",
+    "premium": true,
+    "positive": true,
+    "id": 10290
+  },
+  {
+    "preset_id": 1471,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Hemos jugado con vosotros.",
+    "premium": true,
+    "positive": true,
+    "id": 10291
+  },
+  {
+    "preset_id": 1471,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir haben mit euch gespielt.",
+    "premium": true,
+    "positive": true,
+    "id": 10292
+  },
+  {
+    "preset_id": 1471,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Brincámos convosco.",
+    "premium": true,
+    "positive": true,
+    "id": 10293
+  },
+  {
+    "preset_id": 1471,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Bawiliśmy się wami.",
+    "premium": true,
+    "positive": true,
+    "id": 10294
+  },
+  {
+    "preset_id": 1471,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Мы играли с вами.",
+    "premium": true,
+    "positive": true,
+    "id": 10295
+  },
+  {
+    "preset_id": 1471,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们玩弄了你们。",
+    "premium": true,
+    "positive": true,
+    "id": 10296
+  }
+]

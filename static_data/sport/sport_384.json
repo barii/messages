@@ -1,0 +1,86 @@
+[
+  {
+    "id": 2688,
+    "preset_id": 384,
+    "cat_emoji": "🇵🇱",
+    "lang": "EN",
+    "category": "Polish Football Teams",
+    "text": "Widzew Łódź",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2689,
+    "preset_id": 384,
+    "cat_emoji": "🇵🇱",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Polacos",
+    "text": "Widzew Łódź",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2690,
+    "preset_id": 384,
+    "cat_emoji": "🇵🇱",
+    "lang": "DE",
+    "category": "Polnische Fußballmannschaften",
+    "text": "Widzew Łódź",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2691,
+    "preset_id": 384,
+    "cat_emoji": "🇵🇱",
+    "lang": "PL",
+    "category": "Polskie drużyny piłkarskie",
+    "text": "Widzew Łódź",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2692,
+    "preset_id": 384,
+    "cat_emoji": "🇵🇱",
+    "lang": "RU",
+    "category": "Польские футбольные команды",
+    "text": "Widzew Łódź",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2693,
+    "preset_id": 384,
+    "cat_emoji": "🇵🇱",
+    "lang": "PT",
+    "category": "Times de futebol poloneses",
+    "text": "Widzew Łódź",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  },
+  {
+    "id": 2694,
+    "preset_id": 384,
+    "cat_emoji": "🇵🇱",
+    "lang": "CN",
+    "category": "波兰足球队",
+    "text": "Widzew Łódź",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇱",
+    "continent": "European"
+  }
+]

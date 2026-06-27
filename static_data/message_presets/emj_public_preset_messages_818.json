@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 818,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Bold move",
+    "premium": false,
+    "positive": true,
+    "id": 5719
+  },
+  {
+    "preset_id": 818,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Movimiento atrevido",
+    "premium": false,
+    "positive": true,
+    "id": 5720
+  },
+  {
+    "preset_id": 818,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Mutiger Zug",
+    "premium": false,
+    "positive": true,
+    "id": 5721
+  },
+  {
+    "preset_id": 818,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Atrevimento",
+    "premium": false,
+    "positive": true,
+    "id": 5722
+  },
+  {
+    "preset_id": 818,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Odważne posunięcie",
+    "premium": false,
+    "positive": true,
+    "id": 5723
+  },
+  {
+    "preset_id": 818,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Смелый ход",
+    "premium": false,
+    "positive": true,
+    "id": 5724
+  },
+  {
+    "preset_id": 818,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "勇敢的举动",
+    "premium": false,
+    "positive": true,
+    "id": 5725
+  }
+]

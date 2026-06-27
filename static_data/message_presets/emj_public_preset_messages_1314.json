@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1314,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You got bullied.",
+    "premium": false,
+    "positive": true,
+    "id": 9191
+  },
+  {
+    "preset_id": 1314,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Os han humillado.",
+    "premium": false,
+    "positive": true,
+    "id": 9192
+  },
+  {
+    "preset_id": 1314,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr seid gedemütigt worden.",
+    "premium": false,
+    "positive": true,
+    "id": 9193
+  },
+  {
+    "preset_id": 1314,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Foram humilhados.",
+    "premium": false,
+    "positive": true,
+    "id": 9194
+  },
+  {
+    "preset_id": 1314,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Zostaliście upokorzeni.",
+    "premium": false,
+    "positive": true,
+    "id": 9195
+  },
+  {
+    "preset_id": 1314,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Вас унизили.",
+    "premium": false,
+    "positive": true,
+    "id": 9196
+  },
+  {
+    "preset_id": 1314,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们被欺负了。",
+    "premium": false,
+    "positive": true,
+    "id": 9197
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 247,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We met on a dating app",
+    "premium": false,
+    "positive": true,
+    "id": 1722
+  },
+  {
+    "preset_id": 247,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Nos conocimos en una app de citas",
+    "premium": false,
+    "positive": true,
+    "id": 1723
+  },
+  {
+    "preset_id": 247,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir haben uns über eine Dating-App kennengelernt",
+    "premium": false,
+    "positive": true,
+    "id": 1724
+  },
+  {
+    "preset_id": 247,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Conhecemo-nos numa app de encontros",
+    "premium": false,
+    "positive": true,
+    "id": 1725
+  },
+  {
+    "preset_id": 247,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Poznaliśmy się na aplikacji randkowej",
+    "premium": false,
+    "positive": true,
+    "id": 1726
+  },
+  {
+    "preset_id": 247,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы познакомились в приложении для знакомств",
+    "premium": false,
+    "positive": true,
+    "id": 1727
+  },
+  {
+    "preset_id": 247,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们在约会软件上认识",
+    "premium": false,
+    "positive": true,
+    "id": 1728
+  }
+]

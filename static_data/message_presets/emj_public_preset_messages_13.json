@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 13,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're a great listener",
+    "premium": false,
+    "positive": true,
+    "id": 84
+  },
+  {
+    "preset_id": 13,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres un gran oyente",
+    "premium": false,
+    "positive": true,
+    "id": 85
+  },
+  {
+    "preset_id": 13,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist ein toller Zuhörer",
+    "premium": false,
+    "positive": true,
+    "id": 86
+  },
+  {
+    "preset_id": 13,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És um ótimo ouvinte",
+    "premium": false,
+    "positive": true,
+    "id": 87
+  },
+  {
+    "preset_id": 13,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś świetnym słuchaczem",
+    "premium": false,
+    "positive": true,
+    "id": 88
+  },
+  {
+    "preset_id": 13,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты отличный слушатель",
+    "premium": false,
+    "positive": true,
+    "id": 89
+  },
+  {
+    "preset_id": 13,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你是个很好的倾听者",
+    "premium": false,
+    "positive": true,
+    "id": 90
+  }
+]

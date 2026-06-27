@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1522,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "The league is ours.",
+    "premium": false,
+    "positive": true,
+    "id": 10647
+  },
+  {
+    "preset_id": 1522,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "La liga es nuestra.",
+    "premium": false,
+    "positive": true,
+    "id": 10648
+  },
+  {
+    "preset_id": 1522,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Die Liga gehört uns.",
+    "premium": false,
+    "positive": true,
+    "id": 10649
+  },
+  {
+    "preset_id": 1522,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "A liga é nossa.",
+    "premium": false,
+    "positive": true,
+    "id": 10650
+  },
+  {
+    "preset_id": 1522,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Liga należy do nas.",
+    "premium": false,
+    "positive": true,
+    "id": 10651
+  },
+  {
+    "preset_id": 1522,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Лига наша.",
+    "premium": false,
+    "positive": true,
+    "id": 10652
+  },
+  {
+    "preset_id": 1522,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "联赛是我们的。",
+    "premium": false,
+    "positive": true,
+    "id": 10653
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 865,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You're so pretty it's unfair",
+    "premium": false,
+    "positive": true,
+    "id": 6048
+  },
+  {
+    "preset_id": 865,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Eres tan guapo que es injusto",
+    "premium": false,
+    "positive": true,
+    "id": 6049
+  },
+  {
+    "preset_id": 865,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Du bist so hübsch, es ist unfair",
+    "premium": false,
+    "positive": true,
+    "id": 6050
+  },
+  {
+    "preset_id": 865,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "És tão bonito que é injusto",
+    "premium": false,
+    "positive": true,
+    "id": 6051
+  },
+  {
+    "preset_id": 865,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Jesteś tak ładny, że to niesprawiedliwe",
+    "premium": false,
+    "positive": true,
+    "id": 6052
+  },
+  {
+    "preset_id": 865,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты такой красивый, что это нечестно",
+    "premium": false,
+    "positive": true,
+    "id": 6053
+  },
+  {
+    "preset_id": 865,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你太美了,这不公平",
+    "premium": false,
+    "positive": true,
+    "id": 6054
+  }
+]

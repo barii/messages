@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1015,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "Take this in the spirit it's meant",
+    "premium": false,
+    "positive": true,
+    "id": 7098
+  },
+  {
+    "preset_id": 1015,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Tómate esto con el espíritu con el que se dice",
+    "premium": false,
+    "positive": true,
+    "id": 7099
+  },
+  {
+    "preset_id": 1015,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Nimm das in dem Geist, in dem es gemeint ist",
+    "premium": false,
+    "positive": true,
+    "id": 7100
+  },
+  {
+    "preset_id": 1015,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Leva isto no espírito que é dito",
+    "premium": false,
+    "positive": true,
+    "id": 7101
+  },
+  {
+    "preset_id": 1015,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Przyjmij to w duchu, w jakim jest powiedziane",
+    "premium": false,
+    "positive": true,
+    "id": 7102
+  },
+  {
+    "preset_id": 1015,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Прими это в духе, в котором это сказано",
+    "premium": false,
+    "positive": true,
+    "id": 7103
+  },
+  {
+    "preset_id": 1015,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "请以善意接受这个",
+    "premium": false,
+    "positive": true,
+    "id": 7104
+  }
+]

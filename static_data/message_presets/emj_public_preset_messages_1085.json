@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1085,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Living for the lunch break",
+    "premium": false,
+    "positive": true,
+    "id": 7588
+  },
+  {
+    "preset_id": 1085,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Vivo por la pausa del almuerzo",
+    "premium": false,
+    "positive": true,
+    "id": 7589
+  },
+  {
+    "preset_id": 1085,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Lebe für die Mittagspause",
+    "premium": false,
+    "positive": true,
+    "id": 7590
+  },
+  {
+    "preset_id": 1085,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Vivo pela pausa do almoço",
+    "premium": false,
+    "positive": true,
+    "id": 7591
+  },
+  {
+    "preset_id": 1085,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Żyję dla przerwy obiadowej",
+    "premium": false,
+    "positive": true,
+    "id": 7592
+  },
+  {
+    "preset_id": 1085,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Живу ради обеденного перерыва",
+    "premium": false,
+    "positive": true,
+    "id": 7593
+  },
+  {
+    "preset_id": 1085,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "活着就为了午餐休息",
+    "premium": false,
+    "positive": true,
+    "id": 7594
+  }
+]

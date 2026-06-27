@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 909,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "You got this",
+    "premium": false,
+    "positive": true,
+    "id": 6356
+  },
+  {
+    "preset_id": 909,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Tú puedes",
+    "premium": false,
+    "positive": true,
+    "id": 6357
+  },
+  {
+    "preset_id": 909,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Du schaffst das",
+    "premium": false,
+    "positive": true,
+    "id": 6358
+  },
+  {
+    "preset_id": 909,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Tu consegues",
+    "premium": false,
+    "positive": true,
+    "id": 6359
+  },
+  {
+    "preset_id": 909,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Dasz radę",
+    "premium": false,
+    "positive": true,
+    "id": 6360
+  },
+  {
+    "preset_id": 909,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "У тебя получится",
+    "premium": false,
+    "positive": true,
+    "id": 6361
+  },
+  {
+    "preset_id": 909,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "你可以的",
+    "premium": false,
+    "positive": true,
+    "id": 6362
+  }
+]

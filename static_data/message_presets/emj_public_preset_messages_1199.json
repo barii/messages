@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1199,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "Did it hurt when you fell from heaven?",
+    "premium": true,
+    "positive": true,
+    "id": 8386
+  },
+  {
+    "preset_id": 1199,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "¿Te dolió cuando caíste del cielo?",
+    "premium": true,
+    "positive": true,
+    "id": 8387
+  },
+  {
+    "preset_id": 1199,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Hat es weh getan, als du vom Himmel gefallen bist?",
+    "premium": true,
+    "positive": true,
+    "id": 8388
+  },
+  {
+    "preset_id": 1199,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "Doeu quando caíste do céu?",
+    "premium": true,
+    "positive": true,
+    "id": 8389
+  },
+  {
+    "preset_id": 1199,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Bolało, kiedy spadłeś z nieba?",
+    "premium": true,
+    "positive": true,
+    "id": 8390
+  },
+  {
+    "preset_id": 1199,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Тебе было больно, когда ты упал с небес?",
+    "premium": true,
+    "positive": true,
+    "id": 8391
+  },
+  {
+    "preset_id": 1199,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "你从天上掉下来的时候疼吗?",
+    "premium": true,
+    "positive": true,
+    "id": 8392
+  }
+]

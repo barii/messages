@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 622,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Not interested, sorry",
+    "premium": false,
+    "positive": true,
+    "id": 4347
+  },
+  {
+    "preset_id": 622,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "No me interesa, lo siento",
+    "premium": false,
+    "positive": true,
+    "id": 4348
+  },
+  {
+    "preset_id": 622,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Nicht interessiert, sorry",
+    "premium": false,
+    "positive": true,
+    "id": 4349
+  },
+  {
+    "preset_id": 622,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Sem interesse, desculpa",
+    "premium": false,
+    "positive": true,
+    "id": 4350
+  },
+  {
+    "preset_id": 622,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Nie zainteresowany, sorry",
+    "premium": false,
+    "positive": true,
+    "id": 4351
+  },
+  {
+    "preset_id": 622,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Не интересно, извини",
+    "premium": false,
+    "positive": true,
+    "id": 4352
+  },
+  {
+    "preset_id": 622,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "没兴趣,抱歉",
+    "premium": false,
+    "positive": true,
+    "id": 4353
+  }
+]

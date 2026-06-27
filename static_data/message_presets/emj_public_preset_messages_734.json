@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 734,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I'm so excited",
+    "premium": false,
+    "positive": true,
+    "id": 5131
+  },
+  {
+    "preset_id": 734,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Estoy muy emocionado",
+    "premium": false,
+    "positive": true,
+    "id": 5132
+  },
+  {
+    "preset_id": 734,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Ich freue mich so",
+    "premium": false,
+    "positive": true,
+    "id": 5133
+  },
+  {
+    "preset_id": 734,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Estou tão entusiasmado",
+    "premium": false,
+    "positive": true,
+    "id": 5134
+  },
+  {
+    "preset_id": 734,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Tak się cieszę",
+    "premium": false,
+    "positive": true,
+    "id": 5135
+  },
+  {
+    "preset_id": 734,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Я так взволнован",
+    "premium": false,
+    "positive": true,
+    "id": 5136
+  },
+  {
+    "preset_id": 734,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我太激动了",
+    "premium": false,
+    "positive": true,
+    "id": 5137
+  }
+]

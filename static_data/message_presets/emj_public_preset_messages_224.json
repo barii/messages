@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 224,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "Take a guess at who this is",
+    "premium": false,
+    "positive": true,
+    "id": 1561
+  },
+  {
+    "preset_id": 224,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Adivina quién es",
+    "premium": false,
+    "positive": true,
+    "id": 1562
+  },
+  {
+    "preset_id": 224,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Rate mal, wer das ist",
+    "premium": false,
+    "positive": true,
+    "id": 1563
+  },
+  {
+    "preset_id": 224,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Adivinha quem é",
+    "premium": false,
+    "positive": true,
+    "id": 1564
+  },
+  {
+    "preset_id": 224,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Zgadnij, kto to",
+    "premium": false,
+    "positive": true,
+    "id": 1565
+  },
+  {
+    "preset_id": 224,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Угадай, кто это",
+    "premium": false,
+    "positive": true,
+    "id": 1566
+  },
+  {
+    "preset_id": 224,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "猜猜这是谁",
+    "premium": false,
+    "positive": true,
+    "id": 1567
+  }
+]

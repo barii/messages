@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 524,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I'd rather not say",
+    "premium": false,
+    "positive": true,
+    "id": 3661
+  },
+  {
+    "preset_id": 524,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Prefiero no decir",
+    "premium": false,
+    "positive": true,
+    "id": 3662
+  },
+  {
+    "preset_id": 524,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Möchte ich lieber nicht sagen",
+    "premium": false,
+    "positive": true,
+    "id": 3663
+  },
+  {
+    "preset_id": 524,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Preferia não dizer",
+    "premium": false,
+    "positive": true,
+    "id": 3664
+  },
+  {
+    "preset_id": 524,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Wolałbym nie mówić",
+    "premium": false,
+    "positive": true,
+    "id": 3665
+  },
+  {
+    "preset_id": 524,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Предпочёл бы не говорить",
+    "premium": false,
+    "positive": true,
+    "id": 3666
+  },
+  {
+    "preset_id": 524,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我不想说",
+    "premium": false,
+    "positive": true,
+    "id": 3667
+  }
+]

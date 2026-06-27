@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1115,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "See you later",
+    "premium": false,
+    "positive": true,
+    "id": 7798
+  },
+  {
+    "preset_id": 1115,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Nos vemos",
+    "premium": false,
+    "positive": true,
+    "id": 7799
+  },
+  {
+    "preset_id": 1115,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Bis später",
+    "premium": false,
+    "positive": true,
+    "id": 7800
+  },
+  {
+    "preset_id": 1115,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Até logo",
+    "premium": false,
+    "positive": true,
+    "id": 7801
+  },
+  {
+    "preset_id": 1115,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Do zobaczenia",
+    "premium": false,
+    "positive": true,
+    "id": 7802
+  },
+  {
+    "preset_id": 1115,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "До скорого",
+    "premium": false,
+    "positive": true,
+    "id": 7803
+  },
+  {
+    "preset_id": 1115,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "回头见",
+    "premium": false,
+    "positive": true,
+    "id": 7804
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 46,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're loved",
+    "premium": false,
+    "positive": true,
+    "id": 315
+  },
+  {
+    "preset_id": 46,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres amado",
+    "premium": false,
+    "positive": true,
+    "id": 316
+  },
+  {
+    "preset_id": 46,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du wirst geliebt",
+    "premium": false,
+    "positive": true,
+    "id": 317
+  },
+  {
+    "preset_id": 46,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És amado",
+    "premium": false,
+    "positive": true,
+    "id": 318
+  },
+  {
+    "preset_id": 46,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś kochany",
+    "premium": false,
+    "positive": true,
+    "id": 319
+  },
+  {
+    "preset_id": 46,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты любим",
+    "premium": false,
+    "positive": true,
+    "id": 320
+  },
+  {
+    "preset_id": 46,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你被爱着",
+    "premium": false,
+    "positive": true,
+    "id": 321
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 579,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Nice try",
+    "premium": false,
+    "positive": true,
+    "id": 4046
+  },
+  {
+    "preset_id": 579,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Buen intento",
+    "premium": false,
+    "positive": true,
+    "id": 4047
+  },
+  {
+    "preset_id": 579,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Netter Versuch",
+    "premium": false,
+    "positive": true,
+    "id": 4048
+  },
+  {
+    "preset_id": 579,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Boa tentativa",
+    "premium": false,
+    "positive": true,
+    "id": 4049
+  },
+  {
+    "preset_id": 579,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Niezła próba",
+    "premium": false,
+    "positive": true,
+    "id": 4050
+  },
+  {
+    "preset_id": 579,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Хорошая попытка",
+    "premium": false,
+    "positive": true,
+    "id": 4051
+  },
+  {
+    "preset_id": 579,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "好尝试",
+    "premium": false,
+    "positive": true,
+    "id": 4052
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1039,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "How's your day going?",
+    "premium": false,
+    "positive": true,
+    "id": 7266
+  },
+  {
+    "preset_id": 1039,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "¿Cómo va tu día?",
+    "premium": false,
+    "positive": true,
+    "id": 7267
+  },
+  {
+    "preset_id": 1039,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Wie läuft dein Tag?",
+    "premium": false,
+    "positive": true,
+    "id": 7268
+  },
+  {
+    "preset_id": 1039,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Como está o teu dia?",
+    "premium": false,
+    "positive": true,
+    "id": 7269
+  },
+  {
+    "preset_id": 1039,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Jak ci idzie dzień?",
+    "premium": false,
+    "positive": true,
+    "id": 7270
+  },
+  {
+    "preset_id": 1039,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Как проходит твой день?",
+    "premium": false,
+    "positive": true,
+    "id": 7271
+  },
+  {
+    "preset_id": 1039,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "你今天过得怎么样?",
+    "premium": false,
+    "positive": true,
+    "id": 7272
+  }
+]

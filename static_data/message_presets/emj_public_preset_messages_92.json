@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 92,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "You take yourself too seriously",
+    "premium": false,
+    "positive": false,
+    "id": 637
+  },
+  {
+    "preset_id": 92,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Te tomas demasiado en serio",
+    "premium": false,
+    "positive": false,
+    "id": 638
+  },
+  {
+    "preset_id": 92,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Du nimmst dich zu ernst",
+    "premium": false,
+    "positive": false,
+    "id": 639
+  },
+  {
+    "preset_id": 92,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Levas-te demasiado a sério",
+    "premium": false,
+    "positive": false,
+    "id": 640
+  },
+  {
+    "preset_id": 92,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Bierzesz siebie zbyt poważnie",
+    "premium": false,
+    "positive": false,
+    "id": 641
+  },
+  {
+    "preset_id": 92,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Ты слишком серьёзно к себе относишься",
+    "premium": false,
+    "positive": false,
+    "id": 642
+  },
+  {
+    "preset_id": 92,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "你太把自己当回事了",
+    "premium": false,
+    "positive": false,
+    "id": 643
+  }
+]

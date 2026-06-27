@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 783,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "No notes",
+    "premium": false,
+    "positive": true,
+    "id": 5474
+  },
+  {
+    "preset_id": 783,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Sin notas",
+    "premium": false,
+    "positive": true,
+    "id": 5475
+  },
+  {
+    "preset_id": 783,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Keine Anmerkungen",
+    "premium": false,
+    "positive": true,
+    "id": 5476
+  },
+  {
+    "preset_id": 783,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Sem notas",
+    "premium": false,
+    "positive": true,
+    "id": 5477
+  },
+  {
+    "preset_id": 783,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Bez uwag",
+    "premium": false,
+    "positive": true,
+    "id": 5478
+  },
+  {
+    "preset_id": 783,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Без комментариев",
+    "premium": false,
+    "positive": true,
+    "id": 5479
+  },
+  {
+    "preset_id": 783,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "没什么可说的",
+    "premium": false,
+    "positive": true,
+    "id": 5480
+  }
+]

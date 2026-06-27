@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 357,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm mixed",
+    "premium": false,
+    "positive": true,
+    "id": 2492
+  },
+  {
+    "preset_id": 357,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Soy mestizo",
+    "premium": false,
+    "positive": true,
+    "id": 2493
+  },
+  {
+    "preset_id": 357,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin gemischt",
+    "premium": false,
+    "positive": true,
+    "id": 2494
+  },
+  {
+    "preset_id": 357,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Sou mestiço",
+    "premium": false,
+    "positive": true,
+    "id": 2495
+  },
+  {
+    "preset_id": 357,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem mieszany",
+    "premium": false,
+    "positive": true,
+    "id": 2496
+  },
+  {
+    "preset_id": 357,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я смешанный",
+    "premium": false,
+    "positive": true,
+    "id": 2497
+  },
+  {
+    "preset_id": 357,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我是混血",
+    "premium": false,
+    "positive": true,
+    "id": 2498
+  }
+]

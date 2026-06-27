@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 926,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Drink some water",
+    "premium": false,
+    "positive": true,
+    "id": 6475
+  },
+  {
+    "preset_id": 926,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Bebe agua",
+    "premium": false,
+    "positive": true,
+    "id": 6476
+  },
+  {
+    "preset_id": 926,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Trink etwas Wasser",
+    "premium": false,
+    "positive": true,
+    "id": 6477
+  },
+  {
+    "preset_id": 926,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Bebe água",
+    "premium": false,
+    "positive": true,
+    "id": 6478
+  },
+  {
+    "preset_id": 926,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Napij się wody",
+    "premium": false,
+    "positive": true,
+    "id": 6479
+  },
+  {
+    "preset_id": 926,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Выпей воды",
+    "premium": false,
+    "positive": true,
+    "id": 6480
+  },
+  {
+    "preset_id": 926,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "喝点水",
+    "premium": false,
+    "positive": true,
+    "id": 6481
+  }
+]

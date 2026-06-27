@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 850,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You give me butterflies",
+    "premium": false,
+    "positive": true,
+    "id": 5943
+  },
+  {
+    "preset_id": 850,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Me das mariposas",
+    "premium": false,
+    "positive": true,
+    "id": 5944
+  },
+  {
+    "preset_id": 850,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Du gibst mir Schmetterlinge",
+    "premium": false,
+    "positive": true,
+    "id": 5945
+  },
+  {
+    "preset_id": 850,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Dás-me borboletas no estômago",
+    "premium": false,
+    "positive": true,
+    "id": 5946
+  },
+  {
+    "preset_id": 850,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Dajesz mi motyle w brzuchu",
+    "premium": false,
+    "positive": true,
+    "id": 5947
+  },
+  {
+    "preset_id": 850,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "У меня от тебя бабочки в животе",
+    "premium": false,
+    "positive": true,
+    "id": 5948
+  },
+  {
+    "preset_id": 850,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你让我心跳加速",
+    "premium": false,
+    "positive": true,
+    "id": 5949
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 529,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Not right now",
+    "premium": false,
+    "positive": true,
+    "id": 3696
+  },
+  {
+    "preset_id": 529,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Ahora no",
+    "premium": false,
+    "positive": true,
+    "id": 3697
+  },
+  {
+    "preset_id": 529,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Jetzt nicht",
+    "premium": false,
+    "positive": true,
+    "id": 3698
+  },
+  {
+    "preset_id": 529,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Agora não",
+    "premium": false,
+    "positive": true,
+    "id": 3699
+  },
+  {
+    "preset_id": 529,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Nie teraz",
+    "premium": false,
+    "positive": true,
+    "id": 3700
+  },
+  {
+    "preset_id": 529,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Не сейчас",
+    "premium": false,
+    "positive": true,
+    "id": 3701
+  },
+  {
+    "preset_id": 529,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "现在不行",
+    "premium": false,
+    "positive": true,
+    "id": 3702
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1694,
+    "preset_id": 242,
+    "cat_emoji": "🇪🇸",
+    "lang": "EN",
+    "category": "Spanish Football Teams",
+    "text": "Rayo Vallecano",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1695,
+    "preset_id": 242,
+    "cat_emoji": "🇪🇸",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Españoles",
+    "text": "Rayo Vallecano",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1696,
+    "preset_id": 242,
+    "cat_emoji": "🇪🇸",
+    "lang": "DE",
+    "category": "Spanische Fußballmannschaften",
+    "text": "Rayo Vallecano",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1697,
+    "preset_id": 242,
+    "cat_emoji": "🇪🇸",
+    "lang": "PL",
+    "category": "Hiszpańskie drużyny piłkarskie",
+    "text": "Rayo Vallecano",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1698,
+    "preset_id": 242,
+    "cat_emoji": "🇪🇸",
+    "lang": "RU",
+    "category": "Испанские футбольные команды",
+    "text": "Rayo Vallecano",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1699,
+    "preset_id": 242,
+    "cat_emoji": "🇪🇸",
+    "lang": "PT",
+    "category": "Times de futebol espanhóis",
+    "text": "Rayo Vallecano",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1700,
+    "preset_id": 242,
+    "cat_emoji": "🇪🇸",
+    "lang": "CN",
+    "category": "西班牙足球队",
+    "text": "Rayo Vallecano",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  }
+]

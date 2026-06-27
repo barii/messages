@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 118,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Have you eaten today?",
+    "premium": false,
+    "positive": true,
+    "id": 819
+  },
+  {
+    "preset_id": 118,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Has comido hoy?",
+    "premium": false,
+    "positive": true,
+    "id": 820
+  },
+  {
+    "preset_id": 118,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Hast du heute gegessen?",
+    "premium": false,
+    "positive": true,
+    "id": 821
+  },
+  {
+    "preset_id": 118,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Comeste hoje?",
+    "premium": false,
+    "positive": true,
+    "id": 822
+  },
+  {
+    "preset_id": 118,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jadłeś dziś?",
+    "premium": false,
+    "positive": true,
+    "id": 823
+  },
+  {
+    "preset_id": 118,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты ел сегодня?",
+    "premium": false,
+    "positive": true,
+    "id": 824
+  },
+  {
+    "preset_id": 118,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你今天吃饭了吗?",
+    "premium": false,
+    "positive": true,
+    "id": 825
+  }
+]

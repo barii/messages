@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1376,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Your team gave up at half time.",
+    "premium": false,
+    "positive": true,
+    "id": 9625
+  },
+  {
+    "preset_id": 1376,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Vuestro equipo se rindió en el descanso.",
+    "premium": false,
+    "positive": true,
+    "id": 9626
+  },
+  {
+    "preset_id": 1376,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Eure Mannschaft hat zur Halbzeit aufgegeben.",
+    "premium": false,
+    "positive": true,
+    "id": 9627
+  },
+  {
+    "preset_id": 1376,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "A vossa equipa desistiu ao intervalo.",
+    "premium": false,
+    "positive": true,
+    "id": 9628
+  },
+  {
+    "preset_id": 1376,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Wasza drużyna poddała się w przerwie.",
+    "premium": false,
+    "positive": true,
+    "id": 9629
+  },
+  {
+    "preset_id": 1376,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Ваша команда сдалась в перерыве.",
+    "premium": false,
+    "positive": true,
+    "id": 9630
+  },
+  {
+    "preset_id": 1376,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们队中场就放弃了。",
+    "premium": false,
+    "positive": true,
+    "id": 9631
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1533,
+    "preset_id": 219,
+    "cat_emoji": "🇵🇹",
+    "lang": "EN",
+    "category": "Portuguese Football Teams",
+    "text": "Famalicão",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1534,
+    "preset_id": 219,
+    "cat_emoji": "🇵🇹",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Portugueses",
+    "text": "Famalicão",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1535,
+    "preset_id": 219,
+    "cat_emoji": "🇵🇹",
+    "lang": "DE",
+    "category": "Portugiesische Fußballmannschaften",
+    "text": "Famalicão",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1536,
+    "preset_id": 219,
+    "cat_emoji": "🇵🇹",
+    "lang": "PL",
+    "category": "Portugalskie drużyny piłkarskie",
+    "text": "Famalicão",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1537,
+    "preset_id": 219,
+    "cat_emoji": "🇵🇹",
+    "lang": "RU",
+    "category": "Португальские футбольные команды",
+    "text": "Famalicão",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1538,
+    "preset_id": 219,
+    "cat_emoji": "🇵🇹",
+    "lang": "PT",
+    "category": "Times de futebol portugueses",
+    "text": "Famalicão",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1539,
+    "preset_id": 219,
+    "cat_emoji": "🇵🇹",
+    "lang": "CN",
+    "category": "葡萄牙足球队",
+    "text": "Famalicão",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇹",
+    "continent": "European"
+  }
+]

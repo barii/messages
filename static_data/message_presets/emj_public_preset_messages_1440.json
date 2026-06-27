@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1440,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Job done.",
+    "premium": false,
+    "positive": true,
+    "id": 10073
+  },
+  {
+    "preset_id": 1440,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Trabajo hecho.",
+    "premium": false,
+    "positive": true,
+    "id": 10074
+  },
+  {
+    "preset_id": 1440,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Erledigt.",
+    "premium": false,
+    "positive": true,
+    "id": 10075
+  },
+  {
+    "preset_id": 1440,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Trabalho feito.",
+    "premium": false,
+    "positive": true,
+    "id": 10076
+  },
+  {
+    "preset_id": 1440,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Robota wykonana.",
+    "premium": false,
+    "positive": true,
+    "id": 10077
+  },
+  {
+    "preset_id": 1440,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Работа сделана.",
+    "premium": false,
+    "positive": true,
+    "id": 10078
+  },
+  {
+    "preset_id": 1440,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "搞定。",
+    "premium": false,
+    "positive": true,
+    "id": 10079
+  }
+]

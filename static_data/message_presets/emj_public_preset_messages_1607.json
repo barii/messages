@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1607,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "We've been worse and still won.",
+    "premium": false,
+    "positive": true,
+    "id": 11242
+  },
+  {
+    "preset_id": 1607,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Hemos estado peor y aún hemos ganado.",
+    "premium": false,
+    "positive": true,
+    "id": 11243
+  },
+  {
+    "preset_id": 1607,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Wir waren schon schlechter und haben trotzdem gewonnen.",
+    "premium": false,
+    "positive": true,
+    "id": 11244
+  },
+  {
+    "preset_id": 1607,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Já estivemos pior e ganhámos na mesma.",
+    "premium": false,
+    "positive": true,
+    "id": 11245
+  },
+  {
+    "preset_id": 1607,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Byliśmy w gorszej formie i wygraliśmy.",
+    "premium": false,
+    "positive": true,
+    "id": 11246
+  },
+  {
+    "preset_id": 1607,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Мы были хуже и всё равно выиграли.",
+    "premium": false,
+    "positive": true,
+    "id": 11247
+  },
+  {
+    "preset_id": 1607,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "我们更差的时候都赢过。",
+    "premium": false,
+    "positive": true,
+    "id": 11248
+  }
+]

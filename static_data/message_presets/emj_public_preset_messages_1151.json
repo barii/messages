@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1151,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "What's on your mind?",
+    "premium": false,
+    "positive": true,
+    "id": 8050
+  },
+  {
+    "preset_id": 1151,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "¿En qué estás pensando?",
+    "premium": false,
+    "positive": true,
+    "id": 8051
+  },
+  {
+    "preset_id": 1151,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Was geht dir durch den Kopf?",
+    "premium": false,
+    "positive": true,
+    "id": 8052
+  },
+  {
+    "preset_id": 1151,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "No que estás a pensar?",
+    "premium": false,
+    "positive": true,
+    "id": 8053
+  },
+  {
+    "preset_id": 1151,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "O czym myślisz?",
+    "premium": false,
+    "positive": true,
+    "id": 8054
+  },
+  {
+    "preset_id": 1151,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "О чём думаешь?",
+    "premium": false,
+    "positive": true,
+    "id": 8055
+  },
+  {
+    "preset_id": 1151,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "你在想什么?",
+    "premium": false,
+    "positive": true,
+    "id": 8056
+  }
+]

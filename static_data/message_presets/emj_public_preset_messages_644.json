@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 644,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Take it down a notch",
+    "premium": false,
+    "positive": true,
+    "id": 4501
+  },
+  {
+    "preset_id": 644,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Baja el tono",
+    "premium": false,
+    "positive": true,
+    "id": 4502
+  },
+  {
+    "preset_id": 644,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Schalt einen Gang runter",
+    "premium": false,
+    "positive": true,
+    "id": 4503
+  },
+  {
+    "preset_id": 644,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Baixa o tom",
+    "premium": false,
+    "positive": true,
+    "id": 4504
+  },
+  {
+    "preset_id": 644,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Zluzuj",
+    "premium": false,
+    "positive": true,
+    "id": 4505
+  },
+  {
+    "preset_id": 644,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Спокойнее",
+    "premium": false,
+    "positive": true,
+    "id": 4506
+  },
+  {
+    "preset_id": 644,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "降低音量",
+    "premium": false,
+    "positive": true,
+    "id": 4507
+  }
+]

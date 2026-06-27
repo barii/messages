@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1527,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You wish that was true.",
+    "premium": false,
+    "positive": true,
+    "id": 10682
+  },
+  {
+    "preset_id": 1527,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Os gustaría que eso fuera verdad.",
+    "premium": false,
+    "positive": true,
+    "id": 10683
+  },
+  {
+    "preset_id": 1527,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ihr wünschtet, das wäre wahr.",
+    "premium": false,
+    "positive": true,
+    "id": 10684
+  },
+  {
+    "preset_id": 1527,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Quem me dera que isso fosse verdade.",
+    "premium": false,
+    "positive": true,
+    "id": 10685
+  },
+  {
+    "preset_id": 1527,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Chcielibyście, żeby to była prawda.",
+    "premium": false,
+    "positive": true,
+    "id": 10686
+  },
+  {
+    "preset_id": 1527,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Хотели бы вы, чтобы это было правдой.",
+    "premium": false,
+    "positive": true,
+    "id": 10687
+  },
+  {
+    "preset_id": 1527,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们倒希望那是真的。",
+    "premium": false,
+    "positive": true,
+    "id": 10688
+  }
+]

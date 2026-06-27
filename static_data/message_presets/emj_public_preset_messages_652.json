@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 652,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Be serious",
+    "premium": false,
+    "positive": true,
+    "id": 4557
+  },
+  {
+    "preset_id": 652,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Sé serio",
+    "premium": false,
+    "positive": true,
+    "id": 4558
+  },
+  {
+    "preset_id": 652,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Sei ernst",
+    "premium": false,
+    "positive": true,
+    "id": 4559
+  },
+  {
+    "preset_id": 652,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Sê sério",
+    "premium": false,
+    "positive": true,
+    "id": 4560
+  },
+  {
+    "preset_id": 652,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Bądź poważny",
+    "premium": false,
+    "positive": true,
+    "id": 4561
+  },
+  {
+    "preset_id": 652,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Будь серьёзным",
+    "premium": false,
+    "positive": true,
+    "id": 4562
+  },
+  {
+    "preset_id": 652,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "认真点",
+    "premium": false,
+    "positive": true,
+    "id": 4563
+  }
+]

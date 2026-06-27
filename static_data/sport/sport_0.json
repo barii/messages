@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "preset_id": 0,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "Sport",
+    "text": "Football",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚽",
+    "continent": "European"
+  },
+  {
+    "id": 1,
+    "preset_id": 0,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Sport",
+    "text": "Fútbol",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚽",
+    "continent": "European"
+  },
+  {
+    "id": 2,
+    "preset_id": 0,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Sport",
+    "text": "Fußball",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚽",
+    "continent": "European"
+  },
+  {
+    "id": 3,
+    "preset_id": 0,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Sport",
+    "text": "Piłka nożna",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚽",
+    "continent": "European"
+  },
+  {
+    "id": 4,
+    "preset_id": 0,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "Sport",
+    "text": "Футбол",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚽",
+    "continent": "European"
+  },
+  {
+    "id": 5,
+    "preset_id": 0,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Sport",
+    "text": "Futebol",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚽",
+    "continent": "European"
+  },
+  {
+    "id": 6,
+    "preset_id": 0,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "Sport",
+    "text": "足球",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚽",
+    "continent": "European"
+  }
+]

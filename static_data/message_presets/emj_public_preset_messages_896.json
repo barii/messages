@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 896,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I need to be honest with you",
+    "premium": false,
+    "positive": true,
+    "id": 6265
+  },
+  {
+    "preset_id": 896,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Necesito ser honesto contigo",
+    "premium": false,
+    "positive": true,
+    "id": 6266
+  },
+  {
+    "preset_id": 896,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich muss ehrlich mit dir sein",
+    "premium": false,
+    "positive": true,
+    "id": 6267
+  },
+  {
+    "preset_id": 896,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Preciso de ser honesto contigo",
+    "premium": false,
+    "positive": true,
+    "id": 6268
+  },
+  {
+    "preset_id": 896,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Muszę być z tobą szczery",
+    "premium": false,
+    "positive": true,
+    "id": 6269
+  },
+  {
+    "preset_id": 896,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Мне нужно быть честным с тобой",
+    "premium": false,
+    "positive": true,
+    "id": 6270
+  },
+  {
+    "preset_id": 896,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我需要对你诚实",
+    "premium": false,
+    "positive": true,
+    "id": 6271
+  }
+]

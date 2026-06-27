@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 712,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I shouldn't have done that",
+    "premium": false,
+    "positive": true,
+    "id": 4977
+  },
+  {
+    "preset_id": 712,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "No debí haberlo hecho",
+    "premium": false,
+    "positive": true,
+    "id": 4978
+  },
+  {
+    "preset_id": 712,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Das hätte ich nicht tun sollen",
+    "premium": false,
+    "positive": true,
+    "id": 4979
+  },
+  {
+    "preset_id": 712,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Não devia ter feito isso",
+    "premium": false,
+    "positive": true,
+    "id": 4980
+  },
+  {
+    "preset_id": 712,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Nie powinienem był tego robić",
+    "premium": false,
+    "positive": true,
+    "id": 4981
+  },
+  {
+    "preset_id": 712,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Мне не стоило этого делать",
+    "premium": false,
+    "positive": true,
+    "id": 4982
+  },
+  {
+    "preset_id": 712,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我不该那样做",
+    "premium": false,
+    "positive": true,
+    "id": 4983
+  }
+]

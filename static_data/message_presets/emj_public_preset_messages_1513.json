@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1513,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Championship mentality.",
+    "premium": true,
+    "positive": true,
+    "id": 10584
+  },
+  {
+    "preset_id": 1513,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Mentalidad de campeones.",
+    "premium": true,
+    "positive": true,
+    "id": 10585
+  },
+  {
+    "preset_id": 1513,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Meistermentalität.",
+    "premium": true,
+    "positive": true,
+    "id": 10586
+  },
+  {
+    "preset_id": 1513,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Mentalidade de campeão.",
+    "premium": true,
+    "positive": true,
+    "id": 10587
+  },
+  {
+    "preset_id": 1513,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Mentalność mistrza.",
+    "premium": true,
+    "positive": true,
+    "id": 10588
+  },
+  {
+    "preset_id": 1513,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Менталитет чемпионов.",
+    "premium": true,
+    "positive": true,
+    "id": 10589
+  },
+  {
+    "preset_id": 1513,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "冠军心态。",
+    "premium": true,
+    "positive": true,
+    "id": 10590
+  }
+]

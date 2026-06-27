@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 771,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Stop",
+    "premium": false,
+    "positive": true,
+    "id": 5390
+  },
+  {
+    "preset_id": 771,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Basta",
+    "premium": false,
+    "positive": true,
+    "id": 5391
+  },
+  {
+    "preset_id": 771,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Stopp",
+    "premium": false,
+    "positive": true,
+    "id": 5392
+  },
+  {
+    "preset_id": 771,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Para",
+    "premium": false,
+    "positive": true,
+    "id": 5393
+  },
+  {
+    "preset_id": 771,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Stop",
+    "premium": false,
+    "positive": true,
+    "id": 5394
+  },
+  {
+    "preset_id": 771,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Стоп",
+    "premium": false,
+    "positive": true,
+    "id": 5395
+  },
+  {
+    "preset_id": 771,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "停",
+    "premium": false,
+    "positive": true,
+    "id": 5396
+  }
+]

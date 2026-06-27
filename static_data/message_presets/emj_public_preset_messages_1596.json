@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1596,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "VAR ruined it, sure.",
+    "premium": false,
+    "positive": true,
+    "id": 11165
+  },
+  {
+    "preset_id": 1596,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "El VAR lo arruinó, claro.",
+    "premium": false,
+    "positive": true,
+    "id": 11166
+  },
+  {
+    "preset_id": 1596,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Der VAR hat es ruiniert, klar.",
+    "premium": false,
+    "positive": true,
+    "id": 11167
+  },
+  {
+    "preset_id": 1596,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "O VAR estragou tudo, claro.",
+    "premium": false,
+    "positive": true,
+    "id": 11168
+  },
+  {
+    "preset_id": 1596,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "VAR to zniszczył, jasne.",
+    "premium": false,
+    "positive": true,
+    "id": 11169
+  },
+  {
+    "preset_id": 1596,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "ВАР всё испортил, конечно.",
+    "premium": false,
+    "positive": true,
+    "id": 11170
+  },
+  {
+    "preset_id": 1596,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "VAR毁了比赛,当然了。",
+    "premium": false,
+    "positive": true,
+    "id": 11171
+  }
+]

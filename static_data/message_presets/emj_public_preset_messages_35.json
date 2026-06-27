@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 35,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You always figure things out",
+    "premium": false,
+    "positive": true,
+    "id": 238
+  },
+  {
+    "preset_id": 35,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Siempre encuentras la manera",
+    "premium": false,
+    "positive": true,
+    "id": 239
+  },
+  {
+    "preset_id": 35,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du findest immer einen Weg",
+    "premium": false,
+    "positive": true,
+    "id": 240
+  },
+  {
+    "preset_id": 35,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Encontras sempre um caminho",
+    "premium": false,
+    "positive": true,
+    "id": 241
+  },
+  {
+    "preset_id": 35,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Zawsze znajdziesz sposób",
+    "premium": false,
+    "positive": true,
+    "id": 242
+  },
+  {
+    "preset_id": 35,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты всегда находишь способ",
+    "premium": false,
+    "positive": true,
+    "id": 243
+  },
+  {
+    "preset_id": 35,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你总能想出办法",
+    "premium": false,
+    "positive": true,
+    "id": 244
+  }
+]

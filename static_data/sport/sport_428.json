@@ -1,0 +1,86 @@
+[
+  {
+    "id": 2996,
+    "preset_id": 428,
+    "cat_emoji": "🇷🇺",
+    "lang": "EN",
+    "category": "Russian Football Teams",
+    "text": "Zenit St. Petersburg",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2997,
+    "preset_id": 428,
+    "cat_emoji": "🇷🇺",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Rusos",
+    "text": "Zenit St. Petersburg",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2998,
+    "preset_id": 428,
+    "cat_emoji": "🇷🇺",
+    "lang": "DE",
+    "category": "Russische Fußballmannschaften",
+    "text": "Zenit St. Petersburg",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 2999,
+    "preset_id": 428,
+    "cat_emoji": "🇷🇺",
+    "lang": "PL",
+    "category": "Rosyjskie drużyny piłkarskie",
+    "text": "Zenit St. Petersburg",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 3000,
+    "preset_id": 428,
+    "cat_emoji": "🇷🇺",
+    "lang": "RU",
+    "category": "Российские футбольные команды",
+    "text": "Zenit St. Petersburg",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 3001,
+    "preset_id": 428,
+    "cat_emoji": "🇷🇺",
+    "lang": "PT",
+    "category": "Times de futebol russos",
+    "text": "Zenit St. Petersburg",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  },
+  {
+    "id": 3002,
+    "preset_id": 428,
+    "cat_emoji": "🇷🇺",
+    "lang": "CN",
+    "category": "俄罗斯足球队",
+    "text": "Zenit St. Petersburg",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇷🇺",
+    "continent": "European"
+  }
+]

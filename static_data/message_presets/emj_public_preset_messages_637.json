@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 637,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Mind your business",
+    "premium": false,
+    "positive": true,
+    "id": 4452
+  },
+  {
+    "preset_id": 637,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Métete en tus asuntos",
+    "premium": false,
+    "positive": true,
+    "id": 4453
+  },
+  {
+    "preset_id": 637,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Kümmer dich um deine Angelegenheiten",
+    "premium": false,
+    "positive": true,
+    "id": 4454
+  },
+  {
+    "preset_id": 637,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Mete-te na tua vida",
+    "premium": false,
+    "positive": true,
+    "id": 4455
+  },
+  {
+    "preset_id": 637,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Pilnuj swojego nosa",
+    "premium": false,
+    "positive": true,
+    "id": 4456
+  },
+  {
+    "preset_id": 637,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Занимайся своими делами",
+    "premium": false,
+    "positive": true,
+    "id": 4457
+  },
+  {
+    "preset_id": 637,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "管好你自己的事",
+    "premium": false,
+    "positive": true,
+    "id": 4458
+  }
+]

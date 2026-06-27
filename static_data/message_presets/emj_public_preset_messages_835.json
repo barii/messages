@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 835,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I think we would be cute together",
+    "premium": false,
+    "positive": true,
+    "id": 5838
+  },
+  {
+    "preset_id": 835,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Creo que seríamos lindos juntos",
+    "premium": false,
+    "positive": true,
+    "id": 5839
+  },
+  {
+    "preset_id": 835,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich denke, wir wären süß zusammen",
+    "premium": false,
+    "positive": true,
+    "id": 5840
+  },
+  {
+    "preset_id": 835,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Acho que seríamos giros juntos",
+    "premium": false,
+    "positive": true,
+    "id": 5841
+  },
+  {
+    "preset_id": 835,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Myślę, że byłoby nam słodko razem",
+    "premium": false,
+    "positive": true,
+    "id": 5842
+  },
+  {
+    "preset_id": 835,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Думаю, мы были бы милы вместе",
+    "premium": false,
+    "positive": true,
+    "id": 5843
+  },
+  {
+    "preset_id": 835,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我觉得我们在一起会很可爱",
+    "premium": false,
+    "positive": true,
+    "id": 5844
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1180,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Happy Birthday from your secret admirer",
+    "premium": false,
+    "positive": true,
+    "id": 8253
+  },
+  {
+    "preset_id": 1180,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Feliz Cumpleaños de tu admirador secreto",
+    "premium": false,
+    "positive": true,
+    "id": 8254
+  },
+  {
+    "preset_id": 1180,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Alles Gute zum Geburtstag von deinem heimlichen Verehrer",
+    "premium": false,
+    "positive": true,
+    "id": 8255
+  },
+  {
+    "preset_id": 1180,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Parabéns do teu admirador secreto",
+    "premium": false,
+    "positive": true,
+    "id": 8256
+  },
+  {
+    "preset_id": 1180,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Wszystkiego najlepszego od twojego tajemniczego wielbiciela",
+    "premium": false,
+    "positive": true,
+    "id": 8257
+  },
+  {
+    "preset_id": 1180,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "С днём рождения от твоего тайного поклонника",
+    "premium": false,
+    "positive": true,
+    "id": 8258
+  },
+  {
+    "preset_id": 1180,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "生日快乐,来自你的秘密仰慕者",
+    "premium": false,
+    "positive": true,
+    "id": 8259
+  }
+]

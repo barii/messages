@@ -1,0 +1,86 @@
+[
+  {
+    "id": 840,
+    "preset_id": 120,
+    "cat_emoji": "🇧🇷",
+    "lang": "EN",
+    "category": "Brazilian Football Teams",
+    "text": "Internacional",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 841,
+    "preset_id": 120,
+    "cat_emoji": "🇧🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Brasileños",
+    "text": "Internacional",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 842,
+    "preset_id": 120,
+    "cat_emoji": "🇧🇷",
+    "lang": "DE",
+    "category": "Brasilianische Fußballmannschaften",
+    "text": "Internacional",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 843,
+    "preset_id": 120,
+    "cat_emoji": "🇧🇷",
+    "lang": "PL",
+    "category": "Brazylijskie drużyny piłkarskie",
+    "text": "Internacional",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 844,
+    "preset_id": 120,
+    "cat_emoji": "🇧🇷",
+    "lang": "RU",
+    "category": "Бразильские футбольные команды",
+    "text": "Internacional",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 845,
+    "preset_id": 120,
+    "cat_emoji": "🇧🇷",
+    "lang": "PT",
+    "category": "Times de futebol brasileiros",
+    "text": "Internacional",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  },
+  {
+    "id": 846,
+    "preset_id": 120,
+    "cat_emoji": "🇧🇷",
+    "lang": "CN",
+    "category": "巴西足球队",
+    "text": "Internacional",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇧🇷",
+    "continent": "European"
+  }
+]

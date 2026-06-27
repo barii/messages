@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 958,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Make the call",
+    "premium": false,
+    "positive": true,
+    "id": 6699
+  },
+  {
+    "preset_id": 958,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Haz la llamada",
+    "premium": false,
+    "positive": true,
+    "id": 6700
+  },
+  {
+    "preset_id": 958,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Mach den Anruf",
+    "premium": false,
+    "positive": true,
+    "id": 6701
+  },
+  {
+    "preset_id": 958,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Faz a chamada",
+    "premium": false,
+    "positive": true,
+    "id": 6702
+  },
+  {
+    "preset_id": 958,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Wykonaj telefon",
+    "premium": false,
+    "positive": true,
+    "id": 6703
+  },
+  {
+    "preset_id": 958,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Сделай звонок",
+    "premium": false,
+    "positive": true,
+    "id": 6704
+  },
+  {
+    "preset_id": 958,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "打那个电话",
+    "premium": false,
+    "positive": true,
+    "id": 6705
+  }
+]

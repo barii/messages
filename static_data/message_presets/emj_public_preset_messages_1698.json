@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1698,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Grounded out? More like grounded at home!",
+    "premium": false,
+    "positive": true,
+    "id": 11879
+  },
+  {
+    "preset_id": 1698,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Grounded out? More like grounded at home!",
+    "premium": false,
+    "positive": true,
+    "id": 11880
+  },
+  {
+    "preset_id": 1698,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Grounded out? More like grounded at home!",
+    "premium": false,
+    "positive": true,
+    "id": 11881
+  },
+  {
+    "preset_id": 1698,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Grounded out? More like grounded at home!",
+    "premium": false,
+    "positive": true,
+    "id": 11882
+  },
+  {
+    "preset_id": 1698,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Grounded out? More like grounded at home!",
+    "premium": false,
+    "positive": true,
+    "id": 11883
+  },
+  {
+    "preset_id": 1698,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Grounded out? More like grounded at home!",
+    "premium": false,
+    "positive": true,
+    "id": 11884
+  },
+  {
+    "preset_id": 1698,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Grounded out? More like grounded at home!",
+    "premium": false,
+    "positive": true,
+    "id": 11885
+  }
+]

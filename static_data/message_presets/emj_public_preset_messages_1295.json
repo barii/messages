@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1295,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Absolute shocker.",
+    "premium": false,
+    "positive": true,
+    "id": 9058
+  },
+  {
+    "preset_id": 1295,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Bochorno absoluto.",
+    "premium": false,
+    "positive": true,
+    "id": 9059
+  },
+  {
+    "preset_id": 1295,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Absoluter Reinfall.",
+    "premium": false,
+    "positive": true,
+    "id": 9060
+  },
+  {
+    "preset_id": 1295,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Vergonha absoluta.",
+    "premium": false,
+    "positive": true,
+    "id": 9061
+  },
+  {
+    "preset_id": 1295,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Absolutny wstyd.",
+    "premium": false,
+    "positive": true,
+    "id": 9062
+  },
+  {
+    "preset_id": 1295,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Абсолютный позор.",
+    "premium": false,
+    "positive": true,
+    "id": 9063
+  },
+  {
+    "preset_id": 1295,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "彻底丢人。",
+    "premium": false,
+    "positive": true,
+    "id": 9064
+  }
+]

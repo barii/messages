@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 38,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You make me laugh like no one else",
+    "premium": true,
+    "positive": true,
+    "id": 259
+  },
+  {
+    "preset_id": 38,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Me haces reír como nadie",
+    "premium": true,
+    "positive": true,
+    "id": 260
+  },
+  {
+    "preset_id": 38,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bringst mich zum Lachen wie niemand sonst",
+    "premium": true,
+    "positive": true,
+    "id": 261
+  },
+  {
+    "preset_id": 38,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Fazes-me rir como ninguém",
+    "premium": true,
+    "positive": true,
+    "id": 262
+  },
+  {
+    "preset_id": 38,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Rozśmieszasz mnie jak nikt inny",
+    "premium": true,
+    "positive": true,
+    "id": 263
+  },
+  {
+    "preset_id": 38,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты заставляешь меня смеяться как никто другой",
+    "premium": true,
+    "positive": true,
+    "id": 264
+  },
+  {
+    "preset_id": 38,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你让我笑得像没人能让我那样",
+    "premium": true,
+    "positive": true,
+    "id": 265
+  }
+]

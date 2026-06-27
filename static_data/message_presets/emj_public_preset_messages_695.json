@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 695,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "You're too kind",
+    "premium": false,
+    "positive": true,
+    "id": 4858
+  },
+  {
+    "preset_id": 695,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Eres muy amable",
+    "premium": false,
+    "positive": true,
+    "id": 4859
+  },
+  {
+    "preset_id": 695,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Du bist zu nett",
+    "premium": false,
+    "positive": true,
+    "id": 4860
+  },
+  {
+    "preset_id": 695,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "És demasiado simpático",
+    "premium": false,
+    "positive": true,
+    "id": 4861
+  },
+  {
+    "preset_id": 695,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Jesteś zbyt miły",
+    "premium": false,
+    "positive": true,
+    "id": 4862
+  },
+  {
+    "preset_id": 695,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Ты слишком добр",
+    "premium": false,
+    "positive": true,
+    "id": 4863
+  },
+  {
+    "preset_id": 695,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "你太好了",
+    "premium": false,
+    "positive": true,
+    "id": 4864
+  }
+]

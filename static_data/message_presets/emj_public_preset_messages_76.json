@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 76,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "That was cringe",
+    "premium": false,
+    "positive": false,
+    "id": 525
+  },
+  {
+    "preset_id": 76,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Eso fue vergüenza ajena",
+    "premium": false,
+    "positive": false,
+    "id": 526
+  },
+  {
+    "preset_id": 76,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Das war peinlich",
+    "premium": false,
+    "positive": false,
+    "id": 527
+  },
+  {
+    "preset_id": 76,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Isso foi cringe",
+    "premium": false,
+    "positive": false,
+    "id": 528
+  },
+  {
+    "preset_id": 76,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "To był cringe",
+    "premium": false,
+    "positive": false,
+    "id": 529
+  },
+  {
+    "preset_id": 76,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Это был кринж",
+    "premium": false,
+    "positive": false,
+    "id": 530
+  },
+  {
+    "preset_id": 76,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "那很尴尬",
+    "premium": false,
+    "positive": false,
+    "id": 531
+  }
+]

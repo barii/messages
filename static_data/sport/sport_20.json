@@ -1,0 +1,86 @@
+[
+  {
+    "id": 140,
+    "preset_id": 20,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "Football",
+    "text": "Ukrainian Football Teams",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 141,
+    "preset_id": 20,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "Equipos de Fútbol Ucranianos",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 142,
+    "preset_id": 20,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Ukrainische Fußballmannschaften",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 143,
+    "preset_id": 20,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Ukraińskie drużyny piłkarskie",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 144,
+    "preset_id": 20,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Украинские футбольные команды",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 145,
+    "preset_id": 20,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Times de futebol ucranianos",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 146,
+    "preset_id": 20,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "足球",
+    "text": "乌克兰足球队",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 976,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Stop waiting for permission",
+    "premium": false,
+    "positive": true,
+    "id": 6825
+  },
+  {
+    "preset_id": 976,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Deja de esperar permiso",
+    "premium": false,
+    "positive": true,
+    "id": 6826
+  },
+  {
+    "preset_id": 976,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Hör auf, auf Erlaubnis zu warten",
+    "premium": false,
+    "positive": true,
+    "id": 6827
+  },
+  {
+    "preset_id": 976,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Para de esperar permissão",
+    "premium": false,
+    "positive": true,
+    "id": 6828
+  },
+  {
+    "preset_id": 976,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Przestań czekać na pozwolenie",
+    "premium": false,
+    "positive": true,
+    "id": 6829
+  },
+  {
+    "preset_id": 976,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Перестань ждать разрешения",
+    "premium": false,
+    "positive": true,
+    "id": 6830
+  },
+  {
+    "preset_id": 976,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "别再等许可",
+    "premium": false,
+    "positive": true,
+    "id": 6831
+  }
+]

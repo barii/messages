@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1413,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We are the champions.",
+    "premium": false,
+    "positive": true,
+    "id": 9884
+  },
+  {
+    "preset_id": 1413,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Somos los campeones.",
+    "premium": false,
+    "positive": true,
+    "id": 9885
+  },
+  {
+    "preset_id": 1413,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir sind die Champions.",
+    "premium": false,
+    "positive": true,
+    "id": 9886
+  },
+  {
+    "preset_id": 1413,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Somos os campeões.",
+    "premium": false,
+    "positive": true,
+    "id": 9887
+  },
+  {
+    "preset_id": 1413,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Jesteśmy mistrzami.",
+    "premium": false,
+    "positive": true,
+    "id": 9888
+  },
+  {
+    "preset_id": 1413,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Мы чемпионы.",
+    "premium": false,
+    "positive": true,
+    "id": 9889
+  },
+  {
+    "preset_id": 1413,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们是冠军。",
+    "premium": false,
+    "positive": true,
+    "id": 9890
+  }
+]

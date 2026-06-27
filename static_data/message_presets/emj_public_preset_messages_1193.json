@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1193,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Hope you have a wonderful one too",
+    "premium": false,
+    "positive": true,
+    "id": 8344
+  },
+  {
+    "preset_id": 1193,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Espero que tengas uno maravilloso también",
+    "premium": false,
+    "positive": true,
+    "id": 8345
+  },
+  {
+    "preset_id": 1193,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Hoffe, du hast auch einen wunderbaren",
+    "premium": false,
+    "positive": true,
+    "id": 8346
+  },
+  {
+    "preset_id": 1193,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Espero que tenhas um maravilhoso também",
+    "premium": false,
+    "positive": true,
+    "id": 8347
+  },
+  {
+    "preset_id": 1193,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Mam nadzieję, że i ty masz wspaniały",
+    "premium": false,
+    "positive": true,
+    "id": 8348
+  },
+  {
+    "preset_id": 1193,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "Надеюсь, и у тебя будет замечательно",
+    "premium": false,
+    "positive": true,
+    "id": 8349
+  },
+  {
+    "preset_id": 1193,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "希望你也有美好的一天",
+    "premium": false,
+    "positive": true,
+    "id": 8350
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 304,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm in a weird mood",
+    "premium": false,
+    "positive": true,
+    "id": 2121
+  },
+  {
+    "preset_id": 304,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Estoy de un humor raro",
+    "premium": false,
+    "positive": true,
+    "id": 2122
+  },
+  {
+    "preset_id": 304,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin in einer komischen Stimmung",
+    "premium": false,
+    "positive": true,
+    "id": 2123
+  },
+  {
+    "preset_id": 304,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Estou de um humor estranho",
+    "premium": false,
+    "positive": true,
+    "id": 2124
+  },
+  {
+    "preset_id": 304,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem w dziwnym nastroju",
+    "premium": false,
+    "positive": true,
+    "id": 2125
+  },
+  {
+    "preset_id": 304,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "У меня странное настроение",
+    "premium": false,
+    "positive": true,
+    "id": 2126
+  },
+  {
+    "preset_id": 304,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我心情很怪",
+    "premium": false,
+    "positive": true,
+    "id": 2127
+  }
+]

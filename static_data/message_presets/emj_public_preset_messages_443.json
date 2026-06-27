@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 443,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Heard you",
+    "premium": false,
+    "positive": true,
+    "id": 3094
+  },
+  {
+    "preset_id": 443,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Te escuché",
+    "premium": false,
+    "positive": true,
+    "id": 3095
+  },
+  {
+    "preset_id": 443,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Hab dich gehört",
+    "premium": false,
+    "positive": true,
+    "id": 3096
+  },
+  {
+    "preset_id": 443,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Ouvi-te",
+    "premium": false,
+    "positive": true,
+    "id": 3097
+  },
+  {
+    "preset_id": 443,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Słyszę cię",
+    "premium": false,
+    "positive": true,
+    "id": 3098
+  },
+  {
+    "preset_id": 443,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Услышал тебя",
+    "premium": false,
+    "positive": true,
+    "id": 3099
+  },
+  {
+    "preset_id": 443,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "听到你了",
+    "premium": false,
+    "positive": true,
+    "id": 3100
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1111,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Look after yourself",
+    "premium": false,
+    "positive": true,
+    "id": 7770
+  },
+  {
+    "preset_id": 1111,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Cuídate mucho",
+    "premium": false,
+    "positive": true,
+    "id": 7771
+  },
+  {
+    "preset_id": 1111,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Pass gut auf dich auf",
+    "premium": false,
+    "positive": true,
+    "id": 7772
+  },
+  {
+    "preset_id": 1111,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Cuida-te bem",
+    "premium": false,
+    "positive": true,
+    "id": 7773
+  },
+  {
+    "preset_id": 1111,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Zadbaj o siebie",
+    "premium": false,
+    "positive": true,
+    "id": 7774
+  },
+  {
+    "preset_id": 1111,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Заботься о себе",
+    "premium": false,
+    "positive": true,
+    "id": 7775
+  },
+  {
+    "preset_id": 1111,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "好好照顾自己",
+    "premium": false,
+    "positive": true,
+    "id": 7776
+  }
+]

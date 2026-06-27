@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1365,
+    "preset_id": 195,
+    "cat_emoji": "🇮🇹",
+    "lang": "EN",
+    "category": "Italian Football Teams",
+    "text": "Como",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1366,
+    "preset_id": 195,
+    "cat_emoji": "🇮🇹",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Italianos",
+    "text": "Como",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1367,
+    "preset_id": 195,
+    "cat_emoji": "🇮🇹",
+    "lang": "DE",
+    "category": "Italienische Fußballmannschaften",
+    "text": "Como",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1368,
+    "preset_id": 195,
+    "cat_emoji": "🇮🇹",
+    "lang": "PL",
+    "category": "Włoskie drużyny piłkarskie",
+    "text": "Como",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1369,
+    "preset_id": 195,
+    "cat_emoji": "🇮🇹",
+    "lang": "RU",
+    "category": "Итальянские футбольные команды",
+    "text": "Como",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1370,
+    "preset_id": 195,
+    "cat_emoji": "🇮🇹",
+    "lang": "PT",
+    "category": "Times de futebol italianos",
+    "text": "Como",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  },
+  {
+    "id": 1371,
+    "preset_id": 195,
+    "cat_emoji": "🇮🇹",
+    "lang": "CN",
+    "category": "意大利足球队",
+    "text": "Como",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇮🇹",
+    "continent": "European"
+  }
+]

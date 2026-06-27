@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1025,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "You handled that meeting like a pro",
+    "premium": false,
+    "positive": true,
+    "id": 7168
+  },
+  {
+    "preset_id": 1025,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Manejaste esa reunión como un profesional",
+    "premium": false,
+    "positive": true,
+    "id": 7169
+  },
+  {
+    "preset_id": 1025,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Du hast dieses Meeting wie ein Profi gehandhabt",
+    "premium": false,
+    "positive": true,
+    "id": 7170
+  },
+  {
+    "preset_id": 1025,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Lidaste com aquela reunião como um profissional",
+    "premium": false,
+    "positive": true,
+    "id": 7171
+  },
+  {
+    "preset_id": 1025,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Poradziłeś sobie z tym spotkaniem jak profesjonalista",
+    "premium": false,
+    "positive": true,
+    "id": 7172
+  },
+  {
+    "preset_id": 1025,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Ты вёл эту встречу как профессионал",
+    "premium": false,
+    "positive": true,
+    "id": 7173
+  },
+  {
+    "preset_id": 1025,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "你像专业人士一样处理了那次会议",
+    "premium": false,
+    "positive": true,
+    "id": 7174
+  }
+]

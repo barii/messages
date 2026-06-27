@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 189,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Is that true?",
+    "premium": false,
+    "positive": true,
+    "id": 1316
+  },
+  {
+    "preset_id": 189,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Eso es cierto?",
+    "premium": false,
+    "positive": true,
+    "id": 1317
+  },
+  {
+    "preset_id": 189,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Stimmt das?",
+    "premium": false,
+    "positive": true,
+    "id": 1318
+  },
+  {
+    "preset_id": 189,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Isso é verdade?",
+    "premium": false,
+    "positive": true,
+    "id": 1319
+  },
+  {
+    "preset_id": 189,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Czy to prawda?",
+    "premium": false,
+    "positive": true,
+    "id": 1320
+  },
+  {
+    "preset_id": 189,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Это правда?",
+    "premium": false,
+    "positive": true,
+    "id": 1321
+  },
+  {
+    "preset_id": 189,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "那是真的吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1322
+  }
+]

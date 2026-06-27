@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 677,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "We're done here",
+    "premium": false,
+    "positive": true,
+    "id": 4732
+  },
+  {
+    "preset_id": 677,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Aquí terminamos",
+    "premium": false,
+    "positive": true,
+    "id": 4733
+  },
+  {
+    "preset_id": 677,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Wir sind hier fertig",
+    "premium": false,
+    "positive": true,
+    "id": 4734
+  },
+  {
+    "preset_id": 677,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Acabámos aqui",
+    "premium": false,
+    "positive": true,
+    "id": 4735
+  },
+  {
+    "preset_id": 677,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Skończyliśmy",
+    "premium": false,
+    "positive": true,
+    "id": 4736
+  },
+  {
+    "preset_id": 677,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Мы здесь закончили",
+    "premium": false,
+    "positive": true,
+    "id": 4737
+  },
+  {
+    "preset_id": 677,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "我们到此为止",
+    "premium": false,
+    "positive": true,
+    "id": 4738
+  }
+]

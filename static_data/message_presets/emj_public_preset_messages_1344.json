@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1344,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "No creativity, no goals, no chance.",
+    "premium": true,
+    "positive": true,
+    "id": 9401
+  },
+  {
+    "preset_id": 1344,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Sin creatividad, sin goles, sin posibilidades.",
+    "premium": true,
+    "positive": true,
+    "id": 9402
+  },
+  {
+    "preset_id": 1344,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Keine Kreativität, keine Tore, keine Chance.",
+    "premium": true,
+    "positive": true,
+    "id": 9403
+  },
+  {
+    "preset_id": 1344,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Sem criatividade, sem golos, sem hipótese.",
+    "premium": true,
+    "positive": true,
+    "id": 9404
+  },
+  {
+    "preset_id": 1344,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Brak kreatywności, brak goli, brak szans.",
+    "premium": true,
+    "positive": true,
+    "id": 9405
+  },
+  {
+    "preset_id": 1344,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Без креатива, без голов, без шансов.",
+    "premium": true,
+    "positive": true,
+    "id": 9406
+  },
+  {
+    "preset_id": 1344,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "没创造力,没进球,没机会。",
+    "premium": true,
+    "positive": true,
+    "id": 9407
+  }
+]

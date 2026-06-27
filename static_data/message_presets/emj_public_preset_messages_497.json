@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 497,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I'm good",
+    "premium": false,
+    "positive": true,
+    "id": 3472
+  },
+  {
+    "preset_id": 497,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Estoy bien",
+    "premium": false,
+    "positive": true,
+    "id": 3473
+  },
+  {
+    "preset_id": 497,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Mir geht's gut",
+    "premium": false,
+    "positive": true,
+    "id": 3474
+  },
+  {
+    "preset_id": 497,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Estou bem",
+    "premium": false,
+    "positive": true,
+    "id": 3475
+  },
+  {
+    "preset_id": 497,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Mam się dobrze",
+    "premium": false,
+    "positive": true,
+    "id": 3476
+  },
+  {
+    "preset_id": 497,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "У меня всё хорошо",
+    "premium": false,
+    "positive": true,
+    "id": 3477
+  },
+  {
+    "preset_id": 497,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我很好",
+    "premium": false,
+    "positive": true,
+    "id": 3478
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1233,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Are a minor team.",
+    "premium": false,
+    "positive": true,
+    "id": 8624
+  },
+  {
+    "preset_id": 1233,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Sois un equipo menor.",
+    "premium": false,
+    "positive": true,
+    "id": 8625
+  },
+  {
+    "preset_id": 1233,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr seid eine kleine Mannschaft.",
+    "premium": false,
+    "positive": true,
+    "id": 8626
+  },
+  {
+    "preset_id": 1233,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "São uma equipa menor.",
+    "premium": false,
+    "positive": true,
+    "id": 8627
+  },
+  {
+    "preset_id": 1233,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Jesteście pomniejszym klubem.",
+    "premium": false,
+    "positive": true,
+    "id": 8628
+  },
+  {
+    "preset_id": 1233,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Вы второсортная команда.",
+    "premium": false,
+    "positive": true,
+    "id": 8629
+  },
+  {
+    "preset_id": 1233,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们是支小球队。",
+    "premium": false,
+    "positive": true,
+    "id": 8630
+  }
+]

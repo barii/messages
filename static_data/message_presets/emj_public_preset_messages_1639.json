@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1639,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Can you hear us, can you hear us.",
+    "premium": false,
+    "positive": true,
+    "id": 11466
+  },
+  {
+    "preset_id": 1639,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "¿Nos podéis oír, nos podéis oír?",
+    "premium": false,
+    "positive": true,
+    "id": 11467
+  },
+  {
+    "preset_id": 1639,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Hört ihr uns, hört ihr uns?",
+    "premium": false,
+    "positive": true,
+    "id": 11468
+  },
+  {
+    "preset_id": 1639,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Conseguem ouvir-nos, conseguem ouvir-nos?",
+    "premium": false,
+    "positive": true,
+    "id": 11469
+  },
+  {
+    "preset_id": 1639,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Słyszycie nas, słyszycie nas?",
+    "premium": false,
+    "positive": true,
+    "id": 11470
+  },
+  {
+    "preset_id": 1639,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Слышите нас, слышите нас?",
+    "premium": false,
+    "positive": true,
+    "id": 11471
+  },
+  {
+    "preset_id": 1639,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们能听到吗,能听到吗?",
+    "premium": false,
+    "positive": true,
+    "id": 11472
+  }
+]

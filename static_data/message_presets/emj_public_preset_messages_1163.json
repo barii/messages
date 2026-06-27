@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1163,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Be my Valentine",
+    "premium": false,
+    "positive": true,
+    "id": 8134
+  },
+  {
+    "preset_id": 1163,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Sé mi San Valentín",
+    "premium": false,
+    "positive": true,
+    "id": 8135
+  },
+  {
+    "preset_id": 1163,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Sei mein Valentin",
+    "premium": false,
+    "positive": true,
+    "id": 8136
+  },
+  {
+    "preset_id": 1163,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Sê o meu Valentine",
+    "premium": false,
+    "positive": true,
+    "id": 8137
+  },
+  {
+    "preset_id": 1163,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Bądź moim Walentym",
+    "premium": false,
+    "positive": true,
+    "id": 8138
+  },
+  {
+    "preset_id": 1163,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "Будь моим Валентином",
+    "premium": false,
+    "positive": true,
+    "id": 8139
+  },
+  {
+    "preset_id": 1163,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "做我的情人吧",
+    "premium": false,
+    "positive": true,
+    "id": 8140
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1612,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "We'll bounce back, you won't.",
+    "premium": false,
+    "positive": true,
+    "id": 11277
+  },
+  {
+    "preset_id": 1612,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Nos recuperaremos, vosotros no.",
+    "premium": false,
+    "positive": true,
+    "id": 11278
+  },
+  {
+    "preset_id": 1612,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Wir kommen zurück, ihr nicht.",
+    "premium": false,
+    "positive": true,
+    "id": 11279
+  },
+  {
+    "preset_id": 1612,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Vamos recuperar, vocês não.",
+    "premium": false,
+    "positive": true,
+    "id": 11280
+  },
+  {
+    "preset_id": 1612,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "My się odbijemy, wy nie.",
+    "premium": false,
+    "positive": true,
+    "id": 11281
+  },
+  {
+    "preset_id": 1612,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Мы вернёмся, вы нет.",
+    "premium": false,
+    "positive": true,
+    "id": 11282
+  },
+  {
+    "preset_id": 1612,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "我们会反弹,你们不会。",
+    "premium": false,
+    "positive": true,
+    "id": 11283
+  }
+]

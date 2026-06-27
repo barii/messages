@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 225,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "Want to guess?",
+    "premium": false,
+    "positive": true,
+    "id": 1568
+  },
+  {
+    "preset_id": 225,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "¿Quieres adivinar?",
+    "premium": false,
+    "positive": true,
+    "id": 1569
+  },
+  {
+    "preset_id": 225,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Willst du raten?",
+    "premium": false,
+    "positive": true,
+    "id": 1570
+  },
+  {
+    "preset_id": 225,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Queres adivinhar?",
+    "premium": false,
+    "positive": true,
+    "id": 1571
+  },
+  {
+    "preset_id": 225,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Chcesz zgadnąć?",
+    "premium": false,
+    "positive": true,
+    "id": 1572
+  },
+  {
+    "preset_id": 225,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Хочешь угадать?",
+    "premium": false,
+    "positive": true,
+    "id": 1573
+  },
+  {
+    "preset_id": 225,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "想猜猜吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1574
+  }
+]

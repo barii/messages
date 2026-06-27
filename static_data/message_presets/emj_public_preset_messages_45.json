@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 45,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're stronger than you realize",
+    "premium": false,
+    "positive": true,
+    "id": 308
+  },
+  {
+    "preset_id": 45,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres más fuerte de lo que crees",
+    "premium": false,
+    "positive": true,
+    "id": 309
+  },
+  {
+    "preset_id": 45,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist stärker, als du dir bewusst bist",
+    "premium": false,
+    "positive": true,
+    "id": 310
+  },
+  {
+    "preset_id": 45,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És mais forte do que pensas",
+    "premium": false,
+    "positive": true,
+    "id": 311
+  },
+  {
+    "preset_id": 45,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś silniejszy, niż sobie zdajesz sprawę",
+    "premium": false,
+    "positive": true,
+    "id": 312
+  },
+  {
+    "preset_id": 45,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты сильнее, чем осознаёшь",
+    "premium": false,
+    "positive": true,
+    "id": 313
+  },
+  {
+    "preset_id": 45,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你比你意识到的更坚强",
+    "premium": false,
+    "positive": true,
+    "id": 314
+  }
+]

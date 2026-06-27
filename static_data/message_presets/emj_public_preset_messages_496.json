@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 496,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Wild",
+    "premium": false,
+    "positive": true,
+    "id": 3465
+  },
+  {
+    "preset_id": 496,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Salvaje",
+    "premium": false,
+    "positive": true,
+    "id": 3466
+  },
+  {
+    "preset_id": 496,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Wild",
+    "premium": false,
+    "positive": true,
+    "id": 3467
+  },
+  {
+    "preset_id": 496,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Selvagem",
+    "premium": false,
+    "positive": true,
+    "id": 3468
+  },
+  {
+    "preset_id": 496,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Dziko",
+    "premium": false,
+    "positive": true,
+    "id": 3469
+  },
+  {
+    "preset_id": 496,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Дикo",
+    "premium": false,
+    "positive": true,
+    "id": 3470
+  },
+  {
+    "preset_id": 496,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "野",
+    "premium": false,
+    "positive": true,
+    "id": 3471
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 756,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I believe in you",
+    "premium": true,
+    "positive": true,
+    "id": 5285
+  },
+  {
+    "preset_id": 756,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Creo en ti",
+    "premium": true,
+    "positive": true,
+    "id": 5286
+  },
+  {
+    "preset_id": 756,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Ich glaube an dich",
+    "premium": true,
+    "positive": true,
+    "id": 5287
+  },
+  {
+    "preset_id": 756,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Acredito em ti",
+    "premium": true,
+    "positive": true,
+    "id": 5288
+  },
+  {
+    "preset_id": 756,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Wierzę w ciebie",
+    "premium": true,
+    "positive": true,
+    "id": 5289
+  },
+  {
+    "preset_id": 756,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Я верю в тебя",
+    "premium": true,
+    "positive": true,
+    "id": 5290
+  },
+  {
+    "preset_id": 756,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我相信你",
+    "premium": true,
+    "positive": true,
+    "id": 5291
+  }
+]

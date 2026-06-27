@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 30,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're great at what you do",
+    "premium": false,
+    "positive": true,
+    "id": 203
+  },
+  {
+    "preset_id": 30,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres genial en lo que haces",
+    "premium": false,
+    "positive": true,
+    "id": 204
+  },
+  {
+    "preset_id": 30,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist toll in dem, was du tust",
+    "premium": false,
+    "positive": true,
+    "id": 205
+  },
+  {
+    "preset_id": 30,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És ótimo no que fazes",
+    "premium": false,
+    "positive": true,
+    "id": 206
+  },
+  {
+    "preset_id": 30,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś świetny w tym, co robisz",
+    "premium": false,
+    "positive": true,
+    "id": 207
+  },
+  {
+    "preset_id": 30,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты отлично справляешься с тем, что делаешь",
+    "premium": false,
+    "positive": true,
+    "id": 208
+  },
+  {
+    "preset_id": 30,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你做得很好",
+    "premium": false,
+    "positive": true,
+    "id": 209
+  }
+]

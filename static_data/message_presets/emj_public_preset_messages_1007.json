@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1007,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "What you said really stung",
+    "premium": false,
+    "positive": true,
+    "id": 7042
+  },
+  {
+    "preset_id": 1007,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Lo que dijiste me dolió de verdad",
+    "premium": false,
+    "positive": true,
+    "id": 7043
+  },
+  {
+    "preset_id": 1007,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Was du gesagt hast, hat wirklich wehgetan",
+    "premium": false,
+    "positive": true,
+    "id": 7044
+  },
+  {
+    "preset_id": 1007,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "O que disseste doeu mesmo",
+    "premium": false,
+    "positive": true,
+    "id": 7045
+  },
+  {
+    "preset_id": 1007,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "To, co powiedziałeś, naprawdę zabolało",
+    "premium": false,
+    "positive": true,
+    "id": 7046
+  },
+  {
+    "preset_id": 1007,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "То, что ты сказал, действительно укололо",
+    "premium": false,
+    "positive": true,
+    "id": 7047
+  },
+  {
+    "preset_id": 1007,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你说的话真的很刺痛",
+    "premium": false,
+    "positive": true,
+    "id": 7048
+  }
+]

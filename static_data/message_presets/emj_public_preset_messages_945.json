@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 945,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Stop letting people drain you",
+    "premium": false,
+    "positive": true,
+    "id": 6608
+  },
+  {
+    "preset_id": 945,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Deja que la gente te drene",
+    "premium": false,
+    "positive": true,
+    "id": 6609
+  },
+  {
+    "preset_id": 945,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Lass dich nicht von Menschen aussaugen",
+    "premium": false,
+    "positive": true,
+    "id": 6610
+  },
+  {
+    "preset_id": 945,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Para de deixar as pessoas drenarem-te",
+    "premium": false,
+    "positive": true,
+    "id": 6611
+  },
+  {
+    "preset_id": 945,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Przestań pozwalać, by ludzie cię wyczerpywali",
+    "premium": false,
+    "positive": true,
+    "id": 6612
+  },
+  {
+    "preset_id": 945,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Перестань позволять людям тебя истощать",
+    "premium": false,
+    "positive": true,
+    "id": 6613
+  },
+  {
+    "preset_id": 945,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "别再让人耗尽你",
+    "premium": false,
+    "positive": true,
+    "id": 6614
+  }
+]

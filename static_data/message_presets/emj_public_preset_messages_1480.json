@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1480,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "You couldn't lay a glove on us.",
+    "premium": false,
+    "positive": true,
+    "id": 10353
+  },
+  {
+    "preset_id": 1480,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "No habéis podido tocarnos.",
+    "premium": false,
+    "positive": true,
+    "id": 10354
+  },
+  {
+    "preset_id": 1480,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Ihr habt uns nicht mal angefasst.",
+    "premium": false,
+    "positive": true,
+    "id": 10355
+  },
+  {
+    "preset_id": 1480,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Não conseguiram tocar-nos.",
+    "premium": false,
+    "positive": true,
+    "id": 10356
+  },
+  {
+    "preset_id": 1480,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Nie mogliście nas tknąć.",
+    "premium": false,
+    "positive": true,
+    "id": 10357
+  },
+  {
+    "preset_id": 1480,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Вы не могли нас тронуть.",
+    "premium": false,
+    "positive": true,
+    "id": 10358
+  },
+  {
+    "preset_id": 1480,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "你们连碰都碰不到我们。",
+    "premium": false,
+    "positive": true,
+    "id": 10359
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 879,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "Want to grab coffee sometime?",
+    "premium": false,
+    "positive": true,
+    "id": 6146
+  },
+  {
+    "preset_id": 879,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "¿Quieres tomar un café algún día?",
+    "premium": false,
+    "positive": true,
+    "id": 6147
+  },
+  {
+    "preset_id": 879,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Wollen wir mal einen Kaffee trinken?",
+    "premium": false,
+    "positive": true,
+    "id": 6148
+  },
+  {
+    "preset_id": 879,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Queres ir tomar um café qualquer dia?",
+    "premium": false,
+    "positive": true,
+    "id": 6149
+  },
+  {
+    "preset_id": 879,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Może wybierzemy się na kawę kiedyś?",
+    "premium": false,
+    "positive": true,
+    "id": 6150
+  },
+  {
+    "preset_id": 879,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Хочешь сходить на кофе как-нибудь?",
+    "premium": false,
+    "positive": true,
+    "id": 6151
+  },
+  {
+    "preset_id": 879,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "改天想一起喝咖啡吗?",
+    "premium": false,
+    "positive": true,
+    "id": 6152
+  }
+]

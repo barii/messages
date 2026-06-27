@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 822,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "That was painfully good",
+    "premium": false,
+    "positive": true,
+    "id": 5747
+  },
+  {
+    "preset_id": 822,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Fue dolorosamente bueno",
+    "premium": false,
+    "positive": true,
+    "id": 5748
+  },
+  {
+    "preset_id": 822,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Das war schmerzhaft gut",
+    "premium": false,
+    "positive": true,
+    "id": 5749
+  },
+  {
+    "preset_id": 822,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Foi dolorosamente bom",
+    "premium": false,
+    "positive": true,
+    "id": 5750
+  },
+  {
+    "preset_id": 822,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "To było boleśnie dobre",
+    "premium": false,
+    "positive": true,
+    "id": 5751
+  },
+  {
+    "preset_id": 822,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Это было больно хорошо",
+    "premium": false,
+    "positive": true,
+    "id": 5752
+  },
+  {
+    "preset_id": 822,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "好得让人心痛",
+    "premium": false,
+    "positive": true,
+    "id": 5753
+  }
+]

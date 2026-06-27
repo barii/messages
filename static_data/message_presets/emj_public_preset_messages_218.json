@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 218,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Do we go to the gym together?",
+    "premium": false,
+    "positive": true,
+    "id": 1519
+  },
+  {
+    "preset_id": 218,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Vamos al gimnasio juntos?",
+    "premium": false,
+    "positive": true,
+    "id": 1520
+  },
+  {
+    "preset_id": 218,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Gehen wir zusammen ins Fitnessstudio?",
+    "premium": false,
+    "positive": true,
+    "id": 1521
+  },
+  {
+    "preset_id": 218,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Vamos ao ginásio juntos?",
+    "premium": false,
+    "positive": true,
+    "id": 1522
+  },
+  {
+    "preset_id": 218,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Chodzimy razem na siłownię?",
+    "premium": false,
+    "positive": true,
+    "id": 1523
+  },
+  {
+    "preset_id": 218,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Мы ходим в спортзал вместе?",
+    "premium": false,
+    "positive": true,
+    "id": 1524
+  },
+  {
+    "preset_id": 218,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我们一起去健身房吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1525
+  }
+]

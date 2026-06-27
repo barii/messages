@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 646,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Relax",
+    "premium": false,
+    "positive": true,
+    "id": 4515
+  },
+  {
+    "preset_id": 646,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Relájate",
+    "premium": false,
+    "positive": true,
+    "id": 4516
+  },
+  {
+    "preset_id": 646,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Entspann dich",
+    "premium": false,
+    "positive": true,
+    "id": 4517
+  },
+  {
+    "preset_id": 646,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Relaxa",
+    "premium": false,
+    "positive": true,
+    "id": 4518
+  },
+  {
+    "preset_id": 646,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Wyluzuj",
+    "premium": false,
+    "positive": true,
+    "id": 4519
+  },
+  {
+    "preset_id": 646,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Расслабься",
+    "premium": false,
+    "positive": true,
+    "id": 4520
+  },
+  {
+    "preset_id": 646,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "放松",
+    "premium": false,
+    "positive": true,
+    "id": 4521
+  }
+]

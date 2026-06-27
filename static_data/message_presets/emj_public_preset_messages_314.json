@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 314,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I appreciate you",
+    "premium": false,
+    "positive": true,
+    "id": 2191
+  },
+  {
+    "preset_id": 314,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Te aprecio",
+    "premium": false,
+    "positive": true,
+    "id": 2192
+  },
+  {
+    "preset_id": 314,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich schätze dich",
+    "premium": false,
+    "positive": true,
+    "id": 2193
+  },
+  {
+    "preset_id": 314,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Agradeço-te",
+    "premium": false,
+    "positive": true,
+    "id": 2194
+  },
+  {
+    "preset_id": 314,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Doceniam cię",
+    "premium": false,
+    "positive": true,
+    "id": 2195
+  },
+  {
+    "preset_id": 314,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я ценю тебя",
+    "premium": false,
+    "positive": true,
+    "id": 2196
+  },
+  {
+    "preset_id": 314,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我感激你",
+    "premium": false,
+    "positive": true,
+    "id": 2197
+  }
+]

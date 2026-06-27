@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 649,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "You're being dramatic",
+    "premium": false,
+    "positive": true,
+    "id": 4536
+  },
+  {
+    "preset_id": 649,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Estás siendo dramático",
+    "premium": false,
+    "positive": true,
+    "id": 4537
+  },
+  {
+    "preset_id": 649,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Du machst ein Drama draus",
+    "premium": false,
+    "positive": true,
+    "id": 4538
+  },
+  {
+    "preset_id": 649,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Estás a ser dramático",
+    "premium": false,
+    "positive": true,
+    "id": 4539
+  },
+  {
+    "preset_id": 649,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Robisz dramat",
+    "premium": false,
+    "positive": true,
+    "id": 4540
+  },
+  {
+    "preset_id": 649,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Ты делаешь драму",
+    "premium": false,
+    "positive": true,
+    "id": 4541
+  },
+  {
+    "preset_id": 649,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "你在闹剧",
+    "premium": false,
+    "positive": true,
+    "id": 4542
+  }
+]

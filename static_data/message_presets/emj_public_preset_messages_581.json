@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 581,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "You will have to guess",
+    "premium": false,
+    "positive": true,
+    "id": 4060
+  },
+  {
+    "preset_id": 581,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Tendrás que adivinar",
+    "premium": false,
+    "positive": true,
+    "id": 4061
+  },
+  {
+    "preset_id": 581,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Du wirst raten müssen",
+    "premium": false,
+    "positive": true,
+    "id": 4062
+  },
+  {
+    "preset_id": 581,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Vais ter de adivinhar",
+    "premium": false,
+    "positive": true,
+    "id": 4063
+  },
+  {
+    "preset_id": 581,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Będziesz musiał zgadywać",
+    "premium": false,
+    "positive": true,
+    "id": 4064
+  },
+  {
+    "preset_id": 581,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Тебе придётся угадывать",
+    "premium": false,
+    "positive": true,
+    "id": 4065
+  },
+  {
+    "preset_id": 581,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "你得猜",
+    "premium": false,
+    "positive": true,
+    "id": 4066
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 635,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "That isn't okay",
+    "premium": false,
+    "positive": true,
+    "id": 4438
+  },
+  {
+    "preset_id": 635,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Eso no está bien",
+    "premium": false,
+    "positive": true,
+    "id": 4439
+  },
+  {
+    "preset_id": 635,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Das ist nicht okay",
+    "premium": false,
+    "positive": true,
+    "id": 4440
+  },
+  {
+    "preset_id": 635,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Isso não está certo",
+    "premium": false,
+    "positive": true,
+    "id": 4441
+  },
+  {
+    "preset_id": 635,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "To nie ok",
+    "premium": false,
+    "positive": true,
+    "id": 4442
+  },
+  {
+    "preset_id": 635,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Это не нормально",
+    "premium": false,
+    "positive": true,
+    "id": 4443
+  },
+  {
+    "preset_id": 635,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "这不对",
+    "premium": false,
+    "positive": true,
+    "id": 4444
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1223,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "Looking at your profile sent me",
+    "premium": false,
+    "positive": true,
+    "id": 8554
+  },
+  {
+    "preset_id": 1223,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "Mirar tu perfil me mató",
+    "premium": false,
+    "positive": true,
+    "id": 8555
+  },
+  {
+    "preset_id": 1223,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Auf dein Profil zu schauen hat mich umgehauen",
+    "premium": false,
+    "positive": true,
+    "id": 8556
+  },
+  {
+    "preset_id": 1223,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "Olhar para o teu perfil deu cabo de mim",
+    "premium": false,
+    "positive": true,
+    "id": 8557
+  },
+  {
+    "preset_id": 1223,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Patrzenie na twój profil mnie zabiło",
+    "premium": false,
+    "positive": true,
+    "id": 8558
+  },
+  {
+    "preset_id": 1223,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Смотреть на твой профиль меня доконало",
+    "premium": false,
+    "positive": true,
+    "id": 8559
+  },
+  {
+    "preset_id": 1223,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "看你的资料让我崩溃了",
+    "premium": false,
+    "positive": true,
+    "id": 8560
+  }
+]

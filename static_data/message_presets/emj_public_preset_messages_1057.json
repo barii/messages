@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1057,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Our manager is clueless",
+    "premium": false,
+    "positive": true,
+    "id": 7392
+  },
+  {
+    "preset_id": 1057,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Nuestro gerente no tiene idea",
+    "premium": false,
+    "positive": true,
+    "id": 7393
+  },
+  {
+    "preset_id": 1057,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Unser Manager hat keine Ahnung",
+    "premium": false,
+    "positive": true,
+    "id": 7394
+  },
+  {
+    "preset_id": 1057,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "O nosso gerente não percebe nada",
+    "premium": false,
+    "positive": true,
+    "id": 7395
+  },
+  {
+    "preset_id": 1057,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Nasz menedżer nie ma pojęcia",
+    "premium": false,
+    "positive": true,
+    "id": 7396
+  },
+  {
+    "preset_id": 1057,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Наш менеджер ничего не понимает",
+    "premium": false,
+    "positive": true,
+    "id": 7397
+  },
+  {
+    "preset_id": 1057,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "我们的经理毫无头绪",
+    "premium": false,
+    "positive": true,
+    "id": 7398
+  }
+]

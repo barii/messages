@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1203,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "Is your dad a baker because you're a cutie pie?",
+    "premium": true,
+    "positive": true,
+    "id": 8414
+  },
+  {
+    "preset_id": 1203,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "¿Tu papá es panadero? Porque eres un bombón",
+    "premium": true,
+    "positive": true,
+    "id": 8415
+  },
+  {
+    "preset_id": 1203,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Ist dein Vater Bäcker? Denn du bist ein süßes Stückchen",
+    "premium": true,
+    "positive": true,
+    "id": 8416
+  },
+  {
+    "preset_id": 1203,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "O teu pai é padeiro? Porque és um docinho",
+    "premium": true,
+    "positive": true,
+    "id": 8417
+  },
+  {
+    "preset_id": 1203,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Czy twój tata jest piekarzem? Bo jesteś słodkim ciasteczkiem",
+    "premium": true,
+    "positive": true,
+    "id": 8418
+  },
+  {
+    "preset_id": 1203,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Твой папа пекарь? Потому что ты милая булочка",
+    "premium": true,
+    "positive": true,
+    "id": 8419
+  },
+  {
+    "preset_id": 1203,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "你爸爸是面包师吗?因为你是个可爱的小甜心",
+    "premium": true,
+    "positive": true,
+    "id": 8420
+  }
+]

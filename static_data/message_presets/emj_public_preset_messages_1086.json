@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1086,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Tell me about it",
+    "premium": false,
+    "positive": true,
+    "id": 7595
+  },
+  {
+    "preset_id": 1086,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Cuéntame",
+    "premium": false,
+    "positive": true,
+    "id": 7596
+  },
+  {
+    "preset_id": 1086,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Erzähl mir was",
+    "premium": false,
+    "positive": true,
+    "id": 7597
+  },
+  {
+    "preset_id": 1086,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Diz-me lá",
+    "premium": false,
+    "positive": true,
+    "id": 7598
+  },
+  {
+    "preset_id": 1086,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Powiedz mi",
+    "premium": false,
+    "positive": true,
+    "id": 7599
+  },
+  {
+    "preset_id": 1086,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Расскажи мне",
+    "premium": false,
+    "positive": true,
+    "id": 7600
+  },
+  {
+    "preset_id": 1086,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "可不是嘛",
+    "premium": false,
+    "positive": true,
+    "id": 7601
+  }
+]

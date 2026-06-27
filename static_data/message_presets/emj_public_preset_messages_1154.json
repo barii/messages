@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1154,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Have the best day ever",
+    "premium": false,
+    "positive": true,
+    "id": 8071
+  },
+  {
+    "preset_id": 1154,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Que tengas el mejor día",
+    "premium": false,
+    "positive": true,
+    "id": 8072
+  },
+  {
+    "preset_id": 1154,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Hab den besten Tag",
+    "premium": false,
+    "positive": true,
+    "id": 8073
+  },
+  {
+    "preset_id": 1154,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Tem o melhor dia",
+    "premium": false,
+    "positive": true,
+    "id": 8074
+  },
+  {
+    "preset_id": 1154,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Miłego dnia",
+    "premium": false,
+    "positive": true,
+    "id": 8075
+  },
+  {
+    "preset_id": 1154,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Лучшего дня тебе",
+    "premium": false,
+    "positive": true,
+    "id": 8076
+  },
+  {
+    "preset_id": 1154,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "祝你有最美好的一天",
+    "premium": false,
+    "positive": true,
+    "id": 8077
+  }
+]

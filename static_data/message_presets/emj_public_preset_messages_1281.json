@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1281,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You are not in our league.",
+    "premium": false,
+    "positive": true,
+    "id": 8960
+  },
+  {
+    "preset_id": 1281,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "No estáis en nuestra liga.",
+    "premium": false,
+    "positive": true,
+    "id": 8961
+  },
+  {
+    "preset_id": 1281,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr seid nicht in unserer Liga.",
+    "premium": false,
+    "positive": true,
+    "id": 8962
+  },
+  {
+    "preset_id": 1281,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Não estão na nossa liga.",
+    "premium": false,
+    "positive": true,
+    "id": 8963
+  },
+  {
+    "preset_id": 1281,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Nie jesteście w naszej lidze.",
+    "premium": false,
+    "positive": true,
+    "id": 8964
+  },
+  {
+    "preset_id": 1281,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Вы не в нашей лиге.",
+    "premium": false,
+    "positive": true,
+    "id": 8965
+  },
+  {
+    "preset_id": 1281,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们不在我们的水平。",
+    "premium": false,
+    "positive": true,
+    "id": 8966
+  }
+]

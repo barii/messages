@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 962,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Communicate, don't assume",
+    "premium": false,
+    "positive": true,
+    "id": 6727
+  },
+  {
+    "preset_id": 962,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Comunica, no asumas",
+    "premium": false,
+    "positive": true,
+    "id": 6728
+  },
+  {
+    "preset_id": 962,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Kommuniziere, vermute nicht",
+    "premium": false,
+    "positive": true,
+    "id": 6729
+  },
+  {
+    "preset_id": 962,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Comunica, não assumas",
+    "premium": false,
+    "positive": true,
+    "id": 6730
+  },
+  {
+    "preset_id": 962,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Komunikuj, nie zakładaj",
+    "premium": false,
+    "positive": true,
+    "id": 6731
+  },
+  {
+    "preset_id": 962,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Общайся, не предполагай",
+    "premium": false,
+    "positive": true,
+    "id": 6732
+  },
+  {
+    "preset_id": 962,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "沟通,别假设",
+    "premium": false,
+    "positive": true,
+    "id": 6733
+  }
+]

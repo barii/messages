@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 719,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I love that for you",
+    "premium": false,
+    "positive": true,
+    "id": 5026
+  },
+  {
+    "preset_id": 719,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Me encanta para ti",
+    "premium": false,
+    "positive": true,
+    "id": 5027
+  },
+  {
+    "preset_id": 719,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Ich liebe das für dich",
+    "premium": false,
+    "positive": true,
+    "id": 5028
+  },
+  {
+    "preset_id": 719,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Adoro isso por ti",
+    "premium": false,
+    "positive": true,
+    "id": 5029
+  },
+  {
+    "preset_id": 719,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Cieszę się za ciebie",
+    "premium": false,
+    "positive": true,
+    "id": 5030
+  },
+  {
+    "preset_id": 719,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Я рад за тебя",
+    "premium": false,
+    "positive": true,
+    "id": 5031
+  },
+  {
+    "preset_id": 719,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我为你高兴",
+    "premium": false,
+    "positive": true,
+    "id": 5032
+  }
+]

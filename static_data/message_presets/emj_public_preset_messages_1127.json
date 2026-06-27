@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1127,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Hey stranger",
+    "premium": false,
+    "positive": true,
+    "id": 7882
+  },
+  {
+    "preset_id": 1127,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Hola, desconocido",
+    "premium": false,
+    "positive": true,
+    "id": 7883
+  },
+  {
+    "preset_id": 1127,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Hey Fremder",
+    "premium": false,
+    "positive": true,
+    "id": 7884
+  },
+  {
+    "preset_id": 1127,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Olá estranho",
+    "premium": false,
+    "positive": true,
+    "id": 7885
+  },
+  {
+    "preset_id": 1127,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Hej obcy",
+    "premium": false,
+    "positive": true,
+    "id": 7886
+  },
+  {
+    "preset_id": 1127,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Привет, незнакомец",
+    "premium": false,
+    "positive": true,
+    "id": 7887
+  },
+  {
+    "preset_id": 1127,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "嘿陌生人",
+    "premium": false,
+    "positive": true,
+    "id": 7888
+  }
+]

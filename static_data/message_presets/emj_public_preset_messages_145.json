@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 145,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you home?",
+    "premium": false,
+    "positive": true,
+    "id": 1008
+  },
+  {
+    "preset_id": 145,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Estás en casa?",
+    "premium": false,
+    "positive": true,
+    "id": 1009
+  },
+  {
+    "preset_id": 145,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du zu Hause?",
+    "premium": false,
+    "positive": true,
+    "id": 1010
+  },
+  {
+    "preset_id": 145,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás em casa?",
+    "premium": false,
+    "positive": true,
+    "id": 1011
+  },
+  {
+    "preset_id": 145,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jesteś w domu?",
+    "premium": false,
+    "positive": true,
+    "id": 1012
+  },
+  {
+    "preset_id": 145,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты дома?",
+    "premium": false,
+    "positive": true,
+    "id": 1013
+  },
+  {
+    "preset_id": 145,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你在家吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1014
+  }
+]

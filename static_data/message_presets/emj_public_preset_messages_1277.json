@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1277,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "A small and irrelevant club.",
+    "premium": false,
+    "positive": true,
+    "id": 8932
+  },
+  {
+    "preset_id": 1277,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Un club pequeño e irrelevante.",
+    "premium": false,
+    "positive": true,
+    "id": 8933
+  },
+  {
+    "preset_id": 1277,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ein kleiner und unbedeutender Verein.",
+    "premium": false,
+    "positive": true,
+    "id": 8934
+  },
+  {
+    "preset_id": 1277,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Um clube pequeno e irrelevante.",
+    "premium": false,
+    "positive": true,
+    "id": 8935
+  },
+  {
+    "preset_id": 1277,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Mały i nieistotny klub.",
+    "premium": false,
+    "positive": true,
+    "id": 8936
+  },
+  {
+    "preset_id": 1277,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Маленький и незначительный клуб.",
+    "premium": false,
+    "positive": true,
+    "id": 8937
+  },
+  {
+    "preset_id": 1277,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "一个又小又无关紧要的俱乐部。",
+    "premium": false,
+    "positive": true,
+    "id": 8938
+  }
+]

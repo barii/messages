@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 256,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "I'm a friend of a friend",
+    "premium": true,
+    "positive": true,
+    "id": 1785
+  },
+  {
+    "preset_id": 256,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Soy un amigo de un amigo",
+    "premium": true,
+    "positive": true,
+    "id": 1786
+  },
+  {
+    "preset_id": 256,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Ich bin ein Freund eines Freundes",
+    "premium": true,
+    "positive": true,
+    "id": 1787
+  },
+  {
+    "preset_id": 256,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Sou amigo de um amigo",
+    "premium": true,
+    "positive": true,
+    "id": 1788
+  },
+  {
+    "preset_id": 256,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Jestem przyjacielem przyjaciela",
+    "premium": true,
+    "positive": true,
+    "id": 1789
+  },
+  {
+    "preset_id": 256,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Я друг друга",
+    "premium": true,
+    "positive": true,
+    "id": 1790
+  },
+  {
+    "preset_id": 256,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我是朋友的朋友",
+    "premium": true,
+    "positive": true,
+    "id": 1791
+  }
+]

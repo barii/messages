@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1378,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You bottled it.",
+    "premium": false,
+    "positive": true,
+    "id": 9639
+  },
+  {
+    "preset_id": 1378,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Os habéis venido abajo.",
+    "premium": false,
+    "positive": true,
+    "id": 9640
+  },
+  {
+    "preset_id": 1378,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr habt verkackt.",
+    "premium": false,
+    "positive": true,
+    "id": 9641
+  },
+  {
+    "preset_id": 1378,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Falharam quando importava.",
+    "premium": false,
+    "positive": true,
+    "id": 9642
+  },
+  {
+    "preset_id": 1378,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Spanikowaliście.",
+    "premium": false,
+    "positive": true,
+    "id": 9643
+  },
+  {
+    "preset_id": 1378,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Сломались.",
+    "premium": false,
+    "positive": true,
+    "id": 9644
+  },
+  {
+    "preset_id": 1378,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们崩了。",
+    "premium": false,
+    "positive": true,
+    "id": 9645
+  }
+]

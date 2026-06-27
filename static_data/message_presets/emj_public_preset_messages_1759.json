@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1759,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Your offense is offensive!",
+    "premium": true,
+    "positive": true,
+    "id": 12306
+  },
+  {
+    "preset_id": 1759,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Your offense is offensive!",
+    "premium": true,
+    "positive": true,
+    "id": 12307
+  },
+  {
+    "preset_id": 1759,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Your offense is offensive!",
+    "premium": true,
+    "positive": true,
+    "id": 12308
+  },
+  {
+    "preset_id": 1759,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Your offense is offensive!",
+    "premium": true,
+    "positive": true,
+    "id": 12309
+  },
+  {
+    "preset_id": 1759,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Your offense is offensive!",
+    "premium": true,
+    "positive": true,
+    "id": 12310
+  },
+  {
+    "preset_id": 1759,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Your offense is offensive!",
+    "premium": true,
+    "positive": true,
+    "id": 12311
+  },
+  {
+    "preset_id": 1759,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Your offense is offensive!",
+    "premium": true,
+    "positive": true,
+    "id": 12312
+  }
+]

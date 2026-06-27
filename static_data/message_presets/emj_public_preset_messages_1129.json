@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1129,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "It has been a while",
+    "premium": false,
+    "positive": true,
+    "id": 7896
+  },
+  {
+    "preset_id": 1129,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Ha pasado un buen rato",
+    "premium": false,
+    "positive": true,
+    "id": 7897
+  },
+  {
+    "preset_id": 1129,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Es ist schon eine Weile her",
+    "premium": false,
+    "positive": true,
+    "id": 7898
+  },
+  {
+    "preset_id": 1129,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Já passou algum tempo",
+    "premium": false,
+    "positive": true,
+    "id": 7899
+  },
+  {
+    "preset_id": 1129,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Trochę czasu minęło",
+    "premium": false,
+    "positive": true,
+    "id": 7900
+  },
+  {
+    "preset_id": 1129,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Прошло немало времени",
+    "premium": false,
+    "positive": true,
+    "id": 7901
+  },
+  {
+    "preset_id": 1129,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "有段时间了",
+    "premium": false,
+    "positive": true,
+    "id": 7902
+  }
+]

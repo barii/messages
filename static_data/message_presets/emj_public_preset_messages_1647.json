@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1647,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You got robbed... In your favour.",
+    "premium": false,
+    "positive": true,
+    "id": 11522
+  },
+  {
+    "preset_id": 1647,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Os han robado… a vuestro favor.",
+    "premium": false,
+    "positive": true,
+    "id": 11523
+  },
+  {
+    "preset_id": 1647,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ihr seid beraubt worden… zu euren Gunsten.",
+    "premium": false,
+    "positive": true,
+    "id": 11524
+  },
+  {
+    "preset_id": 1647,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Foram roubados… a vosso favor.",
+    "premium": false,
+    "positive": true,
+    "id": 11525
+  },
+  {
+    "preset_id": 1647,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Zostaliście okradzeni… na waszą korzyść.",
+    "premium": false,
+    "positive": true,
+    "id": 11526
+  },
+  {
+    "preset_id": 1647,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Вас ограбили… в вашу пользу.",
+    "premium": false,
+    "positive": true,
+    "id": 11527
+  },
+  {
+    "preset_id": 1647,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们被偷分了…对你们有利。",
+    "premium": false,
+    "positive": true,
+    "id": 11528
+  }
+]

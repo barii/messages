@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 504,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Just vibing",
+    "premium": false,
+    "positive": true,
+    "id": 3521
+  },
+  {
+    "preset_id": 504,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Solo viviendo",
+    "premium": false,
+    "positive": true,
+    "id": 3522
+  },
+  {
+    "preset_id": 504,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Lebe einfach",
+    "premium": false,
+    "positive": true,
+    "id": 3523
+  },
+  {
+    "preset_id": 504,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Apenas a viver",
+    "premium": false,
+    "positive": true,
+    "id": 3524
+  },
+  {
+    "preset_id": 504,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Po prostu wibruję",
+    "premium": false,
+    "positive": true,
+    "id": 3525
+  },
+  {
+    "preset_id": 504,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Просто вайблю",
+    "premium": false,
+    "positive": true,
+    "id": 3526
+  },
+  {
+    "preset_id": 504,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "就那样",
+    "premium": false,
+    "positive": true,
+    "id": 3527
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1066,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Things are slipping a bit lately",
+    "premium": false,
+    "positive": true,
+    "id": 7455
+  },
+  {
+    "preset_id": 1066,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Las cosas se están descuidando últimamente",
+    "premium": false,
+    "positive": true,
+    "id": 7456
+  },
+  {
+    "preset_id": 1066,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Die Dinge schlittern in letzter Zeit",
+    "premium": false,
+    "positive": true,
+    "id": 7457
+  },
+  {
+    "preset_id": 1066,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "As coisas têm escapado ultimamente",
+    "premium": false,
+    "positive": true,
+    "id": 7458
+  },
+  {
+    "preset_id": 1066,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Sprawy ostatnio się sypią",
+    "premium": false,
+    "positive": true,
+    "id": 7459
+  },
+  {
+    "preset_id": 1066,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "В последнее время всё проседает",
+    "premium": false,
+    "positive": true,
+    "id": 7460
+  },
+  {
+    "preset_id": 1066,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "最近事情有点掉链子",
+    "premium": false,
+    "positive": true,
+    "id": 7461
+  }
+]

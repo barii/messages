@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 121,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you stressed?",
+    "premium": false,
+    "positive": true,
+    "id": 840
+  },
+  {
+    "preset_id": 121,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Estás estresado?",
+    "premium": false,
+    "positive": true,
+    "id": 841
+  },
+  {
+    "preset_id": 121,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du gestresst?",
+    "premium": false,
+    "positive": true,
+    "id": 842
+  },
+  {
+    "preset_id": 121,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás stressado?",
+    "premium": false,
+    "positive": true,
+    "id": 843
+  },
+  {
+    "preset_id": 121,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jesteś zestresowany?",
+    "premium": false,
+    "positive": true,
+    "id": 844
+  },
+  {
+    "preset_id": 121,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты в стрессе?",
+    "premium": false,
+    "positive": true,
+    "id": 845
+  },
+  {
+    "preset_id": 121,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你压力大吗?",
+    "premium": false,
+    "positive": true,
+    "id": 846
+  }
+]

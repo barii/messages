@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 441,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Noted",
+    "premium": false,
+    "positive": true,
+    "id": 3080
+  },
+  {
+    "preset_id": 441,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Anotado",
+    "premium": false,
+    "positive": true,
+    "id": 3081
+  },
+  {
+    "preset_id": 441,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Notiert",
+    "premium": false,
+    "positive": true,
+    "id": 3082
+  },
+  {
+    "preset_id": 441,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Anotado",
+    "premium": false,
+    "positive": true,
+    "id": 3083
+  },
+  {
+    "preset_id": 441,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Zanotowane",
+    "premium": false,
+    "positive": true,
+    "id": 3084
+  },
+  {
+    "preset_id": 441,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Учту",
+    "premium": false,
+    "positive": true,
+    "id": 3085
+  },
+  {
+    "preset_id": 441,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "记下了",
+    "premium": false,
+    "positive": true,
+    "id": 3086
+  }
+]

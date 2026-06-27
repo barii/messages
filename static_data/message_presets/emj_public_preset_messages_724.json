@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 724,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I'm so happy for you",
+    "premium": false,
+    "positive": true,
+    "id": 5061
+  },
+  {
+    "preset_id": 724,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Me alegro mucho por ti",
+    "premium": false,
+    "positive": true,
+    "id": 5062
+  },
+  {
+    "preset_id": 724,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Ich freue mich so für dich",
+    "premium": false,
+    "positive": true,
+    "id": 5063
+  },
+  {
+    "preset_id": 724,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Estou tão feliz por ti",
+    "premium": false,
+    "positive": true,
+    "id": 5064
+  },
+  {
+    "preset_id": 724,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Tak się cieszę za ciebie",
+    "premium": false,
+    "positive": true,
+    "id": 5065
+  },
+  {
+    "preset_id": 724,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Я так рад за тебя",
+    "premium": false,
+    "positive": true,
+    "id": 5066
+  },
+  {
+    "preset_id": 724,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我为你感到高兴",
+    "premium": false,
+    "positive": true,
+    "id": 5067
+  }
+]

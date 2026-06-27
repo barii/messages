@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1544,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You cannot compete with us, and never will.",
+    "premium": true,
+    "positive": true,
+    "id": 10801
+  },
+  {
+    "preset_id": 1544,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "No podéis competir con nosotros, y nunca podréis.",
+    "premium": true,
+    "positive": true,
+    "id": 10802
+  },
+  {
+    "preset_id": 1544,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ihr könnt nicht mit uns mithalten, und werdet es nie.",
+    "premium": true,
+    "positive": true,
+    "id": 10803
+  },
+  {
+    "preset_id": 1544,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Não conseguem competir connosco, e nunca conseguirão.",
+    "premium": true,
+    "positive": true,
+    "id": 10804
+  },
+  {
+    "preset_id": 1544,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Nie możecie z nami konkurować i nigdy nie będziecie mogli.",
+    "premium": true,
+    "positive": true,
+    "id": 10805
+  },
+  {
+    "preset_id": 1544,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Вы не можете с нами соревноваться, и никогда не сможете.",
+    "premium": true,
+    "positive": true,
+    "id": 10806
+  },
+  {
+    "preset_id": 1544,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们没法跟我们比,永远都不会。",
+    "premium": true,
+    "positive": true,
+    "id": 10807
+  }
+]

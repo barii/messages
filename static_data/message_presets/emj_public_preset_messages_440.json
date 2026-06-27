@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 440,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Understood",
+    "premium": false,
+    "positive": true,
+    "id": 3073
+  },
+  {
+    "preset_id": 440,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Entendido",
+    "premium": false,
+    "positive": true,
+    "id": 3074
+  },
+  {
+    "preset_id": 440,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Verstanden",
+    "premium": false,
+    "positive": true,
+    "id": 3075
+  },
+  {
+    "preset_id": 440,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Entendido",
+    "premium": false,
+    "positive": true,
+    "id": 3076
+  },
+  {
+    "preset_id": 440,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Zrozumiano",
+    "premium": false,
+    "positive": true,
+    "id": 3077
+  },
+  {
+    "preset_id": 440,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Понятно",
+    "premium": false,
+    "positive": true,
+    "id": 3078
+  },
+  {
+    "preset_id": 440,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "懂了",
+    "premium": false,
+    "positive": true,
+    "id": 3079
+  }
+]

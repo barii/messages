@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 245,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We were on the same team",
+    "premium": false,
+    "positive": true,
+    "id": 1708
+  },
+  {
+    "preset_id": 245,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Estábamos en el mismo equipo",
+    "premium": false,
+    "positive": true,
+    "id": 1709
+  },
+  {
+    "preset_id": 245,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir waren im selben Team",
+    "premium": false,
+    "positive": true,
+    "id": 1710
+  },
+  {
+    "preset_id": 245,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Estávamos na mesma equipa",
+    "premium": false,
+    "positive": true,
+    "id": 1711
+  },
+  {
+    "preset_id": 245,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Byliśmy w tej samej drużynie",
+    "premium": false,
+    "positive": true,
+    "id": 1712
+  },
+  {
+    "preset_id": 245,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы были в одной команде",
+    "premium": false,
+    "positive": true,
+    "id": 1713
+  },
+  {
+    "preset_id": 245,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们在同一个团队",
+    "premium": false,
+    "positive": true,
+    "id": 1714
+  }
+]

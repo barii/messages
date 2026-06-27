@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1162,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Happy Valentine's Day",
+    "premium": false,
+    "positive": true,
+    "id": 8127
+  },
+  {
+    "preset_id": 1162,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Feliz Día de San Valentín",
+    "premium": false,
+    "positive": true,
+    "id": 8128
+  },
+  {
+    "preset_id": 1162,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Frohen Valentinstag",
+    "premium": false,
+    "positive": true,
+    "id": 8129
+  },
+  {
+    "preset_id": 1162,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Feliz Dia dos Namorados",
+    "premium": false,
+    "positive": true,
+    "id": 8130
+  },
+  {
+    "preset_id": 1162,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Wesołego Dnia Świętego Walentego",
+    "premium": false,
+    "positive": true,
+    "id": 8131
+  },
+  {
+    "preset_id": 1162,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "С Днём святого Валентина",
+    "premium": false,
+    "positive": true,
+    "id": 8132
+  },
+  {
+    "preset_id": 1162,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "情人节快乐",
+    "premium": false,
+    "positive": true,
+    "id": 8133
+  }
+]

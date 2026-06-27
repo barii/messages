@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 700,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "No problem",
+    "premium": false,
+    "positive": true,
+    "id": 4893
+  },
+  {
+    "preset_id": 700,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "No hay problema",
+    "premium": false,
+    "positive": true,
+    "id": 4894
+  },
+  {
+    "preset_id": 700,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Kein Problem",
+    "premium": false,
+    "positive": true,
+    "id": 4895
+  },
+  {
+    "preset_id": 700,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Sem problema",
+    "premium": false,
+    "positive": true,
+    "id": 4896
+  },
+  {
+    "preset_id": 700,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Żaden problem",
+    "premium": false,
+    "positive": true,
+    "id": 4897
+  },
+  {
+    "preset_id": 700,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Без проблем",
+    "premium": false,
+    "positive": true,
+    "id": 4898
+  },
+  {
+    "preset_id": 700,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "没问题",
+    "premium": false,
+    "positive": true,
+    "id": 4899
+  }
+]

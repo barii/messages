@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 911,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "It will work out, I promise",
+    "premium": false,
+    "positive": true,
+    "id": 6370
+  },
+  {
+    "preset_id": 911,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Va a salir bien, te lo prometo",
+    "premium": false,
+    "positive": true,
+    "id": 6371
+  },
+  {
+    "preset_id": 911,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Es wird klappen, ich verspreche es",
+    "premium": false,
+    "positive": true,
+    "id": 6372
+  },
+  {
+    "preset_id": 911,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Vai correr bem, prometo",
+    "premium": false,
+    "positive": true,
+    "id": 6373
+  },
+  {
+    "preset_id": 911,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Wszystko się ułoży, obiecuję",
+    "premium": false,
+    "positive": true,
+    "id": 6374
+  },
+  {
+    "preset_id": 911,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Всё получится, обещаю",
+    "premium": false,
+    "positive": true,
+    "id": 6375
+  },
+  {
+    "preset_id": 911,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "会成功的,我保证",
+    "premium": false,
+    "positive": true,
+    "id": 6376
+  }
+]

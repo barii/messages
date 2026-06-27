@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1570,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Don't make me laugh.",
+    "premium": false,
+    "positive": true,
+    "id": 10983
+  },
+  {
+    "preset_id": 1570,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "No me hagáis reír.",
+    "premium": false,
+    "positive": true,
+    "id": 10984
+  },
+  {
+    "preset_id": 1570,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Bringt mich nicht zum Lachen.",
+    "premium": false,
+    "positive": true,
+    "id": 10985
+  },
+  {
+    "preset_id": 1570,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Não me faças rir.",
+    "premium": false,
+    "positive": true,
+    "id": 10986
+  },
+  {
+    "preset_id": 1570,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Nie rozśmieszajcie mnie.",
+    "premium": false,
+    "positive": true,
+    "id": 10987
+  },
+  {
+    "preset_id": 1570,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Не смешите меня.",
+    "premium": false,
+    "positive": true,
+    "id": 10988
+  },
+  {
+    "preset_id": 1570,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "别让我笑。",
+    "premium": false,
+    "positive": true,
+    "id": 10989
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 891,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I'm seeing someone",
+    "premium": false,
+    "positive": true,
+    "id": 6230
+  },
+  {
+    "preset_id": 891,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Estoy saliendo con alguien",
+    "premium": false,
+    "positive": true,
+    "id": 6231
+  },
+  {
+    "preset_id": 891,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich bin mit jemandem zusammen",
+    "premium": false,
+    "positive": true,
+    "id": 6232
+  },
+  {
+    "preset_id": 891,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Estou a sair com alguém",
+    "premium": false,
+    "positive": true,
+    "id": 6233
+  },
+  {
+    "preset_id": 891,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Spotykam się z kimś",
+    "premium": false,
+    "positive": true,
+    "id": 6234
+  },
+  {
+    "preset_id": 891,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Я с кем-то встречаюсь",
+    "premium": false,
+    "positive": true,
+    "id": 6235
+  },
+  {
+    "preset_id": 891,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我正在和别人交往",
+    "premium": false,
+    "positive": true,
+    "id": 6236
+  }
+]

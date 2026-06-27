@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 618,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Stop",
+    "premium": false,
+    "positive": true,
+    "id": 4319
+  },
+  {
+    "preset_id": 618,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Para",
+    "premium": false,
+    "positive": true,
+    "id": 4320
+  },
+  {
+    "preset_id": 618,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Stopp",
+    "premium": false,
+    "positive": true,
+    "id": 4321
+  },
+  {
+    "preset_id": 618,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Para",
+    "premium": false,
+    "positive": true,
+    "id": 4322
+  },
+  {
+    "preset_id": 618,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Stop",
+    "premium": false,
+    "positive": true,
+    "id": 4323
+  },
+  {
+    "preset_id": 618,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Стоп",
+    "premium": false,
+    "positive": true,
+    "id": 4324
+  },
+  {
+    "preset_id": 618,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "停",
+    "premium": false,
+    "positive": true,
+    "id": 4325
+  }
+]

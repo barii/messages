@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1390,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Absolute pub team.",
+    "premium": false,
+    "positive": true,
+    "id": 9723
+  },
+  {
+    "preset_id": 1390,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Equipo de bar absoluto.",
+    "premium": false,
+    "positive": true,
+    "id": 9724
+  },
+  {
+    "preset_id": 1390,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Absolute Kreisliga.",
+    "premium": false,
+    "positive": true,
+    "id": 9725
+  },
+  {
+    "preset_id": 1390,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Equipa de bairro absoluta.",
+    "premium": false,
+    "positive": true,
+    "id": 9726
+  },
+  {
+    "preset_id": 1390,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Kompletna drużyna z osiedla.",
+    "premium": false,
+    "positive": true,
+    "id": 9727
+  },
+  {
+    "preset_id": 1390,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Абсолютно дворовая команда.",
+    "premium": false,
+    "positive": true,
+    "id": 9728
+  },
+  {
+    "preset_id": 1390,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "彻底的酒吧队。",
+    "premium": false,
+    "positive": true,
+    "id": 9729
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 625,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Why are you telling me this?",
+    "premium": false,
+    "positive": true,
+    "id": 4368
+  },
+  {
+    "preset_id": 625,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "¿Por qué me cuentas esto?",
+    "premium": false,
+    "positive": true,
+    "id": 4369
+  },
+  {
+    "preset_id": 625,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Warum erzählst du mir das?",
+    "premium": false,
+    "positive": true,
+    "id": 4370
+  },
+  {
+    "preset_id": 625,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Porque me estás a contar isto?",
+    "premium": false,
+    "positive": true,
+    "id": 4371
+  },
+  {
+    "preset_id": 625,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Po co mi to mówisz?",
+    "premium": false,
+    "positive": true,
+    "id": 4372
+  },
+  {
+    "preset_id": 625,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Почему ты мне это рассказываешь?",
+    "premium": false,
+    "positive": true,
+    "id": 4373
+  },
+  {
+    "preset_id": 625,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "你为什么告诉我这个?",
+    "premium": false,
+    "positive": true,
+    "id": 4374
+  }
+]

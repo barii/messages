@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1067,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Communication has been off",
+    "premium": false,
+    "positive": true,
+    "id": 7462
+  },
+  {
+    "preset_id": 1067,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "La comunicación ha estado mal",
+    "premium": false,
+    "positive": true,
+    "id": 7463
+  },
+  {
+    "preset_id": 1067,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Die Kommunikation war schlecht",
+    "premium": false,
+    "positive": true,
+    "id": 7464
+  },
+  {
+    "preset_id": 1067,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "A comunicação tem estado má",
+    "premium": false,
+    "positive": true,
+    "id": 7465
+  },
+  {
+    "preset_id": 1067,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Komunikacja kuleje",
+    "premium": false,
+    "positive": true,
+    "id": 7466
+  },
+  {
+    "preset_id": 1067,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "С коммуникацией плохо",
+    "premium": false,
+    "positive": true,
+    "id": 7467
+  },
+  {
+    "preset_id": 1067,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "沟通一直不太好",
+    "premium": false,
+    "positive": true,
+    "id": 7468
+  }
+]

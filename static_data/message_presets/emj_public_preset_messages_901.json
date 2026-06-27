@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 901,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I had no idea you felt that way",
+    "premium": false,
+    "positive": true,
+    "id": 6300
+  },
+  {
+    "preset_id": 901,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "No tenía idea de que sentías eso",
+    "premium": false,
+    "positive": true,
+    "id": 6301
+  },
+  {
+    "preset_id": 901,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich hatte keine Ahnung, dass du so empfindest",
+    "premium": false,
+    "positive": true,
+    "id": 6302
+  },
+  {
+    "preset_id": 901,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Não fazia ideia que sentias isso",
+    "premium": false,
+    "positive": true,
+    "id": 6303
+  },
+  {
+    "preset_id": 901,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Nie miałem pojęcia, że tak się czujesz",
+    "premium": false,
+    "positive": true,
+    "id": 6304
+  },
+  {
+    "preset_id": 901,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Я понятия не имел, что ты так чувствуешь",
+    "premium": false,
+    "positive": true,
+    "id": 6305
+  },
+  {
+    "preset_id": 901,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我不知道你有这种感觉",
+    "premium": false,
+    "positive": true,
+    "id": 6306
+  }
+]

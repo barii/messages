@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 365,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm a morning person",
+    "premium": false,
+    "positive": true,
+    "id": 2548
+  },
+  {
+    "preset_id": 365,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Soy madrugador",
+    "premium": false,
+    "positive": true,
+    "id": 2549
+  },
+  {
+    "preset_id": 365,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin ein Morgenmensch",
+    "premium": false,
+    "positive": true,
+    "id": 2550
+  },
+  {
+    "preset_id": 365,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Sou matinal",
+    "premium": false,
+    "positive": true,
+    "id": 2551
+  },
+  {
+    "preset_id": 365,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem rannym ptaszkiem",
+    "premium": false,
+    "positive": true,
+    "id": 2552
+  },
+  {
+    "preset_id": 365,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я жаворонок",
+    "premium": false,
+    "positive": true,
+    "id": 2553
+  },
+  {
+    "preset_id": 365,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我是早起的人",
+    "premium": false,
+    "positive": true,
+    "id": 2554
+  }
+]

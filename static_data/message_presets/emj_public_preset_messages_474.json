@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 474,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "What?",
+    "premium": false,
+    "positive": true,
+    "id": 3311
+  },
+  {
+    "preset_id": 474,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "¿Qué?",
+    "premium": false,
+    "positive": true,
+    "id": 3312
+  },
+  {
+    "preset_id": 474,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Was?",
+    "premium": false,
+    "positive": true,
+    "id": 3313
+  },
+  {
+    "preset_id": 474,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "O quê?",
+    "premium": false,
+    "positive": true,
+    "id": 3314
+  },
+  {
+    "preset_id": 474,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Co?",
+    "premium": false,
+    "positive": true,
+    "id": 3315
+  },
+  {
+    "preset_id": 474,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Что?",
+    "premium": false,
+    "positive": true,
+    "id": 3316
+  },
+  {
+    "preset_id": 474,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "什么?",
+    "premium": false,
+    "positive": true,
+    "id": 3317
+  }
+]

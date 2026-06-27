@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 819,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I respect the effort",
+    "premium": false,
+    "positive": true,
+    "id": 5726
+  },
+  {
+    "preset_id": 819,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Respeto el esfuerzo",
+    "premium": false,
+    "positive": true,
+    "id": 5727
+  },
+  {
+    "preset_id": 819,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Ich respektiere den Aufwand",
+    "premium": false,
+    "positive": true,
+    "id": 5728
+  },
+  {
+    "preset_id": 819,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Respeito o esforço",
+    "premium": false,
+    "positive": true,
+    "id": 5729
+  },
+  {
+    "preset_id": 819,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Szanuję wysiłek",
+    "premium": false,
+    "positive": true,
+    "id": 5730
+  },
+  {
+    "preset_id": 819,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Уважаю усилия",
+    "premium": false,
+    "positive": true,
+    "id": 5731
+  },
+  {
+    "preset_id": 819,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我尊重你的努力",
+    "premium": false,
+    "positive": true,
+    "id": 5732
+  }
+]

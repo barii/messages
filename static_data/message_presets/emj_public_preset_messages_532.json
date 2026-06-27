@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 532,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Give me a minute",
+    "premium": false,
+    "positive": true,
+    "id": 3717
+  },
+  {
+    "preset_id": 532,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Dame un minuto",
+    "premium": false,
+    "positive": true,
+    "id": 3718
+  },
+  {
+    "preset_id": 532,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Gib mir eine Minute",
+    "premium": false,
+    "positive": true,
+    "id": 3719
+  },
+  {
+    "preset_id": 532,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Dá-me um minuto",
+    "premium": false,
+    "positive": true,
+    "id": 3720
+  },
+  {
+    "preset_id": 532,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Daj mi minutę",
+    "premium": false,
+    "positive": true,
+    "id": 3721
+  },
+  {
+    "preset_id": 532,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Дай мне минуту",
+    "premium": false,
+    "positive": true,
+    "id": 3722
+  },
+  {
+    "preset_id": 532,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "给我一分钟",
+    "premium": false,
+    "positive": true,
+    "id": 3723
+  }
+]

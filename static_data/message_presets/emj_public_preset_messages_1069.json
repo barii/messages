@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1069,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "That project did not go well",
+    "premium": false,
+    "positive": true,
+    "id": 7476
+  },
+  {
+    "preset_id": 1069,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Ese proyecto no salió bien",
+    "premium": false,
+    "positive": true,
+    "id": 7477
+  },
+  {
+    "preset_id": 1069,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Dieses Projekt lief nicht gut",
+    "premium": false,
+    "positive": true,
+    "id": 7478
+  },
+  {
+    "preset_id": 1069,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Aquele projeto não correu bem",
+    "premium": false,
+    "positive": true,
+    "id": 7479
+  },
+  {
+    "preset_id": 1069,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Ten projekt nie poszedł dobrze",
+    "premium": false,
+    "positive": true,
+    "id": 7480
+  },
+  {
+    "preset_id": 1069,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Этот проект прошёл не очень",
+    "premium": false,
+    "positive": true,
+    "id": 7481
+  },
+  {
+    "preset_id": 1069,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "那个项目进行得不顺利",
+    "premium": false,
+    "positive": true,
+    "id": 7482
+  }
+]

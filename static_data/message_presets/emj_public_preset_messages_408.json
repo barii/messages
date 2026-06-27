@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 408,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Yeah",
+    "premium": false,
+    "positive": true,
+    "id": 2849
+  },
+  {
+    "preset_id": 408,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Sí",
+    "premium": false,
+    "positive": true,
+    "id": 2850
+  },
+  {
+    "preset_id": 408,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Joa",
+    "premium": false,
+    "positive": true,
+    "id": 2851
+  },
+  {
+    "preset_id": 408,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Sim",
+    "premium": false,
+    "positive": true,
+    "id": 2852
+  },
+  {
+    "preset_id": 408,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "No",
+    "premium": false,
+    "positive": true,
+    "id": 2853
+  },
+  {
+    "preset_id": 408,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Ага",
+    "premium": false,
+    "positive": true,
+    "id": 2854
+  },
+  {
+    "preset_id": 408,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "嗯",
+    "premium": false,
+    "positive": true,
+    "id": 2855
+  }
+]

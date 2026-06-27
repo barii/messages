@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 167,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Do you want to know a secret?",
+    "premium": false,
+    "positive": true,
+    "id": 1162
+  },
+  {
+    "preset_id": 167,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Quieres saber un secreto?",
+    "premium": false,
+    "positive": true,
+    "id": 1163
+  },
+  {
+    "preset_id": 167,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Willst du ein Geheimnis wissen?",
+    "premium": false,
+    "positive": true,
+    "id": 1164
+  },
+  {
+    "preset_id": 167,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Queres saber um segredo?",
+    "premium": false,
+    "positive": true,
+    "id": 1165
+  },
+  {
+    "preset_id": 167,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Chcesz poznać sekret?",
+    "premium": false,
+    "positive": true,
+    "id": 1166
+  },
+  {
+    "preset_id": 167,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Хочешь узнать секрет?",
+    "premium": false,
+    "positive": true,
+    "id": 1167
+  },
+  {
+    "preset_id": 167,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你想知道一个秘密吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1168
+  }
+]

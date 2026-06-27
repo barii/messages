@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 152,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Have you been dating?",
+    "premium": false,
+    "positive": true,
+    "id": 1057
+  },
+  {
+    "preset_id": 152,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Has estado saliendo con alguien?",
+    "premium": false,
+    "positive": true,
+    "id": 1058
+  },
+  {
+    "preset_id": 152,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du am Daten?",
+    "premium": false,
+    "positive": true,
+    "id": 1059
+  },
+  {
+    "preset_id": 152,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Andas a namorar?",
+    "premium": false,
+    "positive": true,
+    "id": 1060
+  },
+  {
+    "preset_id": 152,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Spotykałeś się ostatnio z kimś?",
+    "premium": false,
+    "positive": true,
+    "id": 1061
+  },
+  {
+    "preset_id": 152,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты ходил на свидания?",
+    "premium": false,
+    "positive": true,
+    "id": 1062
+  },
+  {
+    "preset_id": 152,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你最近在约会吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1063
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1988,
+    "preset_id": 284,
+    "cat_emoji": "🇨🇴",
+    "lang": "EN",
+    "category": "Columbian Football Teams",
+    "text": "Atlético Nacional",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 1989,
+    "preset_id": 284,
+    "cat_emoji": "🇨🇴",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Colombianos",
+    "text": "Atlético Nacional",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 1990,
+    "preset_id": 284,
+    "cat_emoji": "🇨🇴",
+    "lang": "DE",
+    "category": "Kolumbianische Fußballmannschaften",
+    "text": "Atlético Nacional",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 1991,
+    "preset_id": 284,
+    "cat_emoji": "🇨🇴",
+    "lang": "PL",
+    "category": "Kolumbijskie drużyny piłkarskie",
+    "text": "Atlético Nacional",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 1992,
+    "preset_id": 284,
+    "cat_emoji": "🇨🇴",
+    "lang": "RU",
+    "category": "Колумбийские футбольные команды",
+    "text": "Atlético Nacional",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 1993,
+    "preset_id": 284,
+    "cat_emoji": "🇨🇴",
+    "lang": "PT",
+    "category": "Times de futebol colombianos",
+    "text": "Atlético Nacional",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  },
+  {
+    "id": 1994,
+    "preset_id": 284,
+    "cat_emoji": "🇨🇴",
+    "lang": "CN",
+    "category": "哥伦比亚足球队",
+    "text": "Atlético Nacional",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇨🇴",
+    "continent": "European"
+  }
+]

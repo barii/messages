@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 999,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You're unreliable lately",
+    "premium": false,
+    "positive": true,
+    "id": 6986
+  },
+  {
+    "preset_id": 999,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Has sido poco confiable últimamente",
+    "premium": false,
+    "positive": true,
+    "id": 6987
+  },
+  {
+    "preset_id": 999,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du bist in letzter Zeit unzuverlässig",
+    "premium": false,
+    "positive": true,
+    "id": 6988
+  },
+  {
+    "preset_id": 999,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Tens andado pouco fiável",
+    "premium": false,
+    "positive": true,
+    "id": 6989
+  },
+  {
+    "preset_id": 999,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Ostatnio jesteś niewiarygodny",
+    "premium": false,
+    "positive": true,
+    "id": 6990
+  },
+  {
+    "preset_id": 999,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "В последнее время ты ненадёжный",
+    "premium": false,
+    "positive": true,
+    "id": 6991
+  },
+  {
+    "preset_id": 999,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你最近不可靠",
+    "premium": false,
+    "positive": true,
+    "id": 6992
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 660,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Cool",
+    "premium": false,
+    "positive": true,
+    "id": 4613
+  },
+  {
+    "preset_id": 660,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Genial",
+    "premium": false,
+    "positive": true,
+    "id": 4614
+  },
+  {
+    "preset_id": 660,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Cool",
+    "premium": false,
+    "positive": true,
+    "id": 4615
+  },
+  {
+    "preset_id": 660,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Fixe",
+    "premium": false,
+    "positive": true,
+    "id": 4616
+  },
+  {
+    "preset_id": 660,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Spoko",
+    "premium": false,
+    "positive": true,
+    "id": 4617
+  },
+  {
+    "preset_id": 660,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Круто",
+    "premium": false,
+    "positive": true,
+    "id": 4618
+  },
+  {
+    "preset_id": 660,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "酷",
+    "premium": false,
+    "positive": true,
+    "id": 4619
+  }
+]

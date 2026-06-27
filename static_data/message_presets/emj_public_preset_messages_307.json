@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 307,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm doing my best",
+    "premium": false,
+    "positive": true,
+    "id": 2142
+  },
+  {
+    "preset_id": 307,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Estoy haciendo lo mejor que puedo",
+    "premium": false,
+    "positive": true,
+    "id": 2143
+  },
+  {
+    "preset_id": 307,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich gebe mein Bestes",
+    "premium": false,
+    "positive": true,
+    "id": 2144
+  },
+  {
+    "preset_id": 307,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Estou a dar o meu melhor",
+    "premium": false,
+    "positive": true,
+    "id": 2145
+  },
+  {
+    "preset_id": 307,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Robię, co mogę",
+    "premium": false,
+    "positive": true,
+    "id": 2146
+  },
+  {
+    "preset_id": 307,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я делаю всё, что могу",
+    "premium": false,
+    "positive": true,
+    "id": 2147
+  },
+  {
+    "preset_id": 307,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我在尽力",
+    "premium": false,
+    "positive": true,
+    "id": 2148
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 3430,
+    "preset_id": 490,
+    "cat_emoji": "🏀",
+    "lang": "EN",
+    "category": "NBA Basketball Teams",
+    "text": "Los Angeles Clippers",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3431,
+    "preset_id": 490,
+    "cat_emoji": "🏀",
+    "lang": "ES",
+    "category": "Equipos de Baloncesto de la NBA",
+    "text": "Los Angeles Clippers",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3432,
+    "preset_id": 490,
+    "cat_emoji": "🏀",
+    "lang": "DE",
+    "category": "NBA Basketball Teams",
+    "text": "Los Angeles Clippers",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3433,
+    "preset_id": 490,
+    "cat_emoji": "🏀",
+    "lang": "PL",
+    "category": "Drużyny koszykarskie NBA",
+    "text": "Los Angeles Clippers",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3434,
+    "preset_id": 490,
+    "cat_emoji": "🏀",
+    "lang": "RU",
+    "category": "Команды Национальной баскетбольной ассоциации NBA",
+    "text": "Los Angeles Clippers",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3435,
+    "preset_id": 490,
+    "cat_emoji": "🏀",
+    "lang": "PT",
+    "category": "Times de Basquete da NBA",
+    "text": "Los Angeles Clippers",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  },
+  {
+    "id": 3436,
+    "preset_id": 490,
+    "cat_emoji": "🏀",
+    "lang": "CN",
+    "category": "NBA篮球队",
+    "text": "Los Angeles Clippers",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏀",
+    "continent": "American"
+  }
+]

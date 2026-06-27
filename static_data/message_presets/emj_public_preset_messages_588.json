@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 588,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Not even close",
+    "premium": false,
+    "positive": true,
+    "id": 4109
+  },
+  {
+    "preset_id": 588,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Para nada cerca",
+    "premium": false,
+    "positive": true,
+    "id": 4110
+  },
+  {
+    "preset_id": 588,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Nicht mal nah",
+    "premium": false,
+    "positive": true,
+    "id": 4111
+  },
+  {
+    "preset_id": 588,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Nem perto",
+    "premium": false,
+    "positive": true,
+    "id": 4112
+  },
+  {
+    "preset_id": 588,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Nawet nie blisko",
+    "premium": false,
+    "positive": true,
+    "id": 4113
+  },
+  {
+    "preset_id": 588,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Даже не близко",
+    "premium": false,
+    "positive": true,
+    "id": 4114
+  },
+  {
+    "preset_id": 588,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "完全不近",
+    "premium": false,
+    "positive": true,
+    "id": 4115
+  }
+]

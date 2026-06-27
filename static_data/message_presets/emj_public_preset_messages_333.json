@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 333,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I don't take things personally",
+    "premium": false,
+    "positive": true,
+    "id": 2324
+  },
+  {
+    "preset_id": 333,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "No me tomo las cosas personal",
+    "premium": false,
+    "positive": true,
+    "id": 2325
+  },
+  {
+    "preset_id": 333,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich nehme Dinge nicht persönlich",
+    "premium": false,
+    "positive": true,
+    "id": 2326
+  },
+  {
+    "preset_id": 333,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Não levo as coisas a peito",
+    "premium": false,
+    "positive": true,
+    "id": 2327
+  },
+  {
+    "preset_id": 333,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Nie biorę rzeczy do siebie",
+    "premium": false,
+    "positive": true,
+    "id": 2328
+  },
+  {
+    "preset_id": 333,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я не принимаю на свой счёт",
+    "premium": false,
+    "positive": true,
+    "id": 2329
+  },
+  {
+    "preset_id": 333,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我不把事情放在心上",
+    "premium": false,
+    "positive": true,
+    "id": 2330
+  }
+]

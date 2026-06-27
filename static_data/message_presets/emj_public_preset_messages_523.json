@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 523,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I have no idea",
+    "premium": false,
+    "positive": true,
+    "id": 3654
+  },
+  {
+    "preset_id": 523,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "No tengo idea",
+    "premium": false,
+    "positive": true,
+    "id": 3655
+  },
+  {
+    "preset_id": 523,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ich hab keine Ahnung",
+    "premium": false,
+    "positive": true,
+    "id": 3656
+  },
+  {
+    "preset_id": 523,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Não faço ideia",
+    "premium": false,
+    "positive": true,
+    "id": 3657
+  },
+  {
+    "preset_id": 523,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Nie mam pojęcia",
+    "premium": false,
+    "positive": true,
+    "id": 3658
+  },
+  {
+    "preset_id": 523,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Без понятия",
+    "premium": false,
+    "positive": true,
+    "id": 3659
+  },
+  {
+    "preset_id": 523,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我不知道",
+    "premium": false,
+    "positive": true,
+    "id": 3660
+  }
+]

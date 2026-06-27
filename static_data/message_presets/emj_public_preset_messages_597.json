@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 597,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I don't know what to say",
+    "premium": false,
+    "positive": true,
+    "id": 4172
+  },
+  {
+    "preset_id": 597,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "No sé qué decir",
+    "premium": false,
+    "positive": true,
+    "id": 4173
+  },
+  {
+    "preset_id": 597,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ich weiß nicht, was ich sagen soll",
+    "premium": false,
+    "positive": true,
+    "id": 4174
+  },
+  {
+    "preset_id": 597,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Não sei o que dizer",
+    "premium": false,
+    "positive": true,
+    "id": 4175
+  },
+  {
+    "preset_id": 597,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Nie wiem, co powiedzieć",
+    "premium": false,
+    "positive": true,
+    "id": 4176
+  },
+  {
+    "preset_id": 597,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Не знаю, что сказать",
+    "premium": false,
+    "positive": true,
+    "id": 4177
+  },
+  {
+    "preset_id": 597,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我不知道该说什么",
+    "premium": false,
+    "positive": true,
+    "id": 4178
+  }
+]

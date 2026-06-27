@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1093,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Lunch on me",
+    "premium": false,
+    "positive": true,
+    "id": 7644
+  },
+  {
+    "preset_id": 1093,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "El almuerzo va por mí",
+    "premium": false,
+    "positive": true,
+    "id": 7645
+  },
+  {
+    "preset_id": 1093,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Mittagessen geht auf mich",
+    "premium": false,
+    "positive": true,
+    "id": 7646
+  },
+  {
+    "preset_id": 1093,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "O almoço é por minha conta",
+    "premium": false,
+    "positive": true,
+    "id": 7647
+  },
+  {
+    "preset_id": 1093,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Lunch na mój koszt",
+    "premium": false,
+    "positive": true,
+    "id": 7648
+  },
+  {
+    "preset_id": 1093,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Обед с меня",
+    "premium": false,
+    "positive": true,
+    "id": 7649
+  },
+  {
+    "preset_id": 1093,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "午餐我请",
+    "premium": false,
+    "positive": true,
+    "id": 7650
+  }
+]

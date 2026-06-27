@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1551,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Calm yourself.",
+    "premium": false,
+    "positive": true,
+    "id": 10850
+  },
+  {
+    "preset_id": 1551,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Calmaos.",
+    "premium": false,
+    "positive": true,
+    "id": 10851
+  },
+  {
+    "preset_id": 1551,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Beruhigt euch.",
+    "premium": false,
+    "positive": true,
+    "id": 10852
+  },
+  {
+    "preset_id": 1551,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Acalma-te.",
+    "premium": false,
+    "positive": true,
+    "id": 10853
+  },
+  {
+    "preset_id": 1551,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Uspokójcie się.",
+    "premium": false,
+    "positive": true,
+    "id": 10854
+  },
+  {
+    "preset_id": 1551,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Успокойтесь.",
+    "premium": false,
+    "positive": true,
+    "id": 10855
+  },
+  {
+    "preset_id": 1551,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们冷静点。",
+    "premium": false,
+    "positive": true,
+    "id": 10856
+  }
+]

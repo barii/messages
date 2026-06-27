@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 303,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm restless",
+    "premium": false,
+    "positive": true,
+    "id": 2114
+  },
+  {
+    "preset_id": 303,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Estoy inquieto",
+    "premium": false,
+    "positive": true,
+    "id": 2115
+  },
+  {
+    "preset_id": 303,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin ruhelos",
+    "premium": false,
+    "positive": true,
+    "id": 2116
+  },
+  {
+    "preset_id": 303,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Estou inquieto",
+    "premium": false,
+    "positive": true,
+    "id": 2117
+  },
+  {
+    "preset_id": 303,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem niespokojny",
+    "premium": false,
+    "positive": true,
+    "id": 2118
+  },
+  {
+    "preset_id": 303,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я беспокоен",
+    "premium": false,
+    "positive": true,
+    "id": 2119
+  },
+  {
+    "preset_id": 303,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我焦躁",
+    "premium": false,
+    "positive": true,
+    "id": 2120
+  }
+]

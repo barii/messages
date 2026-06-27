@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 160,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Do you believe in soulmates?",
+    "premium": false,
+    "positive": true,
+    "id": 1113
+  },
+  {
+    "preset_id": 160,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Crees en las almas gemelas?",
+    "premium": false,
+    "positive": true,
+    "id": 1114
+  },
+  {
+    "preset_id": 160,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Glaubst du an Seelenverwandte?",
+    "premium": false,
+    "positive": true,
+    "id": 1115
+  },
+  {
+    "preset_id": 160,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Acreditas em almas gémeas?",
+    "premium": false,
+    "positive": true,
+    "id": 1116
+  },
+  {
+    "preset_id": 160,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Wierzysz w bratnie dusze?",
+    "premium": false,
+    "positive": true,
+    "id": 1117
+  },
+  {
+    "preset_id": 160,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты веришь в родственные души?",
+    "premium": false,
+    "positive": true,
+    "id": 1118
+  },
+  {
+    "preset_id": 160,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你相信灵魂伴侣吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1119
+  }
+]

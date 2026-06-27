@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 704,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "My pleasure",
+    "premium": false,
+    "positive": true,
+    "id": 4921
+  },
+  {
+    "preset_id": 704,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Un placer",
+    "premium": false,
+    "positive": true,
+    "id": 4922
+  },
+  {
+    "preset_id": 704,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Mit Vergnügen",
+    "premium": false,
+    "positive": true,
+    "id": 4923
+  },
+  {
+    "preset_id": 704,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "O prazer é meu",
+    "premium": false,
+    "positive": true,
+    "id": 4924
+  },
+  {
+    "preset_id": 704,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Cała przyjemność po mojej stronie",
+    "premium": false,
+    "positive": true,
+    "id": 4925
+  },
+  {
+    "preset_id": 704,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "С удовольствием",
+    "premium": false,
+    "positive": true,
+    "id": 4926
+  },
+  {
+    "preset_id": 704,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我的荣幸",
+    "premium": false,
+    "positive": true,
+    "id": 4927
+  }
+]

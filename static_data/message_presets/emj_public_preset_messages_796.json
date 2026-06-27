@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 796,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Stop it you",
+    "premium": false,
+    "positive": true,
+    "id": 5565
+  },
+  {
+    "preset_id": 796,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Para ya",
+    "premium": false,
+    "positive": true,
+    "id": 5566
+  },
+  {
+    "preset_id": 796,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Hör auf",
+    "premium": false,
+    "positive": true,
+    "id": 5567
+  },
+  {
+    "preset_id": 796,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Para com isso",
+    "premium": false,
+    "positive": true,
+    "id": 5568
+  },
+  {
+    "preset_id": 796,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Przestań",
+    "premium": false,
+    "positive": true,
+    "id": 5569
+  },
+  {
+    "preset_id": 796,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Прекрати",
+    "premium": false,
+    "positive": true,
+    "id": 5570
+  },
+  {
+    "preset_id": 796,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "停下来",
+    "premium": false,
+    "positive": true,
+    "id": 5571
+  }
+]

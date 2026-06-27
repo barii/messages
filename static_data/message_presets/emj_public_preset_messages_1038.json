@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1038,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Counting down to lunch",
+    "premium": false,
+    "positive": true,
+    "id": 7259
+  },
+  {
+    "preset_id": 1038,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Cuenta atrás para el almuerzo",
+    "premium": false,
+    "positive": true,
+    "id": 7260
+  },
+  {
+    "preset_id": 1038,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Countdown zur Mittagspause",
+    "premium": false,
+    "positive": true,
+    "id": 7261
+  },
+  {
+    "preset_id": 1038,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Contagem decrescente para o almoço",
+    "premium": false,
+    "positive": true,
+    "id": 7262
+  },
+  {
+    "preset_id": 1038,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Odliczanie do lunchu",
+    "premium": false,
+    "positive": true,
+    "id": 7263
+  },
+  {
+    "preset_id": 1038,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Обратный отсчёт до обеда",
+    "premium": false,
+    "positive": true,
+    "id": 7264
+  },
+  {
+    "preset_id": 1038,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "倒数到午餐",
+    "premium": false,
+    "positive": true,
+    "id": 7265
+  }
+]

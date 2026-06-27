@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 418,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Most definitely",
+    "premium": false,
+    "positive": true,
+    "id": 2919
+  },
+  {
+    "preset_id": 418,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Totalmente",
+    "premium": false,
+    "positive": true,
+    "id": 2920
+  },
+  {
+    "preset_id": 418,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ganz sicher",
+    "premium": false,
+    "positive": true,
+    "id": 2921
+  },
+  {
+    "preset_id": 418,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Sem dúvida",
+    "premium": false,
+    "positive": true,
+    "id": 2922
+  },
+  {
+    "preset_id": 418,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Najbardziej zdecydowanie",
+    "premium": false,
+    "positive": true,
+    "id": 2923
+  },
+  {
+    "preset_id": 418,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Точно да",
+    "premium": false,
+    "positive": true,
+    "id": 2924
+  },
+  {
+    "preset_id": 418,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "绝对肯定",
+    "premium": false,
+    "positive": true,
+    "id": 2925
+  }
+]

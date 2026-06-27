@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1779,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Did you forget your playbook?",
+    "premium": true,
+    "positive": true,
+    "id": 12446
+  },
+  {
+    "preset_id": 1779,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Did you forget your playbook?",
+    "premium": true,
+    "positive": true,
+    "id": 12447
+  },
+  {
+    "preset_id": 1779,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Did you forget your playbook?",
+    "premium": true,
+    "positive": true,
+    "id": 12448
+  },
+  {
+    "preset_id": 1779,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Did you forget your playbook?",
+    "premium": true,
+    "positive": true,
+    "id": 12449
+  },
+  {
+    "preset_id": 1779,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Did you forget your playbook?",
+    "premium": true,
+    "positive": true,
+    "id": 12450
+  },
+  {
+    "preset_id": 1779,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Did you forget your playbook?",
+    "premium": true,
+    "positive": true,
+    "id": 12451
+  },
+  {
+    "preset_id": 1779,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Did you forget your playbook?",
+    "premium": true,
+    "positive": true,
+    "id": 12452
+  }
+]

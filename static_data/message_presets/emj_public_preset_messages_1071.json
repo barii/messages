@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1071,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Proud of what we did this quarter",
+    "premium": false,
+    "positive": true,
+    "id": 7490
+  },
+  {
+    "preset_id": 1071,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Orgulloso de lo que hicimos este trimestre",
+    "premium": false,
+    "positive": true,
+    "id": 7491
+  },
+  {
+    "preset_id": 1071,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Stolz auf das, was wir dieses Quartal gemacht haben",
+    "premium": false,
+    "positive": true,
+    "id": 7492
+  },
+  {
+    "preset_id": 1071,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Orgulhoso do que fizemos este trimestre",
+    "premium": false,
+    "positive": true,
+    "id": 7493
+  },
+  {
+    "preset_id": 1071,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Dumny z tego, co zrobiliśmy w tym kwartale",
+    "premium": false,
+    "positive": true,
+    "id": 7494
+  },
+  {
+    "preset_id": 1071,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Горжусь тем, что мы сделали в этом квартале",
+    "premium": false,
+    "positive": true,
+    "id": 7495
+  },
+  {
+    "preset_id": 1071,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "为我们这个季度的成果感到骄傲",
+    "premium": false,
+    "positive": true,
+    "id": 7496
+  }
+]

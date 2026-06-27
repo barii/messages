@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1255,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You are so used to losing, it's all you know.",
+    "premium": true,
+    "positive": true,
+    "id": 8778
+  },
+  {
+    "preset_id": 1255,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Estáis tan acostumbrados a perder que es todo lo que sabéis.",
+    "premium": true,
+    "positive": true,
+    "id": 8779
+  },
+  {
+    "preset_id": 1255,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr seid es so gewohnt zu verlieren, dass ihr nichts anderes kennt.",
+    "premium": true,
+    "positive": true,
+    "id": 8780
+  },
+  {
+    "preset_id": 1255,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Estão tão habituados a perder que é tudo o que conhecem.",
+    "premium": true,
+    "positive": true,
+    "id": 8781
+  },
+  {
+    "preset_id": 1255,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Jesteście tak przyzwyczajeni do przegrywania, że to wszystko, co znacie.",
+    "premium": true,
+    "positive": true,
+    "id": 8782
+  },
+  {
+    "preset_id": 1255,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Вы так привыкли проигрывать, что это всё, что вы знаете.",
+    "premium": true,
+    "positive": true,
+    "id": 8783
+  },
+  {
+    "preset_id": 1255,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们太习惯输球了,这就是你们知道的全部。",
+    "premium": true,
+    "positive": true,
+    "id": 8784
+  }
+]

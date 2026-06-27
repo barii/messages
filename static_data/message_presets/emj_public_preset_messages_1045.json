@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1045,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Great meeting today, genuinely",
+    "premium": false,
+    "positive": true,
+    "id": 7308
+  },
+  {
+    "preset_id": 1045,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Gran reunión hoy, en serio",
+    "premium": false,
+    "positive": true,
+    "id": 7309
+  },
+  {
+    "preset_id": 1045,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Tolles Meeting heute, wirklich",
+    "premium": false,
+    "positive": true,
+    "id": 7310
+  },
+  {
+    "preset_id": 1045,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Ótima reunião hoje, a sério",
+    "premium": false,
+    "positive": true,
+    "id": 7311
+  },
+  {
+    "preset_id": 1045,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Świetne spotkanie dzisiaj, naprawdę",
+    "premium": false,
+    "positive": true,
+    "id": 7312
+  },
+  {
+    "preset_id": 1045,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Отличная встреча сегодня, честно",
+    "premium": false,
+    "positive": true,
+    "id": 7313
+  },
+  {
+    "preset_id": 1045,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "今天的会议很棒,真的",
+    "premium": false,
+    "positive": true,
+    "id": 7314
+  }
+]

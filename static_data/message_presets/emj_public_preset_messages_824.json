@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 824,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I'm happy to reveal who I am",
+    "premium": false,
+    "positive": true,
+    "id": 5761
+  },
+  {
+    "preset_id": 824,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Me alegra revelarte quién soy",
+    "premium": false,
+    "positive": true,
+    "id": 5762
+  },
+  {
+    "preset_id": 824,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Ich verrate gerne, wer ich bin",
+    "premium": false,
+    "positive": true,
+    "id": 5763
+  },
+  {
+    "preset_id": 824,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Tenho todo o gosto em revelar quem sou",
+    "premium": false,
+    "positive": true,
+    "id": 5764
+  },
+  {
+    "preset_id": 824,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Chętnie ujawnię, kim jestem",
+    "premium": false,
+    "positive": true,
+    "id": 5765
+  },
+  {
+    "preset_id": 824,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "С радостью раскрою, кто я",
+    "premium": false,
+    "positive": true,
+    "id": 5766
+  },
+  {
+    "preset_id": 824,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我很乐意揭晓我是谁",
+    "premium": false,
+    "positive": true,
+    "id": 5767
+  }
+]

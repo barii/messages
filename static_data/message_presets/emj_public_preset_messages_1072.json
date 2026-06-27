@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1072,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "We did the impossible today",
+    "premium": false,
+    "positive": true,
+    "id": 7497
+  },
+  {
+    "preset_id": 1072,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Hicimos lo imposible hoy",
+    "premium": false,
+    "positive": true,
+    "id": 7498
+  },
+  {
+    "preset_id": 1072,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Wir haben heute das Unmögliche geschafft",
+    "premium": false,
+    "positive": true,
+    "id": 7499
+  },
+  {
+    "preset_id": 1072,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Fizemos o impossível hoje",
+    "premium": false,
+    "positive": true,
+    "id": 7500
+  },
+  {
+    "preset_id": 1072,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Dziś dokonaliśmy niemożliwego",
+    "premium": false,
+    "positive": true,
+    "id": 7501
+  },
+  {
+    "preset_id": 1072,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Мы сделали невозможное сегодня",
+    "premium": false,
+    "positive": true,
+    "id": 7502
+  },
+  {
+    "preset_id": 1072,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "我们今天做到了不可能的事",
+    "premium": false,
+    "positive": true,
+    "id": 7503
+  }
+]

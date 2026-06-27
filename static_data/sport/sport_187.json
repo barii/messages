@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1309,
+    "preset_id": 187,
+    "cat_emoji": "🇭🇷",
+    "lang": "EN",
+    "category": "Croatian Football Teams",
+    "text": "Slaven Belupo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1310,
+    "preset_id": 187,
+    "cat_emoji": "🇭🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Croatas",
+    "text": "Slaven Belupo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1311,
+    "preset_id": 187,
+    "cat_emoji": "🇭🇷",
+    "lang": "DE",
+    "category": "Kroatische Fußballmannschaften",
+    "text": "Slaven Belupo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1312,
+    "preset_id": 187,
+    "cat_emoji": "🇭🇷",
+    "lang": "PL",
+    "category": "Chorwackie drużyny piłkarskie",
+    "text": "Slaven Belupo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1313,
+    "preset_id": 187,
+    "cat_emoji": "🇭🇷",
+    "lang": "RU",
+    "category": "Хорватские футбольные команды",
+    "text": "Slaven Belupo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1314,
+    "preset_id": 187,
+    "cat_emoji": "🇭🇷",
+    "lang": "PT",
+    "category": "Times de futebol croatas",
+    "text": "Slaven Belupo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1315,
+    "preset_id": 187,
+    "cat_emoji": "🇭🇷",
+    "lang": "CN",
+    "category": "克罗地亚足球队",
+    "text": "Slaven Belupo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  }
+]

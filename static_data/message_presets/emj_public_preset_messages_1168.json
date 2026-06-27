@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1168,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Happy Halloween",
+    "premium": false,
+    "positive": true,
+    "id": 8169
+  },
+  {
+    "preset_id": 1168,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Feliz Halloween",
+    "premium": false,
+    "positive": true,
+    "id": 8170
+  },
+  {
+    "preset_id": 1168,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Frohes Halloween",
+    "premium": false,
+    "positive": true,
+    "id": 8171
+  },
+  {
+    "preset_id": 1168,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Feliz Halloween",
+    "premium": false,
+    "positive": true,
+    "id": 8172
+  },
+  {
+    "preset_id": 1168,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Wesołego Halloween",
+    "premium": false,
+    "positive": true,
+    "id": 8173
+  },
+  {
+    "preset_id": 1168,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "С Хеллоуином",
+    "premium": false,
+    "positive": true,
+    "id": 8174
+  },
+  {
+    "preset_id": 1168,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "万圣节快乐",
+    "premium": false,
+    "positive": true,
+    "id": 8175
+  }
+]

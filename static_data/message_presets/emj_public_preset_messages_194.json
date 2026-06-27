@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 194,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Wait, are you serious?",
+    "premium": false,
+    "positive": true,
+    "id": 1351
+  },
+  {
+    "preset_id": 194,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "Espera, ¿en serio?",
+    "premium": false,
+    "positive": true,
+    "id": 1352
+  },
+  {
+    "preset_id": 194,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Warte, ist das dein Ernst?",
+    "premium": false,
+    "positive": true,
+    "id": 1353
+  },
+  {
+    "preset_id": 194,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Espera, estás a falar a sério?",
+    "premium": false,
+    "positive": true,
+    "id": 1354
+  },
+  {
+    "preset_id": 194,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Czekaj, mówisz poważnie?",
+    "premium": false,
+    "positive": true,
+    "id": 1355
+  },
+  {
+    "preset_id": 194,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Подожди, ты серьёзно?",
+    "premium": false,
+    "positive": true,
+    "id": 1356
+  },
+  {
+    "preset_id": 194,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "等等,你是认真的吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1357
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 322,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm not in therapy and that's fine for me",
+    "premium": false,
+    "positive": true,
+    "id": 2247
+  },
+  {
+    "preset_id": 322,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "No estoy en terapia y está bien para mí",
+    "premium": false,
+    "positive": true,
+    "id": 2248
+  },
+  {
+    "preset_id": 322,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin nicht in Therapie und das ist okay für mich",
+    "premium": false,
+    "positive": true,
+    "id": 2249
+  },
+  {
+    "preset_id": 322,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Não estou em terapia e está tudo bem para mim",
+    "premium": false,
+    "positive": true,
+    "id": 2250
+  },
+  {
+    "preset_id": 322,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Nie jestem w terapii i to mi pasuje",
+    "premium": false,
+    "positive": true,
+    "id": 2251
+  },
+  {
+    "preset_id": 322,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я не в терапии, и это нормально для меня",
+    "premium": false,
+    "positive": true,
+    "id": 2252
+  },
+  {
+    "preset_id": 322,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我没在做心理治疗,这对我来说挺好",
+    "premium": false,
+    "positive": true,
+    "id": 2253
+  }
+]

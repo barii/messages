@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 983,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You're not always a great listener",
+    "premium": false,
+    "positive": true,
+    "id": 6874
+  },
+  {
+    "preset_id": 983,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "No siempre eres un buen oyente",
+    "premium": false,
+    "positive": true,
+    "id": 6875
+  },
+  {
+    "preset_id": 983,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du bist nicht immer ein guter Zuhörer",
+    "premium": false,
+    "positive": true,
+    "id": 6876
+  },
+  {
+    "preset_id": 983,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Nem sempre és um bom ouvinte",
+    "premium": false,
+    "positive": true,
+    "id": 6877
+  },
+  {
+    "preset_id": 983,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Nie zawsze jesteś dobrym słuchaczem",
+    "premium": false,
+    "positive": true,
+    "id": 6878
+  },
+  {
+    "preset_id": 983,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты не всегда хороший слушатель",
+    "premium": false,
+    "positive": true,
+    "id": 6879
+  },
+  {
+    "preset_id": 983,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你不总是好的倾听者",
+    "premium": false,
+    "positive": true,
+    "id": 6880
+  }
+]

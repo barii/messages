@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 578,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I'm not telling you",
+    "premium": false,
+    "positive": true,
+    "id": 4039
+  },
+  {
+    "preset_id": 578,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "No te lo voy a decir",
+    "premium": false,
+    "positive": true,
+    "id": 4040
+  },
+  {
+    "preset_id": 578,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ich sage es dir nicht",
+    "premium": false,
+    "positive": true,
+    "id": 4041
+  },
+  {
+    "preset_id": 578,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Não te vou contar",
+    "premium": false,
+    "positive": true,
+    "id": 4042
+  },
+  {
+    "preset_id": 578,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Nie powiem ci",
+    "premium": false,
+    "positive": true,
+    "id": 4043
+  },
+  {
+    "preset_id": 578,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Не скажу тебе",
+    "premium": false,
+    "positive": true,
+    "id": 4044
+  },
+  {
+    "preset_id": 578,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我不告诉你",
+    "premium": false,
+    "positive": true,
+    "id": 4045
+  }
+]

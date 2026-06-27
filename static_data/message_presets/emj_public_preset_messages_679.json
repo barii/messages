@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 679,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "This conversation is over",
+    "premium": false,
+    "positive": true,
+    "id": 4746
+  },
+  {
+    "preset_id": 679,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Esta conversación se acabó",
+    "premium": false,
+    "positive": true,
+    "id": 4747
+  },
+  {
+    "preset_id": 679,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Dieses Gespräch ist vorbei",
+    "premium": false,
+    "positive": true,
+    "id": 4748
+  },
+  {
+    "preset_id": 679,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Esta conversa acabou",
+    "premium": false,
+    "positive": true,
+    "id": 4749
+  },
+  {
+    "preset_id": 679,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Ta rozmowa się skończyła",
+    "premium": false,
+    "positive": true,
+    "id": 4750
+  },
+  {
+    "preset_id": 679,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Этот разговор окончен",
+    "premium": false,
+    "positive": true,
+    "id": 4751
+  },
+  {
+    "preset_id": 679,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "对话结束",
+    "premium": false,
+    "positive": true,
+    "id": 4752
+  }
+]

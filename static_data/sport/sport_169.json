@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1183,
+    "preset_id": 169,
+    "cat_emoji": "🇳🇱",
+    "lang": "EN",
+    "category": "Dutch Football Teams",
+    "text": "Go Ahead Eagles",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1184,
+    "preset_id": 169,
+    "cat_emoji": "🇳🇱",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Holandeses",
+    "text": "Go Ahead Eagles",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1185,
+    "preset_id": 169,
+    "cat_emoji": "🇳🇱",
+    "lang": "DE",
+    "category": "Niederländische Fußballmannschaften",
+    "text": "Go Ahead Eagles",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1186,
+    "preset_id": 169,
+    "cat_emoji": "🇳🇱",
+    "lang": "PL",
+    "category": "Holenderskie drużyny piłkarskie",
+    "text": "Go Ahead Eagles",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1187,
+    "preset_id": 169,
+    "cat_emoji": "🇳🇱",
+    "lang": "RU",
+    "category": "Голландские футбольные команды",
+    "text": "Go Ahead Eagles",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1188,
+    "preset_id": 169,
+    "cat_emoji": "🇳🇱",
+    "lang": "PT",
+    "category": "Times de futebol holandeses",
+    "text": "Go Ahead Eagles",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1189,
+    "preset_id": 169,
+    "cat_emoji": "🇳🇱",
+    "lang": "CN",
+    "category": "荷兰足球队",
+    "text": "Go Ahead Eagles",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  }
+]

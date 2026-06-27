@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1167,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Happy spring",
+    "premium": false,
+    "positive": true,
+    "id": 8162
+  },
+  {
+    "preset_id": 1167,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Feliz primavera",
+    "premium": false,
+    "positive": true,
+    "id": 8163
+  },
+  {
+    "preset_id": 1167,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Frohen Frühling",
+    "premium": false,
+    "positive": true,
+    "id": 8164
+  },
+  {
+    "preset_id": 1167,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Feliz primavera",
+    "premium": false,
+    "positive": true,
+    "id": 8165
+  },
+  {
+    "preset_id": 1167,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Wesołej wiosny",
+    "premium": false,
+    "positive": true,
+    "id": 8166
+  },
+  {
+    "preset_id": 1167,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "С весной",
+    "premium": false,
+    "positive": true,
+    "id": 8167
+  },
+  {
+    "preset_id": 1167,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "春天快乐",
+    "premium": false,
+    "positive": true,
+    "id": 8168
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 675,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "You're wrong about that",
+    "premium": false,
+    "positive": true,
+    "id": 4718
+  },
+  {
+    "preset_id": 675,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Estás equivocado en eso",
+    "premium": false,
+    "positive": true,
+    "id": 4719
+  },
+  {
+    "preset_id": 675,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Da liegst du falsch",
+    "premium": false,
+    "positive": true,
+    "id": 4720
+  },
+  {
+    "preset_id": 675,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Estás errado nisso",
+    "premium": false,
+    "positive": true,
+    "id": 4721
+  },
+  {
+    "preset_id": 675,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Mylisz się w tej kwestii",
+    "premium": false,
+    "positive": true,
+    "id": 4722
+  },
+  {
+    "preset_id": 675,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Ты в этом не прав",
+    "premium": false,
+    "positive": true,
+    "id": 4723
+  },
+  {
+    "preset_id": 675,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "你错了",
+    "premium": false,
+    "positive": true,
+    "id": 4724
+  }
+]

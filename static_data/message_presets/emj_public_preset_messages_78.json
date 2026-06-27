@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 78,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "Embarrassing",
+    "premium": false,
+    "positive": false,
+    "id": 539
+  },
+  {
+    "preset_id": 78,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Vergonzoso",
+    "premium": false,
+    "positive": false,
+    "id": 540
+  },
+  {
+    "preset_id": 78,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Peinlich",
+    "premium": false,
+    "positive": false,
+    "id": 541
+  },
+  {
+    "preset_id": 78,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Embaraçoso",
+    "premium": false,
+    "positive": false,
+    "id": 542
+  },
+  {
+    "preset_id": 78,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Żenujące",
+    "premium": false,
+    "positive": false,
+    "id": 543
+  },
+  {
+    "preset_id": 78,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Стыдно",
+    "premium": false,
+    "positive": false,
+    "id": 544
+  },
+  {
+    "preset_id": 78,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "丢人",
+    "premium": false,
+    "positive": false,
+    "id": 545
+  }
+]

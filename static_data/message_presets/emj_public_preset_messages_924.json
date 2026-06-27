@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 924,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Touch grass",
+    "premium": false,
+    "positive": true,
+    "id": 6461
+  },
+  {
+    "preset_id": 924,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Toca pasto",
+    "premium": false,
+    "positive": true,
+    "id": 6462
+  },
+  {
+    "preset_id": 924,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Geh raus",
+    "premium": false,
+    "positive": true,
+    "id": 6463
+  },
+  {
+    "preset_id": 924,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Toca relva",
+    "premium": false,
+    "positive": true,
+    "id": 6464
+  },
+  {
+    "preset_id": 924,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Dotknij trawy",
+    "premium": false,
+    "positive": true,
+    "id": 6465
+  },
+  {
+    "preset_id": 924,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Дотронься до травы",
+    "premium": false,
+    "positive": true,
+    "id": 6466
+  },
+  {
+    "preset_id": 924,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "去摸摸草",
+    "premium": false,
+    "positive": true,
+    "id": 6467
+  }
+]

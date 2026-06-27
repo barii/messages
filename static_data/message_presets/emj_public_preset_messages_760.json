@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 760,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Take your time",
+    "premium": false,
+    "positive": true,
+    "id": 5313
+  },
+  {
+    "preset_id": 760,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Tómate tu tiempo",
+    "premium": false,
+    "positive": true,
+    "id": 5314
+  },
+  {
+    "preset_id": 760,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Lass dir Zeit",
+    "premium": false,
+    "positive": true,
+    "id": 5315
+  },
+  {
+    "preset_id": 760,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Tem o teu tempo",
+    "premium": false,
+    "positive": true,
+    "id": 5316
+  },
+  {
+    "preset_id": 760,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Nie spiesz się",
+    "premium": false,
+    "positive": true,
+    "id": 5317
+  },
+  {
+    "preset_id": 760,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Не спеши",
+    "premium": false,
+    "positive": true,
+    "id": 5318
+  },
+  {
+    "preset_id": 760,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "慢慢来",
+    "premium": false,
+    "positive": true,
+    "id": 5319
+  }
+]

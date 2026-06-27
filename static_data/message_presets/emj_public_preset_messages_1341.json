@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1341,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "No threat going forward.",
+    "premium": false,
+    "positive": true,
+    "id": 9380
+  },
+  {
+    "preset_id": 1341,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Ninguna amenaza arriba.",
+    "premium": false,
+    "positive": true,
+    "id": 9381
+  },
+  {
+    "preset_id": 1341,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Keine Gefahr nach vorne.",
+    "premium": false,
+    "positive": true,
+    "id": 9382
+  },
+  {
+    "preset_id": 1341,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Nenhuma ameaça em frente.",
+    "premium": false,
+    "positive": true,
+    "id": 9383
+  },
+  {
+    "preset_id": 1341,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Żadnego zagrożenia z przodu.",
+    "premium": false,
+    "positive": true,
+    "id": 9384
+  },
+  {
+    "preset_id": 1341,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Никакой угрозы впереди.",
+    "premium": false,
+    "positive": true,
+    "id": 9385
+  },
+  {
+    "preset_id": 1341,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "前场没有任何威胁。",
+    "premium": false,
+    "positive": true,
+    "id": 9386
+  }
+]

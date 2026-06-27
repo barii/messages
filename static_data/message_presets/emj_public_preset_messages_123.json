@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 123,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you overwhelmed?",
+    "premium": false,
+    "positive": true,
+    "id": 854
+  },
+  {
+    "preset_id": 123,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Te sientes agobiado?",
+    "premium": false,
+    "positive": true,
+    "id": 855
+  },
+  {
+    "preset_id": 123,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du überfordert?",
+    "premium": false,
+    "positive": true,
+    "id": 856
+  },
+  {
+    "preset_id": 123,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás sobrecarregado?",
+    "premium": false,
+    "positive": true,
+    "id": 857
+  },
+  {
+    "preset_id": 123,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Czujesz się przytłoczony?",
+    "premium": false,
+    "positive": true,
+    "id": 858
+  },
+  {
+    "preset_id": 123,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты перегружен?",
+    "premium": false,
+    "positive": true,
+    "id": 859
+  },
+  {
+    "preset_id": 123,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你感到不知所措吗?",
+    "premium": false,
+    "positive": true,
+    "id": 860
+  }
+]

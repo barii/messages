@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1274,
+    "preset_id": 182,
+    "cat_emoji": "🇭🇷",
+    "lang": "EN",
+    "category": "Croatian Football Teams",
+    "text": "Hajduk Split",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1275,
+    "preset_id": 182,
+    "cat_emoji": "🇭🇷",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Croatas",
+    "text": "Hajduk Split",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1276,
+    "preset_id": 182,
+    "cat_emoji": "🇭🇷",
+    "lang": "DE",
+    "category": "Kroatische Fußballmannschaften",
+    "text": "Hajduk Split",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1277,
+    "preset_id": 182,
+    "cat_emoji": "🇭🇷",
+    "lang": "PL",
+    "category": "Chorwackie drużyny piłkarskie",
+    "text": "Hajduk Split",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1278,
+    "preset_id": 182,
+    "cat_emoji": "🇭🇷",
+    "lang": "RU",
+    "category": "Хорватские футбольные команды",
+    "text": "Hajduk Split",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1279,
+    "preset_id": 182,
+    "cat_emoji": "🇭🇷",
+    "lang": "PT",
+    "category": "Times de futebol croatas",
+    "text": "Hajduk Split",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  },
+  {
+    "id": 1280,
+    "preset_id": 182,
+    "cat_emoji": "🇭🇷",
+    "lang": "CN",
+    "category": "克罗地亚足球队",
+    "text": "Hajduk Split",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇭🇷",
+    "continent": "European"
+  }
+]

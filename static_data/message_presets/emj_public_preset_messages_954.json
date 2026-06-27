@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 954,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Have the conversation",
+    "premium": false,
+    "positive": true,
+    "id": 6671
+  },
+  {
+    "preset_id": 954,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Ten esa conversación",
+    "premium": false,
+    "positive": true,
+    "id": 6672
+  },
+  {
+    "preset_id": 954,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Führe das Gespräch",
+    "premium": false,
+    "positive": true,
+    "id": 6673
+  },
+  {
+    "preset_id": 954,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Tem a conversa",
+    "premium": false,
+    "positive": true,
+    "id": 6674
+  },
+  {
+    "preset_id": 954,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Przeprowadź tę rozmowę",
+    "premium": false,
+    "positive": true,
+    "id": 6675
+  },
+  {
+    "preset_id": 954,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Проведи этот разговор",
+    "premium": false,
+    "positive": true,
+    "id": 6676
+  },
+  {
+    "preset_id": 954,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "进行那次对话",
+    "premium": false,
+    "positive": true,
+    "id": 6677
+  }
+]

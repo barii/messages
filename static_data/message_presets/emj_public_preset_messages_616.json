@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 616,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Leave me alone",
+    "premium": false,
+    "positive": true,
+    "id": 4305
+  },
+  {
+    "preset_id": 616,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Déjame en paz",
+    "premium": false,
+    "positive": true,
+    "id": 4306
+  },
+  {
+    "preset_id": 616,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Lass mich in Ruhe",
+    "premium": false,
+    "positive": true,
+    "id": 4307
+  },
+  {
+    "preset_id": 616,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Deixa-me em paz",
+    "premium": false,
+    "positive": true,
+    "id": 4308
+  },
+  {
+    "preset_id": 616,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Zostaw mnie w spokoju",
+    "premium": false,
+    "positive": true,
+    "id": 4309
+  },
+  {
+    "preset_id": 616,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Оставь меня в покое",
+    "premium": false,
+    "positive": true,
+    "id": 4310
+  },
+  {
+    "preset_id": 616,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "别烦我",
+    "premium": false,
+    "positive": true,
+    "id": 4311
+  }
+]

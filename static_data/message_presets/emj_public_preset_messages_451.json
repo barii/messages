@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 451,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "On it",
+    "premium": false,
+    "positive": true,
+    "id": 3150
+  },
+  {
+    "preset_id": 451,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "En ello",
+    "premium": false,
+    "positive": true,
+    "id": 3151
+  },
+  {
+    "preset_id": 451,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Bin dran",
+    "premium": false,
+    "positive": true,
+    "id": 3152
+  },
+  {
+    "preset_id": 451,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Estou nisso",
+    "premium": false,
+    "positive": true,
+    "id": 3153
+  },
+  {
+    "preset_id": 451,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Robię",
+    "premium": false,
+    "positive": true,
+    "id": 3154
+  },
+  {
+    "preset_id": 451,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Уже",
+    "premium": false,
+    "positive": true,
+    "id": 3155
+  },
+  {
+    "preset_id": 451,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "在做",
+    "premium": false,
+    "positive": true,
+    "id": 3156
+  }
+]

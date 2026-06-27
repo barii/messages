@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 253,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We met on vacation",
+    "premium": false,
+    "positive": true,
+    "id": 1764
+  },
+  {
+    "preset_id": 253,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Nos conocimos de vacaciones",
+    "premium": false,
+    "positive": true,
+    "id": 1765
+  },
+  {
+    "preset_id": 253,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir haben uns im Urlaub kennengelernt",
+    "premium": false,
+    "positive": true,
+    "id": 1766
+  },
+  {
+    "preset_id": 253,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Conhecemo-nos numa viagem",
+    "premium": false,
+    "positive": true,
+    "id": 1767
+  },
+  {
+    "preset_id": 253,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Poznaliśmy się na wakacjach",
+    "premium": false,
+    "positive": true,
+    "id": 1768
+  },
+  {
+    "preset_id": 253,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы познакомились в отпуске",
+    "premium": false,
+    "positive": true,
+    "id": 1769
+  },
+  {
+    "preset_id": 253,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们在度假时认识",
+    "premium": false,
+    "positive": true,
+    "id": 1770
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 49,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're exactly where you need to be",
+    "premium": false,
+    "positive": true,
+    "id": 336
+  },
+  {
+    "preset_id": 49,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Estás exactamente donde tienes que estar",
+    "premium": false,
+    "positive": true,
+    "id": 337
+  },
+  {
+    "preset_id": 49,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist genau dort, wo du sein musst",
+    "premium": false,
+    "positive": true,
+    "id": 338
+  },
+  {
+    "preset_id": 49,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Estás exatamente onde precisas de estar",
+    "premium": false,
+    "positive": true,
+    "id": 339
+  },
+  {
+    "preset_id": 49,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś dokładnie tam, gdzie powinieneś być",
+    "premium": false,
+    "positive": true,
+    "id": 340
+  },
+  {
+    "preset_id": 49,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты именно там, где должен быть",
+    "premium": false,
+    "positive": true,
+    "id": 341
+  },
+  {
+    "preset_id": 49,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你正好处在你需要在的地方",
+    "premium": false,
+    "positive": true,
+    "id": 342
+  }
+]

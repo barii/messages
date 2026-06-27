@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 154,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you an introvert?",
+    "premium": true,
+    "positive": true,
+    "id": 1071
+  },
+  {
+    "preset_id": 154,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Eres introvertido?",
+    "premium": true,
+    "positive": true,
+    "id": 1072
+  },
+  {
+    "preset_id": 154,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du introvertiert?",
+    "premium": true,
+    "positive": true,
+    "id": 1073
+  },
+  {
+    "preset_id": 154,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "És introvertido?",
+    "premium": true,
+    "positive": true,
+    "id": 1074
+  },
+  {
+    "preset_id": 154,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jesteś introwertykiem?",
+    "premium": true,
+    "positive": true,
+    "id": 1075
+  },
+  {
+    "preset_id": 154,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты интроверт?",
+    "premium": true,
+    "positive": true,
+    "id": 1076
+  },
+  {
+    "preset_id": 154,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你是内向的人吗?",
+    "premium": true,
+    "positive": true,
+    "id": 1077
+  }
+]

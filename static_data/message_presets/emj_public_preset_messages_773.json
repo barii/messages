@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 773,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "This is sending me",
+    "premium": false,
+    "positive": true,
+    "id": 5404
+  },
+  {
+    "preset_id": 773,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Esto me mata",
+    "premium": false,
+    "positive": true,
+    "id": 5405
+  },
+  {
+    "preset_id": 773,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Das bringt mich um",
+    "premium": false,
+    "positive": true,
+    "id": 5406
+  },
+  {
+    "preset_id": 773,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Isto está a matar-me",
+    "premium": false,
+    "positive": true,
+    "id": 5407
+  },
+  {
+    "preset_id": 773,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "To mnie zabija",
+    "premium": false,
+    "positive": true,
+    "id": 5408
+  },
+  {
+    "preset_id": 773,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Это меня убивает",
+    "premium": false,
+    "positive": true,
+    "id": 5409
+  },
+  {
+    "preset_id": 773,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "这让我笑死了",
+    "premium": false,
+    "positive": true,
+    "id": 5410
+  }
+]

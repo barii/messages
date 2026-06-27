@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1104,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Have a good day",
+    "premium": false,
+    "positive": true,
+    "id": 7721
+  },
+  {
+    "preset_id": 1104,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Que tengas un buen día",
+    "premium": false,
+    "positive": true,
+    "id": 7722
+  },
+  {
+    "preset_id": 1104,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Hab einen schönen Tag",
+    "premium": false,
+    "positive": true,
+    "id": 7723
+  },
+  {
+    "preset_id": 1104,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Tem um bom dia",
+    "premium": false,
+    "positive": true,
+    "id": 7724
+  },
+  {
+    "preset_id": 1104,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Miłego dnia",
+    "premium": false,
+    "positive": true,
+    "id": 7725
+  },
+  {
+    "preset_id": 1104,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Хорошего дня",
+    "premium": false,
+    "positive": true,
+    "id": 7726
+  },
+  {
+    "preset_id": 1104,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "祝你今天愉快",
+    "premium": false,
+    "positive": true,
+    "id": 7727
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 2744,
+    "preset_id": 392,
+    "cat_emoji": "🇺🇦",
+    "lang": "EN",
+    "category": "Ukrainian Football Teams",
+    "text": "Inhulets Petrove",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2745,
+    "preset_id": 392,
+    "cat_emoji": "🇺🇦",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Ucranianos",
+    "text": "Inhulets Petrove",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2746,
+    "preset_id": 392,
+    "cat_emoji": "🇺🇦",
+    "lang": "DE",
+    "category": "Ukrainische Fußballmannschaften",
+    "text": "Inhulets Petrove",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2747,
+    "preset_id": 392,
+    "cat_emoji": "🇺🇦",
+    "lang": "PL",
+    "category": "Ukraińskie drużyny piłkarskie",
+    "text": "Inhulets Petrove",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2748,
+    "preset_id": 392,
+    "cat_emoji": "🇺🇦",
+    "lang": "RU",
+    "category": "Украинские футбольные команды",
+    "text": "Inhulets Petrove",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2749,
+    "preset_id": 392,
+    "cat_emoji": "🇺🇦",
+    "lang": "PT",
+    "category": "Times de futebol ucranianos",
+    "text": "Inhulets Petrove",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2750,
+    "preset_id": 392,
+    "cat_emoji": "🇺🇦",
+    "lang": "CN",
+    "category": "乌克兰足球队",
+    "text": "Inhulets Petrove",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  }
+]

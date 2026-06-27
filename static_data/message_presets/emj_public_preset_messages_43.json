@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 43,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're doing amazing",
+    "premium": false,
+    "positive": true,
+    "id": 294
+  },
+  {
+    "preset_id": 43,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Lo estás haciendo increíble",
+    "premium": false,
+    "positive": true,
+    "id": 295
+  },
+  {
+    "preset_id": 43,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du machst es großartig",
+    "premium": false,
+    "positive": true,
+    "id": 296
+  },
+  {
+    "preset_id": 43,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Estás a ir incrível",
+    "premium": false,
+    "positive": true,
+    "id": 297
+  },
+  {
+    "preset_id": 43,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Świetnie ci idzie",
+    "premium": false,
+    "positive": true,
+    "id": 298
+  },
+  {
+    "preset_id": 43,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "У тебя всё отлично",
+    "premium": false,
+    "positive": true,
+    "id": 299
+  },
+  {
+    "preset_id": 43,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你做得很棒",
+    "premium": false,
+    "positive": true,
+    "id": 300
+  }
+]

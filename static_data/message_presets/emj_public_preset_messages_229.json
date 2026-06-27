@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 229,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "Getting colder",
+    "premium": false,
+    "positive": true,
+    "id": 1596
+  },
+  {
+    "preset_id": 229,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Frío",
+    "premium": false,
+    "positive": true,
+    "id": 1597
+  },
+  {
+    "preset_id": 229,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Kälter",
+    "premium": false,
+    "positive": true,
+    "id": 1598
+  },
+  {
+    "preset_id": 229,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "A arrefecer",
+    "premium": false,
+    "positive": true,
+    "id": 1599
+  },
+  {
+    "preset_id": 229,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Zimniej",
+    "premium": false,
+    "positive": true,
+    "id": 1600
+  },
+  {
+    "preset_id": 229,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Холоднее",
+    "premium": false,
+    "positive": true,
+    "id": 1601
+  },
+  {
+    "preset_id": 229,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "更冷了",
+    "premium": false,
+    "positive": true,
+    "id": 1602
+  }
+]

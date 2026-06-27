@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1261,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Your team couldn't score if they were the only ones on the field.",
+    "premium": true,
+    "positive": true,
+    "id": 8820
+  },
+  {
+    "preset_id": 1261,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Vuestro equipo no podría marcar ni siendo los únicos en el campo.",
+    "premium": true,
+    "positive": true,
+    "id": 8821
+  },
+  {
+    "preset_id": 1261,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Eure Mannschaft könnte nicht treffen, wenn sie alleine auf dem Platz wäre.",
+    "premium": true,
+    "positive": true,
+    "id": 8822
+  },
+  {
+    "preset_id": 1261,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "A vossa equipa não marcaria nem se fosse a única em campo.",
+    "premium": true,
+    "positive": true,
+    "id": 8823
+  },
+  {
+    "preset_id": 1261,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Wasza drużyna nie strzeliłaby gola, nawet gdyby była jedyną na boisku.",
+    "premium": true,
+    "positive": true,
+    "id": 8824
+  },
+  {
+    "preset_id": 1261,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Ваша команда не забила бы, даже если бы была единственной на поле.",
+    "premium": true,
+    "positive": true,
+    "id": 8825
+  },
+  {
+    "preset_id": 1261,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们队就算只有他们一支队在场上也进不了球。",
+    "premium": true,
+    "positive": true,
+    "id": 8826
+  }
+]

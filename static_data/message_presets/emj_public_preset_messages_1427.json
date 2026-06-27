@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1427,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We're simply the best.",
+    "premium": false,
+    "positive": true,
+    "id": 9982
+  },
+  {
+    "preset_id": 1427,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Somos simplemente los mejores.",
+    "premium": false,
+    "positive": true,
+    "id": 9983
+  },
+  {
+    "preset_id": 1427,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir sind einfach die Besten.",
+    "premium": false,
+    "positive": true,
+    "id": 9984
+  },
+  {
+    "preset_id": 1427,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Somos simplesmente os melhores.",
+    "premium": false,
+    "positive": true,
+    "id": 9985
+  },
+  {
+    "preset_id": 1427,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Jesteśmy po prostu najlepsi.",
+    "premium": false,
+    "positive": true,
+    "id": 9986
+  },
+  {
+    "preset_id": 1427,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Мы просто лучшие.",
+    "premium": false,
+    "positive": true,
+    "id": 9987
+  },
+  {
+    "preset_id": 1427,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们就是最棒的。",
+    "premium": false,
+    "positive": true,
+    "id": 9988
+  }
+]

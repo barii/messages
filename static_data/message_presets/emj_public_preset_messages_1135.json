@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1135,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Surprise",
+    "premium": false,
+    "positive": true,
+    "id": 7938
+  },
+  {
+    "preset_id": 1135,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Sorpresa",
+    "premium": false,
+    "positive": true,
+    "id": 7939
+  },
+  {
+    "preset_id": 1135,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Überraschung",
+    "premium": false,
+    "positive": true,
+    "id": 7940
+  },
+  {
+    "preset_id": 1135,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Surpresa",
+    "premium": false,
+    "positive": true,
+    "id": 7941
+  },
+  {
+    "preset_id": 1135,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Niespodzianka",
+    "premium": false,
+    "positive": true,
+    "id": 7942
+  },
+  {
+    "preset_id": 1135,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Сюрприз",
+    "premium": false,
+    "positive": true,
+    "id": 7943
+  },
+  {
+    "preset_id": 1135,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "惊喜",
+    "premium": false,
+    "positive": true,
+    "id": 7944
+  }
+]

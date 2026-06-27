@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 565,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Same",
+    "premium": false,
+    "positive": true,
+    "id": 3948
+  },
+  {
+    "preset_id": 565,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Igual",
+    "premium": false,
+    "positive": true,
+    "id": 3949
+  },
+  {
+    "preset_id": 565,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Same",
+    "premium": false,
+    "positive": true,
+    "id": 3950
+  },
+  {
+    "preset_id": 565,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Igual",
+    "premium": false,
+    "positive": true,
+    "id": 3951
+  },
+  {
+    "preset_id": 565,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Tak samo",
+    "premium": false,
+    "positive": true,
+    "id": 3952
+  },
+  {
+    "preset_id": 565,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Тоже самое",
+    "premium": false,
+    "positive": true,
+    "id": 3953
+  },
+  {
+    "preset_id": 565,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "一样",
+    "premium": false,
+    "positive": true,
+    "id": 3954
+  }
+]

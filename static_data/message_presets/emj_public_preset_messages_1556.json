@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1556,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Quiet now.",
+    "premium": false,
+    "positive": true,
+    "id": 10885
+  },
+  {
+    "preset_id": 1556,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Silencio ahora.",
+    "premium": false,
+    "positive": true,
+    "id": 10886
+  },
+  {
+    "preset_id": 1556,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ruhe jetzt.",
+    "premium": false,
+    "positive": true,
+    "id": 10887
+  },
+  {
+    "preset_id": 1556,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Caluda agora.",
+    "premium": false,
+    "positive": true,
+    "id": 10888
+  },
+  {
+    "preset_id": 1556,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Cisza teraz.",
+    "premium": false,
+    "positive": true,
+    "id": 10889
+  },
+  {
+    "preset_id": 1556,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Тихо.",
+    "premium": false,
+    "positive": true,
+    "id": 10890
+  },
+  {
+    "preset_id": 1556,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "现在安静点。",
+    "premium": false,
+    "positive": true,
+    "id": 10891
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 238,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "You will never guess",
+    "premium": false,
+    "positive": true,
+    "id": 1659
+  },
+  {
+    "preset_id": 238,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Nunca lo adivinarás",
+    "premium": false,
+    "positive": true,
+    "id": 1660
+  },
+  {
+    "preset_id": 238,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Du wirst es nie erraten",
+    "premium": false,
+    "positive": true,
+    "id": 1661
+  },
+  {
+    "preset_id": 238,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Nunca vais adivinhar",
+    "premium": false,
+    "positive": true,
+    "id": 1662
+  },
+  {
+    "preset_id": 238,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Nigdy nie zgadniesz",
+    "premium": false,
+    "positive": true,
+    "id": 1663
+  },
+  {
+    "preset_id": 238,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Ты никогда не угадаешь",
+    "premium": false,
+    "positive": true,
+    "id": 1664
+  },
+  {
+    "preset_id": 238,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "你永远猜不到",
+    "premium": false,
+    "positive": true,
+    "id": 1665
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 511,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Could be worse",
+    "premium": false,
+    "positive": true,
+    "id": 3570
+  },
+  {
+    "preset_id": 511,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Podría ser peor",
+    "premium": false,
+    "positive": true,
+    "id": 3571
+  },
+  {
+    "preset_id": 511,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Es könnte schlimmer sein",
+    "premium": false,
+    "positive": true,
+    "id": 3572
+  },
+  {
+    "preset_id": 511,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Podia ser pior",
+    "premium": false,
+    "positive": true,
+    "id": 3573
+  },
+  {
+    "preset_id": 511,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Mogłoby być gorzej",
+    "premium": false,
+    "positive": true,
+    "id": 3574
+  },
+  {
+    "preset_id": 511,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Могло быть и хуже",
+    "premium": false,
+    "positive": true,
+    "id": 3575
+  },
+  {
+    "preset_id": 511,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "还可能更糟",
+    "premium": false,
+    "positive": true,
+    "id": 3576
+  }
+]

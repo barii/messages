@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 435,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "It depends",
+    "premium": false,
+    "positive": true,
+    "id": 3038
+  },
+  {
+    "preset_id": 435,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Depende",
+    "premium": false,
+    "positive": true,
+    "id": 3039
+  },
+  {
+    "preset_id": 435,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Es kommt drauf an",
+    "premium": false,
+    "positive": true,
+    "id": 3040
+  },
+  {
+    "preset_id": 435,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Depende",
+    "premium": false,
+    "positive": true,
+    "id": 3041
+  },
+  {
+    "preset_id": 435,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "To zależy",
+    "premium": false,
+    "positive": true,
+    "id": 3042
+  },
+  {
+    "preset_id": 435,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Это зависит",
+    "premium": false,
+    "positive": true,
+    "id": 3043
+  },
+  {
+    "preset_id": 435,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "要看情况",
+    "premium": false,
+    "positive": true,
+    "id": 3044
+  }
+]

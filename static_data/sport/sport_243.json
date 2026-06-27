@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1701,
+    "preset_id": 243,
+    "cat_emoji": "🇪🇸",
+    "lang": "EN",
+    "category": "Spanish Football Teams",
+    "text": "Real Betis",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1702,
+    "preset_id": 243,
+    "cat_emoji": "🇪🇸",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Españoles",
+    "text": "Real Betis",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1703,
+    "preset_id": 243,
+    "cat_emoji": "🇪🇸",
+    "lang": "DE",
+    "category": "Spanische Fußballmannschaften",
+    "text": "Real Betis",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1704,
+    "preset_id": 243,
+    "cat_emoji": "🇪🇸",
+    "lang": "PL",
+    "category": "Hiszpańskie drużyny piłkarskie",
+    "text": "Real Betis",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1705,
+    "preset_id": 243,
+    "cat_emoji": "🇪🇸",
+    "lang": "RU",
+    "category": "Испанские футбольные команды",
+    "text": "Real Betis",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1706,
+    "preset_id": 243,
+    "cat_emoji": "🇪🇸",
+    "lang": "PT",
+    "category": "Times de futebol espanhóis",
+    "text": "Real Betis",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1707,
+    "preset_id": 243,
+    "cat_emoji": "🇪🇸",
+    "lang": "CN",
+    "category": "西班牙足球队",
+    "text": "Real Betis",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  }
+]

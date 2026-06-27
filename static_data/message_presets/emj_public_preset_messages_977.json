@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 977,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "The only way out is through",
+    "premium": true,
+    "positive": true,
+    "id": 6832
+  },
+  {
+    "preset_id": 977,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "La única salida es a través",
+    "premium": true,
+    "positive": true,
+    "id": 6833
+  },
+  {
+    "preset_id": 977,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Der einzige Weg raus ist durch",
+    "premium": true,
+    "positive": true,
+    "id": 6834
+  },
+  {
+    "preset_id": 977,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "A única saída é atravessar",
+    "premium": true,
+    "positive": true,
+    "id": 6835
+  },
+  {
+    "preset_id": 977,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Jedyne wyjście to przez to przejść",
+    "premium": true,
+    "positive": true,
+    "id": 6836
+  },
+  {
+    "preset_id": 977,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Единственный выход - через это",
+    "premium": true,
+    "positive": true,
+    "id": 6837
+  },
+  {
+    "preset_id": 977,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "唯一的出路就是穿过它",
+    "premium": true,
+    "positive": true,
+    "id": 6838
+  }
+]

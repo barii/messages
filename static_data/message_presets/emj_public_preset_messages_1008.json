@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1008,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You crossed a line",
+    "premium": false,
+    "positive": true,
+    "id": 7049
+  },
+  {
+    "preset_id": 1008,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Cruzaste una línea",
+    "premium": false,
+    "positive": true,
+    "id": 7050
+  },
+  {
+    "preset_id": 1008,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du hast eine Grenze überschritten",
+    "premium": false,
+    "positive": true,
+    "id": 7051
+  },
+  {
+    "preset_id": 1008,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Cruzaste uma linha",
+    "premium": false,
+    "positive": true,
+    "id": 7052
+  },
+  {
+    "preset_id": 1008,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Przekroczyłeś granicę",
+    "premium": false,
+    "positive": true,
+    "id": 7053
+  },
+  {
+    "preset_id": 1008,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты перешёл черту",
+    "premium": false,
+    "positive": true,
+    "id": 7054
+  },
+  {
+    "preset_id": 1008,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你越界了",
+    "premium": false,
+    "positive": true,
+    "id": 7055
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1403,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Average team, big mouth.",
+    "premium": false,
+    "positive": true,
+    "id": 9814
+  },
+  {
+    "preset_id": 1403,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Equipo mediocre, bocazas.",
+    "premium": false,
+    "positive": true,
+    "id": 9815
+  },
+  {
+    "preset_id": 1403,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Durchschnittsmannschaft, große Klappe.",
+    "premium": false,
+    "positive": true,
+    "id": 9816
+  },
+  {
+    "preset_id": 1403,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Equipa medíocre, grande conversa.",
+    "premium": false,
+    "positive": true,
+    "id": 9817
+  },
+  {
+    "preset_id": 1403,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Średnia drużyna, duża gęba.",
+    "premium": false,
+    "positive": true,
+    "id": 9818
+  },
+  {
+    "preset_id": 1403,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Средняя команда, большой рот.",
+    "premium": false,
+    "positive": true,
+    "id": 9819
+  },
+  {
+    "preset_id": 1403,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "平庸的球队,大嘴巴。",
+    "premium": false,
+    "positive": true,
+    "id": 9820
+  }
+]

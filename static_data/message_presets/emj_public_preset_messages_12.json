@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 12,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You always know what to say",
+    "premium": false,
+    "positive": true,
+    "id": 77
+  },
+  {
+    "preset_id": 12,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Siempre sabes qué decir",
+    "premium": false,
+    "positive": true,
+    "id": 78
+  },
+  {
+    "preset_id": 12,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du weißt immer, was du sagen sollst",
+    "premium": false,
+    "positive": true,
+    "id": 79
+  },
+  {
+    "preset_id": 12,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Sabes sempre o que dizer",
+    "premium": false,
+    "positive": true,
+    "id": 80
+  },
+  {
+    "preset_id": 12,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Zawsze wiesz, co powiedzieć",
+    "premium": false,
+    "positive": true,
+    "id": 81
+  },
+  {
+    "preset_id": 12,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты всегда знаешь, что сказать",
+    "premium": false,
+    "positive": true,
+    "id": 82
+  },
+  {
+    "preset_id": 12,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你总知道该说什么",
+    "premium": false,
+    "positive": true,
+    "id": 83
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1030,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Your work ethic could use some work",
+    "premium": false,
+    "positive": true,
+    "id": 7203
+  },
+  {
+    "preset_id": 1030,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Tu ética de trabajo necesita mejorar",
+    "premium": false,
+    "positive": true,
+    "id": 7204
+  },
+  {
+    "preset_id": 1030,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Deine Arbeitsmoral könnte etwas Arbeit gebrauchen",
+    "premium": false,
+    "positive": true,
+    "id": 7205
+  },
+  {
+    "preset_id": 1030,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "A tua ética de trabalho podia melhorar",
+    "premium": false,
+    "positive": true,
+    "id": 7206
+  },
+  {
+    "preset_id": 1030,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Twoja etyka pracy mogłaby się trochę poprawić",
+    "premium": false,
+    "positive": true,
+    "id": 7207
+  },
+  {
+    "preset_id": 1030,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Твоя рабочая этика могла бы быть получше",
+    "premium": false,
+    "positive": true,
+    "id": 7208
+  },
+  {
+    "preset_id": 1030,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "你的职业道德需要改进",
+    "premium": false,
+    "positive": true,
+    "id": 7209
+  }
+]

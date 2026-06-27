@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1414,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We're unstoppable.",
+    "premium": false,
+    "positive": true,
+    "id": 9891
+  },
+  {
+    "preset_id": 1414,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Somos imparables.",
+    "premium": false,
+    "positive": true,
+    "id": 9892
+  },
+  {
+    "preset_id": 1414,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir sind unaufhaltsam.",
+    "premium": false,
+    "positive": true,
+    "id": 9893
+  },
+  {
+    "preset_id": 1414,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Somos imparáveis.",
+    "premium": false,
+    "positive": true,
+    "id": 9894
+  },
+  {
+    "preset_id": 1414,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Jesteśmy nie do zatrzymania.",
+    "premium": false,
+    "positive": true,
+    "id": 9895
+  },
+  {
+    "preset_id": 1414,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Мы неудержимы.",
+    "premium": false,
+    "positive": true,
+    "id": 9896
+  },
+  {
+    "preset_id": 1414,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们势不可挡。",
+    "premium": false,
+    "positive": true,
+    "id": 9897
+  }
+]

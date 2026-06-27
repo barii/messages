@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 856,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You make me a better person",
+    "premium": true,
+    "positive": true,
+    "id": 5985
+  },
+  {
+    "preset_id": 856,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Me haces ser mejor persona",
+    "premium": true,
+    "positive": true,
+    "id": 5986
+  },
+  {
+    "preset_id": 856,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Du machst mich zu einem besseren Menschen",
+    "premium": true,
+    "positive": true,
+    "id": 5987
+  },
+  {
+    "preset_id": 856,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Tornas-me uma pessoa melhor",
+    "premium": true,
+    "positive": true,
+    "id": 5988
+  },
+  {
+    "preset_id": 856,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Sprawiasz, że jestem lepszą osobą",
+    "premium": true,
+    "positive": true,
+    "id": 5989
+  },
+  {
+    "preset_id": 856,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты делаешь меня лучше",
+    "premium": true,
+    "positive": true,
+    "id": 5990
+  },
+  {
+    "preset_id": 856,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你让我成为更好的人",
+    "premium": true,
+    "positive": true,
+    "id": 5991
+  }
+]

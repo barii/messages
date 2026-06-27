@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1455,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We're in Europe again, you're not.",
+    "premium": true,
+    "positive": true,
+    "id": 10178
+  },
+  {
+    "preset_id": 1455,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Estamos en Europa otra vez, vosotros no.",
+    "premium": true,
+    "positive": true,
+    "id": 10179
+  },
+  {
+    "preset_id": 1455,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir sind wieder in Europa, ihr nicht.",
+    "premium": true,
+    "positive": true,
+    "id": 10180
+  },
+  {
+    "preset_id": 1455,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Estamos na Europa outra vez, vocês não.",
+    "premium": true,
+    "positive": true,
+    "id": 10181
+  },
+  {
+    "preset_id": 1455,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Znowu jesteśmy w Europie, wy nie.",
+    "premium": true,
+    "positive": true,
+    "id": 10182
+  },
+  {
+    "preset_id": 1455,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Мы снова в Европе, вы нет.",
+    "premium": true,
+    "positive": true,
+    "id": 10183
+  },
+  {
+    "preset_id": 1455,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们又进欧洲了,你们没有。",
+    "premium": true,
+    "positive": true,
+    "id": 10184
+  }
+]

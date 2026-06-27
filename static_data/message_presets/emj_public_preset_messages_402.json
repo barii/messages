@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 402,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I reply to everything quickly",
+    "premium": true,
+    "positive": true,
+    "id": 2807
+  },
+  {
+    "preset_id": 402,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Contesto todo rápido",
+    "premium": true,
+    "positive": true,
+    "id": 2808
+  },
+  {
+    "preset_id": 402,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich antworte auf alles schnell",
+    "premium": true,
+    "positive": true,
+    "id": 2809
+  },
+  {
+    "preset_id": 402,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Respondo a tudo rápido",
+    "premium": true,
+    "positive": true,
+    "id": 2810
+  },
+  {
+    "preset_id": 402,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Odpisuję na wszystko szybko",
+    "premium": true,
+    "positive": true,
+    "id": 2811
+  },
+  {
+    "preset_id": 402,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я отвечаю на всё быстро",
+    "premium": true,
+    "positive": true,
+    "id": 2812
+  },
+  {
+    "preset_id": 402,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我什么都回复得很快",
+    "premium": true,
+    "positive": true,
+    "id": 2813
+  }
+]

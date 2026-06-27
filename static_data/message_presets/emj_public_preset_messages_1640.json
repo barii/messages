@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1640,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Shall we sing a song for you.",
+    "premium": true,
+    "positive": true,
+    "id": 11473
+  },
+  {
+    "preset_id": 1640,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "¿Os cantamos una canción?",
+    "premium": true,
+    "positive": true,
+    "id": 11474
+  },
+  {
+    "preset_id": 1640,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Sollen wir ein Lied für euch singen?",
+    "premium": true,
+    "positive": true,
+    "id": 11475
+  },
+  {
+    "preset_id": 1640,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Cantamos uma canção para vocês?",
+    "premium": true,
+    "positive": true,
+    "id": 11476
+  },
+  {
+    "preset_id": 1640,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Czy mamy zaśpiewać dla was piosenkę?",
+    "premium": true,
+    "positive": true,
+    "id": 11477
+  },
+  {
+    "preset_id": 1640,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Спеть вам песню?",
+    "premium": true,
+    "positive": true,
+    "id": 11478
+  },
+  {
+    "preset_id": 1640,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "要不要给你们唱首歌?",
+    "premium": true,
+    "positive": true,
+    "id": 11479
+  }
+]

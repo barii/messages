@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 713,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Apology accepted",
+    "premium": false,
+    "positive": true,
+    "id": 4984
+  },
+  {
+    "preset_id": 713,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Disculpa aceptada",
+    "premium": false,
+    "positive": true,
+    "id": 4985
+  },
+  {
+    "preset_id": 713,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Entschuldigung angenommen",
+    "premium": false,
+    "positive": true,
+    "id": 4986
+  },
+  {
+    "preset_id": 713,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Desculpas aceites",
+    "premium": false,
+    "positive": true,
+    "id": 4987
+  },
+  {
+    "preset_id": 713,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Przeprosiny przyjęte",
+    "premium": false,
+    "positive": true,
+    "id": 4988
+  },
+  {
+    "preset_id": 713,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Извинения приняты",
+    "premium": false,
+    "positive": true,
+    "id": 4989
+  },
+  {
+    "preset_id": 713,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "接受道歉",
+    "premium": false,
+    "positive": true,
+    "id": 4990
+  }
+]

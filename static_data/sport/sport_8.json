@@ -1,0 +1,86 @@
+[
+  {
+    "id": 56,
+    "preset_id": 8,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "Football",
+    "text": "Dutch Football Teams",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 57,
+    "preset_id": 8,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Fútbol",
+    "text": "Equipos de Fútbol Holandeses",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 58,
+    "preset_id": 8,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Fußball",
+    "text": "Niederländische Fußballmannschaften",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 59,
+    "preset_id": 8,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "text": "Holenderskie drużyny piłkarskie",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 60,
+    "preset_id": 8,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "Футбол",
+    "text": "Голландские футбольные команды",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 61,
+    "preset_id": 8,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Futebol",
+    "text": "Times de futebol holandeses",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 62,
+    "preset_id": 8,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "足球",
+    "text": "荷兰足球队",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 2310,
+    "preset_id": 330,
+    "cat_emoji": "🇲🇽",
+    "lang": "EN",
+    "category": "Mexican Football Teams",
+    "text": "Tijuana",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  },
+  {
+    "id": 2311,
+    "preset_id": 330,
+    "cat_emoji": "🇲🇽",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Mexicanos",
+    "text": "Tijuana",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  },
+  {
+    "id": 2312,
+    "preset_id": 330,
+    "cat_emoji": "🇲🇽",
+    "lang": "DE",
+    "category": "Mexikanische Fußballmannschaften",
+    "text": "Tijuana",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  },
+  {
+    "id": 2313,
+    "preset_id": 330,
+    "cat_emoji": "🇲🇽",
+    "lang": "PL",
+    "category": "Meksykańskie drużyny piłkarskie",
+    "text": "Tijuana",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  },
+  {
+    "id": 2314,
+    "preset_id": 330,
+    "cat_emoji": "🇲🇽",
+    "lang": "RU",
+    "category": "Мексиканские футбольные команды",
+    "text": "Tijuana",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  },
+  {
+    "id": 2315,
+    "preset_id": 330,
+    "cat_emoji": "🇲🇽",
+    "lang": "PT",
+    "category": "Times de futebol mexicanos",
+    "text": "Tijuana",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  },
+  {
+    "id": 2316,
+    "preset_id": 330,
+    "cat_emoji": "🇲🇽",
+    "lang": "CN",
+    "category": "墨西哥足球队",
+    "text": "Tijuana",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 806,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Easy now",
+    "premium": false,
+    "positive": true,
+    "id": 5635
+  },
+  {
+    "preset_id": 806,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Tranquilo",
+    "premium": false,
+    "positive": true,
+    "id": 5636
+  },
+  {
+    "preset_id": 806,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Immer mit der Ruhe",
+    "premium": false,
+    "positive": true,
+    "id": 5637
+  },
+  {
+    "preset_id": 806,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Calma aí",
+    "premium": false,
+    "positive": true,
+    "id": 5638
+  },
+  {
+    "preset_id": 806,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Spokojnie",
+    "premium": false,
+    "positive": true,
+    "id": 5639
+  },
+  {
+    "preset_id": 806,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Спокойно",
+    "premium": false,
+    "positive": true,
+    "id": 5640
+  },
+  {
+    "preset_id": 806,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "悠着点",
+    "premium": false,
+    "positive": true,
+    "id": 5641
+  }
+]

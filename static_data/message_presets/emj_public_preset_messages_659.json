@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 659,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Whatever you say",
+    "premium": false,
+    "positive": true,
+    "id": 4606
+  },
+  {
+    "preset_id": 659,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Lo que tú digas",
+    "premium": false,
+    "positive": true,
+    "id": 4607
+  },
+  {
+    "preset_id": 659,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Wie du meinst",
+    "premium": false,
+    "positive": true,
+    "id": 4608
+  },
+  {
+    "preset_id": 659,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "O que tu disseres",
+    "premium": false,
+    "positive": true,
+    "id": 4609
+  },
+  {
+    "preset_id": 659,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Cokolwiek powiesz",
+    "premium": false,
+    "positive": true,
+    "id": 4610
+  },
+  {
+    "preset_id": 659,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Что бы ты ни говорил",
+    "premium": false,
+    "positive": true,
+    "id": 4611
+  },
+  {
+    "preset_id": 659,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "随便你说",
+    "premium": false,
+    "positive": true,
+    "id": 4612
+  }
+]

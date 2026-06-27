@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1722,
+    "preset_id": 246,
+    "cat_emoji": "🇪🇸",
+    "lang": "EN",
+    "category": "Spanish Football Teams",
+    "text": "Sevilla",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1723,
+    "preset_id": 246,
+    "cat_emoji": "🇪🇸",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Españoles",
+    "text": "Sevilla",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1724,
+    "preset_id": 246,
+    "cat_emoji": "🇪🇸",
+    "lang": "DE",
+    "category": "Spanische Fußballmannschaften",
+    "text": "Sevilla",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1725,
+    "preset_id": 246,
+    "cat_emoji": "🇪🇸",
+    "lang": "PL",
+    "category": "Hiszpańskie drużyny piłkarskie",
+    "text": "Sevilla",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1726,
+    "preset_id": 246,
+    "cat_emoji": "🇪🇸",
+    "lang": "RU",
+    "category": "Испанские футбольные команды",
+    "text": "Sevilla",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1727,
+    "preset_id": 246,
+    "cat_emoji": "🇪🇸",
+    "lang": "PT",
+    "category": "Times de futebol espanhóis",
+    "text": "Sevilla",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1728,
+    "preset_id": 246,
+    "cat_emoji": "🇪🇸",
+    "lang": "CN",
+    "category": "西班牙足球队",
+    "text": "Sevilla",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  }
+]

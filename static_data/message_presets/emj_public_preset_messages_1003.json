@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1003,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You only reach out when you need something",
+    "premium": false,
+    "positive": true,
+    "id": 7014
+  },
+  {
+    "preset_id": 1003,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Solo te pones en contacto cuando necesitas algo",
+    "premium": false,
+    "positive": true,
+    "id": 7015
+  },
+  {
+    "preset_id": 1003,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du meldest dich nur, wenn du etwas brauchst",
+    "premium": false,
+    "positive": true,
+    "id": 7016
+  },
+  {
+    "preset_id": 1003,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Só dás sinal quando precisas de algo",
+    "premium": false,
+    "positive": true,
+    "id": 7017
+  },
+  {
+    "preset_id": 1003,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Odzywasz się tylko, gdy czegoś potrzebujesz",
+    "premium": false,
+    "positive": true,
+    "id": 7018
+  },
+  {
+    "preset_id": 1003,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты обращаешься только, когда тебе что-то нужно",
+    "premium": false,
+    "positive": true,
+    "id": 7019
+  },
+  {
+    "preset_id": 1003,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你只在需要东西时才联系",
+    "premium": false,
+    "positive": true,
+    "id": 7020
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 436,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Hard to say",
+    "premium": false,
+    "positive": true,
+    "id": 3045
+  },
+  {
+    "preset_id": 436,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Difícil decirlo",
+    "premium": false,
+    "positive": true,
+    "id": 3046
+  },
+  {
+    "preset_id": 436,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Schwer zu sagen",
+    "premium": false,
+    "positive": true,
+    "id": 3047
+  },
+  {
+    "preset_id": 436,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Difícil dizer",
+    "premium": false,
+    "positive": true,
+    "id": 3048
+  },
+  {
+    "preset_id": 436,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Trudno powiedzieć",
+    "premium": false,
+    "positive": true,
+    "id": 3049
+  },
+  {
+    "preset_id": 436,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Сложно сказать",
+    "premium": false,
+    "positive": true,
+    "id": 3050
+  },
+  {
+    "preset_id": 436,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "难说",
+    "premium": false,
+    "positive": true,
+    "id": 3051
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 2695,
+    "preset_id": 385,
+    "cat_emoji": "🇺🇦",
+    "lang": "EN",
+    "category": "Ukrainian Football Teams",
+    "text": "Chornomorets Odesa",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2696,
+    "preset_id": 385,
+    "cat_emoji": "🇺🇦",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Ucranianos",
+    "text": "Chornomorets Odesa",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2697,
+    "preset_id": 385,
+    "cat_emoji": "🇺🇦",
+    "lang": "DE",
+    "category": "Ukrainische Fußballmannschaften",
+    "text": "Chornomorets Odesa",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2698,
+    "preset_id": 385,
+    "cat_emoji": "🇺🇦",
+    "lang": "PL",
+    "category": "Ukraińskie drużyny piłkarskie",
+    "text": "Chornomorets Odesa",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2699,
+    "preset_id": 385,
+    "cat_emoji": "🇺🇦",
+    "lang": "RU",
+    "category": "Украинские футбольные команды",
+    "text": "Chornomorets Odesa",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2700,
+    "preset_id": 385,
+    "cat_emoji": "🇺🇦",
+    "lang": "PT",
+    "category": "Times de futebol ucranianos",
+    "text": "Chornomorets Odesa",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  },
+  {
+    "id": 2701,
+    "preset_id": 385,
+    "cat_emoji": "🇺🇦",
+    "lang": "CN",
+    "category": "乌克兰足球队",
+    "text": "Chornomorets Odesa",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇦",
+    "continent": "European"
+  }
+]

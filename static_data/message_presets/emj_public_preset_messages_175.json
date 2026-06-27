@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 175,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Do you want to meet up?",
+    "premium": false,
+    "positive": true,
+    "id": 1218
+  },
+  {
+    "preset_id": 175,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Quieres que quedemos?",
+    "premium": false,
+    "positive": true,
+    "id": 1219
+  },
+  {
+    "preset_id": 175,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Wollen wir uns treffen?",
+    "premium": false,
+    "positive": true,
+    "id": 1220
+  },
+  {
+    "preset_id": 175,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Queres encontrar-te comigo?",
+    "premium": false,
+    "positive": true,
+    "id": 1221
+  },
+  {
+    "preset_id": 175,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Chcesz się spotkać?",
+    "premium": false,
+    "positive": true,
+    "id": 1222
+  },
+  {
+    "preset_id": 175,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Хочешь встретиться?",
+    "premium": false,
+    "positive": true,
+    "id": 1223
+  },
+  {
+    "preset_id": 175,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "想见个面吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1224
+  }
+]

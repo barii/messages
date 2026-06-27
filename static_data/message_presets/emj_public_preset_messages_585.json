@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 585,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Hot",
+    "premium": false,
+    "positive": true,
+    "id": 4088
+  },
+  {
+    "preset_id": 585,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Caliente",
+    "premium": false,
+    "positive": true,
+    "id": 4089
+  },
+  {
+    "preset_id": 585,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Heiß",
+    "premium": false,
+    "positive": true,
+    "id": 4090
+  },
+  {
+    "preset_id": 585,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Quente",
+    "premium": false,
+    "positive": true,
+    "id": 4091
+  },
+  {
+    "preset_id": 585,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Gorąco",
+    "premium": false,
+    "positive": true,
+    "id": 4092
+  },
+  {
+    "preset_id": 585,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Горячо",
+    "premium": false,
+    "positive": true,
+    "id": 4093
+  },
+  {
+    "preset_id": 585,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "热",
+    "premium": false,
+    "positive": true,
+    "id": 4094
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 385,
+    "preset_id": 55,
+    "cat_emoji": "⚽",
+    "lang": "EN",
+    "category": "National football teams",
+    "text": "South Korean football team",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇰🇷",
+    "continent": "European"
+  },
+  {
+    "id": 386,
+    "preset_id": 55,
+    "cat_emoji": "⚽",
+    "lang": "ES",
+    "category": "Selección nacional de fútbol",
+    "text": "Equipo de fútbol de Corea Del Sur",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇰🇷",
+    "continent": "European"
+  },
+  {
+    "id": 387,
+    "preset_id": 55,
+    "cat_emoji": "⚽",
+    "lang": "DE",
+    "category": "Nationale Fußballmannschaft",
+    "text": "Südkoreanische Fußballmannschaft",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇰🇷",
+    "continent": "European"
+  },
+  {
+    "id": 388,
+    "preset_id": 55,
+    "cat_emoji": "⚽",
+    "lang": "PL",
+    "category": "Narodowa drużyna piłkarska",
+    "text": "Południowokoreańska drużyna piłkarska",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇰🇷",
+    "continent": "European"
+  },
+  {
+    "id": 389,
+    "preset_id": 55,
+    "cat_emoji": "⚽",
+    "lang": "RU",
+    "category": "национальная сборная по футболу",
+    "text": "Южнокорейская футбольная команда",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇰🇷",
+    "continent": "European"
+  },
+  {
+    "id": 390,
+    "preset_id": 55,
+    "cat_emoji": "⚽",
+    "lang": "PT",
+    "category": "Seleção nacional de futebol",
+    "text": "Seleção Sul-Coreana de futebol",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇰🇷",
+    "continent": "European"
+  },
+  {
+    "id": 391,
+    "preset_id": 55,
+    "cat_emoji": "⚽",
+    "lang": "CN",
+    "category": "国家足球队",
+    "text": "韩国足球队",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇰🇷",
+    "continent": "European"
+  }
+]

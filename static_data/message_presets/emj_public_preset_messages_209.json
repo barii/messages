@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 209,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Did we meet at a party?",
+    "premium": false,
+    "positive": true,
+    "id": 1456
+  },
+  {
+    "preset_id": 209,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Nos conocimos en una fiesta?",
+    "premium": false,
+    "positive": true,
+    "id": 1457
+  },
+  {
+    "preset_id": 209,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Haben wir uns auf einer Party kennengelernt?",
+    "premium": false,
+    "positive": true,
+    "id": 1458
+  },
+  {
+    "preset_id": 209,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Conhecemo-nos numa festa?",
+    "premium": false,
+    "positive": true,
+    "id": 1459
+  },
+  {
+    "preset_id": 209,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Poznaliśmy się na imprezie?",
+    "premium": false,
+    "positive": true,
+    "id": 1460
+  },
+  {
+    "preset_id": 209,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Мы познакомились на вечеринке?",
+    "premium": false,
+    "positive": true,
+    "id": 1461
+  },
+  {
+    "preset_id": 209,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我们是在派对上认识的吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1462
+  }
+]

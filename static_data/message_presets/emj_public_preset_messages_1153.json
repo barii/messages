@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1153,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Thinking of you",
+    "premium": false,
+    "positive": true,
+    "id": 8064
+  },
+  {
+    "preset_id": 1153,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Pensando en ti",
+    "premium": false,
+    "positive": true,
+    "id": 8065
+  },
+  {
+    "preset_id": 1153,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Denke an dich",
+    "premium": false,
+    "positive": true,
+    "id": 8066
+  },
+  {
+    "preset_id": 1153,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "A pensar em ti",
+    "premium": false,
+    "positive": true,
+    "id": 8067
+  },
+  {
+    "preset_id": 1153,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Myślę o tobie",
+    "premium": false,
+    "positive": true,
+    "id": 8068
+  },
+  {
+    "preset_id": 1153,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Думаю о тебе",
+    "premium": false,
+    "positive": true,
+    "id": 8069
+  },
+  {
+    "preset_id": 1153,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "想着你",
+    "premium": false,
+    "positive": true,
+    "id": 8070
+  }
+]

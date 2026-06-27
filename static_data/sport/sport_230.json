@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1610,
+    "preset_id": 230,
+    "cat_emoji": "🇪🇸",
+    "lang": "EN",
+    "category": "Spanish Football Teams",
+    "text": "Almería",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1611,
+    "preset_id": 230,
+    "cat_emoji": "🇪🇸",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Españoles",
+    "text": "Almería",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1612,
+    "preset_id": 230,
+    "cat_emoji": "🇪🇸",
+    "lang": "DE",
+    "category": "Spanische Fußballmannschaften",
+    "text": "Almería",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1613,
+    "preset_id": 230,
+    "cat_emoji": "🇪🇸",
+    "lang": "PL",
+    "category": "Hiszpańskie drużyny piłkarskie",
+    "text": "Almería",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1614,
+    "preset_id": 230,
+    "cat_emoji": "🇪🇸",
+    "lang": "RU",
+    "category": "Испанские футбольные команды",
+    "text": "Almería",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1615,
+    "preset_id": 230,
+    "cat_emoji": "🇪🇸",
+    "lang": "PT",
+    "category": "Times de futebol espanhóis",
+    "text": "Almería",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1616,
+    "preset_id": 230,
+    "cat_emoji": "🇪🇸",
+    "lang": "CN",
+    "category": "西班牙足球队",
+    "text": "Almería",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇪🇸",
+    "continent": "European"
+  }
+]

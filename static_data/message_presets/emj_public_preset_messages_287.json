@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 287,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm happy",
+    "premium": false,
+    "positive": true,
+    "id": 2002
+  },
+  {
+    "preset_id": 287,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Estoy feliz",
+    "premium": false,
+    "positive": true,
+    "id": 2003
+  },
+  {
+    "preset_id": 287,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin glücklich",
+    "premium": false,
+    "positive": true,
+    "id": 2004
+  },
+  {
+    "preset_id": 287,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Estou feliz",
+    "premium": false,
+    "positive": true,
+    "id": 2005
+  },
+  {
+    "preset_id": 287,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem szczęśliwy",
+    "premium": false,
+    "positive": true,
+    "id": 2006
+  },
+  {
+    "preset_id": 287,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я счастлив",
+    "premium": false,
+    "positive": true,
+    "id": 2007
+  },
+  {
+    "preset_id": 287,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我开心",
+    "premium": false,
+    "positive": true,
+    "id": 2008
+  }
+]

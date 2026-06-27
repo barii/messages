@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1142,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "What's going on?",
+    "premium": false,
+    "positive": true,
+    "id": 7987
+  },
+  {
+    "preset_id": 1142,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "¿Qué pasa?",
+    "premium": false,
+    "positive": true,
+    "id": 7988
+  },
+  {
+    "preset_id": 1142,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Was ist los?",
+    "premium": false,
+    "positive": true,
+    "id": 7989
+  },
+  {
+    "preset_id": 1142,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "O que se passa?",
+    "premium": false,
+    "positive": true,
+    "id": 7990
+  },
+  {
+    "preset_id": 1142,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Co słychać?",
+    "premium": false,
+    "positive": true,
+    "id": 7991
+  },
+  {
+    "preset_id": 1142,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Что происходит?",
+    "premium": false,
+    "positive": true,
+    "id": 7992
+  },
+  {
+    "preset_id": 1142,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "怎么了?",
+    "premium": false,
+    "positive": true,
+    "id": 7993
+  }
+]

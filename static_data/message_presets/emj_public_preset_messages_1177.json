@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1177,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Happy Lunar New Year",
+    "premium": true,
+    "positive": true,
+    "id": 8232
+  },
+  {
+    "preset_id": 1177,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Feliz Año Nuevo Lunar",
+    "premium": true,
+    "positive": true,
+    "id": 8233
+  },
+  {
+    "preset_id": 1177,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Frohes Mondneujahr",
+    "premium": true,
+    "positive": true,
+    "id": 8234
+  },
+  {
+    "preset_id": 1177,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Feliz Ano Novo Lunar",
+    "premium": true,
+    "positive": true,
+    "id": 8235
+  },
+  {
+    "preset_id": 1177,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Wesołego Chińskiego Nowego Roku",
+    "premium": true,
+    "positive": true,
+    "id": 8236
+  },
+  {
+    "preset_id": 1177,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "С Лунным Новым годом",
+    "premium": true,
+    "positive": true,
+    "id": 8237
+  },
+  {
+    "preset_id": 1177,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "农历新年快乐",
+    "premium": true,
+    "positive": true,
+    "id": 8238
+  }
+]

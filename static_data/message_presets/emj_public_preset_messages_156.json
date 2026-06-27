@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 156,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you a night owl?",
+    "premium": false,
+    "positive": true,
+    "id": 1085
+  },
+  {
+    "preset_id": 156,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Eres nocturno?",
+    "premium": false,
+    "positive": true,
+    "id": 1086
+  },
+  {
+    "preset_id": 156,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du ein Nachtmensch?",
+    "premium": false,
+    "positive": true,
+    "id": 1087
+  },
+  {
+    "preset_id": 156,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "És da noite?",
+    "premium": false,
+    "positive": true,
+    "id": 1088
+  },
+  {
+    "preset_id": 156,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jesteś nocnym markiem?",
+    "premium": false,
+    "positive": true,
+    "id": 1089
+  },
+  {
+    "preset_id": 156,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты сова?",
+    "premium": false,
+    "positive": true,
+    "id": 1090
+  },
+  {
+    "preset_id": 156,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你是夜猫子吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1091
+  }
+]

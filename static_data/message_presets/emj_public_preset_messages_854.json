@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 854,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You make me feel seen",
+    "premium": true,
+    "positive": true,
+    "id": 5971
+  },
+  {
+    "preset_id": 854,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Me haces sentir visto",
+    "premium": true,
+    "positive": true,
+    "id": 5972
+  },
+  {
+    "preset_id": 854,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Du gibst mir das Gefühl, gesehen zu werden",
+    "premium": true,
+    "positive": true,
+    "id": 5973
+  },
+  {
+    "preset_id": 854,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Fazes-me sentir visto",
+    "premium": true,
+    "positive": true,
+    "id": 5974
+  },
+  {
+    "preset_id": 854,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Sprawiasz, że czuję się widziany",
+    "premium": true,
+    "positive": true,
+    "id": 5975
+  },
+  {
+    "preset_id": 854,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты заставляешь меня чувствовать себя замеченным",
+    "premium": true,
+    "positive": true,
+    "id": 5976
+  },
+  {
+    "preset_id": 854,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你让我感到被看见",
+    "premium": true,
+    "positive": true,
+    "id": 5977
+  }
+]

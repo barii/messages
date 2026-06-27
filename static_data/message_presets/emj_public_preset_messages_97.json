@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 97,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "Bless your heart",
+    "premium": false,
+    "positive": false,
+    "id": 672
+  },
+  {
+    "preset_id": 97,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Bless your heart",
+    "premium": false,
+    "positive": false,
+    "id": 673
+  },
+  {
+    "preset_id": 97,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Bless your heart",
+    "premium": false,
+    "positive": false,
+    "id": 674
+  },
+  {
+    "preset_id": 97,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Bless your heart",
+    "premium": false,
+    "positive": false,
+    "id": 675
+  },
+  {
+    "preset_id": 97,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Bless your heart",
+    "premium": false,
+    "positive": false,
+    "id": 676
+  },
+  {
+    "preset_id": 97,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Bless your heart",
+    "premium": false,
+    "positive": false,
+    "id": 677
+  },
+  {
+    "preset_id": 97,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "Bless your heart",
+    "premium": false,
+    "positive": false,
+    "id": 678
+  }
+]

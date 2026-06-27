@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 219,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Why are you ignoring me?",
+    "premium": false,
+    "positive": true,
+    "id": 1526
+  },
+  {
+    "preset_id": 219,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Por qué me ignoras?",
+    "premium": false,
+    "positive": true,
+    "id": 1527
+  },
+  {
+    "preset_id": 219,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Warum ignorierst du mich?",
+    "premium": false,
+    "positive": true,
+    "id": 1528
+  },
+  {
+    "preset_id": 219,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Porque me estás a ignorar?",
+    "premium": false,
+    "positive": true,
+    "id": 1529
+  },
+  {
+    "preset_id": 219,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Dlaczego mnie ignorujesz?",
+    "premium": false,
+    "positive": true,
+    "id": 1530
+  },
+  {
+    "preset_id": 219,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Почему ты меня игнорируешь?",
+    "premium": false,
+    "positive": true,
+    "id": 1531
+  },
+  {
+    "preset_id": 219,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你为什么不理我?",
+    "premium": false,
+    "positive": true,
+    "id": 1532
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1078,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "The office aircon is set to arctic again",
+    "premium": false,
+    "positive": true,
+    "id": 7539
+  },
+  {
+    "preset_id": 1078,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "El aire de la oficina está en modo ártico otra vez",
+    "premium": false,
+    "positive": true,
+    "id": 7540
+  },
+  {
+    "preset_id": 1078,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Die Bürokliman ist wieder auf arktisch",
+    "premium": false,
+    "positive": true,
+    "id": 7541
+  },
+  {
+    "preset_id": 1078,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "O ar condicionado do escritório está em modo ártico outra vez",
+    "premium": false,
+    "positive": true,
+    "id": 7542
+  },
+  {
+    "preset_id": 1078,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Klimatyzacja w biurze znowu jest na arktyczną",
+    "premium": false,
+    "positive": true,
+    "id": 7543
+  },
+  {
+    "preset_id": 1078,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Кондиционер в офисе снова на арктическом режиме",
+    "premium": false,
+    "positive": true,
+    "id": 7544
+  },
+  {
+    "preset_id": 1078,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "办公室空调又开到北极模式了",
+    "premium": false,
+    "positive": true,
+    "id": 7545
+  }
+]

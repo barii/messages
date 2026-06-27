@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 731,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Yayyy",
+    "premium": false,
+    "positive": true,
+    "id": 5110
+  },
+  {
+    "preset_id": 731,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "¡Yeeey!",
+    "premium": false,
+    "positive": true,
+    "id": 5111
+  },
+  {
+    "preset_id": 731,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Yayyy",
+    "premium": false,
+    "positive": true,
+    "id": 5112
+  },
+  {
+    "preset_id": 731,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Booa",
+    "premium": false,
+    "positive": true,
+    "id": 5113
+  },
+  {
+    "preset_id": 731,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Huraaa",
+    "premium": false,
+    "positive": true,
+    "id": 5114
+  },
+  {
+    "preset_id": 731,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Урааа",
+    "premium": false,
+    "positive": true,
+    "id": 5115
+  },
+  {
+    "preset_id": 731,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "耶耶",
+    "premium": false,
+    "positive": true,
+    "id": 5116
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1646,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You got lucky.",
+    "premium": false,
+    "positive": true,
+    "id": 11515
+  },
+  {
+    "preset_id": 1646,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Habéis tenido suerte.",
+    "premium": false,
+    "positive": true,
+    "id": 11516
+  },
+  {
+    "preset_id": 1646,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ihr hattet Glück.",
+    "premium": false,
+    "positive": true,
+    "id": 11517
+  },
+  {
+    "preset_id": 1646,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Tiveram sorte.",
+    "premium": false,
+    "positive": true,
+    "id": 11518
+  },
+  {
+    "preset_id": 1646,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Mieliście szczęście.",
+    "premium": false,
+    "positive": true,
+    "id": 11519
+  },
+  {
+    "preset_id": 1646,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Вам повезло.",
+    "premium": false,
+    "positive": true,
+    "id": 11520
+  },
+  {
+    "preset_id": 1646,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们走运了。",
+    "premium": false,
+    "positive": true,
+    "id": 11521
+  }
+]

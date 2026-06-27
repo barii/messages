@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 533,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I'm busy right now",
+    "premium": false,
+    "positive": true,
+    "id": 3724
+  },
+  {
+    "preset_id": 533,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Estoy ocupado ahora mismo",
+    "premium": false,
+    "positive": true,
+    "id": 3725
+  },
+  {
+    "preset_id": 533,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ich bin gerade beschäftigt",
+    "premium": false,
+    "positive": true,
+    "id": 3726
+  },
+  {
+    "preset_id": 533,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Estou ocupado agora",
+    "premium": false,
+    "positive": true,
+    "id": 3727
+  },
+  {
+    "preset_id": 533,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Jestem teraz zajęty",
+    "premium": false,
+    "positive": true,
+    "id": 3728
+  },
+  {
+    "preset_id": 533,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Я сейчас занят",
+    "premium": false,
+    "positive": true,
+    "id": 3729
+  },
+  {
+    "preset_id": 533,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我现在很忙",
+    "premium": false,
+    "positive": true,
+    "id": 3730
+  }
+]

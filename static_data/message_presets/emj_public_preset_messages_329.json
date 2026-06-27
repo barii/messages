@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 329,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I hold grudges",
+    "premium": false,
+    "positive": true,
+    "id": 2296
+  },
+  {
+    "preset_id": 329,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Guardo rencor",
+    "premium": false,
+    "positive": true,
+    "id": 2297
+  },
+  {
+    "preset_id": 329,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich trage Groll mit mir herum",
+    "premium": false,
+    "positive": true,
+    "id": 2298
+  },
+  {
+    "preset_id": 329,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Guardo rancores",
+    "premium": false,
+    "positive": true,
+    "id": 2299
+  },
+  {
+    "preset_id": 329,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Chowam urazy",
+    "premium": false,
+    "positive": true,
+    "id": 2300
+  },
+  {
+    "preset_id": 329,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я держу обиды",
+    "premium": false,
+    "positive": true,
+    "id": 2301
+  },
+  {
+    "preset_id": 329,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我会记仇",
+    "premium": false,
+    "positive": true,
+    "id": 2302
+  }
+]

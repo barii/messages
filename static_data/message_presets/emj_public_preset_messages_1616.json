@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1616,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Log off mate.",
+    "premium": true,
+    "positive": true,
+    "id": 11305
+  },
+  {
+    "preset_id": 1616,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Log off mate.",
+    "premium": true,
+    "positive": true,
+    "id": 11306
+  },
+  {
+    "preset_id": 1616,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Log off mate.",
+    "premium": true,
+    "positive": true,
+    "id": 11307
+  },
+  {
+    "preset_id": 1616,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Log off mate.",
+    "premium": true,
+    "positive": true,
+    "id": 11308
+  },
+  {
+    "preset_id": 1616,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Log off mate.",
+    "premium": true,
+    "positive": true,
+    "id": 11309
+  },
+  {
+    "preset_id": 1616,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Log off mate.",
+    "premium": true,
+    "positive": true,
+    "id": 11310
+  },
+  {
+    "preset_id": 1616,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "Log off mate.",
+    "premium": true,
+    "positive": true,
+    "id": 11311
+  }
+]

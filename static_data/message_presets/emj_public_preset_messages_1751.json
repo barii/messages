@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1751,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Alma Mater!",
+    "premium": false,
+    "positive": true,
+    "id": 12250
+  },
+  {
+    "preset_id": 1751,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Alma Mater!",
+    "premium": false,
+    "positive": true,
+    "id": 12251
+  },
+  {
+    "preset_id": 1751,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Alma Mater!",
+    "premium": false,
+    "positive": true,
+    "id": 12252
+  },
+  {
+    "preset_id": 1751,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Alma Mater!",
+    "premium": false,
+    "positive": true,
+    "id": 12253
+  },
+  {
+    "preset_id": 1751,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Alma Mater!",
+    "premium": false,
+    "positive": true,
+    "id": 12254
+  },
+  {
+    "preset_id": 1751,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Alma Mater!",
+    "premium": false,
+    "positive": true,
+    "id": 12255
+  },
+  {
+    "preset_id": 1751,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Alma Mater!",
+    "premium": false,
+    "positive": true,
+    "id": 12256
+  }
+]

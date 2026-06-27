@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 691,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I appreciate that",
+    "premium": false,
+    "positive": true,
+    "id": 4830
+  },
+  {
+    "preset_id": 691,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Lo agradezco mucho",
+    "premium": false,
+    "positive": true,
+    "id": 4831
+  },
+  {
+    "preset_id": 691,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Ich schätze das",
+    "premium": false,
+    "positive": true,
+    "id": 4832
+  },
+  {
+    "preset_id": 691,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Agradeço isso",
+    "premium": false,
+    "positive": true,
+    "id": 4833
+  },
+  {
+    "preset_id": 691,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Doceniam to",
+    "premium": false,
+    "positive": true,
+    "id": 4834
+  },
+  {
+    "preset_id": 691,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Я это ценю",
+    "premium": false,
+    "positive": true,
+    "id": 4835
+  },
+  {
+    "preset_id": 691,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我很感谢",
+    "premium": false,
+    "positive": true,
+    "id": 4836
+  }
+]

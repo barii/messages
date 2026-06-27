@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1052,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Office crush situation, sorry",
+    "premium": false,
+    "positive": true,
+    "id": 7357
+  },
+  {
+    "preset_id": 1052,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Tengo un crush en la oficina, lo siento",
+    "premium": false,
+    "positive": true,
+    "id": 7358
+  },
+  {
+    "preset_id": 1052,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Büro-Schwarm-Situation, sorry",
+    "premium": false,
+    "positive": true,
+    "id": 7359
+  },
+  {
+    "preset_id": 1052,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Situação de paixão no escritório, desculpa",
+    "premium": false,
+    "positive": true,
+    "id": 7360
+  },
+  {
+    "preset_id": 1052,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Sytuacja zakochania w biurze, sorry",
+    "premium": false,
+    "positive": true,
+    "id": 7361
+  },
+  {
+    "preset_id": 1052,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Ситуация офисной влюблённости, извини",
+    "premium": false,
+    "positive": true,
+    "id": 7362
+  },
+  {
+    "preset_id": 1052,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "办公室暗恋情况,抱歉",
+    "premium": false,
+    "positive": true,
+    "id": 7363
+  }
+]

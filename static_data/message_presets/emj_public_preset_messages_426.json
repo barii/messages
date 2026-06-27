@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 426,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Not exactly",
+    "premium": false,
+    "positive": true,
+    "id": 2975
+  },
+  {
+    "preset_id": 426,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "No exactamente",
+    "premium": false,
+    "positive": true,
+    "id": 2976
+  },
+  {
+    "preset_id": 426,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Nicht genau",
+    "premium": false,
+    "positive": true,
+    "id": 2977
+  },
+  {
+    "preset_id": 426,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Não exatamente",
+    "premium": false,
+    "positive": true,
+    "id": 2978
+  },
+  {
+    "preset_id": 426,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Nie dokładnie",
+    "premium": false,
+    "positive": true,
+    "id": 2979
+  },
+  {
+    "preset_id": 426,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Не точно",
+    "premium": false,
+    "positive": true,
+    "id": 2980
+  },
+  {
+    "preset_id": 426,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "不太对",
+    "premium": false,
+    "positive": true,
+    "id": 2981
+  }
+]

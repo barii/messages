@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 842,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I'm catching feelings",
+    "premium": false,
+    "positive": true,
+    "id": 5887
+  },
+  {
+    "preset_id": 842,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Estoy desarrollando sentimientos",
+    "premium": false,
+    "positive": true,
+    "id": 5888
+  },
+  {
+    "preset_id": 842,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich entwickle Gefühle",
+    "premium": false,
+    "positive": true,
+    "id": 5889
+  },
+  {
+    "preset_id": 842,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Estou a apanhar sentimentos",
+    "premium": false,
+    "positive": true,
+    "id": 5890
+  },
+  {
+    "preset_id": 842,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Łapię uczucia",
+    "premium": false,
+    "positive": true,
+    "id": 5891
+  },
+  {
+    "preset_id": 842,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "У меня появляются чувства",
+    "premium": false,
+    "positive": true,
+    "id": 5892
+  },
+  {
+    "preset_id": 842,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我开始有感觉了",
+    "premium": false,
+    "positive": true,
+    "id": 5893
+  }
+]

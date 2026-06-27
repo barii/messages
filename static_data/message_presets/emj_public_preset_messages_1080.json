@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1080,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Whoever finished the milk, we need to talk",
+    "premium": true,
+    "positive": true,
+    "id": 7553
+  },
+  {
+    "preset_id": 1080,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Quien sea que terminó la leche, tenemos que hablar",
+    "premium": true,
+    "positive": true,
+    "id": 7554
+  },
+  {
+    "preset_id": 1080,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Wer die Milch leergemacht hat, wir müssen reden",
+    "premium": true,
+    "positive": true,
+    "id": 7555
+  },
+  {
+    "preset_id": 1080,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Quem quer que tenha acabado o leite, temos de falar",
+    "premium": true,
+    "positive": true,
+    "id": 7556
+  },
+  {
+    "preset_id": 1080,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Kto skończył mleko, musimy pogadać",
+    "premium": true,
+    "positive": true,
+    "id": 7557
+  },
+  {
+    "preset_id": 1080,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Кто бы ни закончил молоко - нам нужно поговорить",
+    "premium": true,
+    "positive": true,
+    "id": 7558
+  },
+  {
+    "preset_id": 1080,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "不管是谁喝完了牛奶,我们得谈谈",
+    "premium": true,
+    "positive": true,
+    "id": 7559
+  }
+]

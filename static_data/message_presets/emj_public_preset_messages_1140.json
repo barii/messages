@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1140,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "How have you been?",
+    "premium": false,
+    "positive": true,
+    "id": 7973
+  },
+  {
+    "preset_id": 1140,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "¿Cómo has estado?",
+    "premium": false,
+    "positive": true,
+    "id": 7974
+  },
+  {
+    "preset_id": 1140,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Wie ging es dir?",
+    "premium": false,
+    "positive": true,
+    "id": 7975
+  },
+  {
+    "preset_id": 1140,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Como tens estado?",
+    "premium": false,
+    "positive": true,
+    "id": 7976
+  },
+  {
+    "preset_id": 1140,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Co u ciebie ostatnio?",
+    "premium": false,
+    "positive": true,
+    "id": 7977
+  },
+  {
+    "preset_id": 1140,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Как у тебя дела?",
+    "premium": false,
+    "positive": true,
+    "id": 7978
+  },
+  {
+    "preset_id": 1140,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "你最近怎么样?",
+    "premium": false,
+    "positive": true,
+    "id": 7979
+  }
+]

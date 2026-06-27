@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 236,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "Closer than you think",
+    "premium": false,
+    "positive": true,
+    "id": 1645
+  },
+  {
+    "preset_id": 236,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Más cerca de lo que crees",
+    "premium": false,
+    "positive": true,
+    "id": 1646
+  },
+  {
+    "preset_id": 236,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Näher als du denkst",
+    "premium": false,
+    "positive": true,
+    "id": 1647
+  },
+  {
+    "preset_id": 236,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Mais perto do que pensas",
+    "premium": false,
+    "positive": true,
+    "id": 1648
+  },
+  {
+    "preset_id": 236,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Bliżej niż myślisz",
+    "premium": false,
+    "positive": true,
+    "id": 1649
+  },
+  {
+    "preset_id": 236,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Ближе, чем ты думаешь",
+    "premium": false,
+    "positive": true,
+    "id": 1650
+  },
+  {
+    "preset_id": 236,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "比你想的近",
+    "premium": false,
+    "positive": true,
+    "id": 1651
+  }
+]

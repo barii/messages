@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1366,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You played like strangers.",
+    "premium": false,
+    "positive": true,
+    "id": 9555
+  },
+  {
+    "preset_id": 1366,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Habéis jugado como desconocidos.",
+    "premium": false,
+    "positive": true,
+    "id": 9556
+  },
+  {
+    "preset_id": 1366,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr habt gespielt wie Fremde.",
+    "premium": false,
+    "positive": true,
+    "id": 9557
+  },
+  {
+    "preset_id": 1366,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Jogaram como desconhecidos.",
+    "premium": false,
+    "positive": true,
+    "id": 9558
+  },
+  {
+    "preset_id": 1366,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Graliście jak obcy.",
+    "premium": false,
+    "positive": true,
+    "id": 9559
+  },
+  {
+    "preset_id": 1366,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Играли как чужие.",
+    "premium": false,
+    "positive": true,
+    "id": 9560
+  },
+  {
+    "preset_id": 1366,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们踢得像陌生人一样。",
+    "premium": false,
+    "positive": true,
+    "id": 9561
+  }
+]

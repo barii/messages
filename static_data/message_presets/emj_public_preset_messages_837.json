@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 837,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "Is it weird that I miss you?",
+    "premium": false,
+    "positive": true,
+    "id": 5852
+  },
+  {
+    "preset_id": 837,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "¿Es raro que te extrañe?",
+    "premium": false,
+    "positive": true,
+    "id": 5853
+  },
+  {
+    "preset_id": 837,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ist es seltsam, dass ich dich vermisse?",
+    "premium": false,
+    "positive": true,
+    "id": 5854
+  },
+  {
+    "preset_id": 837,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "É estranho que tenha saudades tuas?",
+    "premium": false,
+    "positive": true,
+    "id": 5855
+  },
+  {
+    "preset_id": 837,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Czy to dziwne, że za tobą tęsknię?",
+    "premium": false,
+    "positive": true,
+    "id": 5856
+  },
+  {
+    "preset_id": 837,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Это странно, что я скучаю по тебе?",
+    "premium": false,
+    "positive": true,
+    "id": 5857
+  },
+  {
+    "preset_id": 837,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我想你奇怪吗?",
+    "premium": false,
+    "positive": true,
+    "id": 5858
+  }
+]

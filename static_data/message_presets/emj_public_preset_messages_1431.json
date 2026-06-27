@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1431,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "HaHaHaHaHaHaHaHaHa!",
+    "premium": false,
+    "positive": true,
+    "id": 10010
+  },
+  {
+    "preset_id": 1431,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "¡JaJaJaJaJaJaJaJa!",
+    "premium": false,
+    "positive": true,
+    "id": 10011
+  },
+  {
+    "preset_id": 1431,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "HaHaHaHaHaHaHaHa!",
+    "premium": false,
+    "positive": true,
+    "id": 10012
+  },
+  {
+    "preset_id": 1431,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "HaHaHaHaHaHaHaHa!",
+    "premium": false,
+    "positive": true,
+    "id": 10013
+  },
+  {
+    "preset_id": 1431,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "HaHaHaHaHaHaHa!",
+    "premium": false,
+    "positive": true,
+    "id": 10014
+  },
+  {
+    "preset_id": 1431,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "ХаХаХаХаХаХаХа!",
+    "premium": false,
+    "positive": true,
+    "id": 10015
+  },
+  {
+    "preset_id": 1431,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "哈哈哈哈哈哈哈哈!",
+    "premium": false,
+    "positive": true,
+    "id": 10016
+  }
+]

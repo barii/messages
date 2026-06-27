@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1183,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Many happy returns",
+    "premium": false,
+    "positive": true,
+    "id": 8274
+  },
+  {
+    "preset_id": 1183,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Muchas felicidades",
+    "premium": false,
+    "positive": true,
+    "id": 8275
+  },
+  {
+    "preset_id": 1183,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Herzlichen Glückwunsch",
+    "premium": false,
+    "positive": true,
+    "id": 8276
+  },
+  {
+    "preset_id": 1183,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Muitos parabéns",
+    "premium": false,
+    "positive": true,
+    "id": 8277
+  },
+  {
+    "preset_id": 1183,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Wszystkiego najlepszego",
+    "premium": false,
+    "positive": true,
+    "id": 8278
+  },
+  {
+    "preset_id": 1183,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "Многих счастливых возвращений",
+    "premium": false,
+    "positive": true,
+    "id": 8279
+  },
+  {
+    "preset_id": 1183,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "多多福寿",
+    "premium": false,
+    "positive": true,
+    "id": 8280
+  }
+]

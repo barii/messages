@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 277,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "I'm not who you think I am",
+    "premium": false,
+    "positive": true,
+    "id": 1932
+  },
+  {
+    "preset_id": 277,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "No soy quien crees",
+    "premium": false,
+    "positive": true,
+    "id": 1933
+  },
+  {
+    "preset_id": 277,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Ich bin nicht, wer du denkst, dass ich bin",
+    "premium": false,
+    "positive": true,
+    "id": 1934
+  },
+  {
+    "preset_id": 277,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Não sou quem pensas que sou",
+    "premium": false,
+    "positive": true,
+    "id": 1935
+  },
+  {
+    "preset_id": 277,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Nie jestem tym, kim myślisz, że jestem",
+    "premium": false,
+    "positive": true,
+    "id": 1936
+  },
+  {
+    "preset_id": 277,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Я не тот, кем ты меня считаешь",
+    "premium": false,
+    "positive": true,
+    "id": 1937
+  },
+  {
+    "preset_id": 277,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我不是你想的那个人",
+    "premium": false,
+    "positive": true,
+    "id": 1938
+  }
+]

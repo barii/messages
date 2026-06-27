@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1611,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "We have one bad day, you have a bad season.",
+    "premium": true,
+    "positive": true,
+    "id": 11270
+  },
+  {
+    "preset_id": 1611,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Nosotros tenemos un mal día, vosotros una mala temporada.",
+    "premium": true,
+    "positive": true,
+    "id": 11271
+  },
+  {
+    "preset_id": 1611,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Wir haben einen schlechten Tag, ihr habt eine schlechte Saison.",
+    "premium": true,
+    "positive": true,
+    "id": 11272
+  },
+  {
+    "preset_id": 1611,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Nós temos um dia mau, vocês têm uma época má.",
+    "premium": true,
+    "positive": true,
+    "id": 11273
+  },
+  {
+    "preset_id": 1611,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "My mamy jeden zły dzień, wy macie zły sezon.",
+    "premium": true,
+    "positive": true,
+    "id": 11274
+  },
+  {
+    "preset_id": 1611,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "У нас плохой день, у вас плохой сезон.",
+    "premium": true,
+    "positive": true,
+    "id": 11275
+  },
+  {
+    "preset_id": 1611,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "我们一天不好,你们一个赛季不好。",
+    "premium": true,
+    "positive": true,
+    "id": 11276
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1557,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Go on then.",
+    "premium": false,
+    "positive": true,
+    "id": 10892
+  },
+  {
+    "preset_id": 1557,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Venga.",
+    "premium": false,
+    "positive": true,
+    "id": 10893
+  },
+  {
+    "preset_id": 1557,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Macht weiter.",
+    "premium": false,
+    "positive": true,
+    "id": 10894
+  },
+  {
+    "preset_id": 1557,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Vá.",
+    "premium": false,
+    "positive": true,
+    "id": 10895
+  },
+  {
+    "preset_id": 1557,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "No dawajcie.",
+    "premium": false,
+    "positive": true,
+    "id": 10896
+  },
+  {
+    "preset_id": 1557,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Давайте уж.",
+    "premium": false,
+    "positive": true,
+    "id": 10897
+  },
+  {
+    "preset_id": 1557,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "好啦。",
+    "premium": false,
+    "positive": true,
+    "id": 10898
+  }
+]

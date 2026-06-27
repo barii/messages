@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 309,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm a glass half empty person",
+    "premium": false,
+    "positive": true,
+    "id": 2156
+  },
+  {
+    "preset_id": 309,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Soy de los que ven el vaso medio vacío",
+    "premium": false,
+    "positive": true,
+    "id": 2157
+  },
+  {
+    "preset_id": 309,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin ein Glas-halb-leer-Mensch",
+    "premium": false,
+    "positive": true,
+    "id": 2158
+  },
+  {
+    "preset_id": 309,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Sou uma pessoa de copo meio vazio",
+    "premium": false,
+    "positive": true,
+    "id": 2159
+  },
+  {
+    "preset_id": 309,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem osobą widzącą szklankę do połowy pustą",
+    "premium": false,
+    "positive": true,
+    "id": 2160
+  },
+  {
+    "preset_id": 309,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я человек, который видит стакан наполовину пустым",
+    "premium": false,
+    "positive": true,
+    "id": 2161
+  },
+  {
+    "preset_id": 309,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我是个看到半空杯子的人",
+    "premium": false,
+    "positive": true,
+    "id": 2162
+  }
+]

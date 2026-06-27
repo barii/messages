@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 228,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "Getting warmer",
+    "premium": false,
+    "positive": true,
+    "id": 1589
+  },
+  {
+    "preset_id": 228,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Caliente",
+    "premium": false,
+    "positive": true,
+    "id": 1590
+  },
+  {
+    "preset_id": 228,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wärmer",
+    "premium": false,
+    "positive": true,
+    "id": 1591
+  },
+  {
+    "preset_id": 228,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "A aquecer",
+    "premium": false,
+    "positive": true,
+    "id": 1592
+  },
+  {
+    "preset_id": 228,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Cieplej",
+    "premium": false,
+    "positive": true,
+    "id": 1593
+  },
+  {
+    "preset_id": 228,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Теплее",
+    "premium": false,
+    "positive": true,
+    "id": 1594
+  },
+  {
+    "preset_id": 228,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "更暖了",
+    "premium": false,
+    "positive": true,
+    "id": 1595
+  }
+]

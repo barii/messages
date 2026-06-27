@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 465,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "That tracks",
+    "premium": false,
+    "positive": true,
+    "id": 3248
+  },
+  {
+    "preset_id": 465,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Eso cuadra",
+    "premium": false,
+    "positive": true,
+    "id": 3249
+  },
+  {
+    "preset_id": 465,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Das passt",
+    "premium": false,
+    "positive": true,
+    "id": 3250
+  },
+  {
+    "preset_id": 465,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Faz sentido",
+    "premium": false,
+    "positive": true,
+    "id": 3251
+  },
+  {
+    "preset_id": 465,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "To pasuje",
+    "premium": false,
+    "positive": true,
+    "id": 3252
+  },
+  {
+    "preset_id": 465,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Логично",
+    "premium": false,
+    "positive": true,
+    "id": 3253
+  },
+  {
+    "preset_id": 465,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "说得通",
+    "premium": false,
+    "positive": true,
+    "id": 3254
+  }
+]

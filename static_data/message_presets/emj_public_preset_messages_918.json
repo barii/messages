@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 918,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Better days are coming",
+    "premium": false,
+    "positive": true,
+    "id": 6419
+  },
+  {
+    "preset_id": 918,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Vienen días mejores",
+    "premium": false,
+    "positive": true,
+    "id": 6420
+  },
+  {
+    "preset_id": 918,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Bessere Tage kommen",
+    "premium": false,
+    "positive": true,
+    "id": 6421
+  },
+  {
+    "preset_id": 918,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Dias melhores estão a chegar",
+    "premium": false,
+    "positive": true,
+    "id": 6422
+  },
+  {
+    "preset_id": 918,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Lepsze dni nadchodzą",
+    "premium": false,
+    "positive": true,
+    "id": 6423
+  },
+  {
+    "preset_id": 918,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Лучшие дни впереди",
+    "premium": false,
+    "positive": true,
+    "id": 6424
+  },
+  {
+    "preset_id": 918,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "更好的日子在前方",
+    "premium": false,
+    "positive": true,
+    "id": 6425
+  }
+]

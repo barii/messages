@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1453,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Title race? We're winning it.",
+    "premium": false,
+    "positive": true,
+    "id": 10164
+  },
+  {
+    "preset_id": 1453,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "¿Carrera por el título? La estamos ganando.",
+    "premium": false,
+    "positive": true,
+    "id": 10165
+  },
+  {
+    "preset_id": 1453,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Titelrennen? Wir gewinnen es.",
+    "premium": false,
+    "positive": true,
+    "id": 10166
+  },
+  {
+    "preset_id": 1453,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Corrida pelo título? Estamos a ganhá-la.",
+    "premium": false,
+    "positive": true,
+    "id": 10167
+  },
+  {
+    "preset_id": 1453,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Wyścig o tytuł? Wygrywamy go.",
+    "premium": false,
+    "positive": true,
+    "id": 10168
+  },
+  {
+    "preset_id": 1453,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Гонка за титулом? Мы её выигрываем.",
+    "premium": false,
+    "positive": true,
+    "id": 10169
+  },
+  {
+    "preset_id": 1453,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "争冠?我们正在赢。",
+    "premium": false,
+    "positive": true,
+    "id": 10170
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 967,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Some people just aren't your people",
+    "premium": false,
+    "positive": true,
+    "id": 6762
+  },
+  {
+    "preset_id": 967,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Hay gente que simplemente no es para ti",
+    "premium": false,
+    "positive": true,
+    "id": 6763
+  },
+  {
+    "preset_id": 967,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Manche Menschen sind einfach nicht deine Menschen",
+    "premium": false,
+    "positive": true,
+    "id": 6764
+  },
+  {
+    "preset_id": 967,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Algumas pessoas simplesmente não são para ti",
+    "premium": false,
+    "positive": true,
+    "id": 6765
+  },
+  {
+    "preset_id": 967,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Niektórzy ludzie po prostu nie są twoimi ludźmi",
+    "premium": false,
+    "positive": true,
+    "id": 6766
+  },
+  {
+    "preset_id": 967,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Некоторые люди просто не твои",
+    "premium": false,
+    "positive": true,
+    "id": 6767
+  },
+  {
+    "preset_id": 967,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "有些人就不是你的人",
+    "premium": false,
+    "positive": true,
+    "id": 6768
+  }
+]

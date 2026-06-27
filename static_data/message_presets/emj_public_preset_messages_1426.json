@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1426,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Our trophy cabinets are very full.",
+    "premium": true,
+    "positive": true,
+    "id": 9975
+  },
+  {
+    "preset_id": 1426,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Nuestras vitrinas de trofeos están muy llenas.",
+    "premium": true,
+    "positive": true,
+    "id": 9976
+  },
+  {
+    "preset_id": 1426,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Unsere Trophäenvitrinen sind sehr voll.",
+    "premium": true,
+    "positive": true,
+    "id": 9977
+  },
+  {
+    "preset_id": 1426,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "As nossas vitrines de troféus estão muito cheias.",
+    "premium": true,
+    "positive": true,
+    "id": 9978
+  },
+  {
+    "preset_id": 1426,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Nasze gabloty z trofeami są bardzo pełne.",
+    "premium": true,
+    "positive": true,
+    "id": 9979
+  },
+  {
+    "preset_id": 1426,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Наши витрины с трофеями очень полные.",
+    "premium": true,
+    "positive": true,
+    "id": 9980
+  },
+  {
+    "preset_id": 1426,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们的奖杯柜非常满。",
+    "premium": true,
+    "positive": true,
+    "id": 9981
+  }
+]

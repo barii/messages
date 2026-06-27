@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 507,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Existing",
+    "premium": false,
+    "positive": true,
+    "id": 3542
+  },
+  {
+    "preset_id": 507,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Existiendo",
+    "premium": false,
+    "positive": true,
+    "id": 3543
+  },
+  {
+    "preset_id": 507,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Existiere",
+    "premium": false,
+    "positive": true,
+    "id": 3544
+  },
+  {
+    "preset_id": 507,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "A existir",
+    "premium": false,
+    "positive": true,
+    "id": 3545
+  },
+  {
+    "preset_id": 507,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Istnieję",
+    "premium": false,
+    "positive": true,
+    "id": 3546
+  },
+  {
+    "preset_id": 507,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Существую",
+    "premium": false,
+    "positive": true,
+    "id": 3547
+  },
+  {
+    "preset_id": 507,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "存在",
+    "premium": false,
+    "positive": true,
+    "id": 3548
+  }
+]

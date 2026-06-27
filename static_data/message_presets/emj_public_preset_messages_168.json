@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 168,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Can I trust you?",
+    "premium": false,
+    "positive": true,
+    "id": 1169
+  },
+  {
+    "preset_id": 168,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Puedo confiar en ti?",
+    "premium": false,
+    "positive": true,
+    "id": 1170
+  },
+  {
+    "preset_id": 168,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Kann ich dir vertrauen?",
+    "premium": false,
+    "positive": true,
+    "id": 1171
+  },
+  {
+    "preset_id": 168,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Posso confiar em ti?",
+    "premium": false,
+    "positive": true,
+    "id": 1172
+  },
+  {
+    "preset_id": 168,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Czy mogę ci zaufać?",
+    "premium": false,
+    "positive": true,
+    "id": 1173
+  },
+  {
+    "preset_id": 168,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Могу я тебе доверять?",
+    "premium": false,
+    "positive": true,
+    "id": 1174
+  },
+  {
+    "preset_id": 168,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我能信任你吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1175
+  }
+]

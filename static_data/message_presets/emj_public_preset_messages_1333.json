@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1333,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Absolute Swiss cheese at the back.",
+    "premium": true,
+    "positive": true,
+    "id": 9324
+  },
+  {
+    "preset_id": 1333,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Queso suizo absoluto atrás.",
+    "premium": true,
+    "positive": true,
+    "id": 9325
+  },
+  {
+    "preset_id": 1333,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Absoluter Schweizer Käse hinten.",
+    "premium": true,
+    "positive": true,
+    "id": 9326
+  },
+  {
+    "preset_id": 1333,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Queijo suíço absoluto atrás.",
+    "premium": true,
+    "positive": true,
+    "id": 9327
+  },
+  {
+    "preset_id": 1333,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Absolutny szwajcarski ser z tyłu.",
+    "premium": true,
+    "positive": true,
+    "id": 9328
+  },
+  {
+    "preset_id": 1333,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Абсолютный швейцарский сыр в защите.",
+    "premium": true,
+    "positive": true,
+    "id": 9329
+  },
+  {
+    "preset_id": 1333,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "后防完全像瑞士奶酪。",
+    "premium": true,
+    "positive": true,
+    "id": 9330
+  }
+]

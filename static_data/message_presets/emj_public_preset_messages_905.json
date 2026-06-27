@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 905,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You wouldn't believe who's messaging you",
+    "premium": true,
+    "positive": true,
+    "id": 6328
+  },
+  {
+    "preset_id": 905,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "No creerías quién te está mensajeando",
+    "premium": true,
+    "positive": true,
+    "id": 6329
+  },
+  {
+    "preset_id": 905,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Du würdest nicht glauben, wer dir schreibt",
+    "premium": true,
+    "positive": true,
+    "id": 6330
+  },
+  {
+    "preset_id": 905,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Não acreditarias quem te está a mandar mensagens",
+    "premium": true,
+    "positive": true,
+    "id": 6331
+  },
+  {
+    "preset_id": 905,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Nie uwierzyłbyś, kto do ciebie pisze",
+    "premium": true,
+    "positive": true,
+    "id": 6332
+  },
+  {
+    "preset_id": 905,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты не поверишь, кто тебе пишет",
+    "premium": true,
+    "positive": true,
+    "id": 6333
+  },
+  {
+    "preset_id": 905,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你不会相信谁在给你发消息",
+    "premium": true,
+    "positive": true,
+    "id": 6334
+  }
+]

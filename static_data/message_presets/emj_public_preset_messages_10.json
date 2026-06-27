@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 10,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're a safe place for people",
+    "premium": false,
+    "positive": true,
+    "id": 63
+  },
+  {
+    "preset_id": 10,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres un lugar seguro para la gente",
+    "premium": false,
+    "positive": true,
+    "id": 64
+  },
+  {
+    "preset_id": 10,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist ein sicherer Ort für Menschen",
+    "premium": false,
+    "positive": true,
+    "id": 65
+  },
+  {
+    "preset_id": 10,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És um sítio seguro para as pessoas",
+    "premium": false,
+    "positive": true,
+    "id": 66
+  },
+  {
+    "preset_id": 10,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś bezpiecznym miejscem dla ludzi",
+    "premium": false,
+    "positive": true,
+    "id": 67
+  },
+  {
+    "preset_id": 10,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты безопасное место для людей",
+    "premium": false,
+    "positive": true,
+    "id": 68
+  },
+  {
+    "preset_id": 10,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你是人们的安全港",
+    "premium": false,
+    "positive": true,
+    "id": 69
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 825,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I'd love to know who you are",
+    "premium": false,
+    "positive": true,
+    "id": 5768
+  },
+  {
+    "preset_id": 825,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Me encantaría saber quién eres",
+    "premium": false,
+    "positive": true,
+    "id": 5769
+  },
+  {
+    "preset_id": 825,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Ich würde gerne wissen, wer du bist",
+    "premium": false,
+    "positive": true,
+    "id": 5770
+  },
+  {
+    "preset_id": 825,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Adorava saber quem és",
+    "premium": false,
+    "positive": true,
+    "id": 5771
+  },
+  {
+    "preset_id": 825,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Chętnie poznam, kim jesteś",
+    "premium": false,
+    "positive": true,
+    "id": 5772
+  },
+  {
+    "preset_id": 825,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Хотел бы знать, кто ты",
+    "premium": false,
+    "positive": true,
+    "id": 5773
+  },
+  {
+    "preset_id": 825,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我很想知道你是谁",
+    "premium": false,
+    "positive": true,
+    "id": 5774
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 380,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I love music",
+    "premium": false,
+    "positive": true,
+    "id": 2653
+  },
+  {
+    "preset_id": 380,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Me encanta la música",
+    "premium": false,
+    "positive": true,
+    "id": 2654
+  },
+  {
+    "preset_id": 380,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich liebe Musik",
+    "premium": false,
+    "positive": true,
+    "id": 2655
+  },
+  {
+    "preset_id": 380,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Adoro música",
+    "premium": false,
+    "positive": true,
+    "id": 2656
+  },
+  {
+    "preset_id": 380,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Uwielbiam muzykę",
+    "premium": false,
+    "positive": true,
+    "id": 2657
+  },
+  {
+    "preset_id": 380,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я люблю музыку",
+    "premium": false,
+    "positive": true,
+    "id": 2658
+  },
+  {
+    "preset_id": 380,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我爱音乐",
+    "premium": false,
+    "positive": true,
+    "id": 2659
+  }
+]

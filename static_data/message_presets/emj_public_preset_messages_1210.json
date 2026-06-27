@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1210,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "If you were a fruit you would be a fineapple",
+    "premium": false,
+    "positive": true,
+    "id": 8463
+  },
+  {
+    "preset_id": 1210,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "Si fueras una fruta serías una piñísima",
+    "premium": false,
+    "positive": true,
+    "id": 8464
+  },
+  {
+    "preset_id": 1210,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Wenn du eine Frucht wärst, wärst du eine Anananas",
+    "premium": false,
+    "positive": true,
+    "id": 8465
+  },
+  {
+    "preset_id": 1210,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "Se fosses uma fruta serias um anan-lindo",
+    "premium": false,
+    "positive": true,
+    "id": 8466
+  },
+  {
+    "preset_id": 1210,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Gdybyś był owocem, byłbyś ślicznasem",
+    "premium": false,
+    "positive": true,
+    "id": 8467
+  },
+  {
+    "preset_id": 1210,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Если бы ты был фруктом, ты был бы прекрасным ананасиком",
+    "premium": false,
+    "positive": true,
+    "id": 8468
+  },
+  {
+    "preset_id": 1210,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "如果你是水果,你就是个完美菠萝",
+    "premium": false,
+    "positive": true,
+    "id": 8469
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1673,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Na-na-na-na, na-na-na-na, hey, hey, hey, goodbye!",
+    "premium": true,
+    "positive": true,
+    "id": 11704
+  },
+  {
+    "preset_id": 1673,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Na-na-na-na, na-na-na-na, hey, hey, hey, goodbye!",
+    "premium": true,
+    "positive": true,
+    "id": 11705
+  },
+  {
+    "preset_id": 1673,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Na-na-na-na, na-na-na-na, hey, hey, hey, goodbye!",
+    "premium": true,
+    "positive": true,
+    "id": 11706
+  },
+  {
+    "preset_id": 1673,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Na-na-na-na, na-na-na-na, hey, hey, hey, goodbye!",
+    "premium": true,
+    "positive": true,
+    "id": 11707
+  },
+  {
+    "preset_id": 1673,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Na-na-na-na, na-na-na-na, hey, hey, hey, goodbye!",
+    "premium": true,
+    "positive": true,
+    "id": 11708
+  },
+  {
+    "preset_id": 1673,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Na-na-na-na, na-na-na-na, hey, hey, hey, goodbye!",
+    "premium": true,
+    "positive": true,
+    "id": 11709
+  },
+  {
+    "preset_id": 1673,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Na-na-na-na, na-na-na-na, hey, hey, hey, goodbye!",
+    "premium": true,
+    "positive": true,
+    "id": 11710
+  }
+]

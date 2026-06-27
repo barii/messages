@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1381,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You crumbled.",
+    "premium": false,
+    "positive": true,
+    "id": 9660
+  },
+  {
+    "preset_id": 1381,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Os habéis derrumbado.",
+    "premium": false,
+    "positive": true,
+    "id": 9661
+  },
+  {
+    "preset_id": 1381,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr seid zerbrochen.",
+    "premium": false,
+    "positive": true,
+    "id": 9662
+  },
+  {
+    "preset_id": 1381,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Desmoronaram-se.",
+    "premium": false,
+    "positive": true,
+    "id": 9663
+  },
+  {
+    "preset_id": 1381,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Rozsypaliście się.",
+    "premium": false,
+    "positive": true,
+    "id": 9664
+  },
+  {
+    "preset_id": 1381,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Рассыпались.",
+    "premium": false,
+    "positive": true,
+    "id": 9665
+  },
+  {
+    "preset_id": 1381,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们崩溃了。",
+    "premium": false,
+    "positive": true,
+    "id": 9666
+  }
+]

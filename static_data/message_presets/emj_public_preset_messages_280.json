@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 280,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "You barely know me",
+    "premium": false,
+    "positive": true,
+    "id": 1953
+  },
+  {
+    "preset_id": 280,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Apenas me conoces",
+    "premium": false,
+    "positive": true,
+    "id": 1954
+  },
+  {
+    "preset_id": 280,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Du kennst mich kaum",
+    "premium": false,
+    "positive": true,
+    "id": 1955
+  },
+  {
+    "preset_id": 280,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Mal me conheces",
+    "premium": false,
+    "positive": true,
+    "id": 1956
+  },
+  {
+    "preset_id": 280,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Ledwo mnie znasz",
+    "premium": false,
+    "positive": true,
+    "id": 1957
+  },
+  {
+    "preset_id": 280,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Ты едва меня знаешь",
+    "premium": false,
+    "positive": true,
+    "id": 1958
+  },
+  {
+    "preset_id": 280,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "你几乎不了解我",
+    "premium": false,
+    "positive": true,
+    "id": 1959
+  }
+]

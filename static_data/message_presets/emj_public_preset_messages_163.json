@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 163,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Can I ask you something?",
+    "premium": false,
+    "positive": true,
+    "id": 1134
+  },
+  {
+    "preset_id": 163,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Puedo preguntarte algo?",
+    "premium": false,
+    "positive": true,
+    "id": 1135
+  },
+  {
+    "preset_id": 163,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Kann ich dich was fragen?",
+    "premium": false,
+    "positive": true,
+    "id": 1136
+  },
+  {
+    "preset_id": 163,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Posso perguntar-te uma coisa?",
+    "premium": false,
+    "positive": true,
+    "id": 1137
+  },
+  {
+    "preset_id": 163,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Mogę cię o coś zapytać?",
+    "premium": false,
+    "positive": true,
+    "id": 1138
+  },
+  {
+    "preset_id": 163,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Можно тебя спросить кое о чём?",
+    "premium": false,
+    "positive": true,
+    "id": 1139
+  },
+  {
+    "preset_id": 163,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我能问你件事吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1140
+  }
+]

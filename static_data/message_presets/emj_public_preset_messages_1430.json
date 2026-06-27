@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1430,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Absolute winners!",
+    "premium": false,
+    "positive": true,
+    "id": 10003
+  },
+  {
+    "preset_id": 1430,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "¡Ganadores absolutos!",
+    "premium": false,
+    "positive": true,
+    "id": 10004
+  },
+  {
+    "preset_id": 1430,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Absolute Gewinner!",
+    "premium": false,
+    "positive": true,
+    "id": 10005
+  },
+  {
+    "preset_id": 1430,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Vencedores absolutos!",
+    "premium": false,
+    "positive": true,
+    "id": 10006
+  },
+  {
+    "preset_id": 1430,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Absolutni zwycięzcy!",
+    "premium": false,
+    "positive": true,
+    "id": 10007
+  },
+  {
+    "preset_id": 1430,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Абсолютные победители!",
+    "premium": false,
+    "positive": true,
+    "id": 10008
+  },
+  {
+    "preset_id": 1430,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "彻底的胜利者!",
+    "premium": false,
+    "positive": true,
+    "id": 10009
+  }
+]

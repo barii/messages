@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 869,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You smell amazing",
+    "premium": false,
+    "positive": true,
+    "id": 6076
+  },
+  {
+    "preset_id": 869,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Hueles increíble",
+    "premium": false,
+    "positive": true,
+    "id": 6077
+  },
+  {
+    "preset_id": 869,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Du riechst toll",
+    "premium": false,
+    "positive": true,
+    "id": 6078
+  },
+  {
+    "preset_id": 869,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Cheiras incrivelmente",
+    "premium": false,
+    "positive": true,
+    "id": 6079
+  },
+  {
+    "preset_id": 869,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Pachniesz wspaniale",
+    "premium": false,
+    "positive": true,
+    "id": 6080
+  },
+  {
+    "preset_id": 869,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "От тебя пахнет потрясающе",
+    "premium": false,
+    "positive": true,
+    "id": 6081
+  },
+  {
+    "preset_id": 869,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你闻起来真香",
+    "premium": false,
+    "positive": true,
+    "id": 6082
+  }
+]

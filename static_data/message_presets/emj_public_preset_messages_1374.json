@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1374,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Is your team allergic to the ball?",
+    "premium": false,
+    "positive": true,
+    "id": 9611
+  },
+  {
+    "preset_id": 1374,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "¿Vuestro equipo es alérgico a la pelota?",
+    "premium": false,
+    "positive": true,
+    "id": 9612
+  },
+  {
+    "preset_id": 1374,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ist eure Mannschaft allergisch gegen den Ball?",
+    "premium": false,
+    "positive": true,
+    "id": 9613
+  },
+  {
+    "preset_id": 1374,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "A vossa equipa é alérgica à bola?",
+    "premium": false,
+    "positive": true,
+    "id": 9614
+  },
+  {
+    "preset_id": 1374,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Czy wasza drużyna ma alergię na piłkę?",
+    "premium": false,
+    "positive": true,
+    "id": 9615
+  },
+  {
+    "preset_id": 1374,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "У вашей команды аллергия на мяч?",
+    "premium": false,
+    "positive": true,
+    "id": 9616
+  },
+  {
+    "preset_id": 1374,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们队对球过敏吗?",
+    "premium": false,
+    "positive": true,
+    "id": 9617
+  }
+]

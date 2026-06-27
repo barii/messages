@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1297,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Binned that.",
+    "premium": false,
+    "positive": true,
+    "id": 9072
+  },
+  {
+    "preset_id": 1297,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Lo han mandado a la basura.",
+    "premium": false,
+    "positive": true,
+    "id": 9073
+  },
+  {
+    "preset_id": 1297,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Habt das verkackt.",
+    "premium": false,
+    "positive": true,
+    "id": 9074
+  },
+  {
+    "preset_id": 1297,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Foi para o caixote.",
+    "premium": false,
+    "positive": true,
+    "id": 9075
+  },
+  {
+    "preset_id": 1297,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Trafiliście do kosza.",
+    "premium": false,
+    "positive": true,
+    "id": 9076
+  },
+  {
+    "preset_id": 1297,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Отправили в мусорку.",
+    "premium": false,
+    "positive": true,
+    "id": 9077
+  },
+  {
+    "preset_id": 1297,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "被淘汰了。",
+    "premium": false,
+    "positive": true,
+    "id": 9078
+  }
+]

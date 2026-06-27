@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1387,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Sunday league stuff.",
+    "premium": false,
+    "positive": true,
+    "id": 9702
+  },
+  {
+    "preset_id": 1387,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Cosas de liga de domingo.",
+    "premium": false,
+    "positive": true,
+    "id": 9703
+  },
+  {
+    "preset_id": 1387,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Sonntagsligaspiel.",
+    "premium": false,
+    "positive": true,
+    "id": 9704
+  },
+  {
+    "preset_id": 1387,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Coisas de futebol de domingo.",
+    "premium": false,
+    "positive": true,
+    "id": 9705
+  },
+  {
+    "preset_id": 1387,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Liga niedzielna.",
+    "premium": false,
+    "positive": true,
+    "id": 9706
+  },
+  {
+    "preset_id": 1387,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Дворовая лига.",
+    "premium": false,
+    "positive": true,
+    "id": 9707
+  },
+  {
+    "preset_id": 1387,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "周日联赛水平。",
+    "premium": false,
+    "positive": true,
+    "id": 9708
+  }
+]

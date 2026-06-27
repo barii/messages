@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1044,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Big agenda, no decisions, classic",
+    "premium": true,
+    "positive": true,
+    "id": 7301
+  },
+  {
+    "preset_id": 1044,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Mucha agenda, ninguna decisión, clásico",
+    "premium": true,
+    "positive": true,
+    "id": 7302
+  },
+  {
+    "preset_id": 1044,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Große Agenda, keine Entscheidungen, klassisch",
+    "premium": true,
+    "positive": true,
+    "id": 7303
+  },
+  {
+    "preset_id": 1044,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Grande agenda, zero decisões, clássico",
+    "premium": true,
+    "positive": true,
+    "id": 7304
+  },
+  {
+    "preset_id": 1044,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Wielka agenda, żadnych decyzji, klasyk",
+    "premium": true,
+    "positive": true,
+    "id": 7305
+  },
+  {
+    "preset_id": 1044,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Большая повестка, никаких решений, классика",
+    "premium": true,
+    "positive": true,
+    "id": 7306
+  },
+  {
+    "preset_id": 1044,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "大议程,零决定,经典",
+    "premium": true,
+    "positive": true,
+    "id": 7307
+  }
+]

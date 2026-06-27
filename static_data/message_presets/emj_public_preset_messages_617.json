@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 617,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "I don't want to talk to you",
+    "premium": false,
+    "positive": true,
+    "id": 4312
+  },
+  {
+    "preset_id": 617,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "No quiero hablar contigo",
+    "premium": false,
+    "positive": true,
+    "id": 4313
+  },
+  {
+    "preset_id": 617,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Ich will nicht mit dir reden",
+    "premium": false,
+    "positive": true,
+    "id": 4314
+  },
+  {
+    "preset_id": 617,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Não quero falar contigo",
+    "premium": false,
+    "positive": true,
+    "id": 4315
+  },
+  {
+    "preset_id": 617,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Nie chcę z tobą rozmawiać",
+    "premium": false,
+    "positive": true,
+    "id": 4316
+  },
+  {
+    "preset_id": 617,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Я не хочу с тобой разговаривать",
+    "premium": false,
+    "positive": true,
+    "id": 4317
+  },
+  {
+    "preset_id": 617,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "我不想和你说话",
+    "premium": false,
+    "positive": true,
+    "id": 4318
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1169,
+    "preset_id": 167,
+    "cat_emoji": "🇳🇱",
+    "lang": "EN",
+    "category": "Dutch Football Teams",
+    "text": "Feyenoord",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1170,
+    "preset_id": 167,
+    "cat_emoji": "🇳🇱",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Holandeses",
+    "text": "Feyenoord",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1171,
+    "preset_id": 167,
+    "cat_emoji": "🇳🇱",
+    "lang": "DE",
+    "category": "Niederländische Fußballmannschaften",
+    "text": "Feyenoord",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1172,
+    "preset_id": 167,
+    "cat_emoji": "🇳🇱",
+    "lang": "PL",
+    "category": "Holenderskie drużyny piłkarskie",
+    "text": "Feyenoord",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1173,
+    "preset_id": 167,
+    "cat_emoji": "🇳🇱",
+    "lang": "RU",
+    "category": "Голландские футбольные команды",
+    "text": "Feyenoord",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1174,
+    "preset_id": 167,
+    "cat_emoji": "🇳🇱",
+    "lang": "PT",
+    "category": "Times de futebol holandeses",
+    "text": "Feyenoord",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  },
+  {
+    "id": 1175,
+    "preset_id": 167,
+    "cat_emoji": "🇳🇱",
+    "lang": "CN",
+    "category": "荷兰足球队",
+    "text": "Feyenoord",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇳🇱",
+    "continent": "European"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1028,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "You always know what to say in meetings",
+    "premium": false,
+    "positive": true,
+    "id": 7189
+  },
+  {
+    "preset_id": 1028,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Siempre sabes qué decir en las reuniones",
+    "premium": false,
+    "positive": true,
+    "id": 7190
+  },
+  {
+    "preset_id": 1028,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Du weißt immer, was du in Meetings sagen sollst",
+    "premium": false,
+    "positive": true,
+    "id": 7191
+  },
+  {
+    "preset_id": 1028,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Sabes sempre o que dizer nas reuniões",
+    "premium": false,
+    "positive": true,
+    "id": 7192
+  },
+  {
+    "preset_id": 1028,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Zawsze wiesz, co powiedzieć na spotkaniach",
+    "premium": false,
+    "positive": true,
+    "id": 7193
+  },
+  {
+    "preset_id": 1028,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Ты всегда знаешь, что сказать на встречах",
+    "premium": false,
+    "positive": true,
+    "id": 7194
+  },
+  {
+    "preset_id": 1028,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "你总知道在会议上该说什么",
+    "premium": false,
+    "positive": true,
+    "id": 7195
+  }
+]

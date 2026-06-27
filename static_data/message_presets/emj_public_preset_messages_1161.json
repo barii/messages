@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1161,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Wishing you the best year yet",
+    "premium": false,
+    "positive": true,
+    "id": 8120
+  },
+  {
+    "preset_id": 1161,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Te deseo el mejor año",
+    "premium": false,
+    "positive": true,
+    "id": 8121
+  },
+  {
+    "preset_id": 1161,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Wünsche dir das beste Jahr",
+    "premium": false,
+    "positive": true,
+    "id": 8122
+  },
+  {
+    "preset_id": 1161,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Desejo-te o melhor ano",
+    "premium": false,
+    "positive": true,
+    "id": 8123
+  },
+  {
+    "preset_id": 1161,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Życzę najlepszego roku",
+    "premium": false,
+    "positive": true,
+    "id": 8124
+  },
+  {
+    "preset_id": 1161,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "Желаю тебе лучшего года",
+    "premium": false,
+    "positive": true,
+    "id": 8125
+  },
+  {
+    "preset_id": 1161,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "祝你拥有最好的一年",
+    "premium": false,
+    "positive": true,
+    "id": 8126
+  }
+]

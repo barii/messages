@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1091,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "We need to debrief later",
+    "premium": false,
+    "positive": true,
+    "id": 7630
+  },
+  {
+    "preset_id": 1091,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Tenemos que hablar de esto después",
+    "premium": false,
+    "positive": true,
+    "id": 7631
+  },
+  {
+    "preset_id": 1091,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Wir müssen das später besprechen",
+    "premium": false,
+    "positive": true,
+    "id": 7632
+  },
+  {
+    "preset_id": 1091,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Temos de falar disto mais tarde",
+    "premium": false,
+    "positive": true,
+    "id": 7633
+  },
+  {
+    "preset_id": 1091,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Musimy później pogadać o tym",
+    "premium": false,
+    "positive": true,
+    "id": 7634
+  },
+  {
+    "preset_id": 1091,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Нам нужно обсудить это позже",
+    "premium": false,
+    "positive": true,
+    "id": 7635
+  },
+  {
+    "preset_id": 1091,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "我们得稍后总结一下",
+    "premium": false,
+    "positive": true,
+    "id": 7636
+  }
+]

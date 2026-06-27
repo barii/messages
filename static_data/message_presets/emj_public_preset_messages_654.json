@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 654,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Read the room",
+    "premium": false,
+    "positive": true,
+    "id": 4571
+  },
+  {
+    "preset_id": 654,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Lee la situación",
+    "premium": false,
+    "positive": true,
+    "id": 4572
+  },
+  {
+    "preset_id": 654,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Lies die Stimmung",
+    "premium": false,
+    "positive": true,
+    "id": 4573
+  },
+  {
+    "preset_id": 654,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Lê o ambiente",
+    "premium": false,
+    "positive": true,
+    "id": 4574
+  },
+  {
+    "preset_id": 654,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Czytaj atmosferę",
+    "premium": false,
+    "positive": true,
+    "id": 4575
+  },
+  {
+    "preset_id": 654,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Читай атмосферу",
+    "premium": false,
+    "positive": true,
+    "id": 4576
+  },
+  {
+    "preset_id": 654,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "看场合",
+    "premium": false,
+    "positive": true,
+    "id": 4577
+  }
+]

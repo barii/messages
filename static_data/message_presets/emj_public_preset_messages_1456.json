@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1456,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We battered you.",
+    "premium": false,
+    "positive": true,
+    "id": 10185
+  },
+  {
+    "preset_id": 1456,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Os hemos apaleado.",
+    "premium": false,
+    "positive": true,
+    "id": 10186
+  },
+  {
+    "preset_id": 1456,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir haben euch abgezogen.",
+    "premium": false,
+    "positive": true,
+    "id": 10187
+  },
+  {
+    "preset_id": 1456,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Demos-vos uma sova.",
+    "premium": false,
+    "positive": true,
+    "id": 10188
+  },
+  {
+    "preset_id": 1456,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Daliśmy wam łomot.",
+    "premium": false,
+    "positive": true,
+    "id": 10189
+  },
+  {
+    "preset_id": 1456,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Мы вас разгромили.",
+    "premium": false,
+    "positive": true,
+    "id": 10190
+  },
+  {
+    "preset_id": 1456,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们痛打了你们。",
+    "premium": false,
+    "positive": true,
+    "id": 10191
+  }
+]

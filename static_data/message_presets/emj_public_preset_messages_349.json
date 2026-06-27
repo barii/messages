@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 349,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I support the LGBTQ+ community",
+    "premium": false,
+    "positive": true,
+    "id": 2436
+  },
+  {
+    "preset_id": 349,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Apoyo a la comunidad LGBTQ+",
+    "premium": false,
+    "positive": true,
+    "id": 2437
+  },
+  {
+    "preset_id": 349,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich unterstütze die LGBTQ+-Community",
+    "premium": false,
+    "positive": true,
+    "id": 2438
+  },
+  {
+    "preset_id": 349,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Apoio a comunidade LGBTQ+",
+    "premium": false,
+    "positive": true,
+    "id": 2439
+  },
+  {
+    "preset_id": 349,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Wspieram społeczność LGBTQ+",
+    "premium": false,
+    "positive": true,
+    "id": 2440
+  },
+  {
+    "preset_id": 349,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я поддерживаю ЛГБТК+ сообщество",
+    "premium": false,
+    "positive": true,
+    "id": 2441
+  },
+  {
+    "preset_id": 349,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我支持LGBTQ+群体",
+    "premium": false,
+    "positive": true,
+    "id": 2442
+  }
+]

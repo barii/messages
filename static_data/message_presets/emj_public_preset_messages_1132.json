@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1132,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Hope your day is going well",
+    "premium": false,
+    "positive": true,
+    "id": 7917
+  },
+  {
+    "preset_id": 1132,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Espero que te vaya bien el día",
+    "premium": false,
+    "positive": true,
+    "id": 7918
+  },
+  {
+    "preset_id": 1132,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Hoffe, dein Tag läuft gut",
+    "premium": false,
+    "positive": true,
+    "id": 7919
+  },
+  {
+    "preset_id": 1132,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Espero que o teu dia esteja a correr bem",
+    "premium": false,
+    "positive": true,
+    "id": 7920
+  },
+  {
+    "preset_id": 1132,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Mam nadzieję, że twój dzień idzie dobrze",
+    "premium": false,
+    "positive": true,
+    "id": 7921
+  },
+  {
+    "preset_id": 1132,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Надеюсь, твой день идёт хорошо",
+    "premium": false,
+    "positive": true,
+    "id": 7922
+  },
+  {
+    "preset_id": 1132,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "希望你今天过得愉快",
+    "premium": false,
+    "positive": true,
+    "id": 7923
+  }
+]

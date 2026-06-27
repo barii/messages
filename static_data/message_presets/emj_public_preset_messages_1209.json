@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1209,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "Do you have a Band-Aid because I just scraped my knee falling for you?",
+    "premium": true,
+    "positive": true,
+    "id": 8456
+  },
+  {
+    "preset_id": 1209,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "¿Tienes una tirita? Porque me raspé la rodilla cayendo por ti",
+    "premium": true,
+    "positive": true,
+    "id": 8457
+  },
+  {
+    "preset_id": 1209,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Hast du ein Pflaster? Ich hab mir gerade das Knie aufgeschürft, als ich für dich gefallen bin",
+    "premium": true,
+    "positive": true,
+    "id": 8458
+  },
+  {
+    "preset_id": 1209,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "Tens um penso? Porque acabei de raspar o joelho a cair por ti",
+    "premium": true,
+    "positive": true,
+    "id": 8459
+  },
+  {
+    "preset_id": 1209,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Masz plaster? Bo właśnie zdarłem kolano spadając za tobą",
+    "premium": true,
+    "positive": true,
+    "id": 8460
+  },
+  {
+    "preset_id": 1209,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "У тебя есть пластырь? Потому что я только что ободрал колено, падая перед тобой",
+    "premium": true,
+    "positive": true,
+    "id": 8461
+  },
+  {
+    "preset_id": 1209,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "你有创可贴吗?因为我刚为你跌破了膝盖",
+    "premium": true,
+    "positive": true,
+    "id": 8462
+  }
+]

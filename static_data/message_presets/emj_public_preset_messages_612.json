@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 612,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "That isn't how I see it",
+    "premium": false,
+    "positive": true,
+    "id": 4277
+  },
+  {
+    "preset_id": 612,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "No es como yo lo veo",
+    "premium": false,
+    "positive": true,
+    "id": 4278
+  },
+  {
+    "preset_id": 612,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "So sehe ich das nicht",
+    "premium": false,
+    "positive": true,
+    "id": 4279
+  },
+  {
+    "preset_id": 612,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Não é assim que eu vejo",
+    "premium": false,
+    "positive": true,
+    "id": 4280
+  },
+  {
+    "preset_id": 612,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Nie tak to widzę",
+    "premium": false,
+    "positive": true,
+    "id": 4281
+  },
+  {
+    "preset_id": 612,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Это не так, как я вижу",
+    "premium": false,
+    "positive": true,
+    "id": 4282
+  },
+  {
+    "preset_id": 612,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我不是这样看的",
+    "premium": false,
+    "positive": true,
+    "id": 4283
+  }
+]

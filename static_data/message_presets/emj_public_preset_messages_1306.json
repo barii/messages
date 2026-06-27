@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1306,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Get in the bin.",
+    "premium": false,
+    "positive": true,
+    "id": 9135
+  },
+  {
+    "preset_id": 1306,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "A la papelera.",
+    "premium": false,
+    "positive": true,
+    "id": 9136
+  },
+  {
+    "preset_id": 1306,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ab in die Tonne.",
+    "premium": false,
+    "positive": true,
+    "id": 9137
+  },
+  {
+    "preset_id": 1306,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Para o caixote do lixo.",
+    "premium": false,
+    "positive": true,
+    "id": 9138
+  },
+  {
+    "preset_id": 1306,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Do kosza.",
+    "premium": false,
+    "positive": true,
+    "id": 9139
+  },
+  {
+    "preset_id": 1306,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "В мусорку.",
+    "premium": false,
+    "positive": true,
+    "id": 9140
+  },
+  {
+    "preset_id": 1306,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "扔进垃圾桶。",
+    "premium": false,
+    "positive": true,
+    "id": 9141
+  }
+]

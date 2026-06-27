@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1356,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Your fans don't even sing.",
+    "premium": true,
+    "positive": true,
+    "id": 9485
+  },
+  {
+    "preset_id": 1356,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Vuestros aficionados ni cantan.",
+    "premium": true,
+    "positive": true,
+    "id": 9486
+  },
+  {
+    "preset_id": 1356,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Eure Fans singen nicht mal.",
+    "premium": true,
+    "positive": true,
+    "id": 9487
+  },
+  {
+    "preset_id": 1356,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Os vossos adeptos nem cantam.",
+    "premium": true,
+    "positive": true,
+    "id": 9488
+  },
+  {
+    "preset_id": 1356,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Wasi kibice nawet nie śpiewają.",
+    "premium": true,
+    "positive": true,
+    "id": 9489
+  },
+  {
+    "preset_id": 1356,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Ваши фанаты даже не поют.",
+    "premium": true,
+    "positive": true,
+    "id": 9490
+  },
+  {
+    "preset_id": 1356,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们球迷连唱歌都不会。",
+    "premium": true,
+    "positive": true,
+    "id": 9491
+  }
+]

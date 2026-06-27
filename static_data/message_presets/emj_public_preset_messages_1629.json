@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1629,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Weird flex.",
+    "premium": false,
+    "positive": true,
+    "id": 11396
+  },
+  {
+    "preset_id": 1629,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Weird flex.",
+    "premium": false,
+    "positive": true,
+    "id": 11397
+  },
+  {
+    "preset_id": 1629,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Weird flex.",
+    "premium": false,
+    "positive": true,
+    "id": 11398
+  },
+  {
+    "preset_id": 1629,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Weird flex.",
+    "premium": false,
+    "positive": true,
+    "id": 11399
+  },
+  {
+    "preset_id": 1629,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Weird flex.",
+    "premium": false,
+    "positive": true,
+    "id": 11400
+  },
+  {
+    "preset_id": 1629,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Weird flex.",
+    "premium": false,
+    "positive": true,
+    "id": 11401
+  },
+  {
+    "preset_id": 1629,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "Weird flex.",
+    "premium": false,
+    "positive": true,
+    "id": 11402
+  }
+]

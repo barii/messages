@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 31,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're so good at your job",
+    "premium": false,
+    "positive": true,
+    "id": 210
+  },
+  {
+    "preset_id": 31,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres muy bueno en tu trabajo",
+    "premium": false,
+    "positive": true,
+    "id": 211
+  },
+  {
+    "preset_id": 31,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist so gut in deinem Job",
+    "premium": false,
+    "positive": true,
+    "id": 212
+  },
+  {
+    "preset_id": 31,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És tão bom no teu trabalho",
+    "premium": false,
+    "positive": true,
+    "id": 213
+  },
+  {
+    "preset_id": 31,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś tak dobry w swojej pracy",
+    "premium": false,
+    "positive": true,
+    "id": 214
+  },
+  {
+    "preset_id": 31,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты так хорош в своей работе",
+    "premium": false,
+    "positive": true,
+    "id": 215
+  },
+  {
+    "preset_id": 31,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你工作做得很好",
+    "premium": false,
+    "positive": true,
+    "id": 216
+  }
+]

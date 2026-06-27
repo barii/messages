@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1171,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Merry Christmas",
+    "premium": false,
+    "positive": true,
+    "id": 8190
+  },
+  {
+    "preset_id": 1171,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Feliz Navidad",
+    "premium": false,
+    "positive": true,
+    "id": 8191
+  },
+  {
+    "preset_id": 1171,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Frohe Weihnachten",
+    "premium": false,
+    "positive": true,
+    "id": 8192
+  },
+  {
+    "preset_id": 1171,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Feliz Natal",
+    "premium": false,
+    "positive": true,
+    "id": 8193
+  },
+  {
+    "preset_id": 1171,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Wesołych Świąt",
+    "premium": false,
+    "positive": true,
+    "id": 8194
+  },
+  {
+    "preset_id": 1171,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "С Рождеством",
+    "premium": false,
+    "positive": true,
+    "id": 8195
+  },
+  {
+    "preset_id": 1171,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "圣诞快乐",
+    "premium": false,
+    "positive": true,
+    "id": 8196
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 133,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you mad at me?",
+    "premium": false,
+    "positive": true,
+    "id": 924
+  },
+  {
+    "preset_id": 133,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Estás enfadado conmigo?",
+    "premium": false,
+    "positive": true,
+    "id": 925
+  },
+  {
+    "preset_id": 133,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du böse auf mich?",
+    "premium": false,
+    "positive": true,
+    "id": 926
+  },
+  {
+    "preset_id": 133,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás zangado comigo?",
+    "premium": false,
+    "positive": true,
+    "id": 927
+  },
+  {
+    "preset_id": 133,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jesteś na mnie wściekły?",
+    "premium": false,
+    "positive": true,
+    "id": 928
+  },
+  {
+    "preset_id": 133,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты злишься на меня?",
+    "premium": false,
+    "positive": true,
+    "id": 929
+  },
+  {
+    "preset_id": 133,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你对我生气吗?",
+    "premium": false,
+    "positive": true,
+    "id": 930
+  }
+]

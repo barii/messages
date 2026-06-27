@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1206,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "I must be a snowflake because I have fallen for you",
+    "premium": false,
+    "positive": true,
+    "id": 8435
+  },
+  {
+    "preset_id": 1206,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "Debo ser un copo de nieve porque me he caído por ti",
+    "premium": false,
+    "positive": true,
+    "id": 8436
+  },
+  {
+    "preset_id": 1206,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Ich muss eine Schneeflocke sein, denn ich bin für dich gefallen",
+    "premium": false,
+    "positive": true,
+    "id": 8437
+  },
+  {
+    "preset_id": 1206,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "Devo ser um floco de neve, porque caí por ti",
+    "premium": false,
+    "positive": true,
+    "id": 8438
+  },
+  {
+    "preset_id": 1206,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Muszę być płatkiem śniegu, bo spadłem za tobą",
+    "premium": false,
+    "positive": true,
+    "id": 8439
+  },
+  {
+    "preset_id": 1206,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Я должен быть снежинкой, потому что я упал перед тобой",
+    "premium": false,
+    "positive": true,
+    "id": 8440
+  },
+  {
+    "preset_id": 1206,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "我一定是雪花,因为我为你坠落了",
+    "premium": false,
+    "positive": true,
+    "id": 8441
+  }
+]

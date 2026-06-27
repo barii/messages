@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1358,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Empty seats everywhere.",
+    "premium": false,
+    "positive": true,
+    "id": 9499
+  },
+  {
+    "preset_id": 1358,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Asientos vacíos por todas partes.",
+    "premium": false,
+    "positive": true,
+    "id": 9500
+  },
+  {
+    "preset_id": 1358,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Leere Plätze überall.",
+    "premium": false,
+    "positive": true,
+    "id": 9501
+  },
+  {
+    "preset_id": 1358,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Lugares vazios por todo o lado.",
+    "premium": false,
+    "positive": true,
+    "id": 9502
+  },
+  {
+    "preset_id": 1358,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Puste miejsca wszędzie.",
+    "premium": false,
+    "positive": true,
+    "id": 9503
+  },
+  {
+    "preset_id": 1358,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Пустые места повсюду.",
+    "premium": false,
+    "positive": true,
+    "id": 9504
+  },
+  {
+    "preset_id": 1358,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "到处都是空座位。",
+    "premium": false,
+    "positive": true,
+    "id": 9505
+  }
+]

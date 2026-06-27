@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1355,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Your fans are quiet.",
+    "premium": true,
+    "positive": true,
+    "id": 9478
+  },
+  {
+    "preset_id": 1355,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Vuestros aficionados están callados.",
+    "premium": true,
+    "positive": true,
+    "id": 9479
+  },
+  {
+    "preset_id": 1355,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Eure Fans sind still.",
+    "premium": true,
+    "positive": true,
+    "id": 9480
+  },
+  {
+    "preset_id": 1355,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Os vossos adeptos estão calados.",
+    "premium": true,
+    "positive": true,
+    "id": 9481
+  },
+  {
+    "preset_id": 1355,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Wasi kibice są cicho.",
+    "premium": true,
+    "positive": true,
+    "id": 9482
+  },
+  {
+    "preset_id": 1355,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Ваши фанаты молчат.",
+    "premium": true,
+    "positive": true,
+    "id": 9483
+  },
+  {
+    "preset_id": 1355,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们球迷都很安静。",
+    "premium": true,
+    "positive": true,
+    "id": 9484
+  }
+]

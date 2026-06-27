@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 199,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Do you want to know who I am?",
+    "premium": false,
+    "positive": true,
+    "id": 1386
+  },
+  {
+    "preset_id": 199,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Quieres saber quién soy?",
+    "premium": false,
+    "positive": true,
+    "id": 1387
+  },
+  {
+    "preset_id": 199,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Willst du wissen, wer ich bin?",
+    "premium": false,
+    "positive": true,
+    "id": 1388
+  },
+  {
+    "preset_id": 199,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Queres saber quem sou?",
+    "premium": false,
+    "positive": true,
+    "id": 1389
+  },
+  {
+    "preset_id": 199,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Chcesz wiedzieć, kim jestem?",
+    "premium": false,
+    "positive": true,
+    "id": 1390
+  },
+  {
+    "preset_id": 199,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Хочешь узнать, кто я?",
+    "premium": false,
+    "positive": true,
+    "id": 1391
+  },
+  {
+    "preset_id": 199,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你想知道我是谁吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1392
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 129,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Is something on your mind?",
+    "premium": false,
+    "positive": true,
+    "id": 896
+  },
+  {
+    "preset_id": 129,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Te ronda algo por la cabeza?",
+    "premium": false,
+    "positive": true,
+    "id": 897
+  },
+  {
+    "preset_id": 129,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Geht dir was durch den Kopf?",
+    "premium": false,
+    "positive": true,
+    "id": 898
+  },
+  {
+    "preset_id": 129,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Tens algo na cabeça?",
+    "premium": false,
+    "positive": true,
+    "id": 899
+  },
+  {
+    "preset_id": 129,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Czy coś cię gnębi?",
+    "premium": false,
+    "positive": true,
+    "id": 900
+  },
+  {
+    "preset_id": 129,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Тебя что-то беспокоит?",
+    "premium": false,
+    "positive": true,
+    "id": 901
+  },
+  {
+    "preset_id": 129,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你心里有事吗?",
+    "premium": false,
+    "positive": true,
+    "id": 902
+  }
+]

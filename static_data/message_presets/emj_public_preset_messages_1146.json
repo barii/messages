@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1146,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "How's everything?",
+    "premium": false,
+    "positive": true,
+    "id": 8015
+  },
+  {
+    "preset_id": 1146,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "¿Cómo va todo?",
+    "premium": false,
+    "positive": true,
+    "id": 8016
+  },
+  {
+    "preset_id": 1146,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Wie läuft alles?",
+    "premium": false,
+    "positive": true,
+    "id": 8017
+  },
+  {
+    "preset_id": 1146,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Como vai tudo?",
+    "premium": false,
+    "positive": true,
+    "id": 8018
+  },
+  {
+    "preset_id": 1146,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Jak wszystko?",
+    "premium": false,
+    "positive": true,
+    "id": 8019
+  },
+  {
+    "preset_id": 1146,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Как всё?",
+    "premium": false,
+    "positive": true,
+    "id": 8020
+  },
+  {
+    "preset_id": 1146,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "一切都好吗?",
+    "premium": false,
+    "positive": true,
+    "id": 8021
+  }
+]

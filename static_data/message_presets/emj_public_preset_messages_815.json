@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 815,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Did that line actually work on someone before?",
+    "premium": false,
+    "positive": true,
+    "id": 5698
+  },
+  {
+    "preset_id": 815,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "¿Esa frase de verdad funcionó con alguien?",
+    "premium": false,
+    "positive": true,
+    "id": 5699
+  },
+  {
+    "preset_id": 815,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Hat diese Zeile wirklich schon mal bei jemandem funktioniert?",
+    "premium": false,
+    "positive": true,
+    "id": 5700
+  },
+  {
+    "preset_id": 815,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Essa cantada já funcionou com alguém antes?",
+    "premium": false,
+    "positive": true,
+    "id": 5701
+  },
+  {
+    "preset_id": 815,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Czy ten tekst naprawdę zadziałał na kogoś wcześniej?",
+    "premium": false,
+    "positive": true,
+    "id": 5702
+  },
+  {
+    "preset_id": 815,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Эта фраза правда сработала с кем-то раньше?",
+    "premium": false,
+    "positive": true,
+    "id": 5703
+  },
+  {
+    "preset_id": 815,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "这句话以前真的对人管用过吗?",
+    "premium": false,
+    "positive": true,
+    "id": 5704
+  }
+]

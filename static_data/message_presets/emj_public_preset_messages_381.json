@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 381,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "Music is my therapy",
+    "premium": true,
+    "positive": true,
+    "id": 2660
+  },
+  {
+    "preset_id": 381,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "La música es mi terapia",
+    "premium": true,
+    "positive": true,
+    "id": 2661
+  },
+  {
+    "preset_id": 381,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Musik ist meine Therapie",
+    "premium": true,
+    "positive": true,
+    "id": 2662
+  },
+  {
+    "preset_id": 381,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Música é a minha terapia",
+    "premium": true,
+    "positive": true,
+    "id": 2663
+  },
+  {
+    "preset_id": 381,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Muzyka jest moją terapią",
+    "premium": true,
+    "positive": true,
+    "id": 2664
+  },
+  {
+    "preset_id": 381,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Музыка - моя терапия",
+    "premium": true,
+    "positive": true,
+    "id": 2665
+  },
+  {
+    "preset_id": 381,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "音乐是我的治疗",
+    "premium": true,
+    "positive": true,
+    "id": 2666
+  }
+]

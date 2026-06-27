@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 289,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm okay",
+    "premium": false,
+    "positive": true,
+    "id": 2016
+  },
+  {
+    "preset_id": 289,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Estoy bien",
+    "premium": false,
+    "positive": true,
+    "id": 2017
+  },
+  {
+    "preset_id": 289,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Mir geht's gut",
+    "premium": false,
+    "positive": true,
+    "id": 2018
+  },
+  {
+    "preset_id": 289,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Estou bem",
+    "premium": false,
+    "positive": true,
+    "id": 2019
+  },
+  {
+    "preset_id": 289,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Mam się dobrze",
+    "premium": false,
+    "positive": true,
+    "id": 2020
+  },
+  {
+    "preset_id": 289,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "У меня всё хорошо",
+    "premium": false,
+    "positive": true,
+    "id": 2021
+  },
+  {
+    "preset_id": 289,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我没事",
+    "premium": false,
+    "positive": true,
+    "id": 2022
+  }
+]

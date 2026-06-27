@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1103,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Goodnight",
+    "premium": false,
+    "positive": true,
+    "id": 7714
+  },
+  {
+    "preset_id": 1103,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Buenas noches",
+    "premium": false,
+    "positive": true,
+    "id": 7715
+  },
+  {
+    "preset_id": 1103,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Gute Nacht",
+    "premium": false,
+    "positive": true,
+    "id": 7716
+  },
+  {
+    "preset_id": 1103,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Boa noite",
+    "premium": false,
+    "positive": true,
+    "id": 7717
+  },
+  {
+    "preset_id": 1103,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Dobranoc",
+    "premium": false,
+    "positive": true,
+    "id": 7718
+  },
+  {
+    "preset_id": 1103,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Спокойной ночи",
+    "premium": false,
+    "positive": true,
+    "id": 7719
+  },
+  {
+    "preset_id": 1103,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "晚安",
+    "premium": false,
+    "positive": true,
+    "id": 7720
+  }
+]

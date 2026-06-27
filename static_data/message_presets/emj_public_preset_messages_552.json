@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 552,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Tough",
+    "premium": false,
+    "positive": true,
+    "id": 3857
+  },
+  {
+    "preset_id": 552,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Difícil",
+    "premium": false,
+    "positive": true,
+    "id": 3858
+  },
+  {
+    "preset_id": 552,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Hart",
+    "premium": false,
+    "positive": true,
+    "id": 3859
+  },
+  {
+    "preset_id": 552,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Difícil",
+    "premium": false,
+    "positive": true,
+    "id": 3860
+  },
+  {
+    "preset_id": 552,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Trudne",
+    "premium": false,
+    "positive": true,
+    "id": 3861
+  },
+  {
+    "preset_id": 552,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Тяжело",
+    "premium": false,
+    "positive": true,
+    "id": 3862
+  },
+  {
+    "preset_id": 552,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "难",
+    "premium": false,
+    "positive": true,
+    "id": 3863
+  }
+]

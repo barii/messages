@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 48,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're enough",
+    "premium": false,
+    "positive": true,
+    "id": 329
+  },
+  {
+    "preset_id": 48,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres suficiente",
+    "premium": false,
+    "positive": true,
+    "id": 330
+  },
+  {
+    "preset_id": 48,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist genug",
+    "premium": false,
+    "positive": true,
+    "id": 331
+  },
+  {
+    "preset_id": 48,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És suficiente",
+    "premium": false,
+    "positive": true,
+    "id": 332
+  },
+  {
+    "preset_id": 48,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś wystarczający",
+    "premium": false,
+    "positive": true,
+    "id": 333
+  },
+  {
+    "preset_id": 48,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты достаточен",
+    "premium": false,
+    "positive": true,
+    "id": 334
+  },
+  {
+    "preset_id": 48,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你已经足够",
+    "premium": false,
+    "positive": true,
+    "id": 335
+  }
+]

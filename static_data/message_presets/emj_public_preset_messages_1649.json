@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1649,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "The ref bailed you out.",
+    "premium": false,
+    "positive": true,
+    "id": 11536
+  },
+  {
+    "preset_id": 1649,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "El árbitro os salvó.",
+    "premium": false,
+    "positive": true,
+    "id": 11537
+  },
+  {
+    "preset_id": 1649,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Der Schiri hat euch rausgehauen.",
+    "premium": false,
+    "positive": true,
+    "id": 11538
+  },
+  {
+    "preset_id": 1649,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "O árbitro safou-vos.",
+    "premium": false,
+    "positive": true,
+    "id": 11539
+  },
+  {
+    "preset_id": 1649,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Sędzia was uratował.",
+    "premium": false,
+    "positive": true,
+    "id": 11540
+  },
+  {
+    "preset_id": 1649,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Судья вас спас.",
+    "premium": false,
+    "positive": true,
+    "id": 11541
+  },
+  {
+    "preset_id": 1649,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "裁判救了你们。",
+    "premium": false,
+    "positive": true,
+    "id": 11542
+  }
+]

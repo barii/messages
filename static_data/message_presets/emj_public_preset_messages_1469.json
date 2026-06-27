@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1469,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Could've scored 5.",
+    "premium": false,
+    "positive": true,
+    "id": 10276
+  },
+  {
+    "preset_id": 1469,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Podríamos haber marcado 5.",
+    "premium": false,
+    "positive": true,
+    "id": 10277
+  },
+  {
+    "preset_id": 1469,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Hätten 5 schießen können.",
+    "premium": false,
+    "positive": true,
+    "id": 10278
+  },
+  {
+    "preset_id": 1469,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Podíamos ter marcado 5.",
+    "premium": false,
+    "positive": true,
+    "id": 10279
+  },
+  {
+    "preset_id": 1469,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Mogliśmy strzelić 5.",
+    "premium": false,
+    "positive": true,
+    "id": 10280
+  },
+  {
+    "preset_id": 1469,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Могли забить 5.",
+    "premium": false,
+    "positive": true,
+    "id": 10281
+  },
+  {
+    "preset_id": 1469,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们本可以进5个。",
+    "premium": false,
+    "positive": true,
+    "id": 10282
+  }
+]

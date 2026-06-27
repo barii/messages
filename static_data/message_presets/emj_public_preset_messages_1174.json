@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1174,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Happy Hanukkah",
+    "premium": true,
+    "positive": true,
+    "id": 8211
+  },
+  {
+    "preset_id": 1174,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Feliz Janucá",
+    "premium": true,
+    "positive": true,
+    "id": 8212
+  },
+  {
+    "preset_id": 1174,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Frohes Chanukka",
+    "premium": true,
+    "positive": true,
+    "id": 8213
+  },
+  {
+    "preset_id": 1174,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Feliz Hanucá",
+    "premium": true,
+    "positive": true,
+    "id": 8214
+  },
+  {
+    "preset_id": 1174,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Wesołej Chanuki",
+    "premium": true,
+    "positive": true,
+    "id": 8215
+  },
+  {
+    "preset_id": 1174,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "С Ханукой",
+    "premium": true,
+    "positive": true,
+    "id": 8216
+  },
+  {
+    "preset_id": 1174,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "光明节快乐",
+    "premium": true,
+    "positive": true,
+    "id": 8217
+  }
+]

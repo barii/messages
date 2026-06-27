@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 185,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you joking?",
+    "premium": false,
+    "positive": true,
+    "id": 1288
+  },
+  {
+    "preset_id": 185,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Bromeas?",
+    "premium": false,
+    "positive": true,
+    "id": 1289
+  },
+  {
+    "preset_id": 185,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Machst du Witze?",
+    "premium": false,
+    "positive": true,
+    "id": 1290
+  },
+  {
+    "preset_id": 185,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás a brincar?",
+    "premium": false,
+    "positive": true,
+    "id": 1291
+  },
+  {
+    "preset_id": 185,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Żartujesz?",
+    "premium": false,
+    "positive": true,
+    "id": 1292
+  },
+  {
+    "preset_id": 185,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты шутишь?",
+    "premium": false,
+    "positive": true,
+    "id": 1293
+  },
+  {
+    "preset_id": 185,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你在开玩笑吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1294
+  }
+]

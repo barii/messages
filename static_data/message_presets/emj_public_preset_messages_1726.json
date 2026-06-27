@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1726,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Benchwarmer!",
+    "premium": false,
+    "positive": true,
+    "id": 12075
+  },
+  {
+    "preset_id": 1726,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Benchwarmer!",
+    "premium": false,
+    "positive": true,
+    "id": 12076
+  },
+  {
+    "preset_id": 1726,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Benchwarmer!",
+    "premium": false,
+    "positive": true,
+    "id": 12077
+  },
+  {
+    "preset_id": 1726,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Benchwarmer!",
+    "premium": false,
+    "positive": true,
+    "id": 12078
+  },
+  {
+    "preset_id": 1726,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Benchwarmer!",
+    "premium": false,
+    "positive": true,
+    "id": 12079
+  },
+  {
+    "preset_id": 1726,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Benchwarmer!",
+    "premium": false,
+    "positive": true,
+    "id": 12080
+  },
+  {
+    "preset_id": 1726,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Benchwarmer!",
+    "premium": false,
+    "positive": true,
+    "id": 12081
+  }
+]

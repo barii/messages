@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 752,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "You got this bestie",
+    "premium": false,
+    "positive": true,
+    "id": 5257
+  },
+  {
+    "preset_id": 752,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Tú puedes, bestie",
+    "premium": false,
+    "positive": true,
+    "id": 5258
+  },
+  {
+    "preset_id": 752,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Du schaffst das, Bestie",
+    "premium": false,
+    "positive": true,
+    "id": 5259
+  },
+  {
+    "preset_id": 752,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Tu consegues, bestie",
+    "premium": false,
+    "positive": true,
+    "id": 5260
+  },
+  {
+    "preset_id": 752,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Dasz radę bestie",
+    "premium": false,
+    "positive": true,
+    "id": 5261
+  },
+  {
+    "preset_id": 752,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "У тебя получится, бести",
+    "premium": false,
+    "positive": true,
+    "id": 5262
+  },
+  {
+    "preset_id": 752,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "你可以的,宝",
+    "premium": false,
+    "positive": true,
+    "id": 5263
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 826,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "I have a feeling I know who this is",
+    "premium": false,
+    "positive": true,
+    "id": 5775
+  },
+  {
+    "preset_id": 826,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Tengo la sensación de saber quién es",
+    "premium": false,
+    "positive": true,
+    "id": 5776
+  },
+  {
+    "preset_id": 826,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Ich habe das Gefühl, ich weiß, wer das ist",
+    "premium": false,
+    "positive": true,
+    "id": 5777
+  },
+  {
+    "preset_id": 826,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Tenho a sensação de saber quem é",
+    "premium": false,
+    "positive": true,
+    "id": 5778
+  },
+  {
+    "preset_id": 826,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Mam wrażenie, że wiem, kto to",
+    "premium": false,
+    "positive": true,
+    "id": 5779
+  },
+  {
+    "preset_id": 826,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "У меня есть чувство, что я знаю, кто это",
+    "premium": false,
+    "positive": true,
+    "id": 5780
+  },
+  {
+    "preset_id": 826,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "我有种感觉知道这是谁",
+    "premium": false,
+    "positive": true,
+    "id": 5781
+  }
+]

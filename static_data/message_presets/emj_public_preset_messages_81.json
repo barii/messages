@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 81,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "That was corny",
+    "premium": false,
+    "positive": false,
+    "id": 560
+  },
+  {
+    "preset_id": 81,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Eso fue cursi",
+    "premium": false,
+    "positive": false,
+    "id": 561
+  },
+  {
+    "preset_id": 81,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Das war kitschig",
+    "premium": false,
+    "positive": false,
+    "id": 562
+  },
+  {
+    "preset_id": 81,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Isso foi foleiro",
+    "premium": false,
+    "positive": false,
+    "id": 563
+  },
+  {
+    "preset_id": 81,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "To było tandetne",
+    "premium": false,
+    "positive": false,
+    "id": 564
+  },
+  {
+    "preset_id": 81,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Это было банально",
+    "premium": false,
+    "positive": false,
+    "id": 565
+  },
+  {
+    "preset_id": 81,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "那很俗气",
+    "premium": false,
+    "positive": false,
+    "id": 566
+  }
+]

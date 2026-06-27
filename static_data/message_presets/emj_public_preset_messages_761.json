@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 761,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "No pressure",
+    "premium": false,
+    "positive": true,
+    "id": 5320
+  },
+  {
+    "preset_id": 761,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Sin presión",
+    "premium": false,
+    "positive": true,
+    "id": 5321
+  },
+  {
+    "preset_id": 761,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Kein Druck",
+    "premium": false,
+    "positive": true,
+    "id": 5322
+  },
+  {
+    "preset_id": 761,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Sem pressão",
+    "premium": false,
+    "positive": true,
+    "id": 5323
+  },
+  {
+    "preset_id": 761,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Bez presji",
+    "premium": false,
+    "positive": true,
+    "id": 5324
+  },
+  {
+    "preset_id": 761,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Без давления",
+    "premium": false,
+    "positive": true,
+    "id": 5325
+  },
+  {
+    "preset_id": 761,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "别有压力",
+    "premium": false,
+    "positive": true,
+    "id": 5326
+  }
+]

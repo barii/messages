@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 653,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Act your age",
+    "premium": false,
+    "positive": true,
+    "id": 4564
+  },
+  {
+    "preset_id": 653,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Actúa tu edad",
+    "premium": false,
+    "positive": true,
+    "id": 4565
+  },
+  {
+    "preset_id": 653,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Verhalte dich deinem Alter entsprechend",
+    "premium": false,
+    "positive": true,
+    "id": 4566
+  },
+  {
+    "preset_id": 653,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Age conforme a tua idade",
+    "premium": false,
+    "positive": true,
+    "id": 4567
+  },
+  {
+    "preset_id": 653,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Zachowuj się odpowiednio do wieku",
+    "premium": false,
+    "positive": true,
+    "id": 4568
+  },
+  {
+    "preset_id": 653,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Веди себя по возрасту",
+    "premium": false,
+    "positive": true,
+    "id": 4569
+  },
+  {
+    "preset_id": 653,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "按你的年龄行事",
+    "premium": false,
+    "positive": true,
+    "id": 4570
+  }
+]

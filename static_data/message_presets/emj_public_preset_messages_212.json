@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 212,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Have we met in person?",
+    "premium": false,
+    "positive": true,
+    "id": 1477
+  },
+  {
+    "preset_id": 212,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Nos hemos visto en persona?",
+    "premium": false,
+    "positive": true,
+    "id": 1478
+  },
+  {
+    "preset_id": 212,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Haben wir uns schon persönlich getroffen?",
+    "premium": false,
+    "positive": true,
+    "id": 1479
+  },
+  {
+    "preset_id": 212,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Já nos encontrámos pessoalmente?",
+    "premium": false,
+    "positive": true,
+    "id": 1480
+  },
+  {
+    "preset_id": 212,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Spotkaliśmy się osobiście?",
+    "premium": false,
+    "positive": true,
+    "id": 1481
+  },
+  {
+    "preset_id": 212,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Мы встречались лично?",
+    "premium": false,
+    "positive": true,
+    "id": 1482
+  },
+  {
+    "preset_id": 212,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我们见过面吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1483
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 820,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Points for confidence",
+    "premium": false,
+    "positive": true,
+    "id": 5733
+  },
+  {
+    "preset_id": 820,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Puntos por la confianza",
+    "premium": false,
+    "positive": true,
+    "id": 5734
+  },
+  {
+    "preset_id": 820,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Punkte für das Selbstvertrauen",
+    "premium": false,
+    "positive": true,
+    "id": 5735
+  },
+  {
+    "preset_id": 820,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Pontos pela confiança",
+    "premium": false,
+    "positive": true,
+    "id": 5736
+  },
+  {
+    "preset_id": 820,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Punkty za pewność siebie",
+    "premium": false,
+    "positive": true,
+    "id": 5737
+  },
+  {
+    "preset_id": 820,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Очки за уверенность",
+    "premium": false,
+    "positive": true,
+    "id": 5738
+  },
+  {
+    "preset_id": 820,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "为自信加分",
+    "premium": false,
+    "positive": true,
+    "id": 5739
+  }
+]

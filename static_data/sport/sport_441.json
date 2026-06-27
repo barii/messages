@@ -1,0 +1,86 @@
+[
+  {
+    "id": 3087,
+    "preset_id": 441,
+    "cat_emoji": "🇵🇾",
+    "lang": "EN",
+    "category": "Paraguayan Football Teams",
+    "text": "Club Olimpia",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  },
+  {
+    "id": 3088,
+    "preset_id": 441,
+    "cat_emoji": "🇵🇾",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Paraguayos",
+    "text": "Club Olimpia",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  },
+  {
+    "id": 3089,
+    "preset_id": 441,
+    "cat_emoji": "🇵🇾",
+    "lang": "DE",
+    "category": "Paraguayische Fußballmannschaften",
+    "text": "Club Olimpia",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  },
+  {
+    "id": 3090,
+    "preset_id": 441,
+    "cat_emoji": "🇵🇾",
+    "lang": "PL",
+    "category": "Paragwajskie drużyny piłkarskie",
+    "text": "Club Olimpia",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  },
+  {
+    "id": 3091,
+    "preset_id": 441,
+    "cat_emoji": "🇵🇾",
+    "lang": "RU",
+    "category": "Парагвайские футбольные команды",
+    "text": "Club Olimpia",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  },
+  {
+    "id": 3092,
+    "preset_id": 441,
+    "cat_emoji": "🇵🇾",
+    "lang": "PT",
+    "category": "Times de futebol paraguaios",
+    "text": "Club Olimpia",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  },
+  {
+    "id": 3093,
+    "preset_id": 441,
+    "cat_emoji": "🇵🇾",
+    "lang": "CN",
+    "category": "巴拉圭足球队",
+    "text": "Club Olimpia",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇵🇾",
+    "continent": "European"
+  }
+]

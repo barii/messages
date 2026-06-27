@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 63,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "You're the worst",
+    "premium": false,
+    "positive": false,
+    "id": 434
+  },
+  {
+    "preset_id": 63,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Eres lo peor",
+    "premium": false,
+    "positive": false,
+    "id": 435
+  },
+  {
+    "preset_id": 63,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Du bist das Schlimmste",
+    "premium": false,
+    "positive": false,
+    "id": 436
+  },
+  {
+    "preset_id": 63,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "És o pior",
+    "premium": false,
+    "positive": false,
+    "id": 437
+  },
+  {
+    "preset_id": 63,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Jesteś najgorszy",
+    "premium": false,
+    "positive": false,
+    "id": 438
+  },
+  {
+    "preset_id": 63,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Ты худший",
+    "premium": false,
+    "positive": false,
+    "id": 439
+  },
+  {
+    "preset_id": 63,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "你是最糟的",
+    "premium": false,
+    "positive": false,
+    "id": 440
+  }
+]

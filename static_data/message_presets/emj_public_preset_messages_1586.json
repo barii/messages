@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1586,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You were quiet earlier.",
+    "premium": false,
+    "positive": true,
+    "id": 11095
+  },
+  {
+    "preset_id": 1586,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Estabais callados antes.",
+    "premium": false,
+    "positive": true,
+    "id": 11096
+  },
+  {
+    "preset_id": 1586,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Vorher wart ihr ruhig.",
+    "premium": false,
+    "positive": true,
+    "id": 11097
+  },
+  {
+    "preset_id": 1586,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Estavam calados antes.",
+    "premium": false,
+    "positive": true,
+    "id": 11098
+  },
+  {
+    "preset_id": 1586,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Wcześniej byliście cicho.",
+    "premium": false,
+    "positive": true,
+    "id": 11099
+  },
+  {
+    "preset_id": 1586,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Раньше вы молчали.",
+    "premium": false,
+    "positive": true,
+    "id": 11100
+  },
+  {
+    "preset_id": 1586,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "之前你们挺安静的。",
+    "premium": false,
+    "positive": true,
+    "id": 11101
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1107,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Have a good one",
+    "premium": false,
+    "positive": true,
+    "id": 7742
+  },
+  {
+    "preset_id": 1107,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Que te vaya bien",
+    "premium": false,
+    "positive": true,
+    "id": 7743
+  },
+  {
+    "preset_id": 1107,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Mach's gut",
+    "premium": false,
+    "positive": true,
+    "id": 7744
+  },
+  {
+    "preset_id": 1107,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Até depois",
+    "premium": false,
+    "positive": true,
+    "id": 7745
+  },
+  {
+    "preset_id": 1107,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Trzymaj się",
+    "premium": false,
+    "positive": true,
+    "id": 7746
+  },
+  {
+    "preset_id": 1107,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Береги себя",
+    "premium": false,
+    "positive": true,
+    "id": 7747
+  },
+  {
+    "preset_id": 1107,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "保重",
+    "premium": false,
+    "positive": true,
+    "id": 7748
+  }
+]

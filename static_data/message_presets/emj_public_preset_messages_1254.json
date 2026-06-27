@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1254,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You are all talk and no action.",
+    "premium": false,
+    "positive": true,
+    "id": 8771
+  },
+  {
+    "preset_id": 1254,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Sois todo palabras y nada de acción.",
+    "premium": false,
+    "positive": true,
+    "id": 8772
+  },
+  {
+    "preset_id": 1254,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr seid nur Gerede und keine Taten.",
+    "premium": false,
+    "positive": true,
+    "id": 8773
+  },
+  {
+    "preset_id": 1254,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "São só conversa e nada de acção.",
+    "premium": false,
+    "positive": true,
+    "id": 8774
+  },
+  {
+    "preset_id": 1254,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Tylko gadacie, a nic nie robicie.",
+    "premium": false,
+    "positive": true,
+    "id": 8775
+  },
+  {
+    "preset_id": 1254,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Вы все только говорите, и ничего не делаете.",
+    "premium": false,
+    "positive": true,
+    "id": 8776
+  },
+  {
+    "preset_id": 1254,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们全都是嘴上功夫,没行动。",
+    "premium": false,
+    "positive": true,
+    "id": 8777
+  }
+]

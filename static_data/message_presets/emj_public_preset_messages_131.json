@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 131,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Is everything good with you?",
+    "premium": false,
+    "positive": true,
+    "id": 910
+  },
+  {
+    "preset_id": 131,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Te va todo bien?",
+    "premium": false,
+    "positive": true,
+    "id": 911
+  },
+  {
+    "preset_id": 131,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Geht alles gut bei dir?",
+    "premium": false,
+    "positive": true,
+    "id": 912
+  },
+  {
+    "preset_id": 131,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Está tudo bem contigo?",
+    "premium": false,
+    "positive": true,
+    "id": 913
+  },
+  {
+    "preset_id": 131,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Wszystko dobrze u ciebie?",
+    "premium": false,
+    "positive": true,
+    "id": 914
+  },
+  {
+    "preset_id": 131,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "У тебя всё хорошо?",
+    "premium": false,
+    "positive": true,
+    "id": 915
+  },
+  {
+    "preset_id": 131,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你那边一切都好吗?",
+    "premium": false,
+    "positive": true,
+    "id": 916
+  }
+]

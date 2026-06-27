@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1625,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Obsessed with us.",
+    "premium": false,
+    "positive": true,
+    "id": 11368
+  },
+  {
+    "preset_id": 1625,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Obsesionados con nosotros.",
+    "premium": false,
+    "positive": true,
+    "id": 11369
+  },
+  {
+    "preset_id": 1625,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Besessen von uns.",
+    "premium": false,
+    "positive": true,
+    "id": 11370
+  },
+  {
+    "preset_id": 1625,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Obcecados connosco.",
+    "premium": false,
+    "positive": true,
+    "id": 11371
+  },
+  {
+    "preset_id": 1625,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Obsesję na naszym punkcie.",
+    "premium": false,
+    "positive": true,
+    "id": 11372
+  },
+  {
+    "preset_id": 1625,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Одержимы нами.",
+    "premium": false,
+    "positive": true,
+    "id": 11373
+  },
+  {
+    "preset_id": 1625,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "对我们着迷了。",
+    "premium": false,
+    "positive": true,
+    "id": 11374
+  }
+]

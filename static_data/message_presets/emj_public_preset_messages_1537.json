@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1537,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You have never achieved nothing.",
+    "premium": false,
+    "positive": true,
+    "id": 10752
+  },
+  {
+    "preset_id": 1537,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Nunca habéis conseguido nada.",
+    "premium": false,
+    "positive": true,
+    "id": 10753
+  },
+  {
+    "preset_id": 1537,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ihr habt nie etwas erreicht.",
+    "premium": false,
+    "positive": true,
+    "id": 10754
+  },
+  {
+    "preset_id": 1537,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Nunca conquistaram nada.",
+    "premium": false,
+    "positive": true,
+    "id": 10755
+  },
+  {
+    "preset_id": 1537,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Nigdy nic nie osiągnęliście.",
+    "premium": false,
+    "positive": true,
+    "id": 10756
+  },
+  {
+    "preset_id": 1537,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Вы никогда ничего не достигали.",
+    "premium": false,
+    "positive": true,
+    "id": 10757
+  },
+  {
+    "preset_id": 1537,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们从来没取得过什么。",
+    "premium": false,
+    "positive": true,
+    "id": 10758
+  }
+]

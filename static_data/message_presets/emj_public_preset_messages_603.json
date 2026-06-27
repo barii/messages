@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 603,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I'll work on it",
+    "premium": false,
+    "positive": true,
+    "id": 4214
+  },
+  {
+    "preset_id": 603,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Trabajaré en ello",
+    "premium": false,
+    "positive": true,
+    "id": 4215
+  },
+  {
+    "preset_id": 603,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ich arbeite daran",
+    "premium": false,
+    "positive": true,
+    "id": 4216
+  },
+  {
+    "preset_id": 603,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Vou trabalhar nisso",
+    "premium": false,
+    "positive": true,
+    "id": 4217
+  },
+  {
+    "preset_id": 603,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Popracuję nad tym",
+    "premium": false,
+    "positive": true,
+    "id": 4218
+  },
+  {
+    "preset_id": 603,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Я буду работать над этим",
+    "premium": false,
+    "positive": true,
+    "id": 4219
+  },
+  {
+    "preset_id": 603,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我会努力的",
+    "premium": false,
+    "positive": true,
+    "id": 4220
+  }
+]

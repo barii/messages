@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 254,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We met at the gym",
+    "premium": false,
+    "positive": true,
+    "id": 1771
+  },
+  {
+    "preset_id": 254,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Nos conocimos en el gimnasio",
+    "premium": false,
+    "positive": true,
+    "id": 1772
+  },
+  {
+    "preset_id": 254,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir haben uns im Fitnessstudio kennengelernt",
+    "premium": false,
+    "positive": true,
+    "id": 1773
+  },
+  {
+    "preset_id": 254,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Conhecemo-nos no ginásio",
+    "premium": false,
+    "positive": true,
+    "id": 1774
+  },
+  {
+    "preset_id": 254,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Poznaliśmy się na siłowni",
+    "premium": false,
+    "positive": true,
+    "id": 1775
+  },
+  {
+    "preset_id": 254,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы познакомились в спортзале",
+    "premium": false,
+    "positive": true,
+    "id": 1776
+  },
+  {
+    "preset_id": 254,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们在健身房认识",
+    "premium": false,
+    "positive": true,
+    "id": 1777
+  }
+]

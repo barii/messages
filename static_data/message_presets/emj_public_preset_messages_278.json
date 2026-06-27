@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 278,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "I'm exactly who you think I am",
+    "premium": false,
+    "positive": true,
+    "id": 1939
+  },
+  {
+    "preset_id": 278,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Soy exactamente quien crees que soy",
+    "premium": false,
+    "positive": true,
+    "id": 1940
+  },
+  {
+    "preset_id": 278,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Ich bin genau, wer du denkst, dass ich bin",
+    "premium": false,
+    "positive": true,
+    "id": 1941
+  },
+  {
+    "preset_id": 278,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Sou exatamente quem pensas que sou",
+    "premium": false,
+    "positive": true,
+    "id": 1942
+  },
+  {
+    "preset_id": 278,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Jestem dokładnie tym, kim myślisz, że jestem",
+    "premium": false,
+    "positive": true,
+    "id": 1943
+  },
+  {
+    "preset_id": 278,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Я точно тот, кем ты меня считаешь",
+    "premium": false,
+    "positive": true,
+    "id": 1944
+  },
+  {
+    "preset_id": 278,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我正是你想的那个人",
+    "premium": false,
+    "positive": true,
+    "id": 1945
+  }
+]

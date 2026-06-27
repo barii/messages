@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1089,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Just keep going, we're nearly there",
+    "premium": true,
+    "positive": true,
+    "id": 7616
+  },
+  {
+    "preset_id": 1089,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Sigue así, ya casi llegamos",
+    "premium": true,
+    "positive": true,
+    "id": 7617
+  },
+  {
+    "preset_id": 1089,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Mach einfach weiter, wir sind fast da",
+    "premium": true,
+    "positive": true,
+    "id": 7618
+  },
+  {
+    "preset_id": 1089,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Continua, estamos quase lá",
+    "premium": true,
+    "positive": true,
+    "id": 7619
+  },
+  {
+    "preset_id": 1089,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Tak dalej, prawie tam jesteśmy",
+    "premium": true,
+    "positive": true,
+    "id": 7620
+  },
+  {
+    "preset_id": 1089,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Просто продолжай, мы почти там",
+    "premium": true,
+    "positive": true,
+    "id": 7621
+  },
+  {
+    "preset_id": 1089,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "继续下去,我们快到了",
+    "premium": true,
+    "positive": true,
+    "id": 7622
+  }
+]

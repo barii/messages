@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1116,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "See you soon",
+    "premium": false,
+    "positive": true,
+    "id": 7805
+  },
+  {
+    "preset_id": 1116,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Hasta pronto",
+    "premium": false,
+    "positive": true,
+    "id": 7806
+  },
+  {
+    "preset_id": 1116,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Bis bald",
+    "premium": false,
+    "positive": true,
+    "id": 7807
+  },
+  {
+    "preset_id": 1116,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Até breve",
+    "premium": false,
+    "positive": true,
+    "id": 7808
+  },
+  {
+    "preset_id": 1116,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Do zobaczenia wkrótce",
+    "premium": false,
+    "positive": true,
+    "id": 7809
+  },
+  {
+    "preset_id": 1116,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "До встречи",
+    "premium": false,
+    "positive": true,
+    "id": 7810
+  },
+  {
+    "preset_id": 1116,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "待会儿见",
+    "premium": false,
+    "positive": true,
+    "id": 7811
+  }
+]

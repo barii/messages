@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1405,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Another easy victory.",
+    "premium": false,
+    "positive": true,
+    "id": 9828
+  },
+  {
+    "preset_id": 1405,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Otra victoria fácil.",
+    "premium": false,
+    "positive": true,
+    "id": 9829
+  },
+  {
+    "preset_id": 1405,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Noch ein leichter Sieg.",
+    "premium": false,
+    "positive": true,
+    "id": 9830
+  },
+  {
+    "preset_id": 1405,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Mais uma vitória fácil.",
+    "premium": false,
+    "positive": true,
+    "id": 9831
+  },
+  {
+    "preset_id": 1405,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Kolejne łatwe zwycięstwo.",
+    "premium": false,
+    "positive": true,
+    "id": 9832
+  },
+  {
+    "preset_id": 1405,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Ещё одна лёгкая победа.",
+    "premium": false,
+    "positive": true,
+    "id": 9833
+  },
+  {
+    "preset_id": 1405,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "又是一场轻松胜利。",
+    "premium": false,
+    "positive": true,
+    "id": 9834
+  }
+]

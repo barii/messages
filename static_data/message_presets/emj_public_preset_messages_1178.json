@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1178,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Happy Thanksgiving",
+    "premium": false,
+    "positive": true,
+    "id": 8239
+  },
+  {
+    "preset_id": 1178,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Feliz Día de Acción de Gracias",
+    "premium": false,
+    "positive": true,
+    "id": 8240
+  },
+  {
+    "preset_id": 1178,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Frohes Thanksgiving",
+    "premium": false,
+    "positive": true,
+    "id": 8241
+  },
+  {
+    "preset_id": 1178,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Feliz Dia de Ação de Graças",
+    "premium": false,
+    "positive": true,
+    "id": 8242
+  },
+  {
+    "preset_id": 1178,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Wesołego Święta Dziękczynienia",
+    "premium": false,
+    "positive": true,
+    "id": 8243
+  },
+  {
+    "preset_id": 1178,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "С Днём благодарения",
+    "premium": false,
+    "positive": true,
+    "id": 8244
+  },
+  {
+    "preset_id": 1178,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "感恩节快乐",
+    "premium": false,
+    "positive": true,
+    "id": 8245
+  }
+]

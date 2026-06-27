@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1634,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Sad behaviour this.",
+    "premium": false,
+    "positive": true,
+    "id": 11431
+  },
+  {
+    "preset_id": 1634,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Triste este comportamiento.",
+    "premium": false,
+    "positive": true,
+    "id": 11432
+  },
+  {
+    "preset_id": 1634,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Trauriges Verhalten.",
+    "premium": false,
+    "positive": true,
+    "id": 11433
+  },
+  {
+    "preset_id": 1634,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Triste este comportamento.",
+    "premium": false,
+    "positive": true,
+    "id": 11434
+  },
+  {
+    "preset_id": 1634,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Smutne zachowanie.",
+    "premium": false,
+    "positive": true,
+    "id": 11435
+  },
+  {
+    "preset_id": 1634,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Грустное поведение.",
+    "premium": false,
+    "positive": true,
+    "id": 11436
+  },
+  {
+    "preset_id": 1634,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "可悲的行为。",
+    "premium": false,
+    "positive": true,
+    "id": 11437
+  }
+]

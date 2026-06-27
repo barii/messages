@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 447,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "All good",
+    "premium": false,
+    "positive": true,
+    "id": 3122
+  },
+  {
+    "preset_id": 447,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Todo bien",
+    "premium": false,
+    "positive": true,
+    "id": 3123
+  },
+  {
+    "preset_id": 447,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Alles gut",
+    "premium": false,
+    "positive": true,
+    "id": 3124
+  },
+  {
+    "preset_id": 447,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Tudo certo",
+    "premium": false,
+    "positive": true,
+    "id": 3125
+  },
+  {
+    "preset_id": 447,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Wszystko ok",
+    "premium": false,
+    "positive": true,
+    "id": 3126
+  },
+  {
+    "preset_id": 447,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Всё ок",
+    "premium": false,
+    "positive": true,
+    "id": 3127
+  },
+  {
+    "preset_id": 447,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "都好",
+    "premium": false,
+    "positive": true,
+    "id": 3128
+  }
+]

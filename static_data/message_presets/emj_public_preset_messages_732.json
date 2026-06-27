@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 732,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Let's go",
+    "premium": false,
+    "positive": true,
+    "id": 5117
+  },
+  {
+    "preset_id": 732,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "¡Vamos!",
+    "premium": false,
+    "positive": true,
+    "id": 5118
+  },
+  {
+    "preset_id": 732,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Los geht's",
+    "premium": false,
+    "positive": true,
+    "id": 5119
+  },
+  {
+    "preset_id": 732,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Vamos a isso",
+    "premium": false,
+    "positive": true,
+    "id": 5120
+  },
+  {
+    "preset_id": 732,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Lecimy",
+    "premium": false,
+    "positive": true,
+    "id": 5121
+  },
+  {
+    "preset_id": 732,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Поехали",
+    "premium": false,
+    "positive": true,
+    "id": 5122
+  },
+  {
+    "preset_id": 732,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "走起",
+    "premium": false,
+    "positive": true,
+    "id": 5123
+  }
+]

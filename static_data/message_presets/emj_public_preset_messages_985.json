@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 985,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You interrupt people too much",
+    "premium": false,
+    "positive": true,
+    "id": 6888
+  },
+  {
+    "preset_id": 985,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Interrumpes demasiado a la gente",
+    "premium": false,
+    "positive": true,
+    "id": 6889
+  },
+  {
+    "preset_id": 985,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du unterbrichst Leute zu oft",
+    "premium": false,
+    "positive": true,
+    "id": 6890
+  },
+  {
+    "preset_id": 985,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Interrompes as pessoas demasiado",
+    "premium": false,
+    "positive": true,
+    "id": 6891
+  },
+  {
+    "preset_id": 985,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Za często przerywasz ludziom",
+    "premium": false,
+    "positive": true,
+    "id": 6892
+  },
+  {
+    "preset_id": 985,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты слишком часто перебиваешь людей",
+    "premium": false,
+    "positive": true,
+    "id": 6893
+  },
+  {
+    "preset_id": 985,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你太常打断别人",
+    "premium": false,
+    "positive": true,
+    "id": 6894
+  }
+]

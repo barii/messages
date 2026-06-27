@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1120,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Talk to you later",
+    "premium": false,
+    "positive": true,
+    "id": 7833
+  },
+  {
+    "preset_id": 1120,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Hablamos luego",
+    "premium": false,
+    "positive": true,
+    "id": 7834
+  },
+  {
+    "preset_id": 1120,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Wir schreiben",
+    "premium": false,
+    "positive": true,
+    "id": 7835
+  },
+  {
+    "preset_id": 1120,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Falamos depois",
+    "premium": false,
+    "positive": true,
+    "id": 7836
+  },
+  {
+    "preset_id": 1120,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Odezwę się",
+    "premium": false,
+    "positive": true,
+    "id": 7837
+  },
+  {
+    "preset_id": 1120,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Поговорим позже",
+    "premium": false,
+    "positive": true,
+    "id": 7838
+  },
+  {
+    "preset_id": 1120,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "回聊",
+    "premium": false,
+    "positive": true,
+    "id": 7839
+  }
+]

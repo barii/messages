@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1778,
+    "preset_id": 254,
+    "cat_emoji": "🇺🇸",
+    "lang": "EN",
+    "category": "American Football Teams",
+    "text": "Colorado Rapids",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1779,
+    "preset_id": 254,
+    "cat_emoji": "🇺🇸",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Americanos",
+    "text": "Colorado Rapids",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1780,
+    "preset_id": 254,
+    "cat_emoji": "🇺🇸",
+    "lang": "DE",
+    "category": "Amerikanische Fußballmannschaften",
+    "text": "Colorado Rapids",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1781,
+    "preset_id": 254,
+    "cat_emoji": "🇺🇸",
+    "lang": "PL",
+    "category": "Amerykańskie drużyny piłkarskie",
+    "text": "Colorado Rapids",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1782,
+    "preset_id": 254,
+    "cat_emoji": "🇺🇸",
+    "lang": "RU",
+    "category": "Американские футбольные команды",
+    "text": "Colorado Rapids",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1783,
+    "preset_id": 254,
+    "cat_emoji": "🇺🇸",
+    "lang": "PT",
+    "category": "Times de futebol americanos",
+    "text": "Colorado Rapids",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇸",
+    "continent": "European"
+  },
+  {
+    "id": 1784,
+    "preset_id": 254,
+    "cat_emoji": "🇺🇸",
+    "lang": "CN",
+    "category": "美国足球队",
+    "text": "Colorado Rapids",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇺🇸",
+    "continent": "European"
+  }
+]

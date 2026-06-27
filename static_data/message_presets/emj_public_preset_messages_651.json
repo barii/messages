@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 651,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Grow up",
+    "premium": false,
+    "positive": true,
+    "id": 4550
+  },
+  {
+    "preset_id": 651,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Madura",
+    "premium": false,
+    "positive": true,
+    "id": 4551
+  },
+  {
+    "preset_id": 651,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Werd erwachsen",
+    "premium": false,
+    "positive": true,
+    "id": 4552
+  },
+  {
+    "preset_id": 651,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Cresce",
+    "premium": false,
+    "positive": true,
+    "id": 4553
+  },
+  {
+    "preset_id": 651,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Dorośnij",
+    "premium": false,
+    "positive": true,
+    "id": 4554
+  },
+  {
+    "preset_id": 651,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Повзрослей",
+    "premium": false,
+    "positive": true,
+    "id": 4555
+  },
+  {
+    "preset_id": 651,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "成熟点",
+    "premium": false,
+    "positive": true,
+    "id": 4556
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 804,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Smooth talker",
+    "premium": false,
+    "positive": true,
+    "id": 5621
+  },
+  {
+    "preset_id": 804,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Qué labia",
+    "premium": false,
+    "positive": true,
+    "id": 5622
+  },
+  {
+    "preset_id": 804,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Charmeur",
+    "premium": false,
+    "positive": true,
+    "id": 5623
+  },
+  {
+    "preset_id": 804,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Falinhas mansas",
+    "premium": false,
+    "positive": true,
+    "id": 5624
+  },
+  {
+    "preset_id": 804,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Słodki gaduła",
+    "premium": false,
+    "positive": true,
+    "id": 5625
+  },
+  {
+    "preset_id": 804,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Сладкоречивый",
+    "premium": false,
+    "positive": true,
+    "id": 5626
+  },
+  {
+    "preset_id": 804,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "甜言蜜语家",
+    "premium": false,
+    "positive": true,
+    "id": 5627
+  }
+]

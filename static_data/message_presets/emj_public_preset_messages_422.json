@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 422,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "No thanks",
+    "premium": false,
+    "positive": true,
+    "id": 2947
+  },
+  {
+    "preset_id": 422,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "No, gracias",
+    "premium": false,
+    "positive": true,
+    "id": 2948
+  },
+  {
+    "preset_id": 422,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Nein danke",
+    "premium": false,
+    "positive": true,
+    "id": 2949
+  },
+  {
+    "preset_id": 422,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Não, obrigado",
+    "premium": false,
+    "positive": true,
+    "id": 2950
+  },
+  {
+    "preset_id": 422,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Nie dzięki",
+    "premium": false,
+    "positive": true,
+    "id": 2951
+  },
+  {
+    "preset_id": 422,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Нет, спасибо",
+    "premium": false,
+    "positive": true,
+    "id": 2952
+  },
+  {
+    "preset_id": 422,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "不,谢谢",
+    "premium": false,
+    "positive": true,
+    "id": 2953
+  }
+]

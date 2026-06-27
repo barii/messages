@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 190,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you sure?",
+    "premium": false,
+    "positive": true,
+    "id": 1323
+  },
+  {
+    "preset_id": 190,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Seguro?",
+    "premium": false,
+    "positive": true,
+    "id": 1324
+  },
+  {
+    "preset_id": 190,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du sicher?",
+    "premium": false,
+    "positive": true,
+    "id": 1325
+  },
+  {
+    "preset_id": 190,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Tens a certeza?",
+    "premium": false,
+    "positive": true,
+    "id": 1326
+  },
+  {
+    "preset_id": 190,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jesteś pewien?",
+    "premium": false,
+    "positive": true,
+    "id": 1327
+  },
+  {
+    "preset_id": 190,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты уверен?",
+    "premium": false,
+    "positive": true,
+    "id": 1328
+  },
+  {
+    "preset_id": 190,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你确定吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1329
+  }
+]

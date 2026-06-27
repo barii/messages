@@ -1,0 +1,86 @@
+[
+  {
+    "id": 3031,
+    "preset_id": 433,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "EN",
+    "category": "Scottish Football Teams",
+    "text": "Heart of Midlothian",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3032,
+    "preset_id": 433,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Escoceses",
+    "text": "Heart of Midlothian",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3033,
+    "preset_id": 433,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "DE",
+    "category": "Schottische Fußballmannschaften",
+    "text": "Heart of Midlothian",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3034,
+    "preset_id": 433,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "PL",
+    "category": "Szkockie drużyny piłkarskie",
+    "text": "Heart of Midlothian",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3035,
+    "preset_id": 433,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "RU",
+    "category": "Шотландские футбольные команды",
+    "text": "Heart of Midlothian",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3036,
+    "preset_id": 433,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "PT",
+    "category": "Times de futebol escoceses",
+    "text": "Heart of Midlothian",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3037,
+    "preset_id": 433,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "CN",
+    "category": "苏格兰足球队",
+    "text": "Heart of Midlothian",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  }
+]

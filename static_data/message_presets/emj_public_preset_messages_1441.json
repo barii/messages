@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1441,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "In the bag.",
+    "premium": false,
+    "positive": true,
+    "id": 10080
+  },
+  {
+    "preset_id": 1441,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "En el bolsillo.",
+    "premium": false,
+    "positive": true,
+    "id": 10081
+  },
+  {
+    "preset_id": 1441,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Eingetütet.",
+    "premium": false,
+    "positive": true,
+    "id": 10082
+  },
+  {
+    "preset_id": 1441,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "No bolso.",
+    "premium": false,
+    "positive": true,
+    "id": 10083
+  },
+  {
+    "preset_id": 1441,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "W kieszeni.",
+    "premium": false,
+    "positive": true,
+    "id": 10084
+  },
+  {
+    "preset_id": 1441,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "В кармане.",
+    "premium": false,
+    "positive": true,
+    "id": 10085
+  },
+  {
+    "preset_id": 1441,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "稳了。",
+    "premium": false,
+    "positive": true,
+    "id": 10086
+  }
+]

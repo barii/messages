@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 360,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm South Asian",
+    "premium": false,
+    "positive": true,
+    "id": 2513
+  },
+  {
+    "preset_id": 360,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Soy del sur de Asia",
+    "premium": true,
+    "positive": true,
+    "id": 2514
+  },
+  {
+    "preset_id": 360,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin Südasiat",
+    "premium": true,
+    "positive": true,
+    "id": 2515
+  },
+  {
+    "preset_id": 360,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Sou do sul da Ásia",
+    "premium": true,
+    "positive": true,
+    "id": 2516
+  },
+  {
+    "preset_id": 360,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem z południowej Azji",
+    "premium": true,
+    "positive": true,
+    "id": 2517
+  },
+  {
+    "preset_id": 360,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я из Южной Азии",
+    "premium": true,
+    "positive": true,
+    "id": 2518
+  },
+  {
+    "preset_id": 360,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我是南亚人",
+    "premium": true,
+    "positive": true,
+    "id": 2519
+  }
+]

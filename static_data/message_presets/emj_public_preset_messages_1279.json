@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1279,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You have to live with failures – it's your way of life.",
+    "premium": false,
+    "positive": true,
+    "id": 8946
+  },
+  {
+    "preset_id": 1279,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Tenéis que vivir con los fracasos – es vuestro modo de vida.",
+    "premium": false,
+    "positive": true,
+    "id": 8947
+  },
+  {
+    "preset_id": 1279,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr müsst mit Misserfolgen leben – das ist eure Lebensart.",
+    "premium": false,
+    "positive": true,
+    "id": 8948
+  },
+  {
+    "preset_id": 1279,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Têm de viver com fracassos – é o vosso modo de vida.",
+    "premium": false,
+    "positive": true,
+    "id": 8949
+  },
+  {
+    "preset_id": 1279,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Musicie żyć z porażkami – to wasz sposób na życie.",
+    "premium": false,
+    "positive": true,
+    "id": 8950
+  },
+  {
+    "preset_id": 1279,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Вам приходится жить с поражениями — это ваш образ жизни.",
+    "premium": false,
+    "positive": true,
+    "id": 8951
+  },
+  {
+    "preset_id": 1279,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们必须接受失败 — 这就是你们的生活方式。",
+    "premium": false,
+    "positive": true,
+    "id": 8952
+  }
+]

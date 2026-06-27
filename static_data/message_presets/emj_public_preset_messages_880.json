@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 880,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "Let me take you somewhere nice",
+    "premium": true,
+    "positive": true,
+    "id": 6153
+  },
+  {
+    "preset_id": 880,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Déjame llevarte a algún lugar bonito",
+    "premium": true,
+    "positive": true,
+    "id": 6154
+  },
+  {
+    "preset_id": 880,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Lass mich dich irgendwohin Schönes ausführen",
+    "premium": true,
+    "positive": true,
+    "id": 6155
+  },
+  {
+    "preset_id": 880,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Deixa-me levar-te a algum sítio bom",
+    "premium": true,
+    "positive": true,
+    "id": 6156
+  },
+  {
+    "preset_id": 880,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Pozwól zabrać cię w fajne miejsce",
+    "premium": true,
+    "positive": true,
+    "id": 6157
+  },
+  {
+    "preset_id": 880,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Позволь мне взять тебя в хорошее место",
+    "premium": true,
+    "positive": true,
+    "id": 6158
+  },
+  {
+    "preset_id": 880,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "让我带你去个好地方",
+    "premium": true,
+    "positive": true,
+    "id": 6159
+  }
+]

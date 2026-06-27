@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 589,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Closer than you think",
+    "premium": false,
+    "positive": true,
+    "id": 4116
+  },
+  {
+    "preset_id": 589,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Más cerca de lo que crees",
+    "premium": false,
+    "positive": true,
+    "id": 4117
+  },
+  {
+    "preset_id": 589,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Näher als du denkst",
+    "premium": false,
+    "positive": true,
+    "id": 4118
+  },
+  {
+    "preset_id": 589,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Mais perto do que pensas",
+    "premium": false,
+    "positive": true,
+    "id": 4119
+  },
+  {
+    "preset_id": 589,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Bliżej niż myślisz",
+    "premium": false,
+    "positive": true,
+    "id": 4120
+  },
+  {
+    "preset_id": 589,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Ближе, чем ты думаешь",
+    "premium": false,
+    "positive": true,
+    "id": 4121
+  },
+  {
+    "preset_id": 589,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "比你想的近",
+    "premium": false,
+    "positive": true,
+    "id": 4122
+  }
+]

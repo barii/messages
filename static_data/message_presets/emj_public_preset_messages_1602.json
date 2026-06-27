@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1602,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "We'll see in May.",
+    "premium": false,
+    "positive": true,
+    "id": 11207
+  },
+  {
+    "preset_id": 1602,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Nos veremos en mayo.",
+    "premium": false,
+    "positive": true,
+    "id": 11208
+  },
+  {
+    "preset_id": 1602,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Wir sehen uns im Mai.",
+    "premium": false,
+    "positive": true,
+    "id": 11209
+  },
+  {
+    "preset_id": 1602,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Vemo-nos em Maio.",
+    "premium": false,
+    "positive": true,
+    "id": 11210
+  },
+  {
+    "preset_id": 1602,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Zobaczymy się w maju.",
+    "premium": false,
+    "positive": true,
+    "id": 11211
+  },
+  {
+    "preset_id": 1602,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Увидимся в мае.",
+    "premium": false,
+    "positive": true,
+    "id": 11212
+  },
+  {
+    "preset_id": 1602,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "五月份见。",
+    "premium": false,
+    "positive": true,
+    "id": 11213
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1229,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "I'm going to need your number for science reasons",
+    "premium": false,
+    "positive": true,
+    "id": 8596
+  },
+  {
+    "preset_id": 1229,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "Voy a necesitar tu número por razones científicas",
+    "premium": false,
+    "positive": true,
+    "id": 8597
+  },
+  {
+    "preset_id": 1229,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Ich brauche deine Nummer aus wissenschaftlichen Gründen",
+    "premium": false,
+    "positive": true,
+    "id": 8598
+  },
+  {
+    "preset_id": 1229,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "Vou precisar do teu número por razões científicas",
+    "premium": false,
+    "positive": true,
+    "id": 8599
+  },
+  {
+    "preset_id": 1229,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Będę potrzebował twojego numeru z naukowych powodów",
+    "premium": false,
+    "positive": true,
+    "id": 8600
+  },
+  {
+    "preset_id": 1229,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Мне нужен твой номер по научным причинам",
+    "premium": false,
+    "positive": true,
+    "id": 8601
+  },
+  {
+    "preset_id": 1229,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "我需要你的电话号码,出于科学原因",
+    "premium": false,
+    "positive": true,
+    "id": 8602
+  }
+]

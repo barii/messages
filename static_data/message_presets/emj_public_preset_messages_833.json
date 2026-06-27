@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 833,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You're always on my mind",
+    "premium": false,
+    "positive": true,
+    "id": 5824
+  },
+  {
+    "preset_id": 833,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Siempre estás en mi mente",
+    "premium": false,
+    "positive": true,
+    "id": 5825
+  },
+  {
+    "preset_id": 833,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Du bist immer in meinen Gedanken",
+    "premium": false,
+    "positive": true,
+    "id": 5826
+  },
+  {
+    "preset_id": 833,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Estás sempre na minha cabeça",
+    "premium": false,
+    "positive": true,
+    "id": 5827
+  },
+  {
+    "preset_id": 833,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Zawsze jesteś w mojej głowie",
+    "premium": false,
+    "positive": true,
+    "id": 5828
+  },
+  {
+    "preset_id": 833,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты всегда у меня в голове",
+    "premium": false,
+    "positive": true,
+    "id": 5829
+  },
+  {
+    "preset_id": 833,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你一直在我心里",
+    "premium": false,
+    "positive": true,
+    "id": 5830
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 226,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "Bet you can't guess who this is",
+    "premium": false,
+    "positive": true,
+    "id": 1575
+  },
+  {
+    "preset_id": 226,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "A que no adivinas quién es",
+    "premium": false,
+    "positive": true,
+    "id": 1576
+  },
+  {
+    "preset_id": 226,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wette, du kannst nicht raten, wer das ist",
+    "premium": false,
+    "positive": true,
+    "id": 1577
+  },
+  {
+    "preset_id": 226,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Aposto que não adivinhas quem é",
+    "premium": false,
+    "positive": true,
+    "id": 1578
+  },
+  {
+    "preset_id": 226,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Założę się, że nie zgadniesz, kto to",
+    "premium": false,
+    "positive": true,
+    "id": 1579
+  },
+  {
+    "preset_id": 226,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Спорим, ты не угадаешь, кто это",
+    "premium": false,
+    "positive": true,
+    "id": 1580
+  },
+  {
+    "preset_id": 226,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我打赌你猜不到是谁",
+    "premium": false,
+    "positive": true,
+    "id": 1581
+  }
+]

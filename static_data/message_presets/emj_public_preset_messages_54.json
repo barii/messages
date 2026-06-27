@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 54,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're a star",
+    "premium": true,
+    "positive": true,
+    "id": 371
+  },
+  {
+    "preset_id": 54,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres una estrella",
+    "premium": true,
+    "positive": true,
+    "id": 372
+  },
+  {
+    "preset_id": 54,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist ein Stern",
+    "premium": true,
+    "positive": true,
+    "id": 373
+  },
+  {
+    "preset_id": 54,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És uma estrela",
+    "premium": true,
+    "positive": true,
+    "id": 374
+  },
+  {
+    "preset_id": 54,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś gwiazdą",
+    "premium": true,
+    "positive": true,
+    "id": 375
+  },
+  {
+    "preset_id": 54,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты звезда",
+    "premium": true,
+    "positive": true,
+    "id": 376
+  },
+  {
+    "preset_id": 54,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你是颗星星",
+    "premium": true,
+    "positive": true,
+    "id": 377
+  }
+]

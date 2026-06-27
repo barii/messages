@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 159,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Do you believe in love at first sight?",
+    "premium": false,
+    "positive": true,
+    "id": 1106
+  },
+  {
+    "preset_id": 159,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Crees en el amor a primera vista?",
+    "premium": false,
+    "positive": true,
+    "id": 1107
+  },
+  {
+    "preset_id": 159,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Glaubst du an Liebe auf den ersten Blick?",
+    "premium": false,
+    "positive": true,
+    "id": 1108
+  },
+  {
+    "preset_id": 159,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Acreditas em amor à primeira vista?",
+    "premium": false,
+    "positive": true,
+    "id": 1109
+  },
+  {
+    "preset_id": 159,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Wierzysz w miłość od pierwszego wejrzenia?",
+    "premium": false,
+    "positive": true,
+    "id": 1110
+  },
+  {
+    "preset_id": 159,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты веришь в любовь с первого взгляда?",
+    "premium": false,
+    "positive": true,
+    "id": 1111
+  },
+  {
+    "preset_id": 159,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你相信一见钟情吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1112
+  }
+]

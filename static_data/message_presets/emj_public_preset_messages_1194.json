@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1194,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Right back at you, friend",
+    "premium": false,
+    "positive": true,
+    "id": 8351
+  },
+  {
+    "preset_id": 1194,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "Igualmente, amigo",
+    "premium": false,
+    "positive": true,
+    "id": 8352
+  },
+  {
+    "preset_id": 1194,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Auch dir, mein Freund",
+    "premium": false,
+    "positive": true,
+    "id": 8353
+  },
+  {
+    "preset_id": 1194,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Igualmente, amigo",
+    "premium": false,
+    "positive": true,
+    "id": 8354
+  },
+  {
+    "preset_id": 1194,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Wzajemnie, przyjacielu",
+    "premium": false,
+    "positive": true,
+    "id": 8355
+  },
+  {
+    "preset_id": 1194,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "И тебе того же, друг",
+    "premium": false,
+    "positive": true,
+    "id": 8356
+  },
+  {
+    "preset_id": 1194,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "也祝你,朋友",
+    "premium": false,
+    "positive": true,
+    "id": 8357
+  }
+]

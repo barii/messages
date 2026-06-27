@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 648,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "You're being a lot right now",
+    "premium": false,
+    "positive": true,
+    "id": 4529
+  },
+  {
+    "preset_id": 648,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Estás siendo demasiado ahora mismo",
+    "premium": false,
+    "positive": true,
+    "id": 4530
+  },
+  {
+    "preset_id": 648,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Du bist gerade zu viel",
+    "premium": false,
+    "positive": true,
+    "id": 4531
+  },
+  {
+    "preset_id": 648,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Estás a ser demais agora",
+    "premium": false,
+    "positive": true,
+    "id": 4532
+  },
+  {
+    "preset_id": 648,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Jesteś teraz przesadny",
+    "premium": false,
+    "positive": true,
+    "id": 4533
+  },
+  {
+    "preset_id": 648,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Ты сейчас слишком",
+    "premium": false,
+    "positive": true,
+    "id": 4534
+  },
+  {
+    "preset_id": 648,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "你现在太过分了",
+    "premium": false,
+    "positive": true,
+    "id": 4535
+  }
+]

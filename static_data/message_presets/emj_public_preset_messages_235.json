@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 235,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "Not even close",
+    "premium": false,
+    "positive": true,
+    "id": 1638
+  },
+  {
+    "preset_id": 235,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Para nada cerca",
+    "premium": false,
+    "positive": true,
+    "id": 1639
+  },
+  {
+    "preset_id": 235,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Nicht mal nah",
+    "premium": false,
+    "positive": true,
+    "id": 1640
+  },
+  {
+    "preset_id": 235,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Nem perto",
+    "premium": false,
+    "positive": true,
+    "id": 1641
+  },
+  {
+    "preset_id": 235,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Nawet nie blisko",
+    "premium": false,
+    "positive": true,
+    "id": 1642
+  },
+  {
+    "preset_id": 235,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Даже не близко",
+    "premium": false,
+    "positive": true,
+    "id": 1643
+  },
+  {
+    "preset_id": 235,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "完全不近",
+    "premium": false,
+    "positive": true,
+    "id": 1644
+  }
+]

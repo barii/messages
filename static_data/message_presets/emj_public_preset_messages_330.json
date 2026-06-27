@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 330,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I trust too easily",
+    "premium": false,
+    "positive": true,
+    "id": 2303
+  },
+  {
+    "preset_id": 330,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Confío demasiado fácil",
+    "premium": false,
+    "positive": true,
+    "id": 2304
+  },
+  {
+    "preset_id": 330,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich vertraue zu leicht",
+    "premium": false,
+    "positive": true,
+    "id": 2305
+  },
+  {
+    "preset_id": 330,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Confio demasiado facilmente",
+    "premium": false,
+    "positive": true,
+    "id": 2306
+  },
+  {
+    "preset_id": 330,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Ufam zbyt łatwo",
+    "premium": false,
+    "positive": true,
+    "id": 2307
+  },
+  {
+    "preset_id": 330,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я слишком легко доверяю",
+    "premium": false,
+    "positive": true,
+    "id": 2308
+  },
+  {
+    "preset_id": 330,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我太容易信任",
+    "premium": false,
+    "positive": true,
+    "id": 2309
+  }
+]

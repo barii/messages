@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1032,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Is it Friday yet?",
+    "premium": false,
+    "positive": true,
+    "id": 7217
+  },
+  {
+    "preset_id": 1032,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "¿Ya es viernes?",
+    "premium": false,
+    "positive": true,
+    "id": 7218
+  },
+  {
+    "preset_id": 1032,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Ist schon Freitag?",
+    "premium": false,
+    "positive": true,
+    "id": 7219
+  },
+  {
+    "preset_id": 1032,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Já é sexta?",
+    "premium": false,
+    "positive": true,
+    "id": 7220
+  },
+  {
+    "preset_id": 1032,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Już piątek?",
+    "premium": false,
+    "positive": true,
+    "id": 7221
+  },
+  {
+    "preset_id": 1032,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Уже пятница?",
+    "premium": false,
+    "positive": true,
+    "id": 7222
+  },
+  {
+    "preset_id": 1032,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "已经星期五了吗?",
+    "premium": false,
+    "positive": true,
+    "id": 7223
+  }
+]

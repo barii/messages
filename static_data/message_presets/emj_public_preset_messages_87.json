@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 87,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "Not the main character",
+    "premium": true,
+    "positive": false,
+    "id": 602
+  },
+  {
+    "preset_id": 87,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "No eres el protagonista",
+    "premium": true,
+    "positive": false,
+    "id": 603
+  },
+  {
+    "preset_id": 87,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Nicht der Hauptcharakter",
+    "premium": true,
+    "positive": false,
+    "id": 604
+  },
+  {
+    "preset_id": 87,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Não és o protagonista",
+    "premium": true,
+    "positive": false,
+    "id": 605
+  },
+  {
+    "preset_id": 87,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Nie jesteś głównym bohaterem",
+    "premium": true,
+    "positive": false,
+    "id": 606
+  },
+  {
+    "preset_id": 87,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Не главный герой",
+    "premium": true,
+    "positive": false,
+    "id": 607
+  },
+  {
+    "preset_id": 87,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "不是主角",
+    "premium": true,
+    "positive": false,
+    "id": 608
+  }
+]

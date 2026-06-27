@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1024,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "You deserve recognition",
+    "premium": true,
+    "positive": true,
+    "id": 7161
+  },
+  {
+    "preset_id": 1024,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Te mereces reconocimiento",
+    "premium": true,
+    "positive": true,
+    "id": 7162
+  },
+  {
+    "preset_id": 1024,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Du verdienst Anerkennung",
+    "premium": true,
+    "positive": true,
+    "id": 7163
+  },
+  {
+    "preset_id": 1024,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Mereces reconhecimento",
+    "premium": true,
+    "positive": true,
+    "id": 7164
+  },
+  {
+    "preset_id": 1024,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Zasługujesz na uznanie",
+    "premium": true,
+    "positive": true,
+    "id": 7165
+  },
+  {
+    "preset_id": 1024,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Ты заслуживаешь признание",
+    "premium": true,
+    "positive": true,
+    "id": 7166
+  },
+  {
+    "preset_id": 1024,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "你应得到认可",
+    "premium": true,
+    "positive": true,
+    "id": 7167
+  }
+]

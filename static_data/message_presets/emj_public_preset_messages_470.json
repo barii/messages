@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 470,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "That's true",
+    "premium": false,
+    "positive": true,
+    "id": 3283
+  },
+  {
+    "preset_id": 470,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Es verdad",
+    "premium": false,
+    "positive": true,
+    "id": 3284
+  },
+  {
+    "preset_id": 470,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Das stimmt",
+    "premium": false,
+    "positive": true,
+    "id": 3285
+  },
+  {
+    "preset_id": 470,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "É verdade",
+    "premium": false,
+    "positive": true,
+    "id": 3286
+  },
+  {
+    "preset_id": 470,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "To prawda",
+    "premium": false,
+    "positive": true,
+    "id": 3287
+  },
+  {
+    "preset_id": 470,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Это правда",
+    "premium": false,
+    "positive": true,
+    "id": 3288
+  },
+  {
+    "preset_id": 470,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "那是真的",
+    "premium": false,
+    "positive": true,
+    "id": 3289
+  }
+]

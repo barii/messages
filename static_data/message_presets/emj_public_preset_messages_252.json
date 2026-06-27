@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 252,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We have mutual friends",
+    "premium": false,
+    "positive": true,
+    "id": 1757
+  },
+  {
+    "preset_id": 252,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Tenemos amigos en común",
+    "premium": false,
+    "positive": true,
+    "id": 1758
+  },
+  {
+    "preset_id": 252,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir haben gemeinsame Freunde",
+    "premium": false,
+    "positive": true,
+    "id": 1759
+  },
+  {
+    "preset_id": 252,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Temos amigos em comum",
+    "premium": false,
+    "positive": true,
+    "id": 1760
+  },
+  {
+    "preset_id": 252,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Mamy wspólnych znajomych",
+    "premium": false,
+    "positive": true,
+    "id": 1761
+  },
+  {
+    "preset_id": 252,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "У нас есть общие друзья",
+    "premium": false,
+    "positive": true,
+    "id": 1762
+  },
+  {
+    "preset_id": 252,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们有共同朋友",
+    "premium": false,
+    "positive": true,
+    "id": 1763
+  }
+]

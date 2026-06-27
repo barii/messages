@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 147,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you out?",
+    "premium": false,
+    "positive": true,
+    "id": 1022
+  },
+  {
+    "preset_id": 147,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Estás fuera?",
+    "premium": false,
+    "positive": true,
+    "id": 1023
+  },
+  {
+    "preset_id": 147,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du unterwegs?",
+    "premium": false,
+    "positive": true,
+    "id": 1024
+  },
+  {
+    "preset_id": 147,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás na rua?",
+    "premium": false,
+    "positive": true,
+    "id": 1025
+  },
+  {
+    "preset_id": 147,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jesteś na mieście?",
+    "premium": false,
+    "positive": true,
+    "id": 1026
+  },
+  {
+    "preset_id": 147,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты на улице?",
+    "premium": false,
+    "positive": true,
+    "id": 1027
+  },
+  {
+    "preset_id": 147,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你出去了吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1028
+  }
+]

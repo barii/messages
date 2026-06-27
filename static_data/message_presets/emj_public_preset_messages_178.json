@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 178,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Do you want to grab a drink?",
+    "premium": false,
+    "positive": true,
+    "id": 1239
+  },
+  {
+    "preset_id": 178,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Quieres tomar algo?",
+    "premium": false,
+    "positive": true,
+    "id": 1240
+  },
+  {
+    "preset_id": 178,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Wollen wir was trinken gehen?",
+    "premium": false,
+    "positive": true,
+    "id": 1241
+  },
+  {
+    "preset_id": 178,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Queres ir beber algo?",
+    "premium": false,
+    "positive": true,
+    "id": 1242
+  },
+  {
+    "preset_id": 178,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Chcesz się napić czegoś?",
+    "premium": false,
+    "positive": true,
+    "id": 1243
+  },
+  {
+    "preset_id": 178,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Хочешь сходить выпить?",
+    "premium": false,
+    "positive": true,
+    "id": 1244
+  },
+  {
+    "preset_id": 178,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "想喝一杯吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1245
+  }
+]

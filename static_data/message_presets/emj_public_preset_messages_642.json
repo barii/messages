@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 642,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Too late for sorry",
+    "premium": false,
+    "positive": true,
+    "id": 4487
+  },
+  {
+    "preset_id": 642,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Demasiado tarde para perdón",
+    "premium": false,
+    "positive": true,
+    "id": 4488
+  },
+  {
+    "preset_id": 642,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Zu spät für Sorry",
+    "premium": false,
+    "positive": true,
+    "id": 4489
+  },
+  {
+    "preset_id": 642,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Tarde demais para desculpas",
+    "premium": false,
+    "positive": true,
+    "id": 4490
+  },
+  {
+    "preset_id": 642,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Za późno na sorry",
+    "premium": false,
+    "positive": true,
+    "id": 4491
+  },
+  {
+    "preset_id": 642,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Слишком поздно для извинений",
+    "premium": false,
+    "positive": true,
+    "id": 4492
+  },
+  {
+    "preset_id": 642,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "对不起太晚了",
+    "premium": false,
+    "positive": true,
+    "id": 4493
+  }
+]

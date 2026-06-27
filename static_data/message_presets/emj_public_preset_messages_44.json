@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 44,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're doing better than you think",
+    "premium": false,
+    "positive": true,
+    "id": 301
+  },
+  {
+    "preset_id": 44,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Lo estás haciendo mejor de lo que crees",
+    "premium": false,
+    "positive": true,
+    "id": 302
+  },
+  {
+    "preset_id": 44,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du machst es besser, als du denkst",
+    "premium": false,
+    "positive": true,
+    "id": 303
+  },
+  {
+    "preset_id": 44,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Estás a ir melhor do que pensas",
+    "premium": false,
+    "positive": true,
+    "id": 304
+  },
+  {
+    "preset_id": 44,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Idzie ci lepiej, niż myślisz",
+    "premium": false,
+    "positive": true,
+    "id": 305
+  },
+  {
+    "preset_id": 44,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "У тебя получается лучше, чем ты думаешь",
+    "premium": false,
+    "positive": true,
+    "id": 306
+  },
+  {
+    "preset_id": 44,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你做得比你想的要好",
+    "premium": false,
+    "positive": true,
+    "id": 307
+  }
+]

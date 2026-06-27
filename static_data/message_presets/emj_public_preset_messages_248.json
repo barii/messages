@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 248,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We matched once",
+    "premium": false,
+    "positive": true,
+    "id": 1729
+  },
+  {
+    "preset_id": 248,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Hicimos match una vez",
+    "premium": false,
+    "positive": true,
+    "id": 1730
+  },
+  {
+    "preset_id": 248,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir hatten einmal einen Match",
+    "premium": false,
+    "positive": true,
+    "id": 1731
+  },
+  {
+    "preset_id": 248,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Demos match uma vez",
+    "premium": false,
+    "positive": true,
+    "id": 1732
+  },
+  {
+    "preset_id": 248,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Mieliśmy raz match",
+    "premium": false,
+    "positive": true,
+    "id": 1733
+  },
+  {
+    "preset_id": 248,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "У нас был матч однажды",
+    "premium": false,
+    "positive": true,
+    "id": 1734
+  },
+  {
+    "preset_id": 248,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们匹配过一次",
+    "premium": false,
+    "positive": true,
+    "id": 1735
+  }
+]

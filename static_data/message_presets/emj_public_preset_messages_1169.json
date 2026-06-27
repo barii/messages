@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1169,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Trick or treat?",
+    "premium": true,
+    "positive": true,
+    "id": 8176
+  },
+  {
+    "preset_id": 1169,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "¿Dulce o truco?",
+    "premium": true,
+    "positive": true,
+    "id": 8177
+  },
+  {
+    "preset_id": 1169,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Süßes oder Saures?",
+    "premium": true,
+    "positive": true,
+    "id": 8178
+  },
+  {
+    "preset_id": 1169,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "Doçura ou travessura?",
+    "premium": true,
+    "positive": true,
+    "id": 8179
+  },
+  {
+    "preset_id": 1169,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Cukierek albo psikus?",
+    "premium": true,
+    "positive": true,
+    "id": 8180
+  },
+  {
+    "preset_id": 1169,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "Сладость или гадость?",
+    "premium": true,
+    "positive": true,
+    "id": 8181
+  },
+  {
+    "preset_id": 1169,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "不给糖就捣蛋?",
+    "premium": true,
+    "positive": true,
+    "id": 8182
+  }
+]

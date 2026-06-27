@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 555,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Sucks",
+    "premium": false,
+    "positive": true,
+    "id": 3878
+  },
+  {
+    "preset_id": 555,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Apesta",
+    "premium": false,
+    "positive": true,
+    "id": 3879
+  },
+  {
+    "preset_id": 555,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Mies",
+    "premium": false,
+    "positive": true,
+    "id": 3880
+  },
+  {
+    "preset_id": 555,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Que mau",
+    "premium": false,
+    "positive": true,
+    "id": 3881
+  },
+  {
+    "preset_id": 555,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Słabo",
+    "premium": false,
+    "positive": true,
+    "id": 3882
+  },
+  {
+    "preset_id": 555,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Отстой",
+    "premium": false,
+    "positive": true,
+    "id": 3883
+  },
+  {
+    "preset_id": 555,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "糟糕",
+    "premium": false,
+    "positive": true,
+    "id": 3884
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 703,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Happy to help",
+    "premium": false,
+    "positive": true,
+    "id": 4914
+  },
+  {
+    "preset_id": 703,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Encantado de ayudar",
+    "premium": false,
+    "positive": true,
+    "id": 4915
+  },
+  {
+    "preset_id": 703,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Helfe gerne",
+    "premium": false,
+    "positive": true,
+    "id": 4916
+  },
+  {
+    "preset_id": 703,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Fico feliz em ajudar",
+    "premium": false,
+    "positive": true,
+    "id": 4917
+  },
+  {
+    "preset_id": 703,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Chętnie pomogę",
+    "premium": false,
+    "positive": true,
+    "id": 4918
+  },
+  {
+    "preset_id": 703,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Рад помочь",
+    "premium": false,
+    "positive": true,
+    "id": 4919
+  },
+  {
+    "preset_id": 703,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "乐意效劳",
+    "premium": false,
+    "positive": true,
+    "id": 4920
+  }
+]

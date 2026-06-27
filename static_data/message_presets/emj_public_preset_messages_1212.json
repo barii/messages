@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1212,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "I'm not a photographer but I can picture us together",
+    "premium": false,
+    "positive": true,
+    "id": 8477
+  },
+  {
+    "preset_id": 1212,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "No soy fotógrafo, pero puedo imaginarnos juntos",
+    "premium": false,
+    "positive": true,
+    "id": 8478
+  },
+  {
+    "preset_id": 1212,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Ich bin kein Fotograf, aber ich kann uns zusammen sehen",
+    "premium": false,
+    "positive": true,
+    "id": 8479
+  },
+  {
+    "preset_id": 1212,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "Não sou fotógrafo mas consigo imaginar-nos juntos",
+    "premium": false,
+    "positive": true,
+    "id": 8480
+  },
+  {
+    "preset_id": 1212,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Nie jestem fotografem, ale mogę nas sobie wyobrazić razem",
+    "premium": false,
+    "positive": true,
+    "id": 8481
+  },
+  {
+    "preset_id": 1212,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Я не фотограф, но я могу представить нас вместе",
+    "premium": false,
+    "positive": true,
+    "id": 8482
+  },
+  {
+    "preset_id": 1212,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "我不是摄影师,但我能想象我们在一起",
+    "premium": false,
+    "positive": true,
+    "id": 8483
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 623,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "I don't care",
+    "premium": false,
+    "positive": true,
+    "id": 4354
+  },
+  {
+    "preset_id": 623,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "No me importa",
+    "premium": false,
+    "positive": true,
+    "id": 4355
+  },
+  {
+    "preset_id": 623,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Ist mir egal",
+    "premium": false,
+    "positive": true,
+    "id": 4356
+  },
+  {
+    "preset_id": 623,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Não me interessa",
+    "premium": false,
+    "positive": true,
+    "id": 4357
+  },
+  {
+    "preset_id": 623,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Nie obchodzi mnie to",
+    "premium": false,
+    "positive": true,
+    "id": 4358
+  },
+  {
+    "preset_id": 623,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Мне всё равно",
+    "premium": false,
+    "positive": true,
+    "id": 4359
+  },
+  {
+    "preset_id": 623,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "我不在乎",
+    "premium": false,
+    "positive": true,
+    "id": 4360
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1170,
+    "cat_emoji": "1F5D3",
+    "lang": "EN",
+    "category": "Seasonal",
+    "text": "Spooky season is upon us",
+    "premium": false,
+    "positive": true,
+    "id": 8183
+  },
+  {
+    "preset_id": 1170,
+    "cat_emoji": "1F5D3",
+    "lang": "ES",
+    "category": "Estacional",
+    "text": "La temporada del miedo está aquí",
+    "premium": false,
+    "positive": true,
+    "id": 8184
+  },
+  {
+    "preset_id": 1170,
+    "cat_emoji": "1F5D3",
+    "lang": "DE",
+    "category": "Zeitlich begrenzt",
+    "text": "Die Gruselsaison ist da",
+    "premium": false,
+    "positive": true,
+    "id": 8185
+  },
+  {
+    "preset_id": 1170,
+    "cat_emoji": "1F5D3",
+    "lang": "PT",
+    "category": "Sazonal",
+    "text": "A época assustadora chegou",
+    "premium": false,
+    "positive": true,
+    "id": 8186
+  },
+  {
+    "preset_id": 1170,
+    "cat_emoji": "1F5D3",
+    "lang": "PL",
+    "category": "Sezonowy",
+    "text": "Sezon strachu nadszedł",
+    "premium": false,
+    "positive": true,
+    "id": 8187
+  },
+  {
+    "preset_id": 1170,
+    "cat_emoji": "1F5D3",
+    "lang": "RU",
+    "category": "Сезонные",
+    "text": "Жуткий сезон наступил",
+    "premium": false,
+    "positive": true,
+    "id": 8188
+  },
+  {
+    "preset_id": 1170,
+    "cat_emoji": "1F5D3",
+    "lang": "CN",
+    "category": "节日问候",
+    "text": "恐怖季节来了",
+    "premium": false,
+    "positive": true,
+    "id": 8189
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 21,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You have great taste",
+    "premium": false,
+    "positive": true,
+    "id": 140
+  },
+  {
+    "preset_id": 21,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Tienes muy buen gusto",
+    "premium": false,
+    "positive": true,
+    "id": 141
+  },
+  {
+    "preset_id": 21,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du hast tollen Geschmack",
+    "premium": false,
+    "positive": true,
+    "id": 142
+  },
+  {
+    "preset_id": 21,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Tens um ótimo gosto",
+    "premium": false,
+    "positive": true,
+    "id": 143
+  },
+  {
+    "preset_id": 21,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Masz świetny gust",
+    "premium": false,
+    "positive": true,
+    "id": 144
+  },
+  {
+    "preset_id": 21,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "У тебя отличный вкус",
+    "premium": false,
+    "positive": true,
+    "id": 145
+  },
+  {
+    "preset_id": 21,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你品味很好",
+    "premium": false,
+    "positive": true,
+    "id": 146
+  }
+]

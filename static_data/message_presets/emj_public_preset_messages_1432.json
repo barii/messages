@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1432,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "The best.",
+    "premium": false,
+    "positive": true,
+    "id": 10017
+  },
+  {
+    "preset_id": 1432,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Los mejores.",
+    "premium": false,
+    "positive": true,
+    "id": 10018
+  },
+  {
+    "preset_id": 1432,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Die Besten.",
+    "premium": false,
+    "positive": true,
+    "id": 10019
+  },
+  {
+    "preset_id": 1432,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Os melhores.",
+    "premium": false,
+    "positive": true,
+    "id": 10020
+  },
+  {
+    "preset_id": 1432,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Najlepsi.",
+    "premium": false,
+    "positive": true,
+    "id": 10021
+  },
+  {
+    "preset_id": 1432,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Лучшие.",
+    "premium": false,
+    "positive": true,
+    "id": 10022
+  },
+  {
+    "preset_id": 1432,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "最棒的。",
+    "premium": false,
+    "positive": true,
+    "id": 10023
+  }
+]

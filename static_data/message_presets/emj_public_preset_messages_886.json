@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 886,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You're exactly what I've been looking for",
+    "premium": false,
+    "positive": true,
+    "id": 6195
+  },
+  {
+    "preset_id": 886,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Eres exactamente lo que he estado buscando",
+    "premium": false,
+    "positive": true,
+    "id": 6196
+  },
+  {
+    "preset_id": 886,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Du bist genau das, wonach ich gesucht habe",
+    "premium": false,
+    "positive": true,
+    "id": 6197
+  },
+  {
+    "preset_id": 886,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "És exatamente o que tenho andado à procura",
+    "premium": false,
+    "positive": true,
+    "id": 6198
+  },
+  {
+    "preset_id": 886,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Jesteś dokładnie tym, czego szukałem",
+    "premium": false,
+    "positive": true,
+    "id": 6199
+  },
+  {
+    "preset_id": 886,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты именно то, что я искал",
+    "premium": false,
+    "positive": true,
+    "id": 6200
+  },
+  {
+    "preset_id": 886,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你正是我一直在寻找的",
+    "premium": false,
+    "positive": true,
+    "id": 6201
+  }
+]

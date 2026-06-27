@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 151,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you in love?",
+    "premium": false,
+    "positive": true,
+    "id": 1050
+  },
+  {
+    "preset_id": 151,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Estás enamorado?",
+    "premium": false,
+    "positive": true,
+    "id": 1051
+  },
+  {
+    "preset_id": 151,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du verliebt?",
+    "premium": false,
+    "positive": true,
+    "id": 1052
+  },
+  {
+    "preset_id": 151,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás apaixonado?",
+    "premium": false,
+    "positive": true,
+    "id": 1053
+  },
+  {
+    "preset_id": 151,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Jesteś zakochany?",
+    "premium": false,
+    "positive": true,
+    "id": 1054
+  },
+  {
+    "preset_id": 151,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты влюблён?",
+    "premium": false,
+    "positive": true,
+    "id": 1055
+  },
+  {
+    "preset_id": 151,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你恋爱了吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1056
+  }
+]

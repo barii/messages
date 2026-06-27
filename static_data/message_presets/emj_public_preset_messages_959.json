@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 959,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Take the leap",
+    "premium": false,
+    "positive": true,
+    "id": 6706
+  },
+  {
+    "preset_id": 959,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Da el paso",
+    "premium": false,
+    "positive": true,
+    "id": 6707
+  },
+  {
+    "preset_id": 959,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Wag den Sprung",
+    "premium": false,
+    "positive": true,
+    "id": 6708
+  },
+  {
+    "preset_id": 959,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Dá o passo",
+    "premium": false,
+    "positive": true,
+    "id": 6709
+  },
+  {
+    "preset_id": 959,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Zrób ten krok",
+    "premium": false,
+    "positive": true,
+    "id": 6710
+  },
+  {
+    "preset_id": 959,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Сделай прыжок",
+    "premium": false,
+    "positive": true,
+    "id": 6711
+  },
+  {
+    "preset_id": 959,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "迈出那一步",
+    "premium": false,
+    "positive": true,
+    "id": 6712
+  }
+]

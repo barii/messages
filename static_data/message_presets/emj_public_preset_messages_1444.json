@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1444,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Another win, another day.",
+    "premium": false,
+    "positive": true,
+    "id": 10101
+  },
+  {
+    "preset_id": 1444,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Otra victoria, otro día.",
+    "premium": false,
+    "positive": true,
+    "id": 10102
+  },
+  {
+    "preset_id": 1444,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Noch ein Sieg, noch ein Tag.",
+    "premium": false,
+    "positive": true,
+    "id": 10103
+  },
+  {
+    "preset_id": 1444,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Mais uma vitória, mais um dia.",
+    "premium": false,
+    "positive": true,
+    "id": 10104
+  },
+  {
+    "preset_id": 1444,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Kolejne zwycięstwo, kolejny dzień.",
+    "premium": false,
+    "positive": true,
+    "id": 10105
+  },
+  {
+    "preset_id": 1444,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Ещё одна победа, ещё один день.",
+    "premium": false,
+    "positive": true,
+    "id": 10106
+  },
+  {
+    "preset_id": 1444,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "又一场胜利,又一天。",
+    "premium": false,
+    "positive": true,
+    "id": 10107
+  }
+]

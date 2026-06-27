@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 868,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "Your laugh is my favorite sound",
+    "premium": false,
+    "positive": true,
+    "id": 6069
+  },
+  {
+    "preset_id": 868,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Tu risa es mi sonido favorito",
+    "premium": false,
+    "positive": true,
+    "id": 6070
+  },
+  {
+    "preset_id": 868,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Dein Lachen ist mein Lieblingsgeräusch",
+    "premium": false,
+    "positive": true,
+    "id": 6071
+  },
+  {
+    "preset_id": 868,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "O teu riso é o meu som favorito",
+    "premium": false,
+    "positive": true,
+    "id": 6072
+  },
+  {
+    "preset_id": 868,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Twój śmiech to mój ulubiony dźwięk",
+    "premium": false,
+    "positive": true,
+    "id": 6073
+  },
+  {
+    "preset_id": 868,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Твой смех - мой любимый звук",
+    "premium": false,
+    "positive": true,
+    "id": 6074
+  },
+  {
+    "preset_id": 868,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你的笑声是我最爱的声音",
+    "premium": false,
+    "positive": true,
+    "id": 6075
+  }
+]

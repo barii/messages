@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 28,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You have so much rizz",
+    "premium": true,
+    "positive": true,
+    "id": 189
+  },
+  {
+    "preset_id": 28,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Tienes mucho rizz",
+    "premium": true,
+    "positive": true,
+    "id": 190
+  },
+  {
+    "preset_id": 28,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du hast so viel Rizz",
+    "premium": true,
+    "positive": true,
+    "id": 191
+  },
+  {
+    "preset_id": 28,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Tens tanto rizz",
+    "premium": true,
+    "positive": true,
+    "id": 192
+  },
+  {
+    "preset_id": 28,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Masz tyle rizz",
+    "premium": true,
+    "positive": true,
+    "id": 193
+  },
+  {
+    "preset_id": 28,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "У тебя столько rizz",
+    "premium": true,
+    "positive": true,
+    "id": 194
+  },
+  {
+    "preset_id": 28,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你太有魅力了",
+    "premium": true,
+    "positive": true,
+    "id": 195
+  }
+]

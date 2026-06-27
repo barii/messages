@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1236,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Did your team think the goal was in the stands?",
+    "premium": false,
+    "positive": true,
+    "id": 8645
+  },
+  {
+    "preset_id": 1236,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "¿Vuestro equipo pensó que la portería estaba en las gradas?",
+    "premium": false,
+    "positive": true,
+    "id": 8646
+  },
+  {
+    "preset_id": 1236,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Hat eure Mannschaft gedacht, das Tor wäre auf der Tribüne?",
+    "premium": false,
+    "positive": true,
+    "id": 8647
+  },
+  {
+    "preset_id": 1236,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "A vossa equipa achou que a baliza estava nas bancadas?",
+    "premium": false,
+    "positive": true,
+    "id": 8648
+  },
+  {
+    "preset_id": 1236,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Wasza drużyna myślała, że bramka jest na trybunach?",
+    "premium": false,
+    "positive": true,
+    "id": 8649
+  },
+  {
+    "preset_id": 1236,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Ваша команда думала, что ворота на трибунах?",
+    "premium": false,
+    "positive": true,
+    "id": 8650
+  },
+  {
+    "preset_id": 1236,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们队以为球门在看台上吗?",
+    "premium": false,
+    "positive": true,
+    "id": 8651
+  }
+]

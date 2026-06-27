@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 887,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I'm scared of how much I like you",
+    "premium": false,
+    "positive": true,
+    "id": 6202
+  },
+  {
+    "preset_id": 887,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Me da miedo cuánto me gustas",
+    "premium": false,
+    "positive": true,
+    "id": 6203
+  },
+  {
+    "preset_id": 887,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich habe Angst davor, wie sehr ich dich mag",
+    "premium": false,
+    "positive": true,
+    "id": 6204
+  },
+  {
+    "preset_id": 887,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Tenho medo do quanto gosto de ti",
+    "premium": false,
+    "positive": true,
+    "id": 6205
+  },
+  {
+    "preset_id": 887,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Boję się, jak bardzo mi się podobasz",
+    "premium": false,
+    "positive": true,
+    "id": 6206
+  },
+  {
+    "preset_id": 887,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Мне страшно, насколько ты мне нравишься",
+    "premium": false,
+    "positive": true,
+    "id": 6207
+  },
+  {
+    "preset_id": 887,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我害怕我多么喜欢你",
+    "premium": false,
+    "positive": true,
+    "id": 6208
+  }
+]

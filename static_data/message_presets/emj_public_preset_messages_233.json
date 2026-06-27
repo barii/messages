@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 233,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "Freezing",
+    "premium": false,
+    "positive": true,
+    "id": 1624
+  },
+  {
+    "preset_id": 233,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Congelado",
+    "premium": false,
+    "positive": true,
+    "id": 1625
+  },
+  {
+    "preset_id": 233,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Eiskalt",
+    "premium": false,
+    "positive": true,
+    "id": 1626
+  },
+  {
+    "preset_id": 233,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Gelado",
+    "premium": false,
+    "positive": true,
+    "id": 1627
+  },
+  {
+    "preset_id": 233,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Mróz",
+    "premium": false,
+    "positive": true,
+    "id": 1628
+  },
+  {
+    "preset_id": 233,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мороз",
+    "premium": false,
+    "positive": true,
+    "id": 1629
+  },
+  {
+    "preset_id": 233,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "冷冰冰",
+    "premium": false,
+    "positive": true,
+    "id": 1630
+  }
+]

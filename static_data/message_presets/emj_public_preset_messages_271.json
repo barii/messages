@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 271,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "I'm older than you",
+    "premium": false,
+    "positive": true,
+    "id": 1890
+  },
+  {
+    "preset_id": 271,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Soy mayor que tú",
+    "premium": false,
+    "positive": true,
+    "id": 1891
+  },
+  {
+    "preset_id": 271,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Ich bin älter als du",
+    "premium": false,
+    "positive": true,
+    "id": 1892
+  },
+  {
+    "preset_id": 271,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Sou mais velho que tu",
+    "premium": false,
+    "positive": true,
+    "id": 1893
+  },
+  {
+    "preset_id": 271,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Jestem od ciebie starszy",
+    "premium": false,
+    "positive": true,
+    "id": 1894
+  },
+  {
+    "preset_id": 271,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Я старше тебя",
+    "premium": false,
+    "positive": true,
+    "id": 1895
+  },
+  {
+    "preset_id": 271,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我比你大",
+    "premium": false,
+    "positive": true,
+    "id": 1896
+  }
+]

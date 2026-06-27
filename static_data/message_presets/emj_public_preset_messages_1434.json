@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1434,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "What a goal!",
+    "premium": false,
+    "positive": true,
+    "id": 10031
+  },
+  {
+    "preset_id": 1434,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "¡Qué gol!",
+    "premium": false,
+    "positive": true,
+    "id": 10032
+  },
+  {
+    "preset_id": 1434,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Was für ein Tor!",
+    "premium": false,
+    "positive": true,
+    "id": 10033
+  },
+  {
+    "preset_id": 1434,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Que golo!",
+    "premium": false,
+    "positive": true,
+    "id": 10034
+  },
+  {
+    "preset_id": 1434,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Co za gol!",
+    "premium": false,
+    "positive": true,
+    "id": 10035
+  },
+  {
+    "preset_id": 1434,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Какой гол!",
+    "premium": false,
+    "positive": true,
+    "id": 10036
+  },
+  {
+    "preset_id": 1434,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "什么进球啊!",
+    "premium": false,
+    "positive": true,
+    "id": 10037
+  }
+]

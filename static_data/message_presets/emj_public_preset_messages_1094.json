@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1094,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Drinks on me after this",
+    "premium": false,
+    "positive": true,
+    "id": 7651
+  },
+  {
+    "preset_id": 1094,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Las copas van por mí después de esto",
+    "premium": false,
+    "positive": true,
+    "id": 7652
+  },
+  {
+    "preset_id": 1094,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Drinks gehen danach auf mich",
+    "premium": false,
+    "positive": true,
+    "id": 7653
+  },
+  {
+    "preset_id": 1094,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "As bebidas depois disto são por minha conta",
+    "premium": false,
+    "positive": true,
+    "id": 7654
+  },
+  {
+    "preset_id": 1094,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Drinki na mój koszt potem",
+    "premium": false,
+    "positive": true,
+    "id": 7655
+  },
+  {
+    "preset_id": 1094,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Напитки с меня после этого",
+    "premium": false,
+    "positive": true,
+    "id": 7656
+  },
+  {
+    "preset_id": 1094,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "之后的酒水我请",
+    "premium": false,
+    "positive": true,
+    "id": 7657
+  }
+]

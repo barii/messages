@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 90,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "I'm not impressed",
+    "premium": false,
+    "positive": false,
+    "id": 623
+  },
+  {
+    "preset_id": 90,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "No me impresiona",
+    "premium": false,
+    "positive": false,
+    "id": 624
+  },
+  {
+    "preset_id": 90,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Ich bin nicht beeindruckt",
+    "premium": false,
+    "positive": false,
+    "id": 625
+  },
+  {
+    "preset_id": 90,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Não estou impressionado",
+    "premium": false,
+    "positive": false,
+    "id": 626
+  },
+  {
+    "preset_id": 90,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Nie jestem pod wrażeniem",
+    "premium": false,
+    "positive": false,
+    "id": 627
+  },
+  {
+    "preset_id": 90,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Я не впечатлён",
+    "premium": false,
+    "positive": false,
+    "id": 628
+  },
+  {
+    "preset_id": 90,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "我没被打动",
+    "premium": false,
+    "positive": false,
+    "id": 629
+  }
+]

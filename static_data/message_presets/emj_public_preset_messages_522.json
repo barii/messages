@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 522,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Honestly don't know",
+    "premium": false,
+    "positive": true,
+    "id": 3647
+  },
+  {
+    "preset_id": 522,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Honestamente no sé",
+    "premium": false,
+    "positive": true,
+    "id": 3648
+  },
+  {
+    "preset_id": 522,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ehrlich gesagt weiß ich's nicht",
+    "premium": false,
+    "positive": true,
+    "id": 3649
+  },
+  {
+    "preset_id": 522,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Sinceramente não sei",
+    "premium": false,
+    "positive": true,
+    "id": 3650
+  },
+  {
+    "preset_id": 522,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Szczerze nie wiem",
+    "premium": false,
+    "positive": true,
+    "id": 3651
+  },
+  {
+    "preset_id": 522,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Честно не знаю",
+    "premium": false,
+    "positive": true,
+    "id": 3652
+  },
+  {
+    "preset_id": 522,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "说实话不知道",
+    "premium": false,
+    "positive": true,
+    "id": 3653
+  }
+]

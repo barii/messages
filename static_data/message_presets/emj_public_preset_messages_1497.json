@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1497,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "European nights, we know all about them.",
+    "premium": true,
+    "positive": true,
+    "id": 10472
+  },
+  {
+    "preset_id": 1497,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Noches europeas, lo sabemos todo sobre ellas.",
+    "premium": true,
+    "positive": true,
+    "id": 10473
+  },
+  {
+    "preset_id": 1497,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Europäische Nächte, wir wissen alles darüber.",
+    "premium": true,
+    "positive": true,
+    "id": 10474
+  },
+  {
+    "preset_id": 1497,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Noites europeias, sabemos tudo sobre elas.",
+    "premium": true,
+    "positive": true,
+    "id": 10475
+  },
+  {
+    "preset_id": 1497,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Wieczory europejskie, wiemy o nich wszystko.",
+    "premium": true,
+    "positive": true,
+    "id": 10476
+  },
+  {
+    "preset_id": 1497,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Европейские ночи, мы про них всё знаем.",
+    "premium": true,
+    "positive": true,
+    "id": 10477
+  },
+  {
+    "preset_id": 1497,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "欧战之夜,我们都熟。",
+    "premium": true,
+    "positive": true,
+    "id": 10478
+  }
+]

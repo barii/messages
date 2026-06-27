@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 203,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Have you figured it out yet?",
+    "premium": false,
+    "positive": true,
+    "id": 1414
+  },
+  {
+    "preset_id": 203,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Ya lo has descubierto?",
+    "premium": false,
+    "positive": true,
+    "id": 1415
+  },
+  {
+    "preset_id": 203,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Hast du es schon herausgefunden?",
+    "premium": false,
+    "positive": true,
+    "id": 1416
+  },
+  {
+    "preset_id": 203,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Já descobriste?",
+    "premium": false,
+    "positive": true,
+    "id": 1417
+  },
+  {
+    "preset_id": 203,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Już to wymyśliłeś?",
+    "premium": false,
+    "positive": true,
+    "id": 1418
+  },
+  {
+    "preset_id": 203,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты уже понял?",
+    "premium": false,
+    "positive": true,
+    "id": 1419
+  },
+  {
+    "preset_id": 203,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你猜出来了吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1420
+  }
+]

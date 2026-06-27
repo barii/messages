@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1584,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Wake me up when you win the league.",
+    "premium": true,
+    "positive": true,
+    "id": 11081
+  },
+  {
+    "preset_id": 1584,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Despertadme cuando ganéis la liga.",
+    "premium": true,
+    "positive": true,
+    "id": 11082
+  },
+  {
+    "preset_id": 1584,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Weckt mich, wenn ihr die Liga gewinnt.",
+    "premium": true,
+    "positive": true,
+    "id": 11083
+  },
+  {
+    "preset_id": 1584,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Acordem-me quando ganharem a liga.",
+    "premium": true,
+    "positive": true,
+    "id": 11084
+  },
+  {
+    "preset_id": 1584,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Obudźcie mnie, kiedy wygracie ligę.",
+    "premium": true,
+    "positive": true,
+    "id": 11085
+  },
+  {
+    "preset_id": 1584,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Разбудите меня, когда выиграете лигу.",
+    "premium": true,
+    "positive": true,
+    "id": 11086
+  },
+  {
+    "preset_id": 1584,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "等你们赢联赛的时候叫醒我。",
+    "premium": true,
+    "positive": true,
+    "id": 11087
+  }
+]

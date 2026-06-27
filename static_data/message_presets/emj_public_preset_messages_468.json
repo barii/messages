@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 468,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Fair point",
+    "premium": false,
+    "positive": true,
+    "id": 3269
+  },
+  {
+    "preset_id": 468,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Buen punto",
+    "premium": false,
+    "positive": true,
+    "id": 3270
+  },
+  {
+    "preset_id": 468,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Guter Punkt",
+    "premium": false,
+    "positive": true,
+    "id": 3271
+  },
+  {
+    "preset_id": 468,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Bom ponto",
+    "premium": false,
+    "positive": true,
+    "id": 3272
+  },
+  {
+    "preset_id": 468,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Słuszna uwaga",
+    "premium": false,
+    "positive": true,
+    "id": 3273
+  },
+  {
+    "preset_id": 468,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Хорошая точка",
+    "premium": false,
+    "positive": true,
+    "id": 3274
+  },
+  {
+    "preset_id": 468,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "好观点",
+    "premium": false,
+    "positive": true,
+    "id": 3275
+  }
+]

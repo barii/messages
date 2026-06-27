@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1728,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Not in our house!",
+    "premium": false,
+    "positive": true,
+    "id": 12089
+  },
+  {
+    "preset_id": 1728,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Not in our house!",
+    "premium": false,
+    "positive": true,
+    "id": 12090
+  },
+  {
+    "preset_id": 1728,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Not in our house!",
+    "premium": false,
+    "positive": true,
+    "id": 12091
+  },
+  {
+    "preset_id": 1728,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Not in our house!",
+    "premium": false,
+    "positive": true,
+    "id": 12092
+  },
+  {
+    "preset_id": 1728,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Not in our house!",
+    "premium": false,
+    "positive": true,
+    "id": 12093
+  },
+  {
+    "preset_id": 1728,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Not in our house!",
+    "premium": false,
+    "positive": true,
+    "id": 12094
+  },
+  {
+    "preset_id": 1728,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Not in our house!",
+    "premium": false,
+    "positive": true,
+    "id": 12095
+  }
+]

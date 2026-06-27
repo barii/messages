@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1321,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Enjoy the drop.",
+    "premium": false,
+    "positive": true,
+    "id": 9240
+  },
+  {
+    "preset_id": 1321,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Disfrutad del descenso.",
+    "premium": false,
+    "positive": true,
+    "id": 9241
+  },
+  {
+    "preset_id": 1321,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Genießt den Abstieg.",
+    "premium": false,
+    "positive": true,
+    "id": 9242
+  },
+  {
+    "preset_id": 1321,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Aproveitem a descida.",
+    "premium": false,
+    "positive": true,
+    "id": 9243
+  },
+  {
+    "preset_id": 1321,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Bawcie się dobrze na spadku.",
+    "premium": false,
+    "positive": true,
+    "id": 9244
+  },
+  {
+    "preset_id": 1321,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Наслаждайтесь вылетом.",
+    "premium": false,
+    "positive": true,
+    "id": 9245
+  },
+  {
+    "preset_id": 1321,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "享受降级吧。",
+    "premium": false,
+    "positive": true,
+    "id": 9246
+  }
+]

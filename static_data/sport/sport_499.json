@@ -1,0 +1,86 @@
+[
+  {
+    "id": 3493,
+    "preset_id": 499,
+    "cat_emoji": "⚾",
+    "lang": "EN",
+    "category": "MLB Baseball Teams",
+    "text": "Milwaukee Brewers",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  },
+  {
+    "id": 3494,
+    "preset_id": 499,
+    "cat_emoji": "⚾",
+    "lang": "ES",
+    "category": " Equipos de Béisbol de la MLB",
+    "text": "Milwaukee Brewers",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  },
+  {
+    "id": 3495,
+    "preset_id": 499,
+    "cat_emoji": "⚾",
+    "lang": "DE",
+    "category": "MLB Baseball Teams",
+    "text": "Milwaukee Brewers",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  },
+  {
+    "id": 3496,
+    "preset_id": 499,
+    "cat_emoji": "⚾",
+    "lang": "PL",
+    "category": "Drużyny baseballowe MLB",
+    "text": "Milwaukee Brewers",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  },
+  {
+    "id": 3497,
+    "preset_id": 499,
+    "cat_emoji": "⚾",
+    "lang": "RU",
+    "category": "Команды бейсбольной лиги MLB",
+    "text": "Milwaukee Brewers",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  },
+  {
+    "id": 3498,
+    "preset_id": 499,
+    "cat_emoji": "⚾",
+    "lang": "PT",
+    "category": "Times de Beisebol da MLB",
+    "text": "Milwaukee Brewers",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  },
+  {
+    "id": 3499,
+    "preset_id": 499,
+    "cat_emoji": "⚾",
+    "lang": "CN",
+    "category": "MLB棒球队",
+    "text": "Milwaukee Brewers",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "⚾",
+    "continent": "American"
+  }
+]

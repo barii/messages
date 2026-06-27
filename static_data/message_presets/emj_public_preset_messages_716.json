@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 716,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Don't even worry about it",
+    "premium": false,
+    "positive": true,
+    "id": 5005
+  },
+  {
+    "preset_id": 716,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "No te preocupes para nada",
+    "premium": false,
+    "positive": true,
+    "id": 5006
+  },
+  {
+    "preset_id": 716,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Mach dir keine Sorgen",
+    "premium": false,
+    "positive": true,
+    "id": 5007
+  },
+  {
+    "preset_id": 716,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Nem te preocupes com isso",
+    "premium": false,
+    "positive": true,
+    "id": 5008
+  },
+  {
+    "preset_id": 716,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "W ogóle się nie martw",
+    "premium": false,
+    "positive": true,
+    "id": 5009
+  },
+  {
+    "preset_id": 716,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Даже не переживай",
+    "premium": false,
+    "positive": true,
+    "id": 5010
+  },
+  {
+    "preset_id": 716,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "别担心",
+    "premium": false,
+    "positive": true,
+    "id": 5011
+  }
+]

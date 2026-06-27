@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1342,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You didn't have a single shot on target.",
+    "premium": false,
+    "positive": true,
+    "id": 9387
+  },
+  {
+    "preset_id": 1342,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "No habéis tenido ni un solo tiro a portería.",
+    "premium": false,
+    "positive": true,
+    "id": 9388
+  },
+  {
+    "preset_id": 1342,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr hattet keinen einzigen Torschuss.",
+    "premium": false,
+    "positive": true,
+    "id": 9389
+  },
+  {
+    "preset_id": 1342,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Não tiveram um único remate à baliza.",
+    "premium": false,
+    "positive": true,
+    "id": 9390
+  },
+  {
+    "preset_id": 1342,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Nie mieliście ani jednego strzału na bramkę.",
+    "premium": false,
+    "positive": true,
+    "id": 9391
+  },
+  {
+    "preset_id": 1342,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "У вас не было ни одного удара в створ.",
+    "premium": false,
+    "positive": true,
+    "id": 9392
+  },
+  {
+    "preset_id": 1342,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们一脚射正都没有。",
+    "premium": false,
+    "positive": true,
+    "id": 9393
+  }
+]

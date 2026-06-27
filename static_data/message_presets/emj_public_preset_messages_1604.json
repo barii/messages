@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1604,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Form is temporary.",
+    "premium": false,
+    "positive": true,
+    "id": 11221
+  },
+  {
+    "preset_id": 1604,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "La forma es temporal.",
+    "premium": false,
+    "positive": true,
+    "id": 11222
+  },
+  {
+    "preset_id": 1604,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Form ist temporär.",
+    "premium": false,
+    "positive": true,
+    "id": 11223
+  },
+  {
+    "preset_id": 1604,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "A forma é temporária.",
+    "premium": false,
+    "positive": true,
+    "id": 11224
+  },
+  {
+    "preset_id": 1604,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Forma jest tymczasowa.",
+    "premium": false,
+    "positive": true,
+    "id": 11225
+  },
+  {
+    "preset_id": 1604,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Форма временна.",
+    "premium": false,
+    "positive": true,
+    "id": 11226
+  },
+  {
+    "preset_id": 1604,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "状态是暂时的。",
+    "premium": false,
+    "positive": true,
+    "id": 11227
+  }
+]

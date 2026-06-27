@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1445,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Back to winning ways.",
+    "premium": false,
+    "positive": true,
+    "id": 10108
+  },
+  {
+    "preset_id": 1445,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "De vuelta a las victorias.",
+    "premium": false,
+    "positive": true,
+    "id": 10109
+  },
+  {
+    "preset_id": 1445,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Zurück auf der Erfolgsspur.",
+    "premium": false,
+    "positive": true,
+    "id": 10110
+  },
+  {
+    "preset_id": 1445,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "De volta às vitórias.",
+    "premium": false,
+    "positive": true,
+    "id": 10111
+  },
+  {
+    "preset_id": 1445,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Powrót na ścieżkę zwycięstw.",
+    "premium": false,
+    "positive": true,
+    "id": 10112
+  },
+  {
+    "preset_id": 1445,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Возвращение к победам.",
+    "premium": false,
+    "positive": true,
+    "id": 10113
+  },
+  {
+    "preset_id": 1445,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "回到胜利轨道。",
+    "premium": false,
+    "positive": true,
+    "id": 10114
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1126,
+    "cat_emoji": "1F44B",
+    "lang": "EN",
+    "category": "Greetings",
+    "text": "Hi friend",
+    "premium": false,
+    "positive": true,
+    "id": 7875
+  },
+  {
+    "preset_id": 1126,
+    "cat_emoji": "1F44B",
+    "lang": "ES",
+    "category": "Saludos",
+    "text": "Hola, amigo",
+    "premium": false,
+    "positive": true,
+    "id": 7876
+  },
+  {
+    "preset_id": 1126,
+    "cat_emoji": "1F44B",
+    "lang": "DE",
+    "category": "Begrüßungen",
+    "text": "Hi Freund",
+    "premium": false,
+    "positive": true,
+    "id": 7877
+  },
+  {
+    "preset_id": 1126,
+    "cat_emoji": "1F44B",
+    "lang": "PT",
+    "category": "Cumprimentos",
+    "text": "Olá amigo",
+    "premium": false,
+    "positive": true,
+    "id": 7878
+  },
+  {
+    "preset_id": 1126,
+    "cat_emoji": "1F44B",
+    "lang": "PL",
+    "category": "Pozdrowienia",
+    "text": "Cześć przyjacielu",
+    "premium": false,
+    "positive": true,
+    "id": 7879
+  },
+  {
+    "preset_id": 1126,
+    "cat_emoji": "1F44B",
+    "lang": "RU",
+    "category": "Поздравления",
+    "text": "Привет, друг",
+    "premium": false,
+    "positive": true,
+    "id": 7880
+  },
+  {
+    "preset_id": 1126,
+    "cat_emoji": "1F44B",
+    "lang": "CN",
+    "category": "问候语",
+    "text": "嗨朋友",
+    "premium": false,
+    "positive": true,
+    "id": 7881
+  }
+]

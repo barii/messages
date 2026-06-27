@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 29,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "Your rizz is unmatched",
+    "premium": true,
+    "positive": true,
+    "id": 196
+  },
+  {
+    "preset_id": 29,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Tu rizz no tiene igual",
+    "premium": true,
+    "positive": true,
+    "id": 197
+  },
+  {
+    "preset_id": 29,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Dein Rizz ist unübertroffen",
+    "premium": true,
+    "positive": true,
+    "id": 198
+  },
+  {
+    "preset_id": 29,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "O teu rizz não tem igual",
+    "premium": true,
+    "positive": true,
+    "id": 199
+  },
+  {
+    "preset_id": 29,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Twój rizz jest niezrównany",
+    "premium": true,
+    "positive": true,
+    "id": 200
+  },
+  {
+    "preset_id": 29,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Твой rizz непревзойдён",
+    "premium": true,
+    "positive": true,
+    "id": 201
+  },
+  {
+    "preset_id": 29,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你的魅力无与伦比",
+    "premium": true,
+    "positive": true,
+    "id": 202
+  }
+]

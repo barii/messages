@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 115,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Are you happy right now?",
+    "premium": false,
+    "positive": true,
+    "id": 798
+  },
+  {
+    "preset_id": 115,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Estás contento ahora mismo?",
+    "premium": false,
+    "positive": true,
+    "id": 799
+  },
+  {
+    "preset_id": 115,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Bist du gerade glücklich?",
+    "premium": false,
+    "positive": true,
+    "id": 800
+  },
+  {
+    "preset_id": 115,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Estás feliz agora?",
+    "premium": false,
+    "positive": true,
+    "id": 801
+  },
+  {
+    "preset_id": 115,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Czy jesteś teraz szczęśliwy?",
+    "premium": false,
+    "positive": true,
+    "id": 802
+  },
+  {
+    "preset_id": 115,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты счастлив сейчас?",
+    "premium": false,
+    "positive": true,
+    "id": 803
+  },
+  {
+    "preset_id": 115,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你现在开心吗?",
+    "premium": false,
+    "positive": true,
+    "id": 804
+  }
+]

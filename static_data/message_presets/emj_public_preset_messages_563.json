@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 563,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Sending love",
+    "premium": false,
+    "positive": true,
+    "id": 3934
+  },
+  {
+    "preset_id": 563,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Te mando amor",
+    "premium": false,
+    "positive": true,
+    "id": 3935
+  },
+  {
+    "preset_id": 563,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Sende Liebe",
+    "premium": false,
+    "positive": true,
+    "id": 3936
+  },
+  {
+    "preset_id": 563,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "A mandar amor",
+    "premium": false,
+    "positive": true,
+    "id": 3937
+  },
+  {
+    "preset_id": 563,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Wysyłam miłość",
+    "premium": false,
+    "positive": true,
+    "id": 3938
+  },
+  {
+    "preset_id": 563,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Шлю любовь",
+    "premium": false,
+    "positive": true,
+    "id": 3939
+  },
+  {
+    "preset_id": 563,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "送上爱",
+    "premium": false,
+    "positive": true,
+    "id": 3940
+  }
+]

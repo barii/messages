@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1438,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Comfortable.",
+    "premium": false,
+    "positive": true,
+    "id": 10059
+  },
+  {
+    "preset_id": 1438,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Cómodo.",
+    "premium": false,
+    "positive": true,
+    "id": 10060
+  },
+  {
+    "preset_id": 1438,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Souverän.",
+    "premium": false,
+    "positive": true,
+    "id": 10061
+  },
+  {
+    "preset_id": 1438,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Confortável.",
+    "premium": false,
+    "positive": true,
+    "id": 10062
+  },
+  {
+    "preset_id": 1438,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Komfortowo.",
+    "premium": false,
+    "positive": true,
+    "id": 10063
+  },
+  {
+    "preset_id": 1438,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Комфортно.",
+    "premium": false,
+    "positive": true,
+    "id": 10064
+  },
+  {
+    "preset_id": 1438,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "轻松。",
+    "premium": false,
+    "positive": true,
+    "id": 10065
+  }
+]

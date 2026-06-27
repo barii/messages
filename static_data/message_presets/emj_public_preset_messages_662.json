@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 662,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "Riveting",
+    "premium": false,
+    "positive": true,
+    "id": 4627
+  },
+  {
+    "preset_id": 662,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Cautivador",
+    "premium": false,
+    "positive": true,
+    "id": 4628
+  },
+  {
+    "preset_id": 662,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Spannend",
+    "premium": false,
+    "positive": true,
+    "id": 4629
+  },
+  {
+    "preset_id": 662,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Cativante",
+    "premium": false,
+    "positive": true,
+    "id": 4630
+  },
+  {
+    "preset_id": 662,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Pasjonujące",
+    "premium": false,
+    "positive": true,
+    "id": 4631
+  },
+  {
+    "preset_id": 662,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Увлекательно",
+    "premium": false,
+    "positive": true,
+    "id": 4632
+  },
+  {
+    "preset_id": 662,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "引人入胜",
+    "premium": false,
+    "positive": true,
+    "id": 4633
+  }
+]

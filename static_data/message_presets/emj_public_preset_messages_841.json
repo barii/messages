@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 841,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I have feelings for you",
+    "premium": false,
+    "positive": true,
+    "id": 5880
+  },
+  {
+    "preset_id": 841,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Tengo sentimientos por ti",
+    "premium": false,
+    "positive": true,
+    "id": 5881
+  },
+  {
+    "preset_id": 841,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich habe Gefühle für dich",
+    "premium": false,
+    "positive": true,
+    "id": 5882
+  },
+  {
+    "preset_id": 841,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Tenho sentimentos por ti",
+    "premium": false,
+    "positive": true,
+    "id": 5883
+  },
+  {
+    "preset_id": 841,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Mam do ciebie uczucia",
+    "premium": false,
+    "positive": true,
+    "id": 5884
+  },
+  {
+    "preset_id": 841,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "У меня есть чувства к тебе",
+    "premium": false,
+    "positive": true,
+    "id": 5885
+  },
+  {
+    "preset_id": 841,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我对你有感觉",
+    "premium": false,
+    "positive": true,
+    "id": 5886
+  }
+]

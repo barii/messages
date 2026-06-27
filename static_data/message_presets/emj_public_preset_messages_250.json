@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 250,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We met on a night out",
+    "premium": false,
+    "positive": true,
+    "id": 1743
+  },
+  {
+    "preset_id": 250,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Nos conocimos en una salida nocturna",
+    "premium": false,
+    "positive": true,
+    "id": 1744
+  },
+  {
+    "preset_id": 250,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir haben uns auf einer Nacht aus kennengelernt",
+    "premium": false,
+    "positive": true,
+    "id": 1745
+  },
+  {
+    "preset_id": 250,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Conhecemo-nos numa noite",
+    "premium": false,
+    "positive": true,
+    "id": 1746
+  },
+  {
+    "preset_id": 250,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Poznaliśmy się podczas wieczornego wyjścia",
+    "premium": false,
+    "positive": true,
+    "id": 1747
+  },
+  {
+    "preset_id": 250,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы познакомились на ночной прогулке",
+    "premium": false,
+    "positive": true,
+    "id": 1748
+  },
+  {
+    "preset_id": 250,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们在某次出去玩时认识",
+    "premium": false,
+    "positive": true,
+    "id": 1749
+  }
+]

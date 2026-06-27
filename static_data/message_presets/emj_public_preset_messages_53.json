@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 53,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're family to me",
+    "premium": false,
+    "positive": true,
+    "id": 364
+  },
+  {
+    "preset_id": 53,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres como familia para mí",
+    "premium": false,
+    "positive": true,
+    "id": 365
+  },
+  {
+    "preset_id": 53,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist Familie für mich",
+    "premium": false,
+    "positive": true,
+    "id": 366
+  },
+  {
+    "preset_id": 53,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És família para mim",
+    "premium": false,
+    "positive": true,
+    "id": 367
+  },
+  {
+    "preset_id": 53,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś dla mnie jak rodzina",
+    "premium": false,
+    "positive": true,
+    "id": 368
+  },
+  {
+    "preset_id": 53,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты для меня как семья",
+    "premium": false,
+    "positive": true,
+    "id": 369
+  },
+  {
+    "preset_id": 53,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你对我来说像家人",
+    "premium": false,
+    "positive": true,
+    "id": 370
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 830,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I really like you",
+    "premium": false,
+    "positive": true,
+    "id": 5803
+  },
+  {
+    "preset_id": 830,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Me gustas mucho",
+    "premium": false,
+    "positive": true,
+    "id": 5804
+  },
+  {
+    "preset_id": 830,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich mag dich wirklich",
+    "premium": false,
+    "positive": true,
+    "id": 5805
+  },
+  {
+    "preset_id": 830,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Gosto mesmo de ti",
+    "premium": false,
+    "positive": true,
+    "id": 5806
+  },
+  {
+    "preset_id": 830,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Bardzo mi się podobasz",
+    "premium": false,
+    "positive": true,
+    "id": 5807
+  },
+  {
+    "preset_id": 830,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты мне очень нравишься",
+    "premium": false,
+    "positive": true,
+    "id": 5808
+  },
+  {
+    "preset_id": 830,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我真的喜欢你",
+    "premium": false,
+    "positive": true,
+    "id": 5809
+  }
+]

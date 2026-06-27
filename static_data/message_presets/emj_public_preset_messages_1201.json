@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1201,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "Do you have a map because I keep getting lost in your eyes?",
+    "premium": true,
+    "positive": true,
+    "id": 8400
+  },
+  {
+    "preset_id": 1201,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "¿Tienes un mapa? Porque me pierdo en tus ojos",
+    "premium": true,
+    "positive": true,
+    "id": 8401
+  },
+  {
+    "preset_id": 1201,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Hast du eine Karte? Denn ich verirre mich immer in deinen Augen",
+    "premium": true,
+    "positive": true,
+    "id": 8402
+  },
+  {
+    "preset_id": 1201,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "Tens um mapa? Porque me perco nos teus olhos",
+    "premium": true,
+    "positive": true,
+    "id": 8403
+  },
+  {
+    "preset_id": 1201,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Masz mapę? Bo wciąż gubię się w twoich oczach",
+    "premium": true,
+    "positive": true,
+    "id": 8404
+  },
+  {
+    "preset_id": 1201,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "У тебя есть карта? Потому что я постоянно теряюсь в твоих глазах",
+    "premium": true,
+    "positive": true,
+    "id": 8405
+  },
+  {
+    "preset_id": 1201,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "你有地图吗?因为我一直在你的眼睛里迷路",
+    "premium": true,
+    "positive": true,
+    "id": 8406
+  }
+]

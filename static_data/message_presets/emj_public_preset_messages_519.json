@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 519,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Burnt out",
+    "premium": false,
+    "positive": true,
+    "id": 3626
+  },
+  {
+    "preset_id": 519,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Quemado",
+    "premium": false,
+    "positive": true,
+    "id": 3627
+  },
+  {
+    "preset_id": 519,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ausgebrannt",
+    "premium": false,
+    "positive": true,
+    "id": 3628
+  },
+  {
+    "preset_id": 519,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Esgotado",
+    "premium": false,
+    "positive": true,
+    "id": 3629
+  },
+  {
+    "preset_id": 519,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Wypalony",
+    "premium": false,
+    "positive": true,
+    "id": 3630
+  },
+  {
+    "preset_id": 519,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Выгорел",
+    "premium": false,
+    "positive": true,
+    "id": 3631
+  },
+  {
+    "preset_id": 519,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "倦怠",
+    "premium": false,
+    "positive": true,
+    "id": 3632
+  }
+]

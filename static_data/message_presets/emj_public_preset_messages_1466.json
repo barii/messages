@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1466,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We barely tried.",
+    "premium": false,
+    "positive": true,
+    "id": 10255
+  },
+  {
+    "preset_id": 1466,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Apenas lo intentamos.",
+    "premium": false,
+    "positive": true,
+    "id": 10256
+  },
+  {
+    "preset_id": 1466,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir haben uns kaum angestrengt.",
+    "premium": false,
+    "positive": true,
+    "id": 10257
+  },
+  {
+    "preset_id": 1466,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Mal nos esforçámos.",
+    "premium": false,
+    "positive": true,
+    "id": 10258
+  },
+  {
+    "preset_id": 1466,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Ledwo się staraliśmy.",
+    "premium": false,
+    "positive": true,
+    "id": 10259
+  },
+  {
+    "preset_id": 1466,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Мы едва старались.",
+    "premium": false,
+    "positive": true,
+    "id": 10260
+  },
+  {
+    "preset_id": 1466,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们几乎没努力。",
+    "premium": false,
+    "positive": true,
+    "id": 10261
+  }
+]

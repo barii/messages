@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1745,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Hold that line!",
+    "premium": false,
+    "positive": true,
+    "id": 12208
+  },
+  {
+    "preset_id": 1745,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Hold that line!",
+    "premium": false,
+    "positive": true,
+    "id": 12209
+  },
+  {
+    "preset_id": 1745,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Hold that line!",
+    "premium": false,
+    "positive": true,
+    "id": 12210
+  },
+  {
+    "preset_id": 1745,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Hold that line!",
+    "premium": false,
+    "positive": true,
+    "id": 12211
+  },
+  {
+    "preset_id": 1745,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Hold that line!",
+    "premium": false,
+    "positive": true,
+    "id": 12212
+  },
+  {
+    "preset_id": 1745,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Hold that line!",
+    "premium": false,
+    "positive": true,
+    "id": 12213
+  },
+  {
+    "preset_id": 1745,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Hold that line!",
+    "premium": false,
+    "positive": true,
+    "id": 12214
+  }
+]

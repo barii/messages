@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1386,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Your team is cooked.",
+    "premium": false,
+    "positive": true,
+    "id": 9695
+  },
+  {
+    "preset_id": 1386,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Your team is cooked.",
+    "premium": false,
+    "positive": true,
+    "id": 9696
+  },
+  {
+    "preset_id": 1386,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Your team is cooked.",
+    "premium": false,
+    "positive": true,
+    "id": 9697
+  },
+  {
+    "preset_id": 1386,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Your team is cooked.",
+    "premium": false,
+    "positive": true,
+    "id": 9698
+  },
+  {
+    "preset_id": 1386,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Your team is cooked.",
+    "premium": false,
+    "positive": true,
+    "id": 9699
+  },
+  {
+    "preset_id": 1386,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Your team is cooked.",
+    "premium": false,
+    "positive": true,
+    "id": 9700
+  },
+  {
+    "preset_id": 1386,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "Your team is cooked.",
+    "premium": false,
+    "positive": true,
+    "id": 9701
+  }
+]

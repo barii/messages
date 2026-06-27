@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 275,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "You see me more than you realize",
+    "premium": false,
+    "positive": true,
+    "id": 1918
+  },
+  {
+    "preset_id": 275,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Me ves más de lo que crees",
+    "premium": false,
+    "positive": true,
+    "id": 1919
+  },
+  {
+    "preset_id": 275,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Du siehst mich öfter, als dir bewusst ist",
+    "premium": false,
+    "positive": true,
+    "id": 1920
+  },
+  {
+    "preset_id": 275,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Vês-me mais do que percebes",
+    "premium": false,
+    "positive": true,
+    "id": 1921
+  },
+  {
+    "preset_id": 275,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Widzisz mnie częściej, niż zdajesz sobie sprawę",
+    "premium": false,
+    "positive": true,
+    "id": 1922
+  },
+  {
+    "preset_id": 275,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Ты видишь меня чаще, чем осознаёшь",
+    "premium": false,
+    "positive": true,
+    "id": 1923
+  },
+  {
+    "preset_id": 275,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "你比意识到的更常见到我",
+    "premium": false,
+    "positive": true,
+    "id": 1924
+  }
+]

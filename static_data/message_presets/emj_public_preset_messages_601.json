@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 601,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "You have a point",
+    "premium": false,
+    "positive": true,
+    "id": 4200
+  },
+  {
+    "preset_id": 601,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Tienes un punto",
+    "premium": false,
+    "positive": true,
+    "id": 4201
+  },
+  {
+    "preset_id": 601,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Du hast einen Punkt",
+    "premium": false,
+    "positive": true,
+    "id": 4202
+  },
+  {
+    "preset_id": 601,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Tens razão",
+    "premium": false,
+    "positive": true,
+    "id": 4203
+  },
+  {
+    "preset_id": 601,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Masz rację",
+    "premium": false,
+    "positive": true,
+    "id": 4204
+  },
+  {
+    "preset_id": 601,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "У тебя есть точка зрения",
+    "premium": false,
+    "positive": true,
+    "id": 4205
+  },
+  {
+    "preset_id": 601,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "你有道理",
+    "premium": false,
+    "positive": true,
+    "id": 4206
+  }
+]

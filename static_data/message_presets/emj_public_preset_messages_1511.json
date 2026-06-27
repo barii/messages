@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1511,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Winners win.",
+    "premium": false,
+    "positive": true,
+    "id": 10570
+  },
+  {
+    "preset_id": 1511,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Los ganadores ganan.",
+    "premium": false,
+    "positive": true,
+    "id": 10571
+  },
+  {
+    "preset_id": 1511,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Gewinner gewinnen.",
+    "premium": false,
+    "positive": true,
+    "id": 10572
+  },
+  {
+    "preset_id": 1511,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Os vencedores ganham.",
+    "premium": false,
+    "positive": true,
+    "id": 10573
+  },
+  {
+    "preset_id": 1511,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Zwycięzcy wygrywają.",
+    "premium": false,
+    "positive": true,
+    "id": 10574
+  },
+  {
+    "preset_id": 1511,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Победители выигрывают.",
+    "premium": false,
+    "positive": true,
+    "id": 10575
+  },
+  {
+    "preset_id": 1511,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "赢家就是赢家。",
+    "premium": false,
+    "positive": true,
+    "id": 10576
+  }
+]

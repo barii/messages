@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 828,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I think I have a crush on you",
+    "premium": false,
+    "positive": true,
+    "id": 5789
+  },
+  {
+    "preset_id": 828,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Creo que me gustas",
+    "premium": false,
+    "positive": true,
+    "id": 5790
+  },
+  {
+    "preset_id": 828,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich glaube, ich bin in dich verknallt",
+    "premium": false,
+    "positive": true,
+    "id": 5791
+  },
+  {
+    "preset_id": 828,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Acho que tenho um fraquinho por ti",
+    "premium": false,
+    "positive": true,
+    "id": 5792
+  },
+  {
+    "preset_id": 828,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Chyba się w tobie podkochuję",
+    "premium": false,
+    "positive": true,
+    "id": 5793
+  },
+  {
+    "preset_id": 828,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Кажется, я влюбился в тебя",
+    "premium": false,
+    "positive": true,
+    "id": 5794
+  },
+  {
+    "preset_id": 828,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我想我喜欢你",
+    "premium": false,
+    "positive": true,
+    "id": 5795
+  }
+]

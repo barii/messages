@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 23,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You always dress well",
+    "premium": false,
+    "positive": true,
+    "id": 154
+  },
+  {
+    "preset_id": 23,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Siempre vistes bien",
+    "premium": false,
+    "positive": true,
+    "id": 155
+  },
+  {
+    "preset_id": 23,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du ziehst dich immer gut an",
+    "premium": false,
+    "positive": true,
+    "id": 156
+  },
+  {
+    "preset_id": 23,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Vestes-te sempre bem",
+    "premium": false,
+    "positive": true,
+    "id": 157
+  },
+  {
+    "preset_id": 23,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Zawsze się dobrze ubierasz",
+    "premium": false,
+    "positive": true,
+    "id": 158
+  },
+  {
+    "preset_id": 23,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты всегда хорошо одет",
+    "premium": false,
+    "positive": true,
+    "id": 159
+  },
+  {
+    "preset_id": 23,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你总是穿得很好",
+    "premium": false,
+    "positive": true,
+    "id": 160
+  }
+]

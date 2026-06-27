@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 591,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Just kidding",
+    "premium": false,
+    "positive": true,
+    "id": 4130
+  },
+  {
+    "preset_id": 591,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Solo bromeo",
+    "premium": false,
+    "positive": true,
+    "id": 4131
+  },
+  {
+    "preset_id": 591,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Nur ein Scherz",
+    "premium": false,
+    "positive": true,
+    "id": 4132
+  },
+  {
+    "preset_id": 591,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Só a brincar",
+    "premium": false,
+    "positive": true,
+    "id": 4133
+  },
+  {
+    "preset_id": 591,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Żartowałem",
+    "premium": false,
+    "positive": true,
+    "id": 4134
+  },
+  {
+    "preset_id": 591,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Просто шучу",
+    "premium": false,
+    "positive": true,
+    "id": 4135
+  },
+  {
+    "preset_id": 591,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "只是开玩笑",
+    "premium": false,
+    "positive": true,
+    "id": 4136
+  }
+]

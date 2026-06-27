@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1485,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Our striker is on fire.",
+    "premium": false,
+    "positive": true,
+    "id": 10388
+  },
+  {
+    "preset_id": 1485,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Nuestro delantero está en racha.",
+    "premium": false,
+    "positive": true,
+    "id": 10389
+  },
+  {
+    "preset_id": 1485,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Unser Stürmer ist in Form.",
+    "premium": false,
+    "positive": true,
+    "id": 10390
+  },
+  {
+    "preset_id": 1485,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "O nosso avançado está em fase.",
+    "premium": false,
+    "positive": true,
+    "id": 10391
+  },
+  {
+    "preset_id": 1485,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Nasz napastnik jest w formie.",
+    "premium": false,
+    "positive": true,
+    "id": 10392
+  },
+  {
+    "preset_id": 1485,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Наш нападающий в форме.",
+    "premium": false,
+    "positive": true,
+    "id": 10393
+  },
+  {
+    "preset_id": 1485,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们的前锋状态正佳。",
+    "premium": false,
+    "positive": true,
+    "id": 10394
+  }
+]

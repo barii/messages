@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 881,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "Date night",
+    "premium": false,
+    "positive": true,
+    "id": 6160
+  },
+  {
+    "preset_id": 881,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Cita nocturna",
+    "premium": false,
+    "positive": true,
+    "id": 6161
+  },
+  {
+    "preset_id": 881,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Date Night",
+    "premium": false,
+    "positive": true,
+    "id": 6162
+  },
+  {
+    "preset_id": 881,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Noite de encontro",
+    "premium": false,
+    "positive": true,
+    "id": 6163
+  },
+  {
+    "preset_id": 881,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Randka wieczorem",
+    "premium": false,
+    "positive": true,
+    "id": 6164
+  },
+  {
+    "preset_id": 881,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Свидание вечером",
+    "premium": false,
+    "positive": true,
+    "id": 6165
+  },
+  {
+    "preset_id": 881,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "约会之夜",
+    "premium": false,
+    "positive": true,
+    "id": 6166
+  }
+]

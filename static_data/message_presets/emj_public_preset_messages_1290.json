@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1290,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Joke club.",
+    "premium": false,
+    "positive": true,
+    "id": 9023
+  },
+  {
+    "preset_id": 1290,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Club de chiste.",
+    "premium": false,
+    "positive": true,
+    "id": 9024
+  },
+  {
+    "preset_id": 1290,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Witzverein.",
+    "premium": false,
+    "positive": true,
+    "id": 9025
+  },
+  {
+    "preset_id": 1290,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Clube de palhaços.",
+    "premium": false,
+    "positive": true,
+    "id": 9026
+  },
+  {
+    "preset_id": 1290,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Żart, a nie klub.",
+    "premium": false,
+    "positive": true,
+    "id": 9027
+  },
+  {
+    "preset_id": 1290,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Шутка, а не клуб.",
+    "premium": false,
+    "positive": true,
+    "id": 9028
+  },
+  {
+    "preset_id": 1290,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "笑话俱乐部。",
+    "premium": false,
+    "positive": true,
+    "id": 9029
+  }
+]

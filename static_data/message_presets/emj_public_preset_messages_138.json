@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 138,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Do you ever think of me?",
+    "premium": false,
+    "positive": true,
+    "id": 959
+  },
+  {
+    "preset_id": 138,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Alguna vez piensas en mí?",
+    "premium": false,
+    "positive": true,
+    "id": 960
+  },
+  {
+    "preset_id": 138,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Denkst du je an mich?",
+    "premium": false,
+    "positive": true,
+    "id": 961
+  },
+  {
+    "preset_id": 138,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Alguma vez pensas em mim?",
+    "premium": false,
+    "positive": true,
+    "id": 962
+  },
+  {
+    "preset_id": 138,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Myślisz czasem o mnie?",
+    "premium": false,
+    "positive": true,
+    "id": 963
+  },
+  {
+    "preset_id": 138,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты когда-нибудь думаешь обо мне?",
+    "premium": false,
+    "positive": true,
+    "id": 964
+  },
+  {
+    "preset_id": 138,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你有没有想过我?",
+    "premium": false,
+    "positive": true,
+    "id": 965
+  }
+]

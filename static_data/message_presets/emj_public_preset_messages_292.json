@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 292,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm having a rough day",
+    "premium": false,
+    "positive": true,
+    "id": 2037
+  },
+  {
+    "preset_id": 292,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Estoy teniendo un mal día",
+    "premium": false,
+    "positive": true,
+    "id": 2038
+  },
+  {
+    "preset_id": 292,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich habe einen harten Tag",
+    "premium": false,
+    "positive": true,
+    "id": 2039
+  },
+  {
+    "preset_id": 292,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Estou a ter um dia difícil",
+    "premium": false,
+    "positive": true,
+    "id": 2040
+  },
+  {
+    "preset_id": 292,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Mam trudny dzień",
+    "premium": false,
+    "positive": true,
+    "id": 2041
+  },
+  {
+    "preset_id": 292,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "У меня тяжёлый день",
+    "premium": false,
+    "positive": true,
+    "id": 2042
+  },
+  {
+    "preset_id": 292,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我今天过得不好",
+    "premium": false,
+    "positive": true,
+    "id": 2043
+  }
+]

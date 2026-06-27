@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1288,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Clown show.",
+    "premium": false,
+    "positive": true,
+    "id": 9009
+  },
+  {
+    "preset_id": 1288,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Espectáculo de payasos.",
+    "premium": false,
+    "positive": true,
+    "id": 9010
+  },
+  {
+    "preset_id": 1288,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Zirkusvorstellung.",
+    "premium": false,
+    "positive": true,
+    "id": 9011
+  },
+  {
+    "preset_id": 1288,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Espectáculo de palhaços.",
+    "premium": false,
+    "positive": true,
+    "id": 9012
+  },
+  {
+    "preset_id": 1288,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Cyrk na kółkach.",
+    "premium": false,
+    "positive": true,
+    "id": 9013
+  },
+  {
+    "preset_id": 1288,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Цирк.",
+    "premium": false,
+    "positive": true,
+    "id": 9014
+  },
+  {
+    "preset_id": 1288,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "小丑表演。",
+    "premium": false,
+    "positive": true,
+    "id": 9015
+  }
+]

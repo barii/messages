@@ -1,0 +1,86 @@
+[
+  {
+    "id": 616,
+    "preset_id": 88,
+    "cat_emoji": "🇦🇷",
+    "lang": "EN",
+    "category": "Independiente Rivadavia",
+    "text": "",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 617,
+    "preset_id": 88,
+    "cat_emoji": "🇦🇷",
+    "lang": "ES",
+    "category": "Independiente Rivadavia",
+    "text": "",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 618,
+    "preset_id": 88,
+    "cat_emoji": "🇦🇷",
+    "lang": "DE",
+    "category": "Independiente Rivadavia",
+    "text": "",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 619,
+    "preset_id": 88,
+    "cat_emoji": "🇦🇷",
+    "lang": "PL",
+    "category": "Independiente Rivadavia",
+    "text": "",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 620,
+    "preset_id": 88,
+    "cat_emoji": "🇦🇷",
+    "lang": "RU",
+    "category": "Independiente Rivadavia",
+    "text": "",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 621,
+    "preset_id": 88,
+    "cat_emoji": "🇦🇷",
+    "lang": "PT",
+    "category": "Independiente Rivadavia",
+    "text": "",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  },
+  {
+    "id": 622,
+    "preset_id": 88,
+    "cat_emoji": "🇦🇷",
+    "lang": "CN",
+    "category": "Independiente Rivadavia",
+    "text": "",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇦🇷",
+    "continent": "European"
+  }
+]

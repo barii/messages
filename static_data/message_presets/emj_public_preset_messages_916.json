@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 916,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "This too shall pass",
+    "premium": false,
+    "positive": true,
+    "id": 6405
+  },
+  {
+    "preset_id": 916,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Esto también pasará",
+    "premium": false,
+    "positive": true,
+    "id": 6406
+  },
+  {
+    "preset_id": 916,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Auch das geht vorbei",
+    "premium": false,
+    "positive": true,
+    "id": 6407
+  },
+  {
+    "preset_id": 916,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Isto também vai passar",
+    "premium": false,
+    "positive": true,
+    "id": 6408
+  },
+  {
+    "preset_id": 916,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "To też minie",
+    "premium": false,
+    "positive": true,
+    "id": 6409
+  },
+  {
+    "preset_id": 916,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Это тоже пройдёт",
+    "premium": false,
+    "positive": true,
+    "id": 6410
+  },
+  {
+    "preset_id": 916,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "这也会过去的",
+    "premium": false,
+    "positive": true,
+    "id": 6411
+  }
+]

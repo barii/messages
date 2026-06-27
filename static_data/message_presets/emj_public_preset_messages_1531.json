@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1531,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Your trophy cabinet is not exactly full, either.",
+    "premium": true,
+    "positive": true,
+    "id": 10710
+  },
+  {
+    "preset_id": 1531,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Vuestra vitrina de trofeos tampoco está muy llena.",
+    "premium": true,
+    "positive": true,
+    "id": 10711
+  },
+  {
+    "preset_id": 1531,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Eure Trophäenvitrine ist auch nicht gerade voll.",
+    "premium": true,
+    "positive": true,
+    "id": 10712
+  },
+  {
+    "preset_id": 1531,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "A vossa vitrine de troféus também não está propriamente cheia.",
+    "premium": true,
+    "positive": true,
+    "id": 10713
+  },
+  {
+    "preset_id": 1531,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Wasza gablota z trofeami też nie jest specjalnie pełna.",
+    "premium": true,
+    "positive": true,
+    "id": 10714
+  },
+  {
+    "preset_id": 1531,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Ваша витрина с трофеями тоже не очень полная.",
+    "premium": true,
+    "positive": true,
+    "id": 10715
+  },
+  {
+    "preset_id": 1531,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们的奖杯柜也并不算满。",
+    "premium": true,
+    "positive": true,
+    "id": 10716
+  }
+]

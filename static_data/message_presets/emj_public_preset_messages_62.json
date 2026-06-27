@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 62,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "You're insufferable",
+    "premium": false,
+    "positive": false,
+    "id": 427
+  },
+  {
+    "preset_id": 62,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Eres insufrible",
+    "premium": false,
+    "positive": false,
+    "id": 428
+  },
+  {
+    "preset_id": 62,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Du bist unausstehlich",
+    "premium": false,
+    "positive": false,
+    "id": 429
+  },
+  {
+    "preset_id": 62,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "És insuportável",
+    "premium": false,
+    "positive": false,
+    "id": 430
+  },
+  {
+    "preset_id": 62,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Jesteś nieznośny",
+    "premium": false,
+    "positive": false,
+    "id": 431
+  },
+  {
+    "preset_id": 62,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Ты невыносим",
+    "premium": false,
+    "positive": false,
+    "id": 432
+  },
+  {
+    "preset_id": 62,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "你让人无法忍受",
+    "premium": false,
+    "positive": false,
+    "id": 433
+  }
+]

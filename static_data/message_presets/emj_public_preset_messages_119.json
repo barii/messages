@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 119,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Did you sleep okay?",
+    "premium": false,
+    "positive": true,
+    "id": 826
+  },
+  {
+    "preset_id": 119,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Has dormido bien?",
+    "premium": false,
+    "positive": true,
+    "id": 827
+  },
+  {
+    "preset_id": 119,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Hast du gut geschlafen?",
+    "premium": false,
+    "positive": true,
+    "id": 828
+  },
+  {
+    "preset_id": 119,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Dormiste bem?",
+    "premium": false,
+    "positive": true,
+    "id": 829
+  },
+  {
+    "preset_id": 119,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Dobrze spałeś?",
+    "premium": false,
+    "positive": true,
+    "id": 830
+  },
+  {
+    "preset_id": 119,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Хорошо спал?",
+    "premium": false,
+    "positive": true,
+    "id": 831
+  },
+  {
+    "preset_id": 119,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你睡得好吗?",
+    "premium": false,
+    "positive": true,
+    "id": 832
+  }
+]

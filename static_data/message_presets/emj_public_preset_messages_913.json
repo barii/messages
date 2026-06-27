@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 913,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Trust yourself",
+    "premium": false,
+    "positive": true,
+    "id": 6384
+  },
+  {
+    "preset_id": 913,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Confía en ti mismo",
+    "premium": false,
+    "positive": true,
+    "id": 6385
+  },
+  {
+    "preset_id": 913,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Vertraue dir selbst",
+    "premium": false,
+    "positive": true,
+    "id": 6386
+  },
+  {
+    "preset_id": 913,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Confia em ti",
+    "premium": false,
+    "positive": true,
+    "id": 6387
+  },
+  {
+    "preset_id": 913,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Zaufaj sobie",
+    "premium": false,
+    "positive": true,
+    "id": 6388
+  },
+  {
+    "preset_id": 913,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Доверяй себе",
+    "premium": false,
+    "positive": true,
+    "id": 6389
+  },
+  {
+    "preset_id": 913,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "相信自己",
+    "premium": false,
+    "positive": true,
+    "id": 6390
+  }
+]

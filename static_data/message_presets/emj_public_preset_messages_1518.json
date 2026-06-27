@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1518,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "We're the best team in the country.",
+    "premium": false,
+    "positive": true,
+    "id": 10619
+  },
+  {
+    "preset_id": 1518,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Somos el mejor equipo del país.",
+    "premium": false,
+    "positive": true,
+    "id": 10620
+  },
+  {
+    "preset_id": 1518,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Wir sind die beste Mannschaft des Landes.",
+    "premium": false,
+    "positive": true,
+    "id": 10621
+  },
+  {
+    "preset_id": 1518,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Somos a melhor equipa do país.",
+    "premium": false,
+    "positive": true,
+    "id": 10622
+  },
+  {
+    "preset_id": 1518,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Jesteśmy najlepszą drużyną w kraju.",
+    "premium": false,
+    "positive": true,
+    "id": 10623
+  },
+  {
+    "preset_id": 1518,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Мы лучшая команда в стране.",
+    "premium": false,
+    "positive": true,
+    "id": 10624
+  },
+  {
+    "preset_id": 1518,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "我们是全国最佳球队。",
+    "premium": false,
+    "positive": true,
+    "id": 10625
+  }
+]

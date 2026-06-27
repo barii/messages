@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1276,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Your players look defeated.",
+    "premium": false,
+    "positive": true,
+    "id": 8925
+  },
+  {
+    "preset_id": 1276,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Vuestros jugadores parecen derrotados.",
+    "premium": false,
+    "positive": true,
+    "id": 8926
+  },
+  {
+    "preset_id": 1276,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Eure Spieler sehen geschlagen aus.",
+    "premium": false,
+    "positive": true,
+    "id": 8927
+  },
+  {
+    "preset_id": 1276,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Os vossos jogadores parecem derrotados.",
+    "premium": false,
+    "positive": true,
+    "id": 8928
+  },
+  {
+    "preset_id": 1276,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Wasi gracze wyglądają na pokonanych.",
+    "premium": false,
+    "positive": true,
+    "id": 8929
+  },
+  {
+    "preset_id": 1276,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Ваши игроки выглядят побеждёнными.",
+    "premium": false,
+    "positive": true,
+    "id": 8930
+  },
+  {
+    "preset_id": 1276,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们的球员看起来被击垮了。",
+    "premium": false,
+    "positive": true,
+    "id": 8931
+  }
+]

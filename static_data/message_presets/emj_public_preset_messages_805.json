@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 805,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "You charmer",
+    "premium": false,
+    "positive": true,
+    "id": 5628
+  },
+  {
+    "preset_id": 805,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Qué encantador",
+    "premium": false,
+    "positive": true,
+    "id": 5629
+  },
+  {
+    "preset_id": 805,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Du Charmeur",
+    "premium": false,
+    "positive": true,
+    "id": 5630
+  },
+  {
+    "preset_id": 805,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Encantador",
+    "premium": false,
+    "positive": true,
+    "id": 5631
+  },
+  {
+    "preset_id": 805,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Czaruś",
+    "premium": false,
+    "positive": true,
+    "id": 5632
+  },
+  {
+    "preset_id": 805,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Очарователь",
+    "premium": false,
+    "positive": true,
+    "id": 5633
+  },
+  {
+    "preset_id": 805,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "你这个迷人的家伙",
+    "premium": false,
+    "positive": true,
+    "id": 5634
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 352,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm white",
+    "premium": false,
+    "positive": true,
+    "id": 2457
+  },
+  {
+    "preset_id": 352,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Soy blanco",
+    "premium": false,
+    "positive": true,
+    "id": 2458
+  },
+  {
+    "preset_id": 352,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin weiß",
+    "premium": false,
+    "positive": true,
+    "id": 2459
+  },
+  {
+    "preset_id": 352,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Sou branco",
+    "premium": false,
+    "positive": true,
+    "id": 2460
+  },
+  {
+    "preset_id": 352,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem biały",
+    "premium": false,
+    "positive": true,
+    "id": 2461
+  },
+  {
+    "preset_id": 352,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я белый",
+    "premium": false,
+    "positive": true,
+    "id": 2462
+  },
+  {
+    "preset_id": 352,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我是白人",
+    "premium": false,
+    "positive": true,
+    "id": 2463
+  }
+]

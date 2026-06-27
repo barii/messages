@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 18,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You're brilliant",
+    "premium": false,
+    "positive": true,
+    "id": 119
+  },
+  {
+    "preset_id": 18,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Eres brillante",
+    "premium": false,
+    "positive": true,
+    "id": 120
+  },
+  {
+    "preset_id": 18,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du bist brillant",
+    "premium": false,
+    "positive": true,
+    "id": 121
+  },
+  {
+    "preset_id": 18,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "És brilhante",
+    "premium": false,
+    "positive": true,
+    "id": 122
+  },
+  {
+    "preset_id": 18,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Jesteś genialny",
+    "premium": false,
+    "positive": true,
+    "id": 123
+  },
+  {
+    "preset_id": 18,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты блестящий",
+    "premium": false,
+    "positive": true,
+    "id": 124
+  },
+  {
+    "preset_id": 18,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你很出色",
+    "premium": false,
+    "positive": true,
+    "id": 125
+  }
+]

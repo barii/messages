@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 940,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Read the situation again",
+    "premium": false,
+    "positive": true,
+    "id": 6573
+  },
+  {
+    "preset_id": 940,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Lee la situación de nuevo",
+    "premium": false,
+    "positive": true,
+    "id": 6574
+  },
+  {
+    "preset_id": 940,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Lies die Situation nochmal",
+    "premium": false,
+    "positive": true,
+    "id": 6575
+  },
+  {
+    "preset_id": 940,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Lê a situação outra vez",
+    "premium": false,
+    "positive": true,
+    "id": 6576
+  },
+  {
+    "preset_id": 940,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Przeczytaj sytuację jeszcze raz",
+    "premium": false,
+    "positive": true,
+    "id": 6577
+  },
+  {
+    "preset_id": 940,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Перечитай ситуацию",
+    "premium": false,
+    "positive": true,
+    "id": 6578
+  },
+  {
+    "preset_id": 940,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "再读一下情况",
+    "premium": false,
+    "positive": true,
+    "id": 6579
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 378,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I hate routine",
+    "premium": false,
+    "positive": true,
+    "id": 2639
+  },
+  {
+    "preset_id": 378,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Odio la rutina",
+    "premium": false,
+    "positive": true,
+    "id": 2640
+  },
+  {
+    "preset_id": 378,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich hasse Routine",
+    "premium": false,
+    "positive": true,
+    "id": 2641
+  },
+  {
+    "preset_id": 378,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Odeio rotina",
+    "premium": false,
+    "positive": true,
+    "id": 2642
+  },
+  {
+    "preset_id": 378,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Nienawidzę rutyny",
+    "premium": false,
+    "positive": true,
+    "id": 2643
+  },
+  {
+    "preset_id": 378,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я ненавижу рутину",
+    "premium": false,
+    "positive": true,
+    "id": 2644
+  },
+  {
+    "preset_id": 378,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我讨厌日常",
+    "premium": false,
+    "positive": true,
+    "id": 2645
+  }
+]

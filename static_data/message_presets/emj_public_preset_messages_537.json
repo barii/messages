@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 537,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "On a call",
+    "premium": false,
+    "positive": true,
+    "id": 3752
+  },
+  {
+    "preset_id": 537,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "En una llamada",
+    "premium": false,
+    "positive": true,
+    "id": 3753
+  },
+  {
+    "preset_id": 537,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "In einem Anruf",
+    "premium": false,
+    "positive": true,
+    "id": 3754
+  },
+  {
+    "preset_id": 537,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Numa chamada",
+    "premium": false,
+    "positive": true,
+    "id": 3755
+  },
+  {
+    "preset_id": 537,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Jestem na rozmowie",
+    "premium": false,
+    "positive": true,
+    "id": 3756
+  },
+  {
+    "preset_id": 537,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "На звонке",
+    "premium": false,
+    "positive": true,
+    "id": 3757
+  },
+  {
+    "preset_id": 537,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "在通话",
+    "premium": false,
+    "positive": true,
+    "id": 3758
+  }
+]

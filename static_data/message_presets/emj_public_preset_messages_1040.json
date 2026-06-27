@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1040,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Surviving over there",
+    "premium": false,
+    "positive": true,
+    "id": 7273
+  },
+  {
+    "preset_id": 1040,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Sobreviviendo por aquí",
+    "premium": false,
+    "positive": true,
+    "id": 7274
+  },
+  {
+    "preset_id": 1040,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Überlebe hier drüben",
+    "premium": false,
+    "positive": true,
+    "id": 7275
+  },
+  {
+    "preset_id": 1040,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "A sobreviver por aqui",
+    "premium": false,
+    "positive": true,
+    "id": 7276
+  },
+  {
+    "preset_id": 1040,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Przeżywam tutaj",
+    "premium": false,
+    "positive": true,
+    "id": 7277
+  },
+  {
+    "preset_id": 1040,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Выживаю тут",
+    "premium": false,
+    "positive": true,
+    "id": 7278
+  },
+  {
+    "preset_id": 1040,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "在这边生存着",
+    "premium": false,
+    "positive": true,
+    "id": 7279
+  }
+]

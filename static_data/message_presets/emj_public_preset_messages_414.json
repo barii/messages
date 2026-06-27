@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 414,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Of course",
+    "premium": false,
+    "positive": true,
+    "id": 2891
+  },
+  {
+    "preset_id": 414,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Por supuesto",
+    "premium": false,
+    "positive": true,
+    "id": 2892
+  },
+  {
+    "preset_id": 414,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Natürlich",
+    "premium": false,
+    "positive": true,
+    "id": 2893
+  },
+  {
+    "preset_id": 414,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Claro que sim",
+    "premium": false,
+    "positive": true,
+    "id": 2894
+  },
+  {
+    "preset_id": 414,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Oczywiście",
+    "premium": false,
+    "positive": true,
+    "id": 2895
+  },
+  {
+    "preset_id": 414,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Естественно",
+    "premium": false,
+    "positive": true,
+    "id": 2896
+  },
+  {
+    "preset_id": 414,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "当然",
+    "premium": false,
+    "positive": true,
+    "id": 2897
+  }
+]

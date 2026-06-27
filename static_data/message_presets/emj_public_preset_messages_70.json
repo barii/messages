@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 70,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "That was weird",
+    "premium": false,
+    "positive": false,
+    "id": 483
+  },
+  {
+    "preset_id": 70,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Eso fue raro",
+    "premium": false,
+    "positive": false,
+    "id": 484
+  },
+  {
+    "preset_id": 70,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Das war seltsam",
+    "premium": false,
+    "positive": false,
+    "id": 485
+  },
+  {
+    "preset_id": 70,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Isso foi estranho",
+    "premium": false,
+    "positive": false,
+    "id": 486
+  },
+  {
+    "preset_id": 70,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "To było dziwne",
+    "premium": false,
+    "positive": false,
+    "id": 487
+  },
+  {
+    "preset_id": 70,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Это было странно",
+    "premium": false,
+    "positive": false,
+    "id": 488
+  },
+  {
+    "preset_id": 70,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "那很奇怪",
+    "premium": false,
+    "positive": false,
+    "id": 489
+  }
+]

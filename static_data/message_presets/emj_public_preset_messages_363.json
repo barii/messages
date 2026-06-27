@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 363,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm African",
+    "premium": false,
+    "positive": true,
+    "id": 2534
+  },
+  {
+    "preset_id": 363,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Soy africano",
+    "premium": false,
+    "positive": true,
+    "id": 2535
+  },
+  {
+    "preset_id": 363,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin Afrikaner",
+    "premium": false,
+    "positive": true,
+    "id": 2536
+  },
+  {
+    "preset_id": 363,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Sou africano",
+    "premium": false,
+    "positive": true,
+    "id": 2537
+  },
+  {
+    "preset_id": 363,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem Afrykaninem",
+    "premium": false,
+    "positive": true,
+    "id": 2538
+  },
+  {
+    "preset_id": 363,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я африканец",
+    "premium": false,
+    "positive": true,
+    "id": 2539
+  },
+  {
+    "preset_id": 363,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我是非洲人",
+    "premium": false,
+    "positive": true,
+    "id": 2540
+  }
+]

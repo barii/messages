@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 273,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We're around the same age",
+    "premium": false,
+    "positive": true,
+    "id": 1904
+  },
+  {
+    "preset_id": 273,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Tenemos más o menos la misma edad",
+    "premium": false,
+    "positive": true,
+    "id": 1905
+  },
+  {
+    "preset_id": 273,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir sind ungefähr gleich alt",
+    "premium": false,
+    "positive": true,
+    "id": 1906
+  },
+  {
+    "preset_id": 273,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Temos mais ou menos a mesma idade",
+    "premium": false,
+    "positive": true,
+    "id": 1907
+  },
+  {
+    "preset_id": 273,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Jesteśmy w mniej więcej tym samym wieku",
+    "premium": false,
+    "positive": true,
+    "id": 1908
+  },
+  {
+    "preset_id": 273,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы примерно одного возраста",
+    "premium": false,
+    "positive": true,
+    "id": 1909
+  },
+  {
+    "preset_id": 273,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们年龄差不多",
+    "premium": false,
+    "positive": true,
+    "id": 1910
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 458,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Interesting",
+    "premium": false,
+    "positive": true,
+    "id": 3199
+  },
+  {
+    "preset_id": 458,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Interesante",
+    "premium": false,
+    "positive": true,
+    "id": 3200
+  },
+  {
+    "preset_id": 458,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Interessant",
+    "premium": false,
+    "positive": true,
+    "id": 3201
+  },
+  {
+    "preset_id": 458,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Interessante",
+    "premium": false,
+    "positive": true,
+    "id": 3202
+  },
+  {
+    "preset_id": 458,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Ciekawe",
+    "premium": false,
+    "positive": true,
+    "id": 3203
+  },
+  {
+    "preset_id": 458,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Интересно",
+    "premium": false,
+    "positive": true,
+    "id": 3204
+  },
+  {
+    "preset_id": 458,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "有意思",
+    "premium": false,
+    "positive": true,
+    "id": 3205
+  }
+]

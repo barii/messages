@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1081,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Same energy honestly",
+    "premium": false,
+    "positive": true,
+    "id": 7560
+  },
+  {
+    "preset_id": 1081,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Misma energía, sinceramente",
+    "premium": false,
+    "positive": true,
+    "id": 7561
+  },
+  {
+    "preset_id": 1081,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Gleiche Energie, ehrlich",
+    "premium": false,
+    "positive": true,
+    "id": 7562
+  },
+  {
+    "preset_id": 1081,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Mesma energia, sinceramente",
+    "premium": false,
+    "positive": true,
+    "id": 7563
+  },
+  {
+    "preset_id": 1081,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Ta sama energia, szczerze",
+    "premium": false,
+    "positive": true,
+    "id": 7564
+  },
+  {
+    "preset_id": 1081,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Та же энергия, честно",
+    "premium": false,
+    "positive": true,
+    "id": 7565
+  },
+  {
+    "preset_id": 1081,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "同样的能量,说实话",
+    "premium": false,
+    "positive": true,
+    "id": 7566
+  }
+]

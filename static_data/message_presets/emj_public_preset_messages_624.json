@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 624,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Unfriendly",
+    "text": "I really don't care",
+    "premium": false,
+    "positive": true,
+    "id": 4361
+  },
+  {
+    "preset_id": 624,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: antipático",
+    "text": "Realmente no me importa",
+    "premium": false,
+    "positive": true,
+    "id": 4362
+  },
+  {
+    "preset_id": 624,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Unfreundlich",
+    "text": "Es ist mir wirklich egal",
+    "premium": false,
+    "positive": true,
+    "id": 4363
+  },
+  {
+    "preset_id": 624,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: hostil",
+    "text": "Realmente não me interessa",
+    "premium": false,
+    "positive": true,
+    "id": 4364
+  },
+  {
+    "preset_id": 624,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: nieprzyjazny",
+    "text": "Naprawdę nie obchodzi mnie to",
+    "premium": false,
+    "positive": true,
+    "id": 4365
+  },
+  {
+    "preset_id": 624,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Недружелюбный",
+    "text": "Мне действительно всё равно",
+    "premium": false,
+    "positive": true,
+    "id": 4366
+  },
+  {
+    "preset_id": 624,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：不友善用语",
+    "text": "我真的不在乎",
+    "premium": false,
+    "positive": true,
+    "id": 4367
+  }
+]

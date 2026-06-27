@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 66,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "Be so for real right now",
+    "premium": false,
+    "positive": false,
+    "id": 455
+  },
+  {
+    "preset_id": 66,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Tómatelo en serio ya",
+    "premium": false,
+    "positive": false,
+    "id": 456
+  },
+  {
+    "preset_id": 66,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Sei jetzt mal echt",
+    "premium": false,
+    "positive": false,
+    "id": 457
+  },
+  {
+    "preset_id": 66,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Sê sério agora",
+    "premium": false,
+    "positive": false,
+    "id": 458
+  },
+  {
+    "preset_id": 66,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Bądź teraz szczery",
+    "premium": false,
+    "positive": false,
+    "id": 459
+  },
+  {
+    "preset_id": 66,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Будь серьёзным сейчас",
+    "premium": false,
+    "positive": false,
+    "id": 460
+  },
+  {
+    "preset_id": 66,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "现在认真点",
+    "premium": false,
+    "positive": false,
+    "id": 461
+  }
+]

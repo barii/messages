@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1507,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Trophy cabinet is full.",
+    "premium": true,
+    "positive": true,
+    "id": 10542
+  },
+  {
+    "preset_id": 1507,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Vitrina de trofeos llena.",
+    "premium": true,
+    "positive": true,
+    "id": 10543
+  },
+  {
+    "preset_id": 1507,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Trophäenvitrine voll.",
+    "premium": true,
+    "positive": true,
+    "id": 10544
+  },
+  {
+    "preset_id": 1507,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Vitrine de troféus cheia.",
+    "premium": true,
+    "positive": true,
+    "id": 10545
+  },
+  {
+    "preset_id": 1507,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Gablota z trofeami pełna.",
+    "premium": true,
+    "positive": true,
+    "id": 10546
+  },
+  {
+    "preset_id": 1507,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Витрина с трофеями полная.",
+    "premium": true,
+    "positive": true,
+    "id": 10547
+  },
+  {
+    "preset_id": 1507,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "奖杯柜满满的。",
+    "premium": true,
+    "positive": true,
+    "id": 10548
+  }
+]

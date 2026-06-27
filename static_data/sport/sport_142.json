@@ -1,0 +1,86 @@
+[
+  {
+    "id": 994,
+    "preset_id": 142,
+    "cat_emoji": "🇧🇪",
+    "lang": "EN",
+    "category": "Belgian Football Teams",
+    "text": "Westerlo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇧🇪",
+    "continent": "European"
+  },
+  {
+    "id": 995,
+    "preset_id": 142,
+    "cat_emoji": "🇧🇪",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Belgas",
+    "text": "Westerlo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇧🇪",
+    "continent": "European"
+  },
+  {
+    "id": 996,
+    "preset_id": 142,
+    "cat_emoji": "🇧🇪",
+    "lang": "DE",
+    "category": "Belgische Fußballmannschaften",
+    "text": "Westerlo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇧🇪",
+    "continent": "European"
+  },
+  {
+    "id": 997,
+    "preset_id": 142,
+    "cat_emoji": "🇧🇪",
+    "lang": "PL",
+    "category": "Belgijskie drużyny piłkarskie",
+    "text": "Westerlo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇧🇪",
+    "continent": "European"
+  },
+  {
+    "id": 998,
+    "preset_id": 142,
+    "cat_emoji": "🇧🇪",
+    "lang": "RU",
+    "category": "Бельгийские футбольные команды",
+    "text": "Westerlo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇧🇪",
+    "continent": "European"
+  },
+  {
+    "id": 999,
+    "preset_id": 142,
+    "cat_emoji": "🇧🇪",
+    "lang": "PT",
+    "category": "Times de futebol belgas",
+    "text": "Westerlo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇧🇪",
+    "continent": "European"
+  },
+  {
+    "id": 1000,
+    "preset_id": 142,
+    "cat_emoji": "🇧🇪",
+    "lang": "CN",
+    "category": "比利时足球队",
+    "text": "Westerlo",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇧🇪",
+    "continent": "European"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 142,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Did you know it was me?",
+    "premium": false,
+    "positive": true,
+    "id": 987
+  },
+  {
+    "preset_id": 142,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Sabías que era yo?",
+    "premium": false,
+    "positive": true,
+    "id": 988
+  },
+  {
+    "preset_id": 142,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Hast du gewusst, dass ich es war?",
+    "premium": false,
+    "positive": true,
+    "id": 989
+  },
+  {
+    "preset_id": 142,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Sabias que era eu?",
+    "premium": false,
+    "positive": true,
+    "id": 990
+  },
+  {
+    "preset_id": 142,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Wiedziałeś, że to ja?",
+    "premium": false,
+    "positive": true,
+    "id": 991
+  },
+  {
+    "preset_id": 142,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Ты знал, что это я?",
+    "premium": false,
+    "positive": true,
+    "id": 992
+  },
+  {
+    "preset_id": 142,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "你知道是我吗?",
+    "premium": false,
+    "positive": true,
+    "id": 993
+  }
+]

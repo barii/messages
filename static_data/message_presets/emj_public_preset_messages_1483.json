@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1483,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "Men against boys.",
+    "premium": true,
+    "positive": true,
+    "id": 10374
+  },
+  {
+    "preset_id": 1483,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Hombres contra niños.",
+    "premium": true,
+    "positive": true,
+    "id": 10375
+  },
+  {
+    "preset_id": 1483,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Männer gegen Jungs.",
+    "premium": true,
+    "positive": true,
+    "id": 10376
+  },
+  {
+    "preset_id": 1483,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Homens contra rapazes.",
+    "premium": true,
+    "positive": true,
+    "id": 10377
+  },
+  {
+    "preset_id": 1483,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Mężczyźni kontra chłopcy.",
+    "premium": true,
+    "positive": true,
+    "id": 10378
+  },
+  {
+    "preset_id": 1483,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Мужчины против мальчиков.",
+    "premium": true,
+    "positive": true,
+    "id": 10379
+  },
+  {
+    "preset_id": 1483,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "大人对小孩。",
+    "premium": true,
+    "positive": true,
+    "id": 10380
+  }
+]

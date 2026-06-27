@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 36,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You make my day better",
+    "premium": false,
+    "positive": true,
+    "id": 245
+  },
+  {
+    "preset_id": 36,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Mejoras mi día",
+    "premium": false,
+    "positive": true,
+    "id": 246
+  },
+  {
+    "preset_id": 36,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du machst meinen Tag besser",
+    "premium": false,
+    "positive": true,
+    "id": 247
+  },
+  {
+    "preset_id": 36,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Tornas o meu dia melhor",
+    "premium": false,
+    "positive": true,
+    "id": 248
+  },
+  {
+    "preset_id": 36,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Sprawiasz, że mój dzień jest lepszy",
+    "premium": false,
+    "positive": true,
+    "id": 249
+  },
+  {
+    "preset_id": 36,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты делаешь мой день лучше",
+    "premium": false,
+    "positive": true,
+    "id": 250
+  },
+  {
+    "preset_id": 36,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你让我的一天更好",
+    "premium": false,
+    "positive": true,
+    "id": 251
+  }
+]

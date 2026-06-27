@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 282,
+    "cat_emoji": "1F50E",
+    "lang": "EN",
+    "category": "Hints",
+    "text": "We have met in person",
+    "premium": false,
+    "positive": true,
+    "id": 1967
+  },
+  {
+    "preset_id": 282,
+    "cat_emoji": "1F50E",
+    "lang": "ES",
+    "category": "Pistas",
+    "text": "Nos hemos visto en persona",
+    "premium": false,
+    "positive": true,
+    "id": 1968
+  },
+  {
+    "preset_id": 282,
+    "cat_emoji": "1F50E",
+    "lang": "DE",
+    "category": "Tipps",
+    "text": "Wir haben uns persönlich getroffen",
+    "premium": false,
+    "positive": true,
+    "id": 1969
+  },
+  {
+    "preset_id": 282,
+    "cat_emoji": "1F50E",
+    "lang": "PT",
+    "category": "Dicas",
+    "text": "Já nos encontrámos pessoalmente",
+    "premium": false,
+    "positive": true,
+    "id": 1970
+  },
+  {
+    "preset_id": 282,
+    "cat_emoji": "1F50E",
+    "lang": "PL",
+    "category": "Wskazówki",
+    "text": "Spotkaliśmy się osobiście",
+    "premium": false,
+    "positive": true,
+    "id": 1971
+  },
+  {
+    "preset_id": 282,
+    "cat_emoji": "1F50E",
+    "lang": "RU",
+    "category": "Советы",
+    "text": "Мы встречались лично",
+    "premium": false,
+    "positive": true,
+    "id": 1972
+  },
+  {
+    "preset_id": 282,
+    "cat_emoji": "1F50E",
+    "lang": "CN",
+    "category": "提示用语",
+    "text": "我们见过面",
+    "premium": false,
+    "positive": true,
+    "id": 1973
+  }
+]

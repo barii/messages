@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1410,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "That was a masterclass in how to play football.",
+    "premium": false,
+    "positive": true,
+    "id": 9863
+  },
+  {
+    "preset_id": 1410,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "Eso fue una clase magistral de cómo jugar al fútbol.",
+    "premium": false,
+    "positive": true,
+    "id": 9864
+  },
+  {
+    "preset_id": 1410,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Das war eine Lehrstunde, wie man Fußball spielt.",
+    "premium": false,
+    "positive": true,
+    "id": 9865
+  },
+  {
+    "preset_id": 1410,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Foi uma aula de como jogar futebol.",
+    "premium": false,
+    "positive": true,
+    "id": 9866
+  },
+  {
+    "preset_id": 1410,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "To była lekcja, jak grać w piłkę.",
+    "premium": false,
+    "positive": true,
+    "id": 9867
+  },
+  {
+    "preset_id": 1410,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Это был мастер-класс по игре в футбол.",
+    "premium": false,
+    "positive": true,
+    "id": 9868
+  },
+  {
+    "preset_id": 1410,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "那是一堂如何踢足球的大师课。",
+    "premium": false,
+    "positive": true,
+    "id": 9869
+  }
+]

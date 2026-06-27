@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 335,
+    "cat_emoji": "1F464",
+    "lang": "EN",
+    "category": "Personal",
+    "text": "I'm a woman",
+    "premium": false,
+    "positive": true,
+    "id": 2338
+  },
+  {
+    "preset_id": 335,
+    "cat_emoji": "1F464",
+    "lang": "ES",
+    "category": "Personal",
+    "text": "Soy una mujer",
+    "premium": false,
+    "positive": true,
+    "id": 2339
+  },
+  {
+    "preset_id": 335,
+    "cat_emoji": "1F464",
+    "lang": "DE",
+    "category": "Persönliches",
+    "text": "Ich bin eine Frau",
+    "premium": false,
+    "positive": true,
+    "id": 2340
+  },
+  {
+    "preset_id": 335,
+    "cat_emoji": "1F464",
+    "lang": "PT",
+    "category": "Pessoal",
+    "text": "Sou uma mulher",
+    "premium": false,
+    "positive": true,
+    "id": 2341
+  },
+  {
+    "preset_id": 335,
+    "cat_emoji": "1F464",
+    "lang": "PL",
+    "category": "Płaszczyzna osobista",
+    "text": "Jestem kobietą",
+    "premium": false,
+    "positive": true,
+    "id": 2342
+  },
+  {
+    "preset_id": 335,
+    "cat_emoji": "1F464",
+    "lang": "RU",
+    "category": "Персональные",
+    "text": "Я женщина",
+    "premium": false,
+    "positive": true,
+    "id": 2343
+  },
+  {
+    "preset_id": 335,
+    "cat_emoji": "1F464",
+    "lang": "CN",
+    "category": "个人话题",
+    "text": "我是女人",
+    "premium": false,
+    "positive": true,
+    "id": 2344
+  }
+]

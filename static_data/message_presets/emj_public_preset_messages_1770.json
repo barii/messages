@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1770,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "Just like practice!",
+    "premium": false,
+    "positive": true,
+    "id": 12383
+  },
+  {
+    "preset_id": 1770,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "Just like practice!",
+    "premium": false,
+    "positive": true,
+    "id": 12384
+  },
+  {
+    "preset_id": 1770,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "Just like practice!",
+    "premium": false,
+    "positive": true,
+    "id": 12385
+  },
+  {
+    "preset_id": 1770,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "Just like practice!",
+    "premium": false,
+    "positive": true,
+    "id": 12386
+  },
+  {
+    "preset_id": 1770,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "Just like practice!",
+    "premium": false,
+    "positive": true,
+    "id": 12387
+  },
+  {
+    "preset_id": 1770,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "Just like practice!",
+    "premium": false,
+    "positive": true,
+    "id": 12388
+  },
+  {
+    "preset_id": 1770,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "Just like practice!",
+    "premium": false,
+    "positive": true,
+    "id": 12389
+  }
+]

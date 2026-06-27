@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 863,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "You're so attractive",
+    "premium": false,
+    "positive": true,
+    "id": 6034
+  },
+  {
+    "preset_id": 863,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Eres muy atractivo",
+    "premium": false,
+    "positive": true,
+    "id": 6035
+  },
+  {
+    "preset_id": 863,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Du bist so attraktiv",
+    "premium": false,
+    "positive": true,
+    "id": 6036
+  },
+  {
+    "preset_id": 863,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "És muito atraente",
+    "premium": false,
+    "positive": true,
+    "id": 6037
+  },
+  {
+    "preset_id": 863,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Jesteś bardzo atrakcyjny",
+    "premium": false,
+    "positive": true,
+    "id": 6038
+  },
+  {
+    "preset_id": 863,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Ты такой привлекательный",
+    "premium": false,
+    "positive": true,
+    "id": 6039
+  },
+  {
+    "preset_id": 863,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "你太有魅力了",
+    "premium": false,
+    "positive": true,
+    "id": 6040
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1065,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "Team morale needs work",
+    "premium": false,
+    "positive": true,
+    "id": 7448
+  },
+  {
+    "preset_id": 1065,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "La moral del equipo necesita mejorar",
+    "premium": false,
+    "positive": true,
+    "id": 7449
+  },
+  {
+    "preset_id": 1065,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Die Teammoral braucht Arbeit",
+    "premium": false,
+    "positive": true,
+    "id": 7450
+  },
+  {
+    "preset_id": 1065,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "A moral da equipa precisa de trabalho",
+    "premium": false,
+    "positive": true,
+    "id": 7451
+  },
+  {
+    "preset_id": 1065,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Morale zespołu wymaga pracy",
+    "premium": false,
+    "positive": true,
+    "id": 7452
+  },
+  {
+    "preset_id": 1065,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Командному моральному духу нужна работа",
+    "premium": false,
+    "positive": true,
+    "id": 7453
+  },
+  {
+    "preset_id": 1065,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "团队士气需要改进",
+    "premium": false,
+    "positive": true,
+    "id": 7454
+  }
+]

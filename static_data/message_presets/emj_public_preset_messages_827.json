@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 827,
+    "cat_emoji": "2764",
+    "lang": "EN",
+    "category": "Love/Flirt",
+    "text": "I have a crush on you",
+    "premium": false,
+    "positive": true,
+    "id": 5782
+  },
+  {
+    "preset_id": 827,
+    "cat_emoji": "2764",
+    "lang": "ES",
+    "category": "Amor/Ligue",
+    "text": "Me gustas",
+    "premium": false,
+    "positive": true,
+    "id": 5783
+  },
+  {
+    "preset_id": 827,
+    "cat_emoji": "2764",
+    "lang": "DE",
+    "category": "Liebe/Flirten",
+    "text": "Ich bin in dich verknallt",
+    "premium": false,
+    "positive": true,
+    "id": 5784
+  },
+  {
+    "preset_id": 827,
+    "cat_emoji": "2764",
+    "lang": "PT",
+    "category": "Amor/Namoriscar",
+    "text": "Tenho um fraquinho por ti",
+    "premium": false,
+    "positive": true,
+    "id": 5785
+  },
+  {
+    "preset_id": 827,
+    "cat_emoji": "2764",
+    "lang": "PL",
+    "category": "Miłość/Flirt",
+    "text": "Podkochuję się w tobie",
+    "premium": false,
+    "positive": true,
+    "id": 5786
+  },
+  {
+    "preset_id": 827,
+    "cat_emoji": "2764",
+    "lang": "RU",
+    "category": "Любовь/Флирт",
+    "text": "Я влюблён в тебя",
+    "premium": false,
+    "positive": true,
+    "id": 5787
+  },
+  {
+    "preset_id": 827,
+    "cat_emoji": "2764",
+    "lang": "CN",
+    "category": "爱/挑逗",
+    "text": "我喜欢你",
+    "premium": false,
+    "positive": true,
+    "id": 5788
+  }
+]

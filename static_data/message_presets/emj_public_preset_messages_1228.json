@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1228,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "Highkey think you're cute",
+    "premium": true,
+    "positive": true,
+    "id": 8589
+  },
+  {
+    "preset_id": 1228,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "Sin filtro creo que eres lindo",
+    "premium": true,
+    "positive": true,
+    "id": 8590
+  },
+  {
+    "preset_id": 1228,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Highkey finde ich dich süß",
+    "premium": true,
+    "positive": true,
+    "id": 8591
+  },
+  {
+    "preset_id": 1228,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "Highkey acho que és giro",
+    "premium": true,
+    "positive": true,
+    "id": 8592
+  },
+  {
+    "preset_id": 1228,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Highkey myślę, że jesteś słodki",
+    "premium": true,
+    "positive": true,
+    "id": 8593
+  },
+  {
+    "preset_id": 1228,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Хайкей думаю, ты милый",
+    "premium": true,
+    "positive": true,
+    "id": 8594
+  },
+  {
+    "preset_id": 1228,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "大方说我觉得你很可爱",
+    "premium": true,
+    "positive": true,
+    "id": 8595
+  }
+]

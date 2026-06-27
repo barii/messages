@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 165,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Can I tell you something?",
+    "premium": false,
+    "positive": true,
+    "id": 1148
+  },
+  {
+    "preset_id": 165,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Puedo contarte algo?",
+    "premium": false,
+    "positive": true,
+    "id": 1149
+  },
+  {
+    "preset_id": 165,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Kann ich dir etwas sagen?",
+    "premium": false,
+    "positive": true,
+    "id": 1150
+  },
+  {
+    "preset_id": 165,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Posso contar-te uma coisa?",
+    "premium": false,
+    "positive": true,
+    "id": 1151
+  },
+  {
+    "preset_id": 165,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Mogę ci coś powiedzieć?",
+    "premium": false,
+    "positive": true,
+    "id": 1152
+  },
+  {
+    "preset_id": 165,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Можно тебе кое-что рассказать?",
+    "premium": false,
+    "positive": true,
+    "id": 1153
+  },
+  {
+    "preset_id": 165,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我能告诉你件事吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1154
+  }
+]

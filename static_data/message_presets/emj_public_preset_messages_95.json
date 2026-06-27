@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 95,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "Humble yourself",
+    "premium": false,
+    "positive": false,
+    "id": 658
+  },
+  {
+    "preset_id": 95,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Humíllate un poco",
+    "premium": false,
+    "positive": false,
+    "id": 659
+  },
+  {
+    "preset_id": 95,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Bleib mal auf dem Boden",
+    "premium": false,
+    "positive": false,
+    "id": 660
+  },
+  {
+    "preset_id": 95,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Humilha-te",
+    "premium": false,
+    "positive": false,
+    "id": 661
+  },
+  {
+    "preset_id": 95,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Zachowaj pokorę",
+    "premium": false,
+    "positive": false,
+    "id": 662
+  },
+  {
+    "preset_id": 95,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Будь скромнее",
+    "premium": false,
+    "positive": false,
+    "id": 663
+  },
+  {
+    "preset_id": 95,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "谦虚点",
+    "premium": false,
+    "positive": false,
+    "id": 664
+  }
+]

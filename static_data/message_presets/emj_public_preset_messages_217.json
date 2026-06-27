@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 217,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Do we work together?",
+    "premium": false,
+    "positive": true,
+    "id": 1512
+  },
+  {
+    "preset_id": 217,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Trabajamos juntos?",
+    "premium": false,
+    "positive": true,
+    "id": 1513
+  },
+  {
+    "preset_id": 217,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Arbeiten wir zusammen?",
+    "premium": false,
+    "positive": true,
+    "id": 1514
+  },
+  {
+    "preset_id": 217,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Trabalhamos juntos?",
+    "premium": false,
+    "positive": true,
+    "id": 1515
+  },
+  {
+    "preset_id": 217,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Pracujemy razem?",
+    "premium": false,
+    "positive": true,
+    "id": 1516
+  },
+  {
+    "preset_id": 217,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Мы работаем вместе?",
+    "premium": false,
+    "positive": true,
+    "id": 1517
+  },
+  {
+    "preset_id": 217,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "我们一起工作吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1518
+  }
+]

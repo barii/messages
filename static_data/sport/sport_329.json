@@ -1,0 +1,86 @@
+[
+  {
+    "id": 2303,
+    "preset_id": 329,
+    "cat_emoji": "🇲🇽",
+    "lang": "EN",
+    "category": "Mexican Football Teams",
+    "text": "Tigres UANL",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  },
+  {
+    "id": 2304,
+    "preset_id": 329,
+    "cat_emoji": "🇲🇽",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Mexicanos",
+    "text": "Tigres UANL",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  },
+  {
+    "id": 2305,
+    "preset_id": 329,
+    "cat_emoji": "🇲🇽",
+    "lang": "DE",
+    "category": "Mexikanische Fußballmannschaften",
+    "text": "Tigres UANL",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  },
+  {
+    "id": 2306,
+    "preset_id": 329,
+    "cat_emoji": "🇲🇽",
+    "lang": "PL",
+    "category": "Meksykańskie drużyny piłkarskie",
+    "text": "Tigres UANL",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  },
+  {
+    "id": 2307,
+    "preset_id": 329,
+    "cat_emoji": "🇲🇽",
+    "lang": "RU",
+    "category": "Мексиканские футбольные команды",
+    "text": "Tigres UANL",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  },
+  {
+    "id": 2308,
+    "preset_id": 329,
+    "cat_emoji": "🇲🇽",
+    "lang": "PT",
+    "category": "Times de futebol mexicanos",
+    "text": "Tigres UANL",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  },
+  {
+    "id": 2309,
+    "preset_id": 329,
+    "cat_emoji": "🇲🇽",
+    "lang": "CN",
+    "category": "墨西哥足球队",
+    "text": "Tigres UANL",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🇲🇽",
+    "continent": "European"
+  }
+]

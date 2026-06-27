@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 814,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Did you just use a pickup line on me?",
+    "premium": true,
+    "positive": true,
+    "id": 5691
+  },
+  {
+    "preset_id": 814,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "¿Me acabas de soltar una frase para ligar?",
+    "premium": true,
+    "positive": true,
+    "id": 5692
+  },
+  {
+    "preset_id": 814,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Hast du gerade einen Anmachspruch bei mir benutzt?",
+    "premium": true,
+    "positive": true,
+    "id": 5693
+  },
+  {
+    "preset_id": 814,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Acabaste de me atirar uma cantada?",
+    "premium": true,
+    "positive": true,
+    "id": 5694
+  },
+  {
+    "preset_id": 814,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Czy właśnie użyłeś na mnie tekstu na podryw?",
+    "premium": true,
+    "positive": true,
+    "id": 5695
+  },
+  {
+    "preset_id": 814,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Ты только что использовал на мне фразу для знакомства?",
+    "premium": true,
+    "positive": true,
+    "id": 5696
+  },
+  {
+    "preset_id": 814,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "你刚才是不是用搭讪台词?",
+    "premium": true,
+    "positive": true,
+    "id": 5697
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 978,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You could have handled that better",
+    "premium": false,
+    "positive": true,
+    "id": 6839
+  },
+  {
+    "preset_id": 978,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Podrías haberlo manejado mejor",
+    "premium": false,
+    "positive": true,
+    "id": 6840
+  },
+  {
+    "preset_id": 978,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du hättest das besser handhaben können",
+    "premium": false,
+    "positive": true,
+    "id": 6841
+  },
+  {
+    "preset_id": 978,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Podias ter lidado melhor com isso",
+    "premium": false,
+    "positive": true,
+    "id": 6842
+  },
+  {
+    "preset_id": 978,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Mogłeś sobie z tym poradzić lepiej",
+    "premium": false,
+    "positive": true,
+    "id": 6843
+  },
+  {
+    "preset_id": 978,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты мог бы справиться с этим лучше",
+    "premium": false,
+    "positive": true,
+    "id": 6844
+  },
+  {
+    "preset_id": 978,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你本可以处理得更好",
+    "premium": false,
+    "positive": true,
+    "id": 6845
+  }
+]

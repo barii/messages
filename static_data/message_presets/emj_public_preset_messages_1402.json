@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1402,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "Average team, average fans.",
+    "premium": false,
+    "positive": true,
+    "id": 9807
+  },
+  {
+    "preset_id": 1402,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Equipo mediocre, aficionados mediocres.",
+    "premium": false,
+    "positive": true,
+    "id": 9808
+  },
+  {
+    "preset_id": 1402,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Durchschnittsmannschaft, Durchschnittsfans.",
+    "premium": false,
+    "positive": true,
+    "id": 9809
+  },
+  {
+    "preset_id": 1402,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Equipa medíocre, adeptos medíocres.",
+    "premium": false,
+    "positive": true,
+    "id": 9810
+  },
+  {
+    "preset_id": 1402,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Średnia drużyna, średni kibice.",
+    "premium": false,
+    "positive": true,
+    "id": 9811
+  },
+  {
+    "preset_id": 1402,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Средняя команда, средние фанаты.",
+    "premium": false,
+    "positive": true,
+    "id": 9812
+  },
+  {
+    "preset_id": 1402,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "平庸的球队,平庸的球迷。",
+    "premium": false,
+    "positive": true,
+    "id": 9813
+  }
+]

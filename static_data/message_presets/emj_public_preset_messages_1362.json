@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1362,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You didn't turn up.",
+    "premium": false,
+    "positive": true,
+    "id": 9527
+  },
+  {
+    "preset_id": 1362,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "No os habéis presentado.",
+    "premium": false,
+    "positive": true,
+    "id": 9528
+  },
+  {
+    "preset_id": 1362,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr seid nicht aufgetreten.",
+    "premium": false,
+    "positive": true,
+    "id": 9529
+  },
+  {
+    "preset_id": 1362,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Não apareceram.",
+    "premium": false,
+    "positive": true,
+    "id": 9530
+  },
+  {
+    "preset_id": 1362,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Nie pojawiliście się.",
+    "premium": false,
+    "positive": true,
+    "id": 9531
+  },
+  {
+    "preset_id": 1362,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "Вы не появились.",
+    "premium": false,
+    "positive": true,
+    "id": 9532
+  },
+  {
+    "preset_id": 1362,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们没来比赛。",
+    "premium": false,
+    "positive": true,
+    "id": 9533
+  }
+]

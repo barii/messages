@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 173,
+    "cat_emoji": "2753",
+    "lang": "EN",
+    "category": "Question",
+    "text": "Want to talk about it?",
+    "premium": false,
+    "positive": true,
+    "id": 1204
+  },
+  {
+    "preset_id": 173,
+    "cat_emoji": "2753",
+    "lang": "ES",
+    "category": "Pregunta",
+    "text": "¿Quieres hablar de ello?",
+    "premium": false,
+    "positive": true,
+    "id": 1205
+  },
+  {
+    "preset_id": 173,
+    "cat_emoji": "2753",
+    "lang": "DE",
+    "category": "Frage",
+    "text": "Willst du darüber reden?",
+    "premium": false,
+    "positive": true,
+    "id": 1206
+  },
+  {
+    "preset_id": 173,
+    "cat_emoji": "2753",
+    "lang": "PT",
+    "category": "Questão",
+    "text": "Queres falar sobre isso?",
+    "premium": false,
+    "positive": true,
+    "id": 1207
+  },
+  {
+    "preset_id": 173,
+    "cat_emoji": "2753",
+    "lang": "PL",
+    "category": "Pytanie",
+    "text": "Chcesz o tym porozmawiać?",
+    "premium": false,
+    "positive": true,
+    "id": 1208
+  },
+  {
+    "preset_id": 173,
+    "cat_emoji": "2753",
+    "lang": "RU",
+    "category": "Вопрос",
+    "text": "Хочешь поговорить об этом?",
+    "premium": false,
+    "positive": true,
+    "id": 1209
+  },
+  {
+    "preset_id": 173,
+    "cat_emoji": "2753",
+    "lang": "CN",
+    "category": "疑问",
+    "text": "想聊聊这事吗?",
+    "premium": false,
+    "positive": true,
+    "id": 1210
+  }
+]

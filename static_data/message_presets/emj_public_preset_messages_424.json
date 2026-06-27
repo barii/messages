@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 424,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Not at all",
+    "premium": false,
+    "positive": true,
+    "id": 2961
+  },
+  {
+    "preset_id": 424,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Para nada",
+    "premium": false,
+    "positive": true,
+    "id": 2962
+  },
+  {
+    "preset_id": 424,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Überhaupt nicht",
+    "premium": false,
+    "positive": true,
+    "id": 2963
+  },
+  {
+    "preset_id": 424,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "De todo",
+    "premium": false,
+    "positive": true,
+    "id": 2964
+  },
+  {
+    "preset_id": 424,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Wcale",
+    "premium": false,
+    "positive": true,
+    "id": 2965
+  },
+  {
+    "preset_id": 424,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Совсем нет",
+    "premium": false,
+    "positive": true,
+    "id": 2966
+  },
+  {
+    "preset_id": 424,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "完全不",
+    "premium": false,
+    "positive": true,
+    "id": 2967
+  }
+]

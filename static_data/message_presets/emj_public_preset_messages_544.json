@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 544,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Unhinged",
+    "premium": false,
+    "positive": false,
+    "id": 3801
+  },
+  {
+    "preset_id": 544,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Sin filtro",
+    "premium": false,
+    "positive": false,
+    "id": 3802
+  },
+  {
+    "preset_id": 544,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Wahnsinn",
+    "premium": false,
+    "positive": false,
+    "id": 3803
+  },
+  {
+    "preset_id": 544,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Sem freio",
+    "premium": false,
+    "positive": false,
+    "id": 3804
+  },
+  {
+    "preset_id": 544,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Niezrównoważone",
+    "premium": false,
+    "positive": false,
+    "id": 3805
+  },
+  {
+    "preset_id": 544,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Неуравновешенно",
+    "premium": false,
+    "positive": false,
+    "id": 3806
+  },
+  {
+    "preset_id": 544,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "失控",
+    "premium": false,
+    "positive": false,
+    "id": 3807
+  }
+]

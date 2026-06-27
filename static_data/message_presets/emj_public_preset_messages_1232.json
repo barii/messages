@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1232,
+    "cat_emoji": "1F48C",
+    "lang": "EN",
+    "category": "Chat-up Lines",
+    "text": "I've been told I'm a great date but I need a second opinion",
+    "premium": true,
+    "positive": true,
+    "id": 8617
+  },
+  {
+    "preset_id": 1232,
+    "cat_emoji": "1F48C",
+    "lang": "ES",
+    "category": "Frases de chat",
+    "text": "Me dijeron que soy una gran cita pero necesito una segunda opinión",
+    "premium": true,
+    "positive": true,
+    "id": 8618
+  },
+  {
+    "preset_id": 1232,
+    "cat_emoji": "1F48C",
+    "lang": "DE",
+    "category": "Flirtspruch",
+    "text": "Mir wurde gesagt, ich bin ein tolles Date, aber ich brauche eine zweite Meinung",
+    "premium": true,
+    "positive": true,
+    "id": 8619
+  },
+  {
+    "preset_id": 1232,
+    "cat_emoji": "1F48C",
+    "lang": "PT",
+    "category": "Linhas de conversa",
+    "text": "Disseram-me que sou um ótimo encontro mas preciso de uma segunda opinião",
+    "premium": true,
+    "positive": true,
+    "id": 8620
+  },
+  {
+    "preset_id": 1232,
+    "cat_emoji": "1F48C",
+    "lang": "PL",
+    "category": "Linie czatu",
+    "text": "Powiedziano mi, że jestem świetną randką, ale potrzebuję drugiej opinii",
+    "premium": true,
+    "positive": true,
+    "id": 8621
+  },
+  {
+    "preset_id": 1232,
+    "cat_emoji": "1F48C",
+    "lang": "RU",
+    "category": "Заигрывание",
+    "text": "Мне сказали, что я отличное свидание, но мне нужно второе мнение",
+    "premium": true,
+    "positive": true,
+    "id": 8622
+  },
+  {
+    "preset_id": 1232,
+    "cat_emoji": "1F48C",
+    "lang": "CN",
+    "category": "搭讪用语",
+    "text": "有人说我是个很棒的约会对象,但我需要第二意见",
+    "premium": true,
+    "positive": true,
+    "id": 8623
+  }
+]

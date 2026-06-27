@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1257,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Insult",
+    "text": "You have a big stadium, but you are still a small club.",
+    "premium": true,
+    "positive": true,
+    "id": 8792
+  },
+  {
+    "preset_id": 1257,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Tenéis un estadio grande, pero seguís siendo un club pequeño.",
+    "premium": true,
+    "positive": true,
+    "id": 8793
+  },
+  {
+    "preset_id": 1257,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Beleidigung",
+    "text": "Ihr habt ein großes Stadion, aber seid trotzdem ein kleiner Verein.",
+    "premium": true,
+    "positive": true,
+    "id": 8794
+  },
+  {
+    "preset_id": 1257,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Insulto",
+    "text": "Têm um estádio grande, mas continuam a ser um clube pequeno.",
+    "premium": true,
+    "positive": true,
+    "id": 8795
+  },
+  {
+    "preset_id": 1257,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Obraza",
+    "text": "Macie duży stadion, ale wciąż jesteście małym klubem.",
+    "premium": true,
+    "positive": true,
+    "id": 8796
+  },
+  {
+    "preset_id": 1257,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Оскорбление",
+    "text": "У вас большой стадион, но вы всё ещё маленький клуб.",
+    "premium": true,
+    "positive": true,
+    "id": 8797
+  },
+  {
+    "preset_id": 1257,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "侮辱",
+    "text": "你们有大球场,但还是个小俱乐部。",
+    "premium": true,
+    "positive": true,
+    "id": 8798
+  }
+]

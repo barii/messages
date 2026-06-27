@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 88,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "You think you're cool but you're not",
+    "premium": false,
+    "positive": false,
+    "id": 609
+  },
+  {
+    "preset_id": 88,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Crees que eres genial pero no lo eres",
+    "premium": false,
+    "positive": false,
+    "id": 610
+  },
+  {
+    "preset_id": 88,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Du denkst, du bist cool, aber bist es nicht",
+    "premium": false,
+    "positive": false,
+    "id": 611
+  },
+  {
+    "preset_id": 88,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Achas que és fixe mas não és",
+    "premium": false,
+    "positive": false,
+    "id": 612
+  },
+  {
+    "preset_id": 88,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Myślisz, że jesteś fajny, ale nie jesteś",
+    "premium": false,
+    "positive": false,
+    "id": 613
+  },
+  {
+    "preset_id": 88,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "Ты думаешь, что ты крутой, но это не так",
+    "premium": false,
+    "positive": false,
+    "id": 614
+  },
+  {
+    "preset_id": 88,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "你觉得自己很酷但其实不是",
+    "premium": false,
+    "positive": false,
+    "id": 615
+  }
+]

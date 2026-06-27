@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1577,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "Have you checked your own form.",
+    "premium": false,
+    "positive": true,
+    "id": 11032
+  },
+  {
+    "preset_id": 1577,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "¿Habéis comprobado vuestra propia forma?",
+    "premium": false,
+    "positive": true,
+    "id": 11033
+  },
+  {
+    "preset_id": 1577,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Habt ihr eure eigene Form gecheckt?",
+    "premium": false,
+    "positive": true,
+    "id": 11034
+  },
+  {
+    "preset_id": 1577,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Já viste o vosso próprio momento?",
+    "premium": false,
+    "positive": true,
+    "id": 11035
+  },
+  {
+    "preset_id": 1577,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Sprawdziliście swoją formę?",
+    "premium": false,
+    "positive": true,
+    "id": 11036
+  },
+  {
+    "preset_id": 1577,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Вы проверили свою форму?",
+    "premium": false,
+    "positive": true,
+    "id": 11037
+  },
+  {
+    "preset_id": 1577,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们查过自己的状态吗?",
+    "premium": false,
+    "positive": true,
+    "id": 11038
+  }
+]

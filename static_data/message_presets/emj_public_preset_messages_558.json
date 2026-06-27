@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 558,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "It is what it is",
+    "premium": false,
+    "positive": true,
+    "id": 3899
+  },
+  {
+    "preset_id": 558,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Es lo que hay",
+    "premium": false,
+    "positive": true,
+    "id": 3900
+  },
+  {
+    "preset_id": 558,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Es ist wie es ist",
+    "premium": false,
+    "positive": true,
+    "id": 3901
+  },
+  {
+    "preset_id": 558,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "É o que é",
+    "premium": false,
+    "positive": true,
+    "id": 3902
+  },
+  {
+    "preset_id": 558,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Jest jak jest",
+    "premium": false,
+    "positive": true,
+    "id": 3903
+  },
+  {
+    "preset_id": 558,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Это то, что есть",
+    "premium": false,
+    "positive": true,
+    "id": 3904
+  },
+  {
+    "preset_id": 558,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "事情就是这样",
+    "premium": false,
+    "positive": true,
+    "id": 3905
+  }
+]

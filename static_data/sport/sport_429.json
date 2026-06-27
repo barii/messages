@@ -1,0 +1,86 @@
+[
+  {
+    "id": 3003,
+    "preset_id": 429,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "EN",
+    "category": "Scottish Football Teams",
+    "text": "Aberdeen",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3004,
+    "preset_id": 429,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "ES",
+    "category": "Equipos de Fútbol Escoceses",
+    "text": "Aberdeen",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3005,
+    "preset_id": 429,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "DE",
+    "category": "Schottische Fußballmannschaften",
+    "text": "Aberdeen",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3006,
+    "preset_id": 429,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "PL",
+    "category": "Szkockie drużyny piłkarskie",
+    "text": "Aberdeen",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3007,
+    "preset_id": 429,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "RU",
+    "category": "Шотландские футбольные команды",
+    "text": "Aberdeen",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3008,
+    "preset_id": 429,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "PT",
+    "category": "Times de futebol escoceses",
+    "text": "Aberdeen",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  },
+  {
+    "id": 3009,
+    "preset_id": 429,
+    "cat_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "lang": "CN",
+    "category": "苏格兰足球队",
+    "text": "Aberdeen",
+    "premium": false,
+    "positive": "true",
+    "msg_emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "European"
+  }
+]

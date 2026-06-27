@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 103,
+    "cat_emoji": "1F44E",
+    "lang": "EN",
+    "category": "Insult",
+    "text": "You have zero creativity",
+    "premium": false,
+    "positive": false,
+    "id": 714
+  },
+  {
+    "preset_id": 103,
+    "cat_emoji": "1F44E",
+    "lang": "ES",
+    "category": "Insulto",
+    "text": "Tienes cero creatividad",
+    "premium": false,
+    "positive": false,
+    "id": 715
+  },
+  {
+    "preset_id": 103,
+    "cat_emoji": "1F44E",
+    "lang": "DE",
+    "category": "Beleidigung",
+    "text": "Du hast null Kreativität",
+    "premium": false,
+    "positive": false,
+    "id": 716
+  },
+  {
+    "preset_id": 103,
+    "cat_emoji": "1F44E",
+    "lang": "PT",
+    "category": "Insulto",
+    "text": "Tens zero criatividade",
+    "premium": false,
+    "positive": false,
+    "id": 717
+  },
+  {
+    "preset_id": 103,
+    "cat_emoji": "1F44E",
+    "lang": "PL",
+    "category": "Obraza",
+    "text": "Masz zero kreatywności",
+    "premium": false,
+    "positive": false,
+    "id": 718
+  },
+  {
+    "preset_id": 103,
+    "cat_emoji": "1F44E",
+    "lang": "RU",
+    "category": "Оскорбление",
+    "text": "У тебя ноль креативности",
+    "premium": false,
+    "positive": false,
+    "id": 719
+  },
+  {
+    "preset_id": 103,
+    "cat_emoji": "1F44E",
+    "lang": "CN",
+    "category": "侮辱",
+    "text": "你毫无创造力",
+    "premium": false,
+    "positive": false,
+    "id": 720
+  }
+]

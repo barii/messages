@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 9,
+    "cat_emoji": "1F44D",
+    "lang": "EN",
+    "category": "Compliment",
+    "text": "You make people feel seen",
+    "premium": false,
+    "positive": true,
+    "id": 56
+  },
+  {
+    "preset_id": 9,
+    "cat_emoji": "1F44D",
+    "lang": "ES",
+    "category": "Cumplido",
+    "text": "Haces que la gente se sienta vista",
+    "premium": false,
+    "positive": true,
+    "id": 57
+  },
+  {
+    "preset_id": 9,
+    "cat_emoji": "1F44D",
+    "lang": "DE",
+    "category": "Kompliment",
+    "text": "Du gibst Menschen das Gefühl, gesehen zu werden",
+    "premium": false,
+    "positive": true,
+    "id": 58
+  },
+  {
+    "preset_id": 9,
+    "cat_emoji": "1F44D",
+    "lang": "PT",
+    "category": "Elogio",
+    "text": "Fazes as pessoas sentirem-se vistas",
+    "premium": false,
+    "positive": true,
+    "id": 59
+  },
+  {
+    "preset_id": 9,
+    "cat_emoji": "1F44D",
+    "lang": "PL",
+    "category": "Komplement",
+    "text": "Sprawiasz, że ludzie czują się widziani",
+    "premium": false,
+    "positive": true,
+    "id": 60
+  },
+  {
+    "preset_id": 9,
+    "cat_emoji": "1F44D",
+    "lang": "RU",
+    "category": "Комплимент",
+    "text": "Ты заставляешь людей чувствовать себя замеченными",
+    "premium": false,
+    "positive": true,
+    "id": 61
+  },
+  {
+    "preset_id": 9,
+    "cat_emoji": "1F44D",
+    "lang": "CN",
+    "category": "称赞",
+    "text": "你让人感到被看见",
+    "premium": false,
+    "positive": true,
+    "id": 62
+  }
+]

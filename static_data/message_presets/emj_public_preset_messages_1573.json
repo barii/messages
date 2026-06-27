@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1573,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You what.",
+    "premium": false,
+    "positive": true,
+    "id": 11004
+  },
+  {
+    "preset_id": 1573,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "¿Cómo?",
+    "premium": false,
+    "positive": true,
+    "id": 11005
+  },
+  {
+    "preset_id": 1573,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Was bitte.",
+    "premium": false,
+    "positive": true,
+    "id": 11006
+  },
+  {
+    "preset_id": 1573,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Hã?",
+    "premium": false,
+    "positive": true,
+    "id": 11007
+  },
+  {
+    "preset_id": 1573,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Co proszę.",
+    "premium": false,
+    "positive": true,
+    "id": 11008
+  },
+  {
+    "preset_id": 1573,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Что-что.",
+    "premium": false,
+    "positive": true,
+    "id": 11009
+  },
+  {
+    "preset_id": 1573,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "啥?",
+    "premium": false,
+    "positive": true,
+    "id": 11010
+  }
+]

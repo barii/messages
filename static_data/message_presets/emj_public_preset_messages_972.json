@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 972,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Just start, momentum is everything",
+    "premium": true,
+    "positive": true,
+    "id": 6797
+  },
+  {
+    "preset_id": 972,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Solo empieza, el impulso lo es todo",
+    "premium": true,
+    "positive": true,
+    "id": 6798
+  },
+  {
+    "preset_id": 972,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Fang einfach an, Schwung ist alles",
+    "premium": true,
+    "positive": true,
+    "id": 6799
+  },
+  {
+    "preset_id": 972,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Começa, o momentum é tudo",
+    "premium": true,
+    "positive": true,
+    "id": 6800
+  },
+  {
+    "preset_id": 972,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Po prostu zacznij, pęd jest wszystkim",
+    "premium": true,
+    "positive": true,
+    "id": 6801
+  },
+  {
+    "preset_id": 972,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Просто начни, инерция - это всё",
+    "premium": true,
+    "positive": true,
+    "id": 6802
+  },
+  {
+    "preset_id": 972,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "开始就行,动力就是一切",
+    "premium": true,
+    "positive": true,
+    "id": 6803
+  }
+]

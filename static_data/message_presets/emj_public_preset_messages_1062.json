@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1062,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "We're short staffed and it shows",
+    "premium": false,
+    "positive": true,
+    "id": 7427
+  },
+  {
+    "preset_id": 1062,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Estamos faltos de personal y se nota",
+    "premium": false,
+    "positive": true,
+    "id": 7428
+  },
+  {
+    "preset_id": 1062,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Wir sind unterbesetzt und das merkt man",
+    "premium": false,
+    "positive": true,
+    "id": 7429
+  },
+  {
+    "preset_id": 1062,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Estamos com poucos funcionários e nota-se",
+    "premium": false,
+    "positive": true,
+    "id": 7430
+  },
+  {
+    "preset_id": 1062,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Brakuje nam personelu i to widać",
+    "premium": false,
+    "positive": true,
+    "id": 7431
+  },
+  {
+    "preset_id": 1062,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "У нас не хватает людей, и это видно",
+    "premium": false,
+    "positive": true,
+    "id": 7432
+  },
+  {
+    "preset_id": 1062,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "我们人手不足,这很明显",
+    "premium": false,
+    "positive": true,
+    "id": 7433
+  }
+]

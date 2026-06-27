@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 576,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "I know right",
+    "premium": false,
+    "positive": true,
+    "id": 4025
+  },
+  {
+    "preset_id": 576,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Lo sé, ¿verdad?",
+    "premium": false,
+    "positive": true,
+    "id": 4026
+  },
+  {
+    "preset_id": 576,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Ich weiß, richtig?",
+    "premium": false,
+    "positive": true,
+    "id": 4027
+  },
+  {
+    "preset_id": 576,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Eu sei, não é?",
+    "premium": false,
+    "positive": true,
+    "id": 4028
+  },
+  {
+    "preset_id": 576,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Wiem, prawda?",
+    "premium": false,
+    "positive": true,
+    "id": 4029
+  },
+  {
+    "preset_id": 576,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Я знаю, да?",
+    "premium": false,
+    "positive": true,
+    "id": 4030
+  },
+  {
+    "preset_id": 576,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "我知道,对吧?",
+    "premium": false,
+    "positive": true,
+    "id": 4031
+  }
+]

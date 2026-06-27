@@ -1,0 +1,79 @@
+[
+  {
+    "preset_id": 1721,
+    "cat_emoji": "26BE",
+    "lang": "EN",
+    "category": "American sports",
+    "sport": "true",
+    "text": "You need a map to find the basket!",
+    "premium": false,
+    "positive": true,
+    "id": 12040
+  },
+  {
+    "preset_id": 1721,
+    "cat_emoji": "26BE",
+    "lang": "ES",
+    "category": "Deportes americanos",
+    "sport": "true",
+    "text": "You need a map to find the basket!",
+    "premium": false,
+    "positive": true,
+    "id": 12041
+  },
+  {
+    "preset_id": 1721,
+    "cat_emoji": "26BE",
+    "lang": "DE",
+    "category": "Amerikanische Sportarten",
+    "sport": "true",
+    "text": "You need a map to find the basket!",
+    "premium": false,
+    "positive": true,
+    "id": 12042
+  },
+  {
+    "preset_id": 1721,
+    "cat_emoji": "26BE",
+    "lang": "PT",
+    "category": "Esportes americanos",
+    "sport": "true",
+    "text": "You need a map to find the basket!",
+    "premium": false,
+    "positive": true,
+    "id": 12043
+  },
+  {
+    "preset_id": 1721,
+    "cat_emoji": "26BE",
+    "lang": "PL",
+    "category": "Amerykańskie sporty",
+    "sport": "true",
+    "text": "You need a map to find the basket!",
+    "premium": false,
+    "positive": true,
+    "id": 12044
+  },
+  {
+    "preset_id": 1721,
+    "cat_emoji": "26BE",
+    "lang": "RU",
+    "category": "Американские виды спорта",
+    "sport": "true",
+    "text": "You need a map to find the basket!",
+    "premium": false,
+    "positive": true,
+    "id": 12045
+  },
+  {
+    "preset_id": 1721,
+    "cat_emoji": "26BE",
+    "lang": "CN",
+    "category": "美国体育",
+    "sport": "true",
+    "text": "You need a map to find the basket!",
+    "premium": false,
+    "positive": true,
+    "id": 12046
+  }
+]

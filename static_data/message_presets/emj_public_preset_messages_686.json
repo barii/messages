@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 686,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Tysm",
+    "premium": false,
+    "positive": true,
+    "id": 4795
+  },
+  {
+    "preset_id": 686,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Tysm",
+    "premium": false,
+    "positive": true,
+    "id": 4796
+  },
+  {
+    "preset_id": 686,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Tysm",
+    "premium": false,
+    "positive": true,
+    "id": 4797
+  },
+  {
+    "preset_id": 686,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Tysm",
+    "premium": false,
+    "positive": true,
+    "id": 4798
+  },
+  {
+    "preset_id": 686,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Tysm",
+    "premium": false,
+    "positive": true,
+    "id": 4799
+  },
+  {
+    "preset_id": 686,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Tysm",
+    "premium": false,
+    "positive": true,
+    "id": 4800
+  },
+  {
+    "preset_id": 686,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "Tysm",
+    "premium": false,
+    "positive": true,
+    "id": 4801
+  }
+]

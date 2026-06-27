@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 947,
+    "cat_emoji": "1F914",
+    "lang": "EN",
+    "category": "Advice/Suggestion",
+    "text": "Curate your circle",
+    "premium": false,
+    "positive": true,
+    "id": 6622
+  },
+  {
+    "preset_id": 947,
+    "cat_emoji": "1F914",
+    "lang": "ES",
+    "category": "Consejos/sugerencia",
+    "text": "Cuida tu círculo",
+    "premium": false,
+    "positive": true,
+    "id": 6623
+  },
+  {
+    "preset_id": 947,
+    "cat_emoji": "1F914",
+    "lang": "DE",
+    "category": "Empfehlung/Vorschlag",
+    "text": "Kuratiere deinen Kreis",
+    "premium": false,
+    "positive": true,
+    "id": 6624
+  },
+  {
+    "preset_id": 947,
+    "cat_emoji": "1F914",
+    "lang": "PT",
+    "category": "Conselho/Sugestão",
+    "text": "Cuida do teu círculo",
+    "premium": false,
+    "positive": true,
+    "id": 6625
+  },
+  {
+    "preset_id": 947,
+    "cat_emoji": "1F914",
+    "lang": "PL",
+    "category": "Porada/sugestia",
+    "text": "Pielęgnuj swój krąg",
+    "premium": false,
+    "positive": true,
+    "id": 6626
+  },
+  {
+    "preset_id": 947,
+    "cat_emoji": "1F914",
+    "lang": "RU",
+    "category": "Советы/рекомендации",
+    "text": "Курируй свой круг",
+    "premium": false,
+    "positive": true,
+    "id": 6627
+  },
+  {
+    "preset_id": 947,
+    "cat_emoji": "1F914",
+    "lang": "CN",
+    "category": "建议",
+    "text": "管理好你的圈子",
+    "premium": false,
+    "positive": true,
+    "id": 6628
+  }
+]

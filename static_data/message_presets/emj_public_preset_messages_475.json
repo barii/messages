@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 475,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "Hold on",
+    "premium": false,
+    "positive": true,
+    "id": 3318
+  },
+  {
+    "preset_id": 475,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Espera",
+    "premium": false,
+    "positive": true,
+    "id": 3319
+  },
+  {
+    "preset_id": 475,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Halt mal",
+    "premium": false,
+    "positive": true,
+    "id": 3320
+  },
+  {
+    "preset_id": 475,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Espera",
+    "premium": false,
+    "positive": true,
+    "id": 3321
+  },
+  {
+    "preset_id": 475,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Czekaj",
+    "premium": false,
+    "positive": true,
+    "id": 3322
+  },
+  {
+    "preset_id": 475,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Подожди",
+    "premium": false,
+    "positive": true,
+    "id": 3323
+  },
+  {
+    "preset_id": 475,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "等等",
+    "premium": false,
+    "positive": true,
+    "id": 3324
+  }
+]

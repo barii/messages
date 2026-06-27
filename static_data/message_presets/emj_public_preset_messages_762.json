@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 762,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Lol",
+    "premium": false,
+    "positive": true,
+    "id": 5327
+  },
+  {
+    "preset_id": 762,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Lol",
+    "premium": false,
+    "positive": true,
+    "id": 5328
+  },
+  {
+    "preset_id": 762,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Lol",
+    "premium": false,
+    "positive": true,
+    "id": 5329
+  },
+  {
+    "preset_id": 762,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Lol",
+    "premium": false,
+    "positive": true,
+    "id": 5330
+  },
+  {
+    "preset_id": 762,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Lol",
+    "premium": false,
+    "positive": true,
+    "id": 5331
+  },
+  {
+    "preset_id": 762,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Lol",
+    "premium": false,
+    "positive": true,
+    "id": 5332
+  },
+  {
+    "preset_id": 762,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "Lol",
+    "premium": false,
+    "positive": true,
+    "id": 5333
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1619,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Reply",
+    "text": "You need a hobby.",
+    "premium": false,
+    "positive": true,
+    "id": 11326
+  },
+  {
+    "preset_id": 1619,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Respuesta",
+    "text": "Necesitáis una afición.",
+    "premium": false,
+    "positive": true,
+    "id": 11327
+  },
+  {
+    "preset_id": 1619,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Antwort",
+    "text": "Ihr braucht ein Hobby.",
+    "premium": false,
+    "positive": true,
+    "id": 11328
+  },
+  {
+    "preset_id": 1619,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Resposta",
+    "text": "Precisam de um passatempo.",
+    "premium": false,
+    "positive": true,
+    "id": 11329
+  },
+  {
+    "preset_id": 1619,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Odpowiedź",
+    "text": "Potrzebujecie hobby.",
+    "premium": false,
+    "positive": true,
+    "id": 11330
+  },
+  {
+    "preset_id": 1619,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Ответ",
+    "text": "Вам нужно хобби.",
+    "premium": false,
+    "positive": true,
+    "id": 11331
+  },
+  {
+    "preset_id": 1619,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "回复",
+    "text": "你们需要个爱好。",
+    "premium": false,
+    "positive": true,
+    "id": 11332
+  }
+]

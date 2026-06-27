@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1019,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "You make this place better",
+    "premium": false,
+    "positive": true,
+    "id": 7126
+  },
+  {
+    "preset_id": 1019,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Haces que este lugar sea mejor",
+    "premium": false,
+    "positive": true,
+    "id": 7127
+  },
+  {
+    "preset_id": 1019,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Du machst diesen Ort besser",
+    "premium": false,
+    "positive": true,
+    "id": 7128
+  },
+  {
+    "preset_id": 1019,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Tornas este sítio melhor",
+    "premium": false,
+    "positive": true,
+    "id": 7129
+  },
+  {
+    "preset_id": 1019,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Sprawiasz, że to miejsce jest lepsze",
+    "premium": false,
+    "positive": true,
+    "id": 7130
+  },
+  {
+    "preset_id": 1019,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Ты делаешь это место лучше",
+    "premium": false,
+    "positive": true,
+    "id": 7131
+  },
+  {
+    "preset_id": 1019,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "你让这个地方更好",
+    "premium": false,
+    "positive": true,
+    "id": 7132
+  }
+]

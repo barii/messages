@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 807,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Friendly",
+    "text": "Look at you go",
+    "premium": false,
+    "positive": true,
+    "id": 5642
+  },
+  {
+    "preset_id": 807,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: amistoso",
+    "text": "Mírate",
+    "premium": false,
+    "positive": true,
+    "id": 5643
+  },
+  {
+    "preset_id": 807,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Freundlich",
+    "text": "Schau dich an",
+    "premium": false,
+    "positive": true,
+    "id": 5644
+  },
+  {
+    "preset_id": 807,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: amigável",
+    "text": "Olha-te a ir",
+    "premium": false,
+    "positive": true,
+    "id": 5645
+  },
+  {
+    "preset_id": 807,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: przyjazny",
+    "text": "Patrz, jak idziesz",
+    "premium": false,
+    "positive": true,
+    "id": 5646
+  },
+  {
+    "preset_id": 807,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Дружелюбный",
+    "text": "Посмотрите на тебя",
+    "premium": false,
+    "positive": true,
+    "id": 5647
+  },
+  {
+    "preset_id": 807,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：友善用语",
+    "text": "看看你",
+    "premium": false,
+    "positive": true,
+    "id": 5648
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1005,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You were dismissive in that conversation",
+    "premium": false,
+    "positive": true,
+    "id": 7028
+  },
+  {
+    "preset_id": 1005,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Fuiste desdeñoso en esa conversación",
+    "premium": false,
+    "positive": true,
+    "id": 7029
+  },
+  {
+    "preset_id": 1005,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du warst abweisend in diesem Gespräch",
+    "premium": false,
+    "positive": true,
+    "id": 7030
+  },
+  {
+    "preset_id": 1005,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Foste dispensativo naquela conversa",
+    "premium": false,
+    "positive": true,
+    "id": 7031
+  },
+  {
+    "preset_id": 1005,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Byłeś lekceważący w tej rozmowie",
+    "premium": false,
+    "positive": true,
+    "id": 7032
+  },
+  {
+    "preset_id": 1005,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты был пренебрежителен в том разговоре",
+    "premium": false,
+    "positive": true,
+    "id": 7033
+  },
+  {
+    "preset_id": 1005,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你在那段对话中很轻蔑",
+    "premium": false,
+    "positive": true,
+    "id": 7034
+  }
+]

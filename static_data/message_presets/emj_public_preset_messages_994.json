@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 994,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You expect a lot from others but not from yourself",
+    "premium": false,
+    "positive": true,
+    "id": 6951
+  },
+  {
+    "preset_id": 994,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Esperas mucho de los demás pero no de ti",
+    "premium": false,
+    "positive": true,
+    "id": 6952
+  },
+  {
+    "preset_id": 994,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du erwartest viel von anderen, aber nicht von dir",
+    "premium": false,
+    "positive": true,
+    "id": 6953
+  },
+  {
+    "preset_id": 994,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "Esperas muito dos outros mas não de ti",
+    "premium": false,
+    "positive": true,
+    "id": 6954
+  },
+  {
+    "preset_id": 994,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Oczekujesz dużo od innych, ale nie od siebie",
+    "premium": false,
+    "positive": true,
+    "id": 6955
+  },
+  {
+    "preset_id": 994,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты ожидаешь многого от других, но не от себя",
+    "premium": false,
+    "positive": true,
+    "id": 6956
+  },
+  {
+    "preset_id": 994,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你对别人期望很多但对自己却不",
+    "premium": false,
+    "positive": true,
+    "id": 6957
+  }
+]

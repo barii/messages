@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 600,
+    "cat_emoji": "1F4AC",
+    "lang": "EN",
+    "category": "Reply: Neutral",
+    "text": "You're right, I'm sorry",
+    "premium": false,
+    "positive": true,
+    "id": 4193
+  },
+  {
+    "preset_id": 600,
+    "cat_emoji": "1F4AC",
+    "lang": "ES",
+    "category": "Respuesta: neutral",
+    "text": "Tienes razón, lo siento",
+    "premium": false,
+    "positive": true,
+    "id": 4194
+  },
+  {
+    "preset_id": 600,
+    "cat_emoji": "1F4AC",
+    "lang": "DE",
+    "category": "Antwort: Neutral",
+    "text": "Du hast recht, es tut mir leid",
+    "premium": false,
+    "positive": true,
+    "id": 4195
+  },
+  {
+    "preset_id": 600,
+    "cat_emoji": "1F4AC",
+    "lang": "PT",
+    "category": "Resposta: neutra",
+    "text": "Tens razão, desculpa",
+    "premium": false,
+    "positive": true,
+    "id": 4196
+  },
+  {
+    "preset_id": 600,
+    "cat_emoji": "1F4AC",
+    "lang": "PL",
+    "category": "Powtórka: neutralny",
+    "text": "Masz rację, przepraszam",
+    "premium": false,
+    "positive": true,
+    "id": 4197
+  },
+  {
+    "preset_id": 600,
+    "cat_emoji": "1F4AC",
+    "lang": "RU",
+    "category": "Ответ: Нейтральный",
+    "text": "Ты прав, извини",
+    "premium": false,
+    "positive": true,
+    "id": 4198
+  },
+  {
+    "preset_id": 600,
+    "cat_emoji": "1F4AC",
+    "lang": "CN",
+    "category": "回复：中性用语",
+    "text": "你说得对,对不起",
+    "premium": false,
+    "positive": true,
+    "id": 4199
+  }
+]

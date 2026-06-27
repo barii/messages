@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 1021,
+    "cat_emoji": "1F5C2",
+    "lang": "EN",
+    "category": "Work",
+    "text": "You always have my back at work",
+    "premium": false,
+    "positive": true,
+    "id": 7140
+  },
+  {
+    "preset_id": 1021,
+    "cat_emoji": "1F5C2",
+    "lang": "ES",
+    "category": "Trabajo",
+    "text": "Siempre me apoyas en el trabajo",
+    "premium": false,
+    "positive": true,
+    "id": 7141
+  },
+  {
+    "preset_id": 1021,
+    "cat_emoji": "1F5C2",
+    "lang": "DE",
+    "category": "Arbeit",
+    "text": "Du hältst mir immer den Rücken frei bei der Arbeit",
+    "premium": false,
+    "positive": true,
+    "id": 7142
+  },
+  {
+    "preset_id": 1021,
+    "cat_emoji": "1F5C2",
+    "lang": "PT",
+    "category": "Trabalho",
+    "text": "Tens-me sempre as costas no trabalho",
+    "premium": false,
+    "positive": true,
+    "id": 7143
+  },
+  {
+    "preset_id": 1021,
+    "cat_emoji": "1F5C2",
+    "lang": "PL",
+    "category": "Praca",
+    "text": "Zawsze mnie wspierasz w pracy",
+    "premium": false,
+    "positive": true,
+    "id": 7144
+  },
+  {
+    "preset_id": 1021,
+    "cat_emoji": "1F5C2",
+    "lang": "RU",
+    "category": "Работа",
+    "text": "Ты всегда меня поддерживаешь на работе",
+    "premium": false,
+    "positive": true,
+    "id": 7145
+  },
+  {
+    "preset_id": 1021,
+    "cat_emoji": "1F5C2",
+    "lang": "CN",
+    "category": "工作",
+    "text": "你在工作上一直支持我",
+    "premium": false,
+    "positive": true,
+    "id": 7146
+  }
+]

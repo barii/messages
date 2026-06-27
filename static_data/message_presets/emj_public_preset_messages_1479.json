@@ -1,0 +1,86 @@
+[
+  {
+    "preset_id": 1479,
+    "cat_emoji": "26BD",
+    "lang": "EN",
+    "category": "Football",
+    "sport": "true",
+    "header": "Boasting",
+    "text": "You can't live with us.",
+    "premium": false,
+    "positive": true,
+    "id": 10346
+  },
+  {
+    "preset_id": 1479,
+    "cat_emoji": "26BD",
+    "lang": "ES",
+    "category": "Fútbol",
+    "sport": "true",
+    "header": "Presumir",
+    "text": "No podéis con nosotros.",
+    "premium": false,
+    "positive": true,
+    "id": 10347
+  },
+  {
+    "preset_id": 1479,
+    "cat_emoji": "26BD",
+    "lang": "DE",
+    "category": "Fußball",
+    "sport": "true",
+    "header": "Prahlerei",
+    "text": "Ihr könnt mit uns nicht mithalten.",
+    "premium": false,
+    "positive": true,
+    "id": 10348
+  },
+  {
+    "preset_id": 1479,
+    "cat_emoji": "26BD",
+    "lang": "PT",
+    "category": "Futebol",
+    "sport": "true",
+    "header": "Vangloriar",
+    "text": "Não conseguem viver connosco.",
+    "premium": false,
+    "positive": true,
+    "id": 10349
+  },
+  {
+    "preset_id": 1479,
+    "cat_emoji": "26BD",
+    "lang": "PL",
+    "category": "Piłka nożna",
+    "sport": "true",
+    "header": "Przechwałka",
+    "text": "Nie możecie z nami żyć.",
+    "premium": false,
+    "positive": true,
+    "id": 10350
+  },
+  {
+    "preset_id": 1479,
+    "cat_emoji": "26BD",
+    "lang": "RU",
+    "category": "Футбол",
+    "sport": "true",
+    "header": "Хвастовство",
+    "text": "Вы не можете с нами тягаться.",
+    "premium": false,
+    "positive": true,
+    "id": 10351
+  },
+  {
+    "preset_id": 1479,
+    "cat_emoji": "26BD",
+    "lang": "CN",
+    "category": "足球",
+    "sport": "true",
+    "header": "自夸",
+    "text": "你们跟不上我们。",
+    "premium": false,
+    "positive": true,
+    "id": 10352
+  }
+]

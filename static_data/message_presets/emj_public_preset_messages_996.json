@@ -1,0 +1,72 @@
+[
+  {
+    "preset_id": 996,
+    "cat_emoji": "1F611",
+    "lang": "EN",
+    "category": "Criticism",
+    "text": "You're inconsistent",
+    "premium": false,
+    "positive": false,
+    "id": 6965
+  },
+  {
+    "preset_id": 996,
+    "cat_emoji": "1F611",
+    "lang": "ES",
+    "category": "Críticas",
+    "text": "Eres inconsistente",
+    "premium": false,
+    "positive": false,
+    "id": 6966
+  },
+  {
+    "preset_id": 996,
+    "cat_emoji": "1F611",
+    "lang": "DE",
+    "category": "Kritik",
+    "text": "Du bist inkonsequent",
+    "premium": false,
+    "positive": false,
+    "id": 6967
+  },
+  {
+    "preset_id": 996,
+    "cat_emoji": "1F611",
+    "lang": "PT",
+    "category": "Críticas",
+    "text": "És inconsistente",
+    "premium": false,
+    "positive": false,
+    "id": 6968
+  },
+  {
+    "preset_id": 996,
+    "cat_emoji": "1F611",
+    "lang": "PL",
+    "category": "Krytycyzm",
+    "text": "Jesteś niekonsekwentny",
+    "premium": false,
+    "positive": false,
+    "id": 6969
+  },
+  {
+    "preset_id": 996,
+    "cat_emoji": "1F611",
+    "lang": "RU",
+    "category": "Критика",
+    "text": "Ты непоследователен",
+    "premium": false,
+    "positive": false,
+    "id": 6970
+  },
+  {
+    "preset_id": 996,
+    "cat_emoji": "1F611",
+    "lang": "CN",
+    "category": "批评",
+    "text": "你不一致",
+    "premium": false,
+    "positive": false,
+    "id": 6971
+  }
+]
